@@ -11,3 +11,4 @@ sentence-transformers
 langchain
 tiktoken
 numpy
+openai
