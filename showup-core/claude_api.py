@@ -9,7 +9,10 @@ import logging
 import json
 import requests
 import time
-import openai
+try:
+    import openai  # type: ignore
+except ModuleNotFoundError:  # pragma: no cover - optional dependency
+    openai = None
 import re
 from typing import Dict, Any, Optional, Tuple
 from functools import wraps
@@ -525,6 +528,10 @@ class OpenAIAPI(BaseAPI):
             logger.warning(limit_message)
             # Continue with API call despite token limit warning
             
+        if openai is None:
+            logger.error("openai package not installed")
+            return "Error: openai package not installed"
+
         client = openai.OpenAI(api_key=self.api_key)
         
         messages = []
