@@ -1,0 +1,8 @@
+{
+  "module": "12",
+  "lesson": "1",
+  "step_number": "8",
+  "step_title": "Portfolio Snapshot Submission",
+  "best_version": "# Portfolio Snapshot Submission Guidelines\n\n## Submission Instructions\nTo submit your Portfolio Snapshot, please upload a PDF document or share a link to your completed Section 1. Your submission should be a comprehensive representation of the reflective work you've completed so far.\n\n## Rubric Criteria\nYour submission will be evaluated based on:\n1. **Completeness** - All required elements from Section 1 are included\n2. **Reflective Depth** - Demonstrates thoughtful analysis of your learning journey\n3. **Clarity** - Ideas are well-organized and clearly expressed\n\n## Automatic Progression\nUpon achieving a score of 70% or higher, the next section will automatically unlock for you to continue your learning journey. This checkpoint ensures you've mastered the fundamental concepts of reflection before moving forward.",
+  "explanation": "Error in comparison process: maximum recursion depth exceeded while calling a Python object. Using most structurally complete version as fallback."
+}

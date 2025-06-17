@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css?family=Martel:200,300,400,700,800|Roboto:100,300,400,500" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Markdown to HTML Conversion</title>
+    <style>
+        /* Base styles */
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Roboto', sans-serif;
+            font-size: 18px;
+            color: #454545;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+        }
+        
+        /* Container for content */
+        .container {
+            margin: auto;
+            max-width: 750px;
+            padding-left: 1em;
+            padding-right: 1em;
+            padding-bottom: 4em;
+        }
+        
+        p {
+            line-height: 1.85em;
+            font-weight: 400;
+            letter-spacing: 0.001em;
+            font-size: 0.9em;
+            margin-top: 0;
+            margin-bottom: 1.2em !important;
+            font-family: "Martel", serif;
+        }
+
+        .container p {
+            margin-bottom: 2em;
+        }
+
+        h1, h2, h3, h4, h5, h6 {
+            color: #008000;
+            font-weight: 500;
+            margin-top: 0;
+        }
+        
+        h2 {
+            font-size: 1.8em;
+            line-height: 1em;
+            margin-bottom: 0.2em;
+        }
+        
+        a {
+            color: #008000;
+            text-decoration: none;
+            font-weight: 700;
+        }
+        
+        a:hover {
+            text-decoration: underline;
+        }
+        
+        /* Well styling for Check Your Understanding sections */
+        .well {
+            border: solid 1px #008000;
+            border-top: none;
+            padding: 1em;
+            position: relative;
+            padding-bottom: 1.1em;
+            margin-bottom: 3em;
+            clear: both;
+        }
+        
+        .well:before {
+            content: '';
+            display: block;
+            height: 20px;
+            width: calc(100% + 2.125em);
+            background-color: #008000;
+            position: relative;
+            top: -1em;
+            left: -1.055em;
+        }
+        
+        .well p {
+            font-family: 'Roboto', sans-serif;
+            font-weight: 300;
+            line-height: 1.6em;
+            font-size: 0.91em;
+        }
+        
+        .well p:last-child {
+            margin-bottom: 0;
+        }
+        
+        .well h1:first-child,
+        .well h2:first-child,
+        .well h3:first-child,
+        .well h4:first-child,
+        .well h5:first-child {
+            margin-top: 0;
+        }
+        
+        .well li {
+            font-family: 'Roboto', sans-serif;
+        }
+        
+        .well ol:last-child,
+        .well ul:last-child {
+            margin-bottom: 0;
+        }
+        
+        .well blockquote {
+            font-size: 0.85em;
+            padding: 0.5em 0.5em 0.5em 1em;
+            color: #000000;
+            margin-left: 0.5em;
+        }
+        
+        .well blockquote:before {
+            font-size: 0.5em;
+            font-weight: 500;
+        }
+        
+        @media (min-width: 768px) {
+            p {
+                font-size: 1em;
+            }
+            
+            h2 {
+                font-size: 2.5em;
+            }
+        }
+        
+        /* Stop and Reflect styling */
+        .stop-reflect-container {
+            border: 3px dashed #e50200;
+            margin: 20px 0;
+            padding: 0;
+            display: flex;
+            width: 100%;
+        }
+        
+        .stop-reflect-image {
+            width: 20%;
+            min-width: 100px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 10px;
+        }
+        
+        .stop-reflect-image img {
+            width: 100%;
+            height: auto;
+            max-width: 150px;
+        }
+        
+        .stop-reflect-content {
+            width: 80%;
+            padding: 15px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+        
+        .stop-reflect-content h3 {
+            margin-top: 0;
+            color: #000000;
+        }
+        
+        /* Responsive adjustments for mobile */
+        @media (max-width: 600px) {
+            .stop-reflect-container {
+                flex-direction: column;
+            }
+            
+            .stop-reflect-image {
+                width: 100%;
+                max-width: 150px;
+                margin: 0 auto;
+            }
+            
+            .stop-reflect-content {
+                width: 100%;
+            }
+        }
+        
+        /* Basic element styling */
+        img { 
+            max-width: 100%; 
+            height: auto;
+            display: block;
+            margin: 1em auto;
+        }
+        
+        pre {
+            background-color: #f5f5f5;
+            padding: 1em;
+            border-radius: 5px;
+            overflow-x: auto;
+        }
+        
+        code {
+            background-color: #f5f5f5;
+            padding: 0.2em 0.4em;
+            border-radius: 3px;
+        }
+        
+        blockquote {
+            border-left: 4px solid #ddd;
+            padding-left: 1em;
+            color: #666;
+        }
+        
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            margin: 1em 0;
+        }
+        
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        
+        th {
+            background-color: #f2f2f2;
+        }
+        
+        /* Page break styling */
+        .page-break {
+            page-break-after: always;
+            height: 0;
+            margin: 0;
+            border: 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container" style="margin: auto; max-width: 750px; padding-left: 1em; padding-right: 1em; padding-bottom: 4em;">
+        <h1>2.1</h1>
+<h1><strong>Understanding Robot Systems</strong></h1>
+<h2>Learning Objectives</h2>
+<p>By the end of this session, you'll be able to:</p>
+<ul>
+<li>Define what a system is and explain how components work together to achieve a purpose</li>
+</ul>
+<ul>
+<li>Describe how the input-processing-output model applies to robot systems</li>
+</ul>
+<ul>
+<li>Map the inputs, processing, and outputs of a familiar system using a diagram</li>
+</ul>
+<h3><strong>Lesson Podcast Discussion: Understanding the Input-Processing-Output Model in Robotics</strong></h3>
+<p>This podcast should discuss how the input-processing-output model serves as a fundamental framework for understanding robot systems and their interactions with the environment.</p>
+<h2><strong>What is a System?</strong></h2>
+<p>A system is a collection of parts that work together to achieve a specific purpose or goal. Think about your bicycle - it has wheels, pedals, a chain, and handlebars that all work together to help you move from one place to another. Without any one of these parts, the bicycle wouldn't work properly!</p>
+<p>In robotics, systems are especially important. A robot isn't just one thing - it's many different components working together. Just like how your body has different systems (like your digestive system or nervous system) that help you function, robots have systems that allow them to sense their environment, make decisions, and take actions.</p>
+<p>Systems have boundaries that separate them from their environment, but they also interact with the world around them. For example, a robot vacuum cleaner is its own system, but it interacts with your home environment by detecting dirt and obstacles.</p>
+<h3><strong>Systems in Our World</strong></h3>
+<p>Systems are everywhere around us! Your school is a system with teachers, students, classrooms, and schedules all working together to help you learn. Your favorite video game console is a system with hardware, software, controllers, and a screen that work together to create fun experiences.</p>
+<p>Even natural things like ant colonies are systems. Each ant has a specific job, and they all work together to find food, protect the queen, and build their home. Weather is another system where air temperature, moisture, and pressure interact to create sunshine, rain, or snow.</p>
+<p>Understanding systems helps us make sense of complex things by breaking them down into parts and seeing how those parts work together.</p>
+<h3><strong>Parts Working Together</strong></h3>
+<p>For a system to function properly, all its parts must work together in a coordinated way. Imagine an orchestra - each musician plays their own instrument, but they must all follow the conductor and play in harmony to create beautiful music.</p>
+<p>In a robot, motors, sensors, batteries, and computer chips must all work together. The sensors collect information about the environment, the computer chip processes this information and makes decisions, and the motors move the robot based on those decisions. The battery provides power to all these components.</p>
+<p>When parts work well together, the system can do things that no individual part could do alone. This is called "emergence" - when the whole system has abilities that emerge from the combination of its parts working together.</p>
+<h3><strong>System Boundaries and Interactions</strong></h3>
+<p>Every system has boundaries that define what's part of the system and what isn't. For a robot, the boundary might be its outer shell or casing. Things inside this boundary (like motors and circuits) are part of the robot system, while things outside (like the floor it moves on) are part of its environment.</p>
+<p>Systems interact with their environment through inputs and outputs. Inputs are things that come into the system from outside, like when a robot's camera sees an obstacle or its microphone hears a command. Outputs are things the system sends out to its environment, like when a robot moves its wheels or plays a sound.</p>
+<p>These interactions are crucial for robots to be useful. A robot that couldn't take in information from its environment or affect its environment in some way wouldn't be very helpful!</p>
+<h2>Key Takeaways</h2>
+<ul>
+<li>A system is a collection of parts working together for a specific purpose, like how a robot's sensors, processor, and motors work together to accomplish tasks.</li>
+</ul>
+<ul>
+<li>Robots interact with their environment through the input-processing-output model: they collect information through sensors, make decisions based on that information, and take actions that affect their surroundings.</li>
+</ul>
+<ul>
+<li>When all parts of a system work together properly, they create "emergence" - the ability to do things that no single part could do alone.</li>
+</ul>
+<h2><strong>Activity 1: System Mapping</strong></h2>
+<p>Map a system you use daily (like a smartphone or bicycle) by identifying its inputs, processing mechanisms, and outputs on the provided diagram. Consider what information the system takes in, how it processes that information, and what actions or results it produces.</p>
+    </div>
+    
+    <script>
+        // Optional: Add this if you want to reset the answer when clicking again
+        function toggleAnswer(id) {
+            var element = document.getElementById(id);
+            if (element.style.display === "none") {
+                element.style.display = "block";
+            } else {
+                element.style.display = "none";
+            }
+            return false;
+        }
+    </script>
+</body>
+</html>

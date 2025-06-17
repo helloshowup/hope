@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="en-US">
+<voice name="en-US-AndrewNeural" parameters="temperature=0.35">
+<prosody rate="-5%" pitch="+2%" volume="+10%">
+<p>Welcome to your workout.<break time="350ms"/> Today,<break time="150ms"/> let’s focus on the **Dumbbell Romanian Deadlift**.<break time="350ms"/> This exercise targets your hamstrings and glutes,<break time="150ms"/> helping to build strength in your posterior chain. <break time="650ms"/> It also improves hip mobility and posture. <break time="650ms"/></p>
+<p>Let’s get ready. <break time="650ms"/></p>
+<p>First,<break time="150ms"/> a key safety reminder—<emphasis level="strong">protect your lower back by keeping a neutral spine throughout the movement</emphasis>. <break time="650ms"/> Stand tall with your feet hip-width apart. <break time="650ms"/> Hold a dumbbell in each hand,<break time="150ms"/> arms hanging in front of your thighs,<break time="150ms"/> palms facing your body. <break time="650ms"/> Keep your shoulders back,<break time="150ms"/> chest open,<break time="150ms"/> and engage your core. <break time="650ms"/></p>
+<p>Before you start,<break time="150ms"/> check your form.<break time="350ms"/> Your knees should be slightly bent,<break time="150ms"/> not locked. <break time="650ms"/> Your toes point straight ahead. <break time="650ms"/> The dumbbells rest lightly against your thighs. <break time="650ms"/> Take a deep breath. <break time="650ms"/> Ready to begin? <break time="2000ms"/></p>
+<p>Let’s go through ten repetitions together. <break time="650ms"/></p>
+<p><prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">hinge at your hips,<break time="150ms"/> push your hips back</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">lower the dumbbells slowly,<break time="150ms"/> keep them close to your legs</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Three - <emphasis level="moderate">stop when you feel a stretch in your hamstrings</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Four - <emphasis level="moderate">keep your back straight,<break time="150ms"/> do not round your shoulders</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Five - <emphasis level="moderate">press your feet into the floor,<break time="150ms"/> stand back up</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Six - <emphasis level="moderate">squeeze your glutes at the top</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Seven - <emphasis level="moderate">keep your core tight for stability</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Eight - <emphasis level="moderate">move with control,<break time="150ms"/> avoid swinging the weights</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Nine - <emphasis level="moderate">breathe out as you return to standing</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Ten - <emphasis level="strong">maintain good posture,<break time="150ms"/> finish tall</emphasis> <break time="3000ms"/></prosody></p>
+<p>Take a moment to check your form. <break time="650ms"/> Are your knees slightly bent? <break time="650ms"/> Is your back straight and core engaged? <break time="650ms"/> If yes,<break time="150ms"/> you’re performing the movement correctly. <break time="2000ms"/></p>
+<p>If you need an easier option,<break time="150ms"/> use lighter weights or perform the movement with no weights at all. <break time="650ms"/> Focus on the hip hinge motion. <break time="650ms"/> If you want more challenge,<break time="150ms"/> increase the weight slightly,<break time="150ms"/> or slow down the lowering phase to three seconds. <break time="650ms"/> Remember, <emphasis level="moderate">quality of movement is more important than speed or weight</emphasis>. <break time="650ms"/></p>
+<p>Let’s review the key benefits. <break time="650ms"/> The Dumbbell Romanian Deadlift strengthens your hamstrings and glutes. <break time="650ms"/> It also engages your lower back and core for stability. <break time="650ms"/> This move helps improve your posture and balance. <break time="650ms"/> Practicing regularly can help you lift objects more safely in daily life. <break time="650ms"/></p>
+<p>Remember,<break time="150ms"/> always move with control and focus on your form. <break time="650ms"/> Consistency and attention to technique will help you build strength over time. <break time="650ms"/> Great work today. <break time="650ms"/> Take a moment to stretch your hamstrings and glutes before moving on. <break time="650ms"/> You’re one step closer to stronger,<break time="150ms"/> healthier movement. <break time="650ms"/></p>
+</prosody>
+</voice>
+</speak>

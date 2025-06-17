@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="en-US">
+<voice name="en-US-AndrewNeural" parameters="temperature=0.35">
+<prosody rate="-5%" pitch="+2%" volume="+10%">
+<p>Welcome to your focused side stretch. <break time="650ms"/> This exercise helps lengthen the muscles along your torso. <break time="650ms"/> It’s great for improving flexibility in your side body and supporting safe twisting movements. <break time="650ms"/></p>
+<p>Let’s begin with the starting position. <break time="650ms"/> Stand tall with your feet shoulder-width apart. <break time="650ms"/> Keep your toes pointing forward. <break time="650ms"/> Relax your arms at your sides. <break time="650ms"/> Draw your shoulders back and down. <break time="650ms"/> Engage your core gently. <break time="650ms"/> <emphasis level="moderate">Maintain good posture throughout.</emphasis> <break time="650ms"/></p>
+<p>Now,<break time="150ms"/> slowly raise your right arm overhead. <break time="650ms"/> Keep your arm straight but relaxed. <break time="650ms"/> Your palm faces inward. <break time="650ms"/> Reach up gently,<break time="150ms"/> lengthening from your fingertips to your hip. <break time="650ms"/> Begin to lean your upper body to the left. <break time="650ms"/> Move steadily,<break time="150ms"/> not rushing. <break time="650ms"/> Stop when you feel a comfortable stretch along your right side. <break time="650ms"/> Your hips and chest should face forward. <break time="650ms"/> <emphasis level="strong">Do not twist or lean forward.[/emphasis strong</emphasis> <break time="650ms"/></p>
+<p>Let’s hold this position and count: <break time="650ms"/>
+<prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">reach through your right fingertips</emphasis> <break time="650ms"/></prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">keep your hips stable</emphasis> <break time="650ms"/></prosody>
+<prosody rate="-5%" pitch="+10%">Three - <emphasis level="moderate">breathe deeply and relax your neck</emphasis> <break time="650ms"/></prosody>
+<prosody rate="-5%" pitch="+10%">Four - <emphasis level="moderate">check that your chest is facing forward</emphasis> <break time="650ms"/></prosody>
+<prosody rate="-5%" pitch="+10%">Five - <emphasis level="moderate">feel the stretch from your hip to your armpit</emphasis> <break time="650ms"/></prosody></p>
+<p><emphasis level="moderate">Success check:</emphasis> Does your side feel stretched without any twisting forward or backward? <break time="2000ms"/></p>
+<p>To modify,<break time="150ms"/> you may sit on the edge of a chair or bed. <break time="650ms"/> Keep your feet flat and knees at ninety degrees. <break time="650ms"/> Continue to reach overhead and lean gently to the side. <break time="650ms"/> For more challenge,<break time="150ms"/> try holding a light object in your raised hand. <break time="650ms"/></p>
+<p>Now,<break time="150ms"/> return to the center. <break time="650ms"/> Lower your right arm. <break time="650ms"/> Take a breath. <break time="650ms"/></p>
+<p>Switch to your left side. <break time="650ms"/> Raise your left arm overhead. <break time="650ms"/> Palm faces inward. <break time="650ms"/> Lean gently to your right,<break time="150ms"/> keeping chest and hips facing forward. <break time="650ms"/></p>
+<p>Let’s count: <break time="650ms"/>
+<prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">lengthen through your left fingertips</emphasis> <break time="650ms"/></prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">keep your shoulders relaxed</emphasis> <break time="650ms"/></prosody>
+<prosody rate="-5%" pitch="+10%">Three - <emphasis level="moderate">feel the stretch along your left side</emphasis> <break time="650ms"/></prosody>
+<prosody rate="-5%" pitch="+10%">Four - <emphasis level="moderate">breathe smoothly and evenly</emphasis> <break time="650ms"/></prosody>
+<prosody rate="-5%" pitch="+10%">Five - <emphasis level="moderate">maintain steady posture</emphasis> <break time="3000ms"/></prosody></p>
+<p>Great work. <break time="650ms"/> Side stretches help improve flexibility and support healthy movement in daily life. <break time="650ms"/> They can relieve tension after long periods of sitting and help your body move more freely. <break time="650ms"/> Practicing this stretch regularly can support a balanced,<break time="150ms"/> flexible torso. <break time="650ms"/> Remember to stretch gently and maintain good form. <break time="650ms"/> Well done prioritizing your mobility today.</p>
+</prosody>
+</voice>
+</speak>

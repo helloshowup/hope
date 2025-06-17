@@ -1,0 +1,34 @@
+User Testing and Evaluation
+User Testing Tips
+Jakob Nielsen: User Testing (Why and How) https://www.youtube.com/watch?v=v8JJrDvQDF4&t=1s http://www.nngroup.com/articles/which-ux-research-methods/
+Instead of explaining your design, show it to people and let them try it.
+Stand back and let them know that your job is to improve it and that you want their help and honest feedback.
+When they point to a wireframe and say what action they would do, offer them
+the next drawing so they see how the screen image changes in the flow.
+Be quiet. Ask them to "imagine I am not here".
+If you talk too much or help them, you aren’t learning anything new.
+When someone asks “would it do X”? Don’t answer the question, but instead ask "what would you like to see?" This way you capture valuable ideas.
+Usability Lab Studies: participants are brought into a lab, one-on-one with a researcher, and given a set of scenarios that lead to tasks and usage  of specific interest within a product or service.
+Ethnographic Field Studies: researchers meet with and study participants
+in their natural environment, where they would most likely encounter the product or service in question.
+Eyetracking:  an  eyetracking  device  is  configured  to  precisely  measure
+where participants	look	as	they	perform	tasks	or	interact	naturally with	websites, applications, physical products, or environments.
+Usability Benchmarking: tightly scripted usability studies are performed
+with several		participants,	using	precise	and	predetermined measures	of performance.
+Intercept Surveys: a survey that is triggered during the use of a site or app.
+A/B Testing: a method of scientifically testing different designs on a site by randomly assigning groups of users to interact with each of the different designs and measuring the effect of these assignments on user behavior.
+Concept Testing: a researcher shares an approximation of a product or
+service that captures the key essence (the value proposition) of a new concept or product in order to determine if it meets the needs of the target audience; it can be done one-on-one or with larger numbers of participants, and either in-person or online.
+Customer Feedback: open-ended and/or close-ended information provided by
+a self-selected sample of users, often through a feedback link, button, form, or email.
+Clickstream Analysis: analyzing the record of screens or pages that users
+clicks on and sees, as they use a site or software product.
+and many more...
+User Testing Sessions
+Using the provided script, adapt it to your site. Come up with some goals/ steps you would like the user to accomplish to evaluate your site.
+Perform at least one test; Partner up with someone and hold a session.
+As a post mortem write an analyses the testing session(s). Some of the suggested content:
+Transcribe the key findings from the test.
+Did the test accomplish the goals you set out to find?
+	Did the findings confirm the design goals based on your User Personas /Journeys?
+	If you were continuing the design of the site what would you improve/ change based on findings from the test?

@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="en-US">
+<voice name="en-US-AndrewNeural" parameters="temperature=0.35">
+<prosody rate="-5%" pitch="+2%" volume="+10%">
+<p>Welcome to your guided fitness audio. <break time="650ms"/> Today,<break time="150ms"/> we’ll focus on the **Jumping Jack**. <break time="650ms"/> This exercise boosts your heart rate and improves cardiovascular endurance. <break time="650ms"/> Before we begin,<break time="150ms"/> remember: <emphasis level="strong">Keep your knees slightly bent to protect your joints.</emphasis></p>
+<p>Let’s set up for the movement. <break time="650ms"/> Stand tall with your feet together. <break time="650ms"/> Keep your arms relaxed at your sides. <break time="650ms"/> Shoulders back,<break time="150ms"/> gaze straight ahead. <break time="650ms"/> Engage your core muscles. <break time="650ms"/></p>
+<p>Now,<break time="150ms"/> check your form: <emphasis level="moderate">Heels under hips,<break time="150ms"/> arms relaxed,<break time="150ms"/> chest open.</emphasis> <break time="650ms"/> Ready? We’ll count ten repetitions together. <break time="650ms"/></p>
+<p><prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">Jump your feet out wide and raise arms overhead.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">Land softly with knees bent,<break time="150ms"/> arms overhead.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Three - <emphasis level="moderate">Return feet together,<break time="150ms"/> lower arms.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Four - <emphasis level="moderate">Keep breathing evenly,<break time="150ms"/> core engaged.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Five - <emphasis level="moderate">Jump out,<break time="150ms"/> arms up,<break time="150ms"/> gentle landing.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Six - <emphasis level="moderate">Feet together,<break time="150ms"/> arms down,<break time="150ms"/> steady rhythm.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Seven - <emphasis level="moderate">Maintain upright posture,<break time="150ms"/> soft knees.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Eight - <emphasis level="moderate">Arms overhead,<break time="150ms"/> feet wide,<break time="150ms"/> eyes forward.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Nine - <emphasis level="moderate">Land softly,<break time="150ms"/> control your movements.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Ten - <emphasis level="moderate">Finish with feet together,<break time="150ms"/> arms at your sides.</emphasis> <break time="3000ms"/></prosody></p>
+<p>Pause for a moment. <break time="650ms"/> Success check: <break time="650ms"/> Are you landing softly,<break time="150ms"/> with knees slightly bent? <break time="650ms"/> Is your breathing steady? <break time="650ms"/> If you feel pain or discomfort,<break time="150ms"/> stop and rest. <break time="650ms"/></p>
+<p>If you want an easier option,<break time="150ms"/> step one foot out to the side at a time,<break time="150ms"/> instead of jumping. <break time="650ms"/> Move your arms overhead as before. <break time="650ms"/> This reduces impact on your joints. <break time="650ms"/></p>
+<p>Looking for more challenge? <break time="650ms"/> Increase your speed or add another ten repetitions. <break time="650ms"/></p>
+<p>Remember your key safety cue: <emphasis level="strong">Always protect your knees by landing softly and keeping a slight bend.</emphasis> <break time="650ms"/></p>
+<p>Jumping jacks raise your heart rate,<break time="150ms"/> build endurance,<break time="150ms"/> and wake up your muscles. <break time="650ms"/> They’re a simple way to feel your body working. <break time="650ms"/></p>
+<p>Great job completing this set. <break time="650ms"/> Your effort today helps your heart adapt and grow stronger. <break time="650ms"/> Each time you practice,<break time="150ms"/> your body learns to recover faster and move more efficiently. <break time="650ms"/> Keep exploring how movement affects your energy and well-being. <break time="650ms"/> Well done.</p>
+</prosody>
+</voice>
+</speak>

@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<!-- Note: This script may not meet all quality guidelines. Please review carefully. -->
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="en-US">
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>Hi there! I’m excited to talk about how we define problems in robotics. Understanding the problem is the first step in building a robot that really helps. If we don’t know what needs to be fixed, we could waste a lot of time building something that doesn’t do the job. Today, let’s look at how strong problem statements help guide us and make sure our robots solve the right problems.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>Great start! I think students might wonder why it even matters to write a good problem statement. Isn’t it enough to just say, “I want a robot to help in class”? But from what you’re saying, there’s more to it, right?</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>Exactly. A simple statement like “help in class” is too vague. We need to break it down. First, we describe what is actually going wrong or what we want to change. For example, if students have trouble carrying heavy books, we say that. Next, we figure out who has the problem—maybe it’s kids with backpacks that are too heavy. Finally, we set a goal, like “the robot should carry books for students and deliver them to desks within 5 minutes.”</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>That makes sense. It’s like when a teacher gives you clear instructions for a project. If they just say, “Do something about recycling,” it’s hard to know what to do. But if they say, “Create a system to reduce recycling mess in the cafeteria by half,” you know what to aim for.</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>Yes, it’s just like that. In robotics, this helps us pick the right sensors and parts. If our robot needs to find books on a shelf, it might need a camera, like your eyes, to see the books. If it has to deliver books quickly, maybe it needs wheels that can turn well.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>So, the problem statement is like a roadmap for building the robot. But what happens if we get it wrong? Let’s say I write, “We need a robot that helps with library books,” but forget to say it needs to work quietly so it doesn’t disturb students reading.</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>Good catch. If we miss important details, the robot might do the job but also cause new problems. That’s why a strong problem statement lists any rules or limits. In your example, we should add, “while working quietly so library users are not disturbed.”</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>I see. I like the template you mentioned: “The problem is that [describe the issue] affecting [who is affected]. A successful solution would [measurable outcome] while [important constraints].” Could we try using it for a real-life example? Maybe something like, “The problem is that students waste time walking to sharpen pencils, affecting learning. A successful solution would reduce pencil-sharpening trips by 80% while keeping noise low.”</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>That’s a great example! Now, we know what the problem is, who it affects, what success looks like, and any special rules—like keeping things quiet. With this in place, our design team knows exactly what to build.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>But wait, sometimes real life is messy. What if partway through building, we realize the problem statement missed something—maybe some students use mechanical pencils and don’t need sharpening. Should we change the problem statement?</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>Yes, it’s okay to update the problem statement as you learn more. It’s like fixing directions if you find a road is closed. The important thing is making sure everyone knows what the new goal is. Otherwise, some team members might work on the wrong thing.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>That’s smart. I used to think once you wrote the problem, it was set in stone. But like you said, sometimes you need to adjust. That way, the robot helps everyone who needs it.</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>Exactly. Clear, flexible problem statements save time and help us build robots that really help people.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>I agree! Having a good problem statement is like having a map. It keeps everyone on the same path and makes sure the robot does what people actually need. Thanks for explaining how all the parts fit together!</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>My pleasure. Remember, before you start building, always make sure you know what the real problem is. That way, your robot becomes the best helper it can be!</p>
+</voice>
+
+</speak>

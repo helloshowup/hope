@@ -1,0 +1,8 @@
+{
+  "module": "7",
+  "lesson": "4",
+  "step_number": "5",
+  "step_title": "Leadership Reflection Quiz",
+  "best_version": "# Leadership Reflection Quiz\n\n## Self-Assessment\nRate yourself on the following leadership qualities using the scale: 1 (Strongly Disagree) to 5 (Strongly Agree)\n\n1. I communicate clearly when working with others.\n2. I take initiative when I see problems that need solving.\n3. I listen to others' perspectives before making decisions.\n4. I can motivate others to participate in civic activities.\n5. I take responsibility for my actions and decisions.\n\n## Scenario Questions\n\n**Scenario 1:** Your community needs volunteers for a neighborhood cleanup. Few people have signed up. What would be most effective?\nA) Wait for others to take charge\nB) Create and distribute flyers explaining the importance of the project\nC) Personally invite friends and neighbors, explaining how their participation matters\nD) Complain about lack of community involvement\n\n**Scenario 2:** During a group project planning session, team members disagree about priorities. What should you do?\nA) Make the decision yourself to save time\nB) Facilitate a discussion to understand all viewpoints before deciding\nC) Go with the majority opinion without discussion\nD) Avoid the conflict by changing the subject\n\n## Reflection\n*Write a 50-word reflection on how you could improve your leadership skills in organizing civic action.*\n\n**Note:** You must score at least 80% to pass this assessment.",
+  "explanation": "Error in comparison process: maximum recursion depth exceeded while calling a Python object. Using most structurally complete version as fallback."
+}

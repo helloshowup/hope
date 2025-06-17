@@ -1,0 +1,176 @@
+
+    <div class="markdown-content" style="font-family: Arial, sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 0 auto;">
+        <h1>8.6</h1>
+
+<h1>Timing and Coordination</h1>
+
+<h2>Learning Objectives</h2><p>By the end of this session, you'll be able to:</p>
+<ul>
+<li>Explain why timing matters when robots move</li>
+</ul>
+<ul>
+<li>Tell how robots can move in order or at the same time</li>
+</ul>
+<ul>
+<li>Find and fix common robot movement problems</li>
+</ul>
+<p>&nbsp;</p>
+
+<p>In our previous lesson, we saw how to combine basic robot moves to create paths, saw how speed affects turning, and built simple, reusable movement blocks. Now we'll take our robot skills up a notch by looking at how timing affects our robot's actions. Just like a dance needs good timing between steps, robots need the right timing to move smoothly and do tasks well.</p>
+<p>&nbsp;</p>
+
+<p>When combining movements, timing is crucial:</p>
+<ul>
+<li><strong>Sequential timing</strong>: Waiting for one movement to complete before starting another</li>
+</ul>
+<ul>
+<li><strong>Parallel timing</strong>: Having multiple parts of the robot move simultaneously</li>
+</ul>
+<ul>
+<li><strong>Delayed execution</strong>: Programming pauses between movements</li>
+</ul>
+<p>&nbsp;</p>
+
+<p>Timing affects how smoothly your robot performs tasks. For example, if your robot has an arm attachment, you might want the robot to drive forward and then raise its arm to pick up an object. The timing between these actions needs to be just right - if the arm starts moving too early or too late, the robot might miss the object completely!</p>
+<p>&nbsp;</p>
+
+<p>Many robot programming platforms include wait or delay commands that pause execution for a specific amount of time. These pauses can be essential for coordinating complex movements or giving mechanical parts time to complete their actions before the next command begins.</p>
+<p>&nbsp;</p>
+
+<p>
+            <div class="stop-reflect-container" style="border:3px dashed #e50200; margin:20px 0; padding:0; display:flex; width:100%;">
+                <div class="stop-reflect-image" style="width:20%; min-width:100px; display:flex; align-items:center; justify-content:center; padding:10px;">
+                    <img src="https://api.learnstage.com/media-manager/api/access/exceled/default/lms/courses/1647/Images/Untitled%20design.jpg" 
+                         style="width:100%; height:auto; max-width:150px;" alt="Stop and Reflect">
+                </div>
+                <div class="stop-reflect-content" style="display:flex; flex-direction:column; justify-content:center; padding:15px; width:80%;">
+                    <h3 style="color:#000000; margin-top:0;">
+                    </h3><p> Think about the last movement sequence you programmed. What challenges did you encounter when trying to get the robot to move exactly as you intended? Consider how breaking down complex movements into smaller steps might improve your results.</p>
+                </div>
+            </div></p>
+<h2>Testing and Fixing Movement Programs</h2><p>Even carefully planned movement programs often require testing Learning to test and fix movement issues is an essential skill for robotics programming.
+.</p>
+<h3>Common Movement Issues</h3>
+
+<ul>
+<li><strong>Distance errors</strong>: Robot moves too far or not far enough</li>
+</ul>
+<ul>
+<li><strong>Turning errors</strong>: Robot doesn't turn at the expected angle</li>
+</ul>
+<ul>
+<li><strong>Environmental factors</strong>: Wheel slippage or surface changes affecting movement</li>
+</ul>
+<ul>
+<li><strong>Battery levels</strong>: Lower power can reduce movement accuracy</li>
+</ul>
+<p>&nbsp;</p>
+
+<p>When programming robots, what works perfectly in theory doesn't always work perfectly in practice. The physical world introduces variables that can affect how your robot moves. For example, a robot might turn slightly less than 90 degrees on carpet but slightly more than 90 degrees on a smooth floor due to differences in friction.</p>
+<p>&nbsp;</p>
+
+<p>These real-world factors make testing and observation crucial parts of robotics programming. Don't be discouraged if your robot doesn't move exactly as planned on the first try - even professional roboticists spend a lot of time adjusting and fine-tuning their movement programs!</p>
+<h3>Real-World Applications: Assistive Robots</h3><p>Movement programming is especially important for robots that help people. Imagine programming a robot that needs to help someone with limited mobility navigate around their home. The robot would need to:</p>
+<ul>
+<li>Move smoothly without jerky motions that could startle the person</li>
+</ul>
+<ul>
+<li>Navigate carefully around furniture and through doorways</li>
+</ul>
+<ul>
+<li>Adjust its speed based on whether it's following alongside someone or delivering an item</li>
+</ul>
+<ul>
+<li>Respond to different floor surfaces like carpet, tile, or thresholds between rooms</li>
+</ul>
+<p>&nbsp;</p>
+
+<p>For example, a robot that helps carry items for someone might need this program:</p>
+<p>&nbsp;</p>
+
+<p>```
+// Approach person carefully
+setSpeed(SLOW)
+moveForward(untilProximity)
+stop()</p>
+<p>&nbsp;</p>
+
+<p>// Wait for item to be placed
+wait(untilWeightSensorActivated)</p>
+<p>&nbsp;</p>
+
+<p>// Follow person to destination
+setSpeed(MEDIUM)
+followPersonWithSensors()</p>
+<p>&nbsp;</p>
+
+<p>// Stop and wait for item retrieval
+stop()
+wait(untilWeightSensorDeactivated)
+```</p>
+<p>&nbsp;</p>
+
+<p>This shows how movement programming for assistive robots needs to coordinate with sensors and be especially careful about timing and safety.</p>
+<p>&nbsp;</p>
+
+<p>
+        <!-- Check Your Understanding Section -->
+        <div style="border-bottom-style:solid;border-color:#008000;border-left-style:solid;border-right-style:solid;border-top-style:none;border-width:1px;clear:both;margin-bottom:3em;padding:1em 1em 1.1em;position:relative;">
+            <div style="background-color:#008000;display:block;height:20px;left:-1em;position:relative;top:-1em;width:calc(100% + 2em);">
+                &nbsp;
+            </div>
+            <h2 style="color:#008000;font-size:1.8em;font-weight:500;line-height:1em;margin-bottom:0.2em;margin-top:0;">
+                Check your understanding
+            </h2>
+            <p style="font-family:'Roboto', sans-serif;font-size:0.91em;font-weight:300;line-height:1.6em;">
+                &nbsp;
+            </p>
+            <p>If a robot needs to make a square path, what sequence of commands would work?</p>
+<p>A. Forward, Left, Forward, Right, Forward, Right</p>
+<p>B. Forward, Left, Forward, Left, Forward, Left, Forward, Left</p>
+<p>C. Forward, Forward, Forward, Forward</p>
+<p>D. Left, Left, Left, Left</p>
+            <p style="font-family:'Roboto', sans-serif;font-size:0.91em;font-weight:300;line-height:1.6em;">
+                Choose your answer and check it below.
+            </p>
+            <div style="display:none;" id="hiddenAnswer0">
+                <p>
+                    <br>
+                    &nbsp;
+                </p>
+                <p>The correct answer is B. Forward, Left, Forward, Left, Forward, Left, Forward, Left. To create a square path, the robot needs to move forward, turn left (90 degrees), and repeat this sequence four times to complete all sides of the square. If you chose A, you created an irregular shape with only three sides. If you chose C, your robot would move in a straight line. If you chose D, your robot would spin in place without creating any path.</p>
+            </div>
+            <p>
+                <a style="color:#008000;text-decoration:none;" href="#" onclick="document.getElementById('hiddenAnswer0').style.display='block'; return false;"><strong>Click here to show the correct answer</strong></a>
+            </p>
+        </div></p>
+<p>&nbsp;</p>
+
+<p>
+        <figure class="table" style="float:left;width:92.41%;" data-font-size="14" data-line-height="20">
+            <table class="ck-table-resized" style="border-style:none;" data-font-size="14" data-line-height="20">
+                <colgroup data-font-size="14" data-line-height="20"><col style="width:13.29%;" data-font-size="14" data-line-height="20"><col style="width:86.71%;" data-font-size="14" data-line-height="20"></colgroup>
+                <tbody data-font-size="14" data-line-height="20">
+                    <tr data-font-size="14" data-line-height="20">
+                        <td style="border-style:none;" data-font-size="14" data-line-height="20">
+                            <figure class="image image_resized" style="width:100%;" data-font-size="14" data-line-height="20">
+                                <img style="aspect-ratio:600/600;" src="https://api.learnstage.com/media-manager/api/access/exceled/default/89309a11-e6ae-4133-97a9-93c735f38be4/content-page/4e85aa67-83db-423a-b7de-53b356164071_removalai_preview.png" width="600" height="600" data-font-size="14" data-line-height="20">
+                            </figure>
+                        </td>
+                        <td style="border-style:none;" data-font-size="14" data-line-height="20">
+                            <h3 data-font-size="16" data-line-height="23">
+                                <span style="color:hsl(359,97%,29%);"><span data-font-size="16" data-line-height="23"><strong data-font-size="16" data-line-height="23">Key Takeaways</strong></span></span>
+                            </h3>
+                            <ul>
+<li>Robots need good timing between movements to work smoothly, just like dancers need good timing between steps.</li>
+<li>Real-world factors like floor surfaces, battery levels, and wheel slippage can affect robot movements, so testing and adjusting your program is an important part of robotics.</li>
+<li>Movement programming is especially important for helper robots that need to move carefully and safely around people.</li>
+</ul>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </figure></p>
+<p>&nbsp;</p>
+    </div>
+    

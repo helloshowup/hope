@@ -1,0 +1,8 @@
+{
+  "module": "1",
+  "lesson": "3",
+  "step_number": "15",
+  "step_title": "Mindset-Grit Match",
+  "best_version": "# Mindset-Grit Match\n\n## Activity Instructions:\nIn this activity, you'll identify whether each statement reflects a **fixed mindset** or a **growth mindset**. Drag each statement to the correct category.\n\n## Statements:\n1. \"I can improve my skills through hard work and practice.\"\n2. \"Some people are just naturally good at things; you either have talent or you don't.\"\n3. \"When I face challenges, it means I need to try different strategies.\"\n4. \"If something is difficult for me, it probably means I'm not cut out for it.\"\n\n## Categories:\n- **Fixed Mindset**\n- **Growth Mindset**\n\nTo pass this activity, you must correctly categorize at least 3 out of 4 statements (75%).\n\nIf you don't pass on your first attempt, you can retry with hints that will guide you toward the correct answers.",
+  "explanation": "Error in comparison process: maximum recursion depth exceeded while calling a Python object. Using most structurally complete version as fallback."
+}

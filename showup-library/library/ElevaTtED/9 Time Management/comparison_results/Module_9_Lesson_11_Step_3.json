@@ -1,0 +1,8 @@
+{
+  "module": "9",
+  "lesson": "11",
+  "step_number": "3",
+  "step_title": "Evidence Upload",
+  "best_version": "# Evidence Upload\n\n## Objective\nIn this activity, you will upload two artifacts to your Time-Management Portfolio that demonstrate your progress and learning.\n\n## Instructions\n1. **Select Two Artifacts** to upload:\n   * A screenshot of your weekly planner/schedule\n   * Your reflection essay on time management strategies\n\n2. **Upload Your Artifacts**:\n   * Click the \"Upload\" button below\n   * Select your files from your device\n   * Ensure files are in .jpg, .png, or .pdf format\n   * Give each file a descriptive name\n\n3. **Tag Your Uploads**:\n   * Add the tag \"learn\" to both artifacts\n   * This helps organize your portfolio items by purpose\n\n4. **Confirm Uploads**:\n   * Verify both files appear in your portfolio\n   * Check that the \"learn\" tag is visible\n\nThese artifacts will serve as evidence of your time management journey and provide material for your final portfolio assessment.",
+  "explanation": "Error in comparison process: maximum recursion depth exceeded while calling a Python object. Using most structurally complete version as fallback."
+}

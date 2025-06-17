@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="en-US">
+<voice name="en-US-AndrewNeural" parameters="temperature=0.35">
+<prosody rate="-5%" pitch="+2%" volume="+10%">
+<p>Welcome to your workout.<break time="350ms"/> Today’s focus is Jumping Jacks. <break time="650ms"/> This exercise is great for raising your heart rate and boosting lower body endurance. <break time="650ms"/> Let’s get ready to move safely and effectively. <break time="650ms"/></p>
+<p>Start by standing tall with your feet together. <break time="650ms"/> Keep your arms relaxed at your sides. <break time="650ms"/> Stand on a flat,<break time="150ms"/> stable surface. <break time="650ms"/> <emphasis level="strong">If you have knee or ankle concerns,<break time="150ms"/> take it slow and avoid hard landings.</emphasis> <break time="2000ms"/></p>
+<p>Here’s your starting position. <break time="650ms"/> Shoulders back,<break time="150ms"/> chest lifted. <break time="650ms"/> Brace your core gently. <break time="650ms"/> Look straight ahead. <break time="650ms"/> Arms are by your sides,<break time="150ms"/> palms facing in. <break time="650ms"/> Feet are touching. <break time="650ms"/></p>
+<p>Now,<break time="150ms"/> here’s how to perform the movement. <break time="650ms"/></p>
+<p>Jump both feet out to the sides. <break time="650ms"/> At the same time,<break time="150ms"/> raise your arms up and overhead. <break time="650ms"/> Make a wide V shape with your arms. <break time="650ms"/> Land softly on the balls of your feet. <break time="650ms"/> Jump feet back together and lower your arms to your sides. <break time="650ms"/> That’s one full Jumping Jack. <break time="650ms"/></p>
+<p>Let’s check your form. <break time="650ms"/> Are you landing softly? <break time="650ms"/> Are your knees slightly bent? <break time="650ms"/> Arms moving smoothly with each jump? <break time="2000ms"/></p>
+<p>Now,<break time="150ms"/> let’s do ten repetitions together. <break time="650ms"/></p>
+<p><prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">land softly with knees slightly bent</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">keep arms straight but not locked</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Three - <emphasis level="moderate">brace your core as you move</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Four - <emphasis level="moderate">breathe steadily,<break time="150ms"/> in through the nose,<break time="150ms"/> out through the mouth</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Five - <emphasis level="moderate">stay light on your feet</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Six - <emphasis level="moderate">raise arms fully overhead</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Seven - <emphasis level="moderate">return to good posture after each jump</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Eight - <emphasis level="moderate">keep your head facing forward</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Nine - <emphasis level="moderate">avoid slapping your feet down</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Ten - <emphasis level="strong">maintain control of every movement</emphasis> <break time="3000ms"/></prosody></p>
+<p>For an easier version,<break time="150ms"/> step one foot out to the side at a time instead of jumping. <break time="650ms"/> Move your arms as before,<break time="150ms"/> but take it slow. <break time="650ms"/> This helps reduce impact on your joints. <break time="650ms"/></p>
+<p>To make it harder,<break time="150ms"/> add a squat when your feet are wide. <break time="650ms"/> Lower your hips down before rising back up and jumping feet together. <break time="650ms"/> Keep your chest lifted and back straight. <break time="650ms"/></p>
+<p>Jumping Jacks help improve your coordination,<break time="150ms"/> stamina,<break time="150ms"/> and cardiovascular health. <break time="650ms"/> They also activate your shoulders,<break time="150ms"/> calves,<break time="150ms"/> and glutes. <break time="650ms"/> Remember,<break time="150ms"/> quality is better than speed. <break time="650ms"/> Practice good form each time for the best results. <break time="650ms"/> Great job taking care of your body today. <break time="650ms"/></p>
+</prosody>
+</voice>
+</speak>

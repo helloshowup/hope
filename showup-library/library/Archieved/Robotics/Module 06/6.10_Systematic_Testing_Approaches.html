@@ -1,0 +1,124 @@
+
+    <div class="markdown-content" style="font-family: Arial, sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 0 auto;">
+        <h1>6.10</h1>
+
+<h2>Systematic Testing Approaches</h2>
+
+<h2>Learning Objectives</h2><p>By the end of this session, you'll be able to:</p>
+<ul>
+<li>Find and fix bugs in robot movement programs</li>
+</ul>
+<ul>
+<li>Use four testing types to check robot movements</li>
+</ul>
+<ul>
+<li>Make a robot draw shapes by fixing its code</li>
+</ul>
+<p>&nbsp;</p>
+
+<p>Professional robotics developers use systematic testing to ensure their movement programs work reliably:</p>
+<ol>
+<li><strong>Unit testing</strong>: Testing individual movement commands in isolation</li>
+</ol>
+<ol>
+<li><strong>Integration testing</strong>: Testing how commands work together in sequences</li>
+</ol>
+<ol>
+<li><strong>Environmental testing</strong>: Testing movements on different surfaces and conditions</li>
+</ol>
+<ol>
+<li><strong>Edge case testing</strong>: Testing extreme situations like very tight turns or long distances</li>
+</ol>
+<p>&nbsp;</p>
+
+<p>For example, when debugging a robot that keeps turning too far to the right, you might:</p>
+<ol>
+<li>Test just the turning command with different angle values</li>
+</ol>
+<ol>
+<li>Check if the wheels are properly calibrated</li>
+</ol>
+<ol>
+<li>Test the turn on different surfaces to see if friction is affecting the turn</li>
+</ol>
+<ol>
+<li>Add a small correction factor to compensate for the over-turning</li>
+</ol>
+<h2>Activity 2: Debug a Movement Sequence</h2><p>Examine the provided movement program that's supposed to make the robot draw a triangle, but it's not working correctly. The robot moves forward, turns, moves forward again, but ends up in the wrong position for the third side. Use the debugging techniques we've discussed to identify what's wrong with the program. Make the necessary corrections to fix the program so the robot successfully draws a complete triangle and returns to its starting position.</p>
+<p>&nbsp;</p>
+
+<p>
+            <div class="stop-reflect-container" style="border:3px dashed #e50200; margin:20px 0; padding:0; display:flex; width:100%;">
+                <div class="stop-reflect-image" style="width:20%; min-width:100px; display:flex; align-items:center; justify-content:center; padding:10px;">
+                    <img src="https://api.learnstage.com/media-manager/api/access/exceled/default/lms/courses/1647/Images/Untitled%20design.jpg" 
+                         style="width:100%; height:auto; max-width:150px;" alt="Stop and Reflect">
+                </div>
+                <div class="stop-reflect-content" style="display:flex; flex-direction:column; justify-content:center; padding:15px; width:80%;">
+                    <h3 style="color:#000000; margin-top:0;">
+                    </h3>
+                    <h1># Stop and reflect</h1><p> What was the most challenging aspect of programming robot movements in today's activities? Was it planning the sequence, understanding the commands, or dealing with unexpected behavior? Consider how breaking down complex movements into smaller, testable parts could help overcome these challenges.</p>
+                </div>
+            </div></p>
+<p>&nbsp;</p>
+
+<p>
+        <!-- Check Your Understanding Section -->
+        <div style="border-bottom-style:solid;border-color:#008000;border-left-style:solid;border-right-style:solid;border-top-style:none;border-width:1px;clear:both;margin-bottom:3em;padding:1em 1em 1.1em;position:relative;">
+            <div style="background-color:#008000;display:block;height:20px;left:-1em;position:relative;top:-1em;width:calc(100% + 2em);">
+                &nbsp;
+            </div>
+            <h2 style="color:#008000;font-size:1.8em;font-weight:500;line-height:1em;margin-bottom:0.2em;margin-top:0;">
+                Check your understanding
+            </h2>
+            <p style="font-family:'Roboto', sans-serif;font-size:0.91em;font-weight:300;line-height:1.6em;">
+                &nbsp;
+            </p>
+            <p>If a robot needs to make a square path, what sequence of commands would work?</p>
+<p>A. Forward, Left, Forward, Right, Forward, Right</p>
+<p>B. Forward, Left, Forward, Left, Forward, Left, Forward, Left</p>
+<p>C. Forward, Forward, Forward, Forward</p>
+<p>D. Left, Left, Left, Left</p>
+            <p style="font-family:'Roboto', sans-serif;font-size:0.91em;font-weight:300;line-height:1.6em;">
+                Choose your answer and check it below.
+            </p>
+            <div style="display:none;" id="hiddenAnswer0">
+                <p>
+                    <br>
+                    &nbsp;
+                </p>
+                <p>The correct answer is B. Forward, Left, Forward, Left, Forward, Left, Forward, Left. To create a square path, the robot needs to move forward, turn left (90 degrees), and repeat this sequence four times to complete all sides of the square. If you chose A, you created an irregular path with unnecessary right turns. If you chose C, you only moved in a straight line without forming a square. If you chose D, you made the robot spin in place without any forward movement.</p>
+            </div>
+            <p>
+                <a style="color:#008000;text-decoration:none;" href="#" onclick="document.getElementById('hiddenAnswer0').style.display='block'; return false;"><strong>Click here to show the correct answer</strong></a>
+            </p>
+        </div></p>
+<p>&nbsp;</p>
+
+<p>
+        <figure class="table" style="float:left;width:92.41%;" data-font-size="14" data-line-height="20">
+            <table class="ck-table-resized" style="border-style:none;" data-font-size="14" data-line-height="20">
+                <colgroup data-font-size="14" data-line-height="20"><col style="width:13.29%;" data-font-size="14" data-line-height="20"><col style="width:86.71%;" data-font-size="14" data-line-height="20"></colgroup>
+                <tbody data-font-size="14" data-line-height="20">
+                    <tr data-font-size="14" data-line-height="20">
+                        <td style="border-style:none;" data-font-size="14" data-line-height="20">
+                            <figure class="image image_resized" style="width:100%;" data-font-size="14" data-line-height="20">
+                                <img style="aspect-ratio:600/600;" src="https://api.learnstage.com/media-manager/api/access/exceled/default/89309a11-e6ae-4133-97a9-93c735f38be4/content-page/4e85aa67-83db-423a-b7de-53b356164071_removalai_preview.png" width="600" height="600" data-font-size="14" data-line-height="20">
+                            </figure>
+                        </td>
+                        <td style="border-style:none;" data-font-size="14" data-line-height="20">
+                            <h3 data-font-size="16" data-line-height="23">
+                                <span style="color:hsl(359,97%,29%);"><span data-font-size="16" data-line-height="23"><strong data-font-size="16" data-line-height="23">Key Takeaways</strong></span></span>
+                            </h3>
+                            <ul>
+<li>Systematic testing helps find and fix robot movement problems by checking individual commands, how commands work together, performance on different surfaces, and behavior in extreme situations.</li>
+<li>When a robot doesn't move correctly, you can debug by testing specific commands, checking hardware calibration, trying different surfaces, and adding correction factors.</li>
+<li>Breaking down complex movements into smaller, testable parts makes it easier to identify and fix problems in robot movement programs.</li>
+</ul>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </figure></p>
+<p>&nbsp;</p>
+    </div>
+    

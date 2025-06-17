@@ -1,0 +1,37 @@
+How do Graphic Designers use Photography
+When setting a design project or brief, a graphic designer will generally work alongside a photographer. It is for this reason that it is not mandatory for a graphic designer to have the same level of knowledge as a professional photographer, but a general understanding of the core principles and methods can be greatly beneficial. 
+A good analogy is to imagine you were running a restaurant but you didn’t know anything about cooking or flavours. How would you advise your head-chef on what you want on the menu?  
+The same applies to a graphic designer. In a situation where a graphic designer is required to brief a photographer on a project, an understanding of terms and techniques will clarify the needs of the project. Here is a glossary that will be useful when outlining the key objectives.
+Glossary of photography terms and techniques
+Camera operation 
+Aperture: The ‘hole’ or ‘opening’ in which light travels through to the camera.
+Shutter speed: The speed at which the shutter of the camera opens/closes. It is essentially the length of time the shutter remains open.
+ISO: Refers to the sensitivity of the camera’s image sensor to light. It determines the brightness or darkness of the image. You should only increase the ISO if you are unable to brighten the photo using shutter speed or aperture. For example, if the subject matter is in motion, a slow shutter speed will result in a blurred image. But, increasing the ISO can cause a grain or ‘noise’ in your images, so a trade off (balance) may be necessary between ISO, Aperture and Shutter Speed.
+Depth of field: A photography term that refers to the distance between the nearest and the farthest objects in an image that are in focus, i.e. how much of the image is in focus. 
+Exposure: Determines how bright or dark an image is. An ‘underexposed’ image would be too dark (not enough light) and an ‘overexposed’ is a photo that is too bright or washed out with light. Exposure is controlled through aperture, shutter speed and ISO.
+Long exposure: A long exposure is a technique that involves taking a photo over an extended period of time using a long (slow) shutter speed. This is best used for dark environments with little or no movement. 
+Noise: Noise, also called grain, is where small flecks resembling dirt appear on an image that has been taken at high ISO.
+Time lapse: A video created from several photos of the same thing taken at different times. A camera will capture images set at slow intervals. They are then stitched together to create a single sequence.
+Lighting 
+Light metre: This is a device to measure the level of light at your chosen spot. A photographer can then set their camera to the correct exposure so they can capture the ideal tone.
+Natural light: This is light that comes from natural sources (e.g. sunlight, moonlight) or it can be a reflection of a natural light source.
+Enhanced or artificial light: This is utilised when there is a limited amount of natural light or the natural light is insufficient (perhaps after measuring the light levels with a light metre). This covers everything from flashes and strobes to softboxes and umbrellas.
+Colour temperature: Blues are considered cold colours and oranges are considered warm. The colour temperature of a photograph varies depending on the light levels and the light source. Light sources are measured in Kelvins which is a temperature measure and can vary from warm white at around 3000K (Kelvin) to bright daylight at 5000K. The higher the temperature (unit of Kelvin), the colder or bluer the light will appear to our eyes. A lower unit of Kelvin will generally create a red or orange glow.
+Light modification 
+Gels: A colour gel is a filter that is placed over a light to alter the colour or intensity of the light being emitted. For example, if you place a blue gel in front of a warm light, blue light will pass through but all other light emitted in the spectrum will be filtered out.
+Filters: A filter can be used when taking a photograph or applied in post production. They are used to increase contrast and brightness or they can also be applied to introduce a texture, tone or effect to the photograph.
+Softboxes: A softbox will diffuse and modify light by confining it in a wire framed box and emitting it through a layer of nylon or polyester. They are ideal for softening light and removing harsh shadows. 
+Hardware
+Lenses: A camera will (generally) contain a series of concave and convex lenses which work together to bend and refract light as it enters the camera. Lenses have different focal lengths or ‘magnification’ and are measured in millimetres (mm). The higher the magnification in mm the longer the focal length, and the lower the magnification in mm, the shorter the focal length.
+Stabilisation: A camera will need to be stable in order to produce a sharp and non blurry photograph. Stabilisation can be improved by using hardware such as a tripod, an optical stabiliser or a 3 dimensional gimbal (mechanical stabiliser).
+Storage: Traditional (analog) methods of photography use film based cameras. Film media is best stored in a dark, cool and low humidity environment. A traditional film based camera is best stored in a similar environment within a padded case. Modern Digital Single Lens Reflex (DSLR) cameras store their images in a storage device and are generally much easier to store and maintain but cameras can be expensive kit and can be damaged by dropping or knocking. It is best to store all camera equipment in a padded case. 
+Editing and processing
+Darkroom  - This involves chemicals, enlarger, exposure, developing,  and drying. Analogue photography methods require a darkroom in order to process the images from the original film cassette. When developing black & white images, a darkroom will be lit by a single red light so that the film and photographic paper don’t become over-exposed by light. Colour printing requires total darkness.
+Editing techniques - Image manipulation, filters, enhancement and RAW images. Post production photography editing techniques include, but are not limited to:
+Cropping and resizing/framing
+The addition of effect or filters
+Retouching/sharpening
+Exposure adjustment
+Colour correction/manipulation
+RAW images: A file format that is utilised by photographers to capture every detail they see within their viewfinder. A RAW image file is uncompressed and contains the greatest amount of detail above any of the raster based image files. RAW files are unedited and can often appear ‘flat’ before post production editing/processing.
+Aspect ratio: The ratio of the height to width of the frame thus describing the shape of a photograph. Aspect ratios are written as a formula of width to height, e.g. 3:2. You can change the aspect ratio in your camera if you know how you’d like to print your image, or you can crop your photo as you edit.

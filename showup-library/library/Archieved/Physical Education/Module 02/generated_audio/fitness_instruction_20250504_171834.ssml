@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="en-US">
+<voice name="en-US-AndrewNeural" parameters="temperature=0.35">
+<prosody rate="-5%" pitch="+2%" volume="+10%">
+<p>Welcome to your single-leg hopping exercise session. <break time="650ms"/>  
+Hopping on one foot is a great way to boost your balance and strengthen your lower leg muscles. <break time="650ms"/>  
+Make sure you have enough space around you and a clear floor to land safely. <break time="650ms"/></p>
+<p>Let&#x27;s get started. <break time="650ms"/>  
+Begin by standing tall on your right foot. <break time="650ms"/>  
+Your knee should be slightly bent. <break time="650ms"/>  
+Keep your left foot lifted off the ground,<break time="150ms"/> just a few inches. <break time="650ms"/>  
+Let your arms hang naturally by your sides. <break time="650ms"/>  
+Keep your eyes focused straight ahead on a single spot. <break time="650ms"/>  
+This will help you maintain balance. <break time="650ms"/>  
+<emphasis level="strong">If you feel unsteady,<break time="150ms"/> stand near a wall or sturdy surface for support.</emphasis> <break time="650ms"/></p>
+<p>Take a deep breath. <break time="650ms"/>  
+Now,<break time="150ms"/> swing your arms forward as you push off the ground with your right foot. <break time="650ms"/>  
+Hop up gently,<break time="150ms"/> keeping your movement controlled. <break time="650ms"/>  
+As you land,<break time="150ms"/> aim to land softly on the ball of your right foot. <break time="650ms"/>  
+Bend your knee to absorb the impact. <break time="650ms"/>  
+Use your arms to steady yourself. <break time="650ms"/></p>
+<p>Let&#x27;s check your form before we start the repetitions. <break time="650ms"/>  
+Are you landing softly on the ball of your foot? <break time="650ms"/>  
+Is your knee bent as you land? <break time="650ms"/>  
+Are your eyes fixed on a spot in front of you? <break time="650ms"/>  
+If yes,<break time="150ms"/> you&#x27;re set to begin. <break time="650ms"/></p>
+<p>Let&#x27;s do five hops on your right foot. <break time="650ms"/></p>
+<p><prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">land softly and bend your knee</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">keep your chest upright</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Three - <emphasis level="moderate">focus on a smooth landing</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Four - <emphasis level="moderate">use your arms for balance</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Five - <emphasis level="moderate">stay controlled and steady</emphasis> <break time="3000ms"/></prosody></p>
+<p>Now,<break time="150ms"/> switch to your left foot. <break time="650ms"/>  
+Set up in the same position. <break time="650ms"/>  
+Knee slightly bent,<break time="150ms"/> arms ready,<break time="150ms"/> eyes focused. <break time="650ms"/></p>
+<p>Let&#x27;s repeat five hops on your left foot. <break time="650ms"/></p>
+<p><prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">land gently on the ball of your foot</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">keep your knee soft</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Three - <emphasis level="moderate">maintain your balance</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Four - <emphasis level="moderate">use your arms</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Five - <emphasis level="moderate">finish strong and steady</emphasis> <break time="3000ms"/></prosody></p>
+<p>If you want an easier option,<break time="150ms"/> try holding onto a sturdy chair or countertop. <break time="650ms"/>  
+To make it more challenging,<break time="150ms"/> add a small forward hop instead of staying in place. <break time="650ms"/></p>
+<p>Great work. <break time="650ms"/>  
+Practicing single-leg hops helps improve your balance,<break time="150ms"/> strengthens your foot and ankle,<break time="150ms"/> and boosts lower body coordination. <break time="650ms"/>  
+Remember,<break time="150ms"/> one side may feel easier than the other—this is normal. <break time="650ms"/>  
+Keep practicing,<break time="150ms"/> and you’ll notice better control and confidence with each session. <break time="650ms"/>  
+Well done—take a moment to notice how your legs feel. <break time="650ms"/>  
+Stay safe and keep moving forward.</p>
+</prosody>
+</voice>
+</speak>

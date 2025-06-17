@@ -1,0 +1,8 @@
+{
+  "module": "7",
+  "lesson": "2",
+  "step_number": "5",
+  "step_title": "Bias-Spotting Quiz Gate",
+  "best_version": "# Bias-Spotting Quiz Gate\n\nWelcome to the Bias-Spotting Quiz! Before continuing with your coursework, you'll need to demonstrate your ability to identify different types of bias and select credible sources. You have 15 minutes to complete this 5-question assessment.\n\n## Instructions\n1. For each question, identify the type of bias present in the provided example\n2. Then select the most credible source from the options given\n3. Read the explanations after submitting to understand correct answers\n\nThis quiz assesses your ability to analyze civic issues using critical-thinking frameworks. Understanding bias and source credibility is essential for becoming an informed citizen who can evaluate information objectively.\n\nClick \"Begin Quiz\" when you're ready to start the 15-minute timer.\n\n[Begin Quiz]",
+  "explanation": "Error in comparison process: maximum recursion depth exceeded while calling a Python object. Using most structurally complete version as fallback."
+}

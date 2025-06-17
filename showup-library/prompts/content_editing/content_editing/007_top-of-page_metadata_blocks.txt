@@ -1,0 +1,24 @@
+Surgically remove the following type of editorial elements from the document:
+
+Top-of-page metadata blocks:
+
+Completely delete any metadata blocks enclosed by triple dashes (---) at the top of the page.
+
+These blocks may contain fields such as:
+
+---
+module: "3"
+lesson: "1"
+step_number: "3"
+step_title: "Progress-Monitoring Lab (You do)"
+template_type: "Activity"
+target_learner: "See separate learner profile document"
+generation_date: "2025-06-04 14:55:58"
+---
+Remove everything including the --- markers.
+
+Do not modify any other content in the document. Focus exclusively on the specified edit types.
+
+
+
+

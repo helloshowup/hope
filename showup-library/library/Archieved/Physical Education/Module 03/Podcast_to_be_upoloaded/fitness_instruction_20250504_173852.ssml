@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="en-US">
+<voice name="en-US-AndrewNeural" parameters="temperature=0.35">
+<prosody rate="-5%" pitch="+2%" volume="+10%">
+<p>Welcome to your focused exercise session. <break time="650ms"/> Today,<break time="150ms"/> we’ll perform Mountain Climbers. <break time="650ms"/> This move builds core stability and boosts cardiovascular endurance. <break time="650ms"/> For safety,<break time="150ms"/> remember to keep your wrists under your shoulders at all times. <break time="650ms"/></p>
+<p>Let’s begin by setting up the starting position. <break time="650ms"/> Place your hands flat on the ground,<break time="150ms"/> shoulder-width apart. <break time="650ms"/> Extend your legs behind you,<break time="150ms"/> toes on the floor. <break time="650ms"/> Your body forms a straight line from head to heels. <break time="650ms"/> Engage your core and keep your neck neutral. <break time="650ms"/></p>
+<p>Now,<break time="150ms"/> check your alignment. <break time="650ms"/> Are your hips level? <break time="650ms"/> Shoulders directly above wrists? <break time="650ms"/> If so,<break time="150ms"/> you’re ready to move. <break time="650ms"/></p>
+<p>We’ll do ten repetitions,<break time="150ms"/> alternating legs. <break time="650ms"/></p>
+<p><prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">draw your right knee toward your chest,<break time="150ms"/> keep hips steady</emphasis> <break time="650ms"/></prosody></p>
+<p><prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">switch legs,<break time="150ms"/> left knee comes forward,<break time="150ms"/> maintain a flat back</emphasis> <break time="650ms"/></prosody></p>
+<p><prosody rate="-5%" pitch="+10%">Three - <emphasis level="moderate">right knee forward,<break time="150ms"/> avoid letting your hips sag</emphasis> <break time="650ms"/></prosody></p>
+<p><prosody rate="-5%" pitch="+10%">Four - <emphasis level="moderate">left knee in,<break time="150ms"/> brace your core muscles</emphasis> <break time="650ms"/></prosody></p>
+<p><prosody rate="-5%" pitch="+10%">Five - <emphasis level="moderate">right knee forward,<break time="150ms"/> shoulders remain over wrists</emphasis> <break time="650ms"/></prosody></p>
+<p><prosody rate="-5%" pitch="+10%">Six - <emphasis level="moderate">left knee up,<break time="150ms"/> move with control</emphasis> <break time="650ms"/></prosody></p>
+<p><prosody rate="-5%" pitch="+10%">Seven - <emphasis level="moderate">right knee toward chest,<break time="150ms"/> steady breathing</emphasis> <break time="650ms"/></prosody></p>
+<p><prosody rate="-5%" pitch="+10%">Eight - <emphasis level="moderate">left knee in,<break time="150ms"/> keep your gaze slightly ahead</emphasis> <break time="650ms"/></prosody></p>
+<p><prosody rate="-5%" pitch="+10%">Nine - <emphasis level="moderate">right knee forward,<break time="150ms"/> back remains straight</emphasis> <break time="650ms"/></prosody></p>
+<p><prosody rate="-5%" pitch="+10%">Ten - <emphasis level="strong">left knee in,<break time="150ms"/> stabilize your entire body</emphasis> <break time="3000ms"/></prosody></p>
+<p>Pause for a moment and assess. <break time="650ms"/> Are your shoulders stacked above your wrists? <break time="650ms"/> Is your back straight,<break time="150ms"/> with your hips level? <break time="650ms"/> If yes,<break time="150ms"/> you’re performing the exercise correctly. <break time="650ms"/></p>
+<p>If you need an easier option,<break time="150ms"/> slow down your pace. <break time="650ms"/> Bring each knee up slowly,<break time="150ms"/> focusing on controlled movement. <break time="650ms"/> This reduces strain on your wrists and strengthens your core. <break time="650ms"/></p>
+<p>For a challenge,<break time="150ms"/> increase your speed. <break time="650ms"/> Move your legs quickly,<break time="150ms"/> as if running up a steep hill. <break time="650ms"/> Keep your form tight and core engaged. <break time="650ms"/></p>
+<p>Remember,<break time="150ms"/> quality is more important than speed. <break time="650ms"/> If your hips start to rise or sag,<break time="150ms"/> slow down and reset your position. <break time="650ms"/></p>
+<p>Mountain Climbers enhance core strength,<break time="150ms"/> shoulder stability,<break time="150ms"/> and cardiovascular fitness. <break time="650ms"/> They also improve agility and coordination. <break time="650ms"/> With practice,<break time="150ms"/> you’ll move with more control and power. <break time="650ms"/></p>
+<p>Great effort today. <break time="650ms"/> Continue to practice Mountain Climbers to increase your core stability and endurance. <break time="650ms"/> Remember to always move with good form and listen to your body. <break time="650ms"/> Your consistency will bring steady progress. <break time="650ms"/> Well done.</p>
+</prosody>
+</voice>
+</speak>

@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="en-US">
+<voice name="en-US-AndrewNeural" parameters="temperature=0.35">
+<prosody rate="-5%" pitch="+2%" volume="+10%">
+<p>Welcome to your calf raise exercise session. <break time="650ms"/> Today,<break time="150ms"/> we will strengthen your lower legs to improve push-off power for walking and running. <break time="650ms"/> Please have a wall or chair nearby for balance,<break time="150ms"/> if needed. <break time="650ms"/></p>
+<p>Let’s begin calf raises. <break time="650ms"/> Start by standing upright with your feet hip-width apart. <break time="650ms"/> Position your toes pointing forward. <break time="650ms"/> Keep your arms relaxed at your sides,<break time="150ms"/> or lightly touch the wall or chair for support. <break time="650ms"/> Distribute your weight evenly across both feet. <break time="650ms"/></p>
+<p>Before you begin, <emphasis level="moderate">keep your core gently engaged</emphasis> for stability. <break time="650ms"/> Now,<break time="150ms"/> slowly rise up onto the balls of your feet,<break time="150ms"/> lifting your heels as high as you comfortably can. <break time="650ms"/> Hold briefly at the top. <break time="650ms"/> Lower your heels back down to the floor with control. <break time="650ms"/> Avoid letting your heels drop quickly—<emphasis level="strong">move smoothly</emphasis>. <break time="650ms"/></p>
+<p>Let’s do 15 repetitions together. <break time="650ms"/></p>
+<p><prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">press through your big toes</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">keep your knees softly unlocked</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Three - <emphasis level="moderate">lift with the muscles in your calves</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Four - <emphasis level="moderate">maintain upright posture</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Five - <emphasis level="moderate">rise as high as you can</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Six - <emphasis level="moderate">avoid leaning forward or backward</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Seven - <emphasis level="moderate">control the lowering phase</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Eight - <emphasis level="moderate">keep your shoulders relaxed</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Nine - <emphasis level="moderate">focus on steady,<break time="150ms"/> strong movement</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Ten - <emphasis level="moderate">pause briefly at the top</emphasis> <break time="650ms"/>  </prosody>
+Eleven – <emphasis level="moderate">move slowly,<break time="150ms"/> not with momentum</emphasis> <break time="650ms"/>  
+Twelve – <emphasis level="moderate">feel the calf muscles working</emphasis> <break time="650ms"/>  
+Thirteen – <emphasis level="moderate">feet stay parallel</emphasis> <break time="650ms"/>  
+Fourteen – <emphasis level="moderate">keep breathing naturally</emphasis> <break time="650ms"/>  
+Fifteen – <emphasis level="moderate">lower with control</emphasis> <break time="3000ms"/></p>
+<p>Let’s do a quick success check. <break time="650ms"/> The movement should feel smooth and steady. <break time="650ms"/> If you notice bouncing or loss of balance,<break time="150ms"/> slow down and focus on full control. <break time="650ms"/></p>
+<p>For a challenge,<break time="150ms"/> try single-leg calf raises. <break time="650ms"/> Stand on one leg,<break time="150ms"/> lift the other foot off the floor,<break time="150ms"/> and repeat the same movement. <break time="650ms"/> Keep a hand on the wall or chair for support if needed. <break time="650ms"/> If this feels too hard,<break time="150ms"/> return to double-leg calf raises. <break time="650ms"/></p>
+<p>Remember, <emphasis level="strong">never lock your knees</emphasis> during the movement to protect your joints.</p>
+<p>Great work today. <break time="650ms"/> Calf raises help build strength in your lower legs for better push-off when walking,<break time="150ms"/> running,<break time="150ms"/> or jumping. <break time="650ms"/> Strong calves also support ankle stability and overall balance. <break time="650ms"/> Practicing this exercise regularly can enhance your daily movement and athletic performance. <break time="650ms"/> Well done for focusing on form and control. <break time="650ms"/> See you next time.</p>
+</prosody>
+</voice>
+</speak>

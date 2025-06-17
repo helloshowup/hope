@@ -1,0 +1,34 @@
+"You are about to receive a markdown document that needs specific heading modifications and content enhancements. Your task is to:
+
+Scan through the entire document and identify all instances of bold headings that begin with 'Try This:'
+For each heading, analyze the content that follows to understand its context and purpose
+Replace each heading with an expanded version that reads 'Try This [contextually appropriate phrase based on the content]:' where you generate a natural, conversational phrase that:
+
+Provides context for when or where the activity might be performed
+References the situation or environment without repeating specific details from the activity itself
+Uses broader categorical descriptions rather than repeating the exact activity details
+Maintains a friendly, instructional tone
+Feels natural and not formulaic
+
+
+For each 'Try This' section, analyze the instructional content and add a brief, practical concluding sentence that:
+
+Is short (10-15 words maximum)
+Provides a simple next step or quick reflection point that isn't already covered in the instructions
+Uses action-oriented language
+Is something students can complete in 30 seconds or less
+Feels achievable and low-effort
+Extends rather than repeats the activity
+
+
+Keep all original content between the heading and your new concluding sentence exactly as it appears
+Maintain all formatting, spacing, and paragraph structures throughout the document
+Do not modify any other headings or content in the document
+
+For example:
+If 'Try This:' is followed by 'Find a magazine image of an interior space you like. Identify which colour scheme is being used and sketch a simple colour wheel marking the relationships between the colours.'
+You might change it to:
+'Try This if youre looking for inspiration:' [NOT 'when browsing through design magazines' since that's already in the instructions]
+And add a concluding sentence like:
+'Compare your favorites to identify patterns in your personal design aesthetic.'
+The final output should be the complete document with only these specific modifications made to the 'Try This' sections. Ensure your heading replacements and added concluding sentences complement rather than repeat the existing content."

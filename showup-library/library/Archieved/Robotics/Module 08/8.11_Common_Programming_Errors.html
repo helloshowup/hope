@@ -1,0 +1,109 @@
+
+    <div class="markdown-content" style="font-family: Arial, sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 0 auto;">
+        <h1>8.11</h1>
+
+<h2>Common Programming Errors</h2>
+
+<h2>Learning Objectives</h2><p>By the end of this session, you'll be able to:</p>
+<ul>
+<li>Name the three main types of coding errors</li>
+</ul>
+<ul>
+<li>Spot common bugs in robot code</li>
+</ul>
+<ul>
+<li>Tell how to fix simple coding mistakes</li>
+</ul>
+<h2>Lesson Podcast Discussion: The Systematic Approach to Debugging</h2><p>When programming robots, things don't always work perfectly the first time. In fact, professional programmers spend a lot of their time finding and fixing problems in their code! This podcast discusses how having a step-by-step plan for finding bugs (errors) in your code can save you time and frustration. </p>
+<p>&nbsp;</p>
+
+<p>Just like a doctor uses a systematic approach to figure out why someone is sick, programmers use debugging techniques to diagnose what's wrong with their code. By following a clear process instead of making random changes, you can solve problems more quickly and learn from your mistakes.</p>
+<h2>Common Programming Errors</h2><p>When programming robots to help people, even small errors can cause the robot to behave unexpectedly. Understanding common errors will help you identify and fix them more efficiently.
+Let's explore the three main types of errors you might encounter when programming your robot. Understanding these errors is like learning to diagnose problems with your robot - once you know what's wrong, you can apply the right fix and get your robot working properly again.</p>
+<h3>Syntax Errors</h3><p>Syntax errors occur when your code doesn't follow the programming language's rules. These are typically caught by the programming environment before the program runs.</p>
+<p>&nbsp;</p>
+
+<p>Examples include:</p>
+<ul>
+<li>Missing punctuation (forgetting semicolons or brackets)</li>
+</ul>
+<ul>
+<li>Misspelled commands or variable names</li>
+</ul>
+<ul>
+<li>Incorrect capitalization in languages that are case-sensitive</li>
+</ul>
+<p>&nbsp;</p>
+
+<p>Think of syntax errors like spelling or grammar mistakes in writing. The computer can't understand what you're trying to say because you're not following the rules of the language. The good news is that most programming tools will point out these errors with underlines or error messages to help you fix them quickly.</p>
+<p>&nbsp;</p>
+
+<p>Why are these problems? Imagine trying to read a text message where words are spelled wrong or punctuation is missing - it gets confusing! Computers are even pickier than your English teacher. If you forget a semicolon, it's like forgetting to end a sentence with a period - the computer gets confused about where one instruction ends and another begins. If you misspell "forward" as "foward" in your robot code, your robot won't move because it doesn't understand that command. Even typing "Forward" instead of "forward" can break your program because computers see these as completely different words!</p>
+<h3>Logic Errors</h3><p>Logic errors are more challenging to identify because the program runs without crashing, but doesn't behave as expected.</p>
+<p>&nbsp;</p>
+
+<p>Examples include:</p>
+<ul>
+<li>Using the wrong mathematical operator (+ instead of -)</li>
+</ul>
+<ul>
+<li>Creating infinite loops that never terminate</li>
+</ul>
+<ul>
+<li>Setting incorrect values for variables</li>
+</ul>
+<ul>
+<li>Writing conditions that never evaluate as expected</li>
+</ul>
+<p>&nbsp;</p>
+
+<p>Logic errors are like giving someone directions to your house but accidentally telling them to turn left when they should turn right. The person follows your instructions exactly, but ends up in the wrong place! These errors can be tricky because the computer doesn't know what you intended - it just follows your instructions precisely.</p>
+<p>&nbsp;</p>
+
+<p>Why are these problems? These errors are sneaky because your program seems to work, but does the wrong thing! If you accidentally use + instead of - when calculating how far your robot should move, it might drive forward when it should back up - possibly crashing into something! An infinite loop is like telling your robot "keep moving forward until you see a wall" when there is no wall - your robot will just keep going forever until its battery dies. If you tell your robot to turn 20 degrees when you meant 90 degrees, it won't face the direction you wanted. The worst part about logic errors is that the computer won't tell you something's wrong - your robot will just do the wrong thing and you'll have to figure out why!</p>
+<h3>Runtime Errors</h3><p>Runtime errors happen when your program tries to do something that is impossible for the computer to perform. The program starts running normally, but then encounters a situation it cannot handle, which forces it to stop working. Imagine telling a robot to pick up an object that isn't there or asking it to move through a wall. The robot can't complete the task and has to stop. Similarly, when your program encounters a runtime error, it usually stops running and displays an error message explaining what went wrong.</p>
+<p>&nbsp;</p>
+
+<p>Examples include:</p>
+<ul>
+<li>Dividing by zero (computers cannot divide any number by zero)</li>
+</ul>
+<ul>
+<li>Accessing undefined variables (like trying to use information that was never created)</li>
+</ul>
+<ul>
+<li>Attempting to use resources that don't exist (such as opening a file that isn't on the computer)</li>
+</ul>
+<ul>
+<li>Memory overflow errors (when the program runs out of space to store information)</li>
+</ul>
+<p>&nbsp;</p>
+
+<p>
+        <figure class="table" style="float:left;width:92.41%;" data-font-size="14" data-line-height="20">
+            <table class="ck-table-resized" style="border-style:none;" data-font-size="14" data-line-height="20">
+                <colgroup data-font-size="14" data-line-height="20"><col style="width:13.29%;" data-font-size="14" data-line-height="20"><col style="width:86.71%;" data-font-size="14" data-line-height="20"></colgroup>
+                <tbody data-font-size="14" data-line-height="20">
+                    <tr data-font-size="14" data-line-height="20">
+                        <td style="border-style:none;" data-font-size="14" data-line-height="20">
+                            <figure class="image image_resized" style="width:100%;" data-font-size="14" data-line-height="20">
+                                <img style="aspect-ratio:600/600;" src="https://api.learnstage.com/media-manager/api/access/exceled/default/89309a11-e6ae-4133-97a9-93c735f38be4/content-page/4e85aa67-83db-423a-b7de-53b356164071_removalai_preview.png" width="600" height="600" data-font-size="14" data-line-height="20">
+                            </figure>
+                        </td>
+                        <td style="border-style:none;" data-font-size="14" data-line-height="20">
+                            <h3 data-font-size="16" data-line-height="23">
+                                <span style="color:hsl(359,97%,29%);"><span data-font-size="16" data-line-height="23"><strong data-font-size="16" data-line-height="23">Key Takeaways</strong></span></span>
+                            </h3>
+                            <ul>
+<li>Programming errors fall into three main types: syntax errors (spelling/grammar mistakes), logic errors (incorrect instructions), and runtime errors (impossible actions).</li>
+<li>Syntax errors are caught before your program runs, logic errors make your robot do the wrong thing without warning, and runtime errors cause your program to crash during operation.</li>
+<li>Finding and fixing errors (debugging) is a normal part of programming that requires a step-by-step approach rather than making random changes.</li>
+</ul>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </figure></p>
+<p>&nbsp;</p>
+    </div>
+    

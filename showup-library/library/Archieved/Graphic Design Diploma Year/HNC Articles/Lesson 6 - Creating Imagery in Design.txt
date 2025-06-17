@@ -1,0 +1,120 @@
+Purpose of Imagery in Graphic Design
+Images are visual representations of items, people, landscapes, or ideas. They can be made up of photographs, illustrations, drawings, and other graphics. 
+Regardless of the design, as a graphic designer you will inevitably work with images. It may be static, dynamic, still or animated imagery and a well-placed, good quality image will generally attract an audience’s attention faster than with just text or typeface. 
+Fig 1. Pixabay (n.d.) Working with imagery in graphic design
+Images can fulfil the following vital roles in design:
+Show what a product looks like
+Convey a particular message
+Connect with an audience, consciously or subconsciously
+Attract attention (visual attractiveness)
+Support, contrast or balance the text
+Image Creation Techniques 
+Creating images involves various techniques and tools, ranging from traditional methods to digital processes. Here are some common image creation techniques and considerations for their use:
+Drawing and painting
+Manual or hand drawing and painting uses traditional mediums such as pencils, pens, markers, watercolours, acrylics, and oils. The surface may include paper, canvas, or other suitable surfaces.
+Digital tools, such as graphics tablets and stylus pens can also be used to create imagery, with software like Adobe Photoshop, Corel Painter, or Krita.
+Photography
+In order to create photographic imagery, you need to understand and apply various techniques such as composition and lighting. You also need to know your way around all the different camera settings.
+In addition to capturing images, you will need editing software to help enhance and manipulate your photos (e.g. Adobe Lightroom and Photoshop, GIMP, or other photo editing tools).
+3D Modeling and Rendering
+Modelling can be done using tools like Blender, Autodesk Maya, or 3ds Max to help create 3D models.
+With rendering engines, like V-Ray, Arnold, or Cycles, you can then turn these 3D models into 2D images.
+Collage and Mixed Media
+Physical collages entail combining cut-out images and materials on a physical surface.
+Digital collages use software like Adobe Photoshop to blend and merge digital images.
+Animation
+Software like Adobe Animate, Toon Boom Harmony, or OpenToonz can be used to create 2D animation for frame-by-frame animation.
+Software like Blender, Autodesk Maya, or Cinema 4D are suitable options for creating 3D animations.
+In this article, we will focus on photography as the main image creation technique.
+Importance Of Photography in Graphic Design
+High-quality photographs are essential to graphic design, but high-quality original pictures make for exceptional designs. Stock photos, albeit functional, are recycled by numerous designers and can lose their impact. They may also fail to deliver what you need for a particular project. This is where a photographer comes in. 
+Even though you may not be required to take the photos for your designs, it is essential to have a clear concept of what you need for a project and what you want to convey. This helps you to work alongside the photographer to capture the best possible image for your design.
+Fig 2. Pixabay (n.d.) Setup for a photography shoot
+A background in photography, or even some rudimentary knowledge, is an immense help in this journey. It is worth tooling up on composition rules such as rule of thirds, filling the frame, leading lines and balance, etc. as well as lighting, exposure and colour which can contribute to your ‘voice’ in a photography shoot and influence the result. 
+For example, the rule of thirds states that the point of interest in a design should be placed on one of the intersecting lines that divides the image into nine equal rectangles. This involves placing your main subject (i.e. person, product, building, etc.) in a specific third within the design space like in the examples below:
+Fig 3. Pixabay (n.d.)  Example of the rule of thirds applied to a composition
+Fig 4. Pixabay (n.d.) Another example of rule of thirds
+While it may seem obvious, it is worth reiterating that all your images should be: 
+Sharp
+Clear
+Distinct
+Memorable
+Even after you have captured the image you need, a lot of time goes into the final edits of the photographs for your graphic design. Modifications can be done to enhance your specific design, but that cannot fix a photo that doesn’t already have the right subject, angle, composition, etc. You can edit a photo with enhancements that include:
+Cropping an image to clean it up
+Adjusting a photo’s white balance
+Adjusting a photo’s exposure and contrast
+Adjusting a photo’s colour vibrance and saturation
+Finalising and sharing your photo in an appropriate format
+Fig 5. Pexels (n.d.) Photo editing
+Since photography goes hand-in-hand with design, it makes sense that you should be the one directing or even conducting a shoot. It would therefore be ideal if you had a go at taking photographs yourself. Even if you are inexperienced, it gives you a lot more control over the product. Begin by familiarising yourself with the basics then plan your shoot, capture the right visual for your design and always remember the intention or purpose that the image will play in your design.
+Visual Styles in Photography
+Having a distinctive visual style is like having a visual signature. In the same way that you might recognise an artist from the style of their paintings, it's also possible to create a visual signature in photography. Developing a visual style takes time, effort and lots of experimentation. It will express the inner designer through the subjects and ideas you are interested in, the elements of photography that you are drawn to and the way you combine them to relay a message through your work. Examining the visual styles of other photographers  and experimenting with these styles in your own work will help you to learn how different effects can be achieved and how you can utilise them in your own photography.
+There are many different genres of photography that might interest you such as wedding photography, portraits, landscapes, wildlife etc. and there are endless fields of photography to choose as a career including fashion, photojournalism and commercial photography. Visual styles can be applied to all of these so you still generate a personal style and put your visual stamp on images as you see fit. 
+Styles of photography are grouped into three different types - descriptive, impressionistic or abstract. 
+Descriptive images are those with no artificial elements. They are very natural-looking and therefore are accurate and objective. Realism underpins these types of images with little to no post-processing with lighting and composition being critical stylistic factors. 
+Fig 6. Unsplash (n.d) Full moon
+Impressionistic images are those where the elements present in an image are not necessarily the main focus of the photograph. As with nineteenth century impressionist painters, the colour, shape, and texture are key elements, as distinct from realism. In short, the images create an impression of a situation rather than describe it.
+Fig 7. Unsplash (n.d.) Flower bouquet
+Abstract images may not be readily recognisable, since they are created without context. It is not literally a visual representation but rather an idea or an essence of the subject. As a result, the engagement with such a photograph is more emotional rather than literal. 
+Fig 8. Unsplash (n.d.) Abstract photo of the Han River in South Korea
+Digital Elements 
+There are varieties of different file types which you need to be familiar with. 
+The first one we will discuss is the ‘RAW’ file format. RAW is a format that records the highest level of detail from your image sensor. It is often referred to as the ‘digital negative’ as it is directly outputted from the sensor. This is the preferred file type to shoot in as it gives the most latitude in post processing. If working professionally, the vast majority of your clients and output requirements (such as prints) will require you to save your final edited file in either JPEG format or in some cases TIFF format. RAW files will therefore need to be processed in editing software before outputting to a standard usable format.
+JPEG you may remember is short for Joint Photographic Experts Group and is the most commonly used file type for photographs. It has massive advantages in that it’s universally accepted across all platforms and also allows for image compression to enable easy transmission across email and the internet. 
+Fig 9. Pixabay (n.d) JPEG 
+The major drawback of course is that JPEG is a destructive file format in that every time you open and edit the file it is being slightly damaged as it is being resaved. When saving a JPEG file the user will dictate the quality level in which the file should be saved. This relates to the level of compression that the JPEG file will be saved with. Photoshop (the popular photo editing software) allows you to save a JPEG photograph at 12 different levels of quality. 12 applies the lowest level of compression and as such gives you the highest quality file possible whereas saving it at level 1 compresses the file hugely giving you a small file size but the image quality suffers greatly.
+For the vast majority of uses JPEG (especially when saved at a low compression level) is the preferred final output file type for most photographers.
+TIFF on the other hand is a different file format and TIFF stands for Tagged Image File Format. TIFF is a useful format as it is a lossless file format and doesn’t compress the data in any way. This means that if you edit a file in your RAW processing software and save it in TIFF format the image is in the highest possible image quality. It is also non-destructive meaning that it doesn’t degrade every time you perform the open, edit and save process as you do with a JPEG file. TIFF files are used by photographers where perfect image quality is key, for example fine art photographers who demand the highest possible file type for output to large scale prints,  perhaps for use in an exhibition. If working professionally you may occasionally be asked to deliver TIFF versions of a photo as it may be required for very high quality reproduction purposes or large scale printing. You should consider this when editing a file. If you believe much reproduction will be required, start with TIFF.
+The drawback however is that because they are not compressed; the actual file size is much larger, and if you used TIFF files as your default editing format you will very quickly end up with a full hard drive. To give an example of this, a DSLR’s with a 16-18 megapixel sensor will produce a RAW file that converts to a TIFF file typically around 50 Mb in size whereas a JPEG even saved on the highest quality level (lowest level of compression) could be around 10Mb in size. Reduce the quality level a little and this file size can easily drop to 3-4Mb.
+Importing/using Images
+A graphic designer has numerous options when it comes to importing images into their design work. A general rule of thumb is to keep the original image separate from any versions with edits or additions. By keeping the original file you can always refer back to it if any amendments are needed or you need to assess a different editing option.
+Stock images generally have DPI and image dimensions as part of their download options and it is always useful to maintain a higher resolution and larger image size than is required for the final piece. Downloading the image at a lower resolution or size could result in problems arising later in the editing/design process.
+As above, you should always look to maintain a higher resolution and image size when requesting images from your photographer. It is unlikely that your photographer will supply you with the RAW files but any high resolution image (edited or not) should suffice for most applications.
+End Use
+You need to be aware of the final usage of the stock image and at what dimensions it will be printed or displayed. For a huge billboard for example, you may need to brief the photographer and if using a stock image, you may need to source a higher resolution image (600+ dpi) which will enable you to upscale and manipulate the image more successfully without having to worry about losing detail or clarity.
+Considerations For Using Stock Images
+Perhaps you don’t have access to a photographer or a marketing agency, or are bound by a tight budget. In this case, stock images are an option.
+Fig 10. Example of a website (Pixabay) for stock images
+The following sites, with both free and paid images, can make life easy if you are stuck and they offer a huge volume of imagery for you to choose from:
+Adobe stock
+Pexels
+Pixabay
+Picjumbo
+Unsplash
+Freepik
+Shutterstock
+iStock
+Flickr
+StockSnap
+Visualhunt
+Tips when using stock photos:
+Ensure that you are abiding by any creative licence requirements. For example, some images on Pixabay or Pexels don’t require any referencing, and you can use them freely. However, other sites like Visualhunt will require that you apply the necessary referencing/citations. 
+When looking for appropriate images, consider their potential to evoke a particular emotion whether positive or negative. 
+Select stock images that match your graphic design’s colour palette.
+Look for images that don’t look like stock photos.
+Choose images that are directly relevant to your designs.
+Choose pictures that are of high quality.
+If in doubt, always choose imagery that includes people rather than scenery or an abstract visual. An audience is more likely to identify and relate to such photographs.
+Over To You
+Now it’s your turn to explore stock images.
+Access one or more of the free stock image websites listed above. Search and download three images that best represent:
+A grunge background
+A vintage background
+A scrapbook or paper background
+Note: You will use two of these effects in a later Lesson Review exercise (Lesson 7).
+Head over to the student discussion forum and share your images/files with your peers. 
+Examine the images shared by others and compare them to your own. Are there any images that more accurately represent the required effects? Which one image, shared by a peer, do you consider to be especially impactful or eye-catching?
+After taking some inspiration from others, you may choose to replace or keep the three images you sourced. Either way, remember to store them for later use. 
+On the forum: 
+Creating Imagery in Design - Explore Stock Images - Over to You (Lesson 6)
+Topic: Explore Stock Images (Over to You)
+Now it’s your turn to explore stock images.
+Access one or more of the free stock image websites listed above. Search and download three images that best represent:
+A grunge background
+A vintage background
+A scrapbook or paper background
+Note: You will use two of these effects in a later Lesson Review exercise (Lesson 7).
+ 
+Share your images/files with your peers here by replying to this post.
+Examine the images shared by others and compare them to your own. Are there any images that more accurately represent the required effects? Which one image, shared by a peer, do you consider to be especially impactful or eye-catching?
+After taking some inspiration from others, you may choose to replace or keep the three images you sourced. Either way, remember to store them for later use. 

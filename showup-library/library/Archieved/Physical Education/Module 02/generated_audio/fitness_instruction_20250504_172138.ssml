@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="en-US">
+<voice name="en-US-AndrewNeural" parameters="temperature=0.35">
+<prosody rate="-5%" pitch="+2%" volume="+10%">
+<p>Welcome to today’s movement exploration exercise. <break time="650ms"/>  
+This activity builds body awareness and control by using different movement levels. <break time="650ms"/>  
+Before you begin,<break time="150ms"/> make sure the area around you is clear and safe. <break time="650ms"/></p>
+<p>Let’s get set up. <break time="650ms"/>  
+Start by making three signs: one labeled &quot;high,&quot; one &quot;medium,&quot; and one &quot;low.&quot; <break time="650ms"/>  
+Place each sign where you can see it easily. <break time="650ms"/>  
+Now,<break time="150ms"/> set a timer for twenty seconds. <break time="650ms"/>  
+During each countdown,<break time="150ms"/> you’ll move freely in your space. <break time="650ms"/>  
+When the timer beeps,<break time="150ms"/> look at one of your level cards—choose any level you like. <break time="650ms"/>  
+Then,<break time="150ms"/> create a movement or shape at that level and hold it for five seconds. <break time="650ms"/>  
+This exercise develops control and creativity by challenging you to use various levels. <break time="650ms"/>  
+A key safety reminder: <emphasis level="strong">move carefully to avoid slipping or bumping into objects</emphasis> <break time="650ms"/></p>
+<p>Let’s review the starting position. <break time="650ms"/>  
+Stand comfortably in your space,<break time="150ms"/> with your arms relaxed by your sides. <break time="650ms"/>  
+Look at your &quot;high,&quot; &quot;medium,&quot; and &quot;low&quot; signs,<break time="150ms"/> and make sure you can reach each area without moving far. <break time="650ms"/>  
+Check that your timer is ready. <break time="650ms"/></p>
+<p>Now,<break time="150ms"/> you’ll go through six rounds. <break time="650ms"/>  
+For each round,<break time="150ms"/> move freely as the timer counts down. <break time="650ms"/>  
+When it beeps,<break time="150ms"/> choose a sign,<break time="150ms"/> and hold a shape at that level for five seconds. <break time="650ms"/>  
+Let’s practice together for two rounds. <break time="650ms"/></p>
+<p>Round One: <break time="650ms"/>  
+Move around the space. <break time="650ms"/>  
+When the timer beeps: <break time="650ms"/>  
+<prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">choose a level and hold a steady shape</emphasis> <break time="650ms"/>  </prosody>
+Stay balanced and breathe. <break time="650ms"/></p>
+<p>Success check: Are you holding the shape without wobbling? <break time="650ms"/>  
+Do you feel steady and safe? <break time="650ms"/></p>
+<p>Round Two: <break time="650ms"/>  
+Move freely again. <break time="650ms"/>  
+When the timer beeps: <break time="650ms"/>  
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">pick a different level and freeze in a new position</emphasis> <break time="650ms"/>  </prosody>
+Keep your body strong and controlled. <break time="650ms"/></p>
+<p>For the next four rounds,<break time="150ms"/> continue choosing levels. <break time="650ms"/>  
+Try to use each level at least twice during all six rounds. <break time="650ms"/>  
+Remember,<break time="150ms"/> for limited space,<break time="150ms"/> focus on stationary shapes instead of moving around. <break time="650ms"/>  
+To make this more challenging,<break time="150ms"/> add arm positions or hold your shape for a little longer. <break time="650ms"/>  
+For an easier option,<break time="150ms"/> keep your movements simple and close to your center of gravity. <break time="3000ms"/></p>
+<p>Take a moment to notice how your body feels. <break time="650ms"/>  
+Think about one sport that uses high-level movements—like jumping in volleyball. <break time="650ms"/>  
+Now,<break time="150ms"/> name a sport that uses medium-level actions—such as dribbling in basketball. <break time="650ms"/>  
+Finally,<break time="150ms"/> consider a sport with low-level movements—like lunging in bowling. <break time="650ms"/></p>
+<p>By practicing movement at different levels,<break time="150ms"/> you improve balance,<break time="150ms"/> coordination,<break time="150ms"/> and creative thinking. <break time="650ms"/>  
+Great job exploring high,<break time="150ms"/> medium,<break time="150ms"/> and low! <break time="650ms"/>  
+Remember,<break time="150ms"/> these skills help you move better in sports and daily life. <break time="650ms"/>  
+Take a deep breath,<break time="150ms"/> relax,<break time="150ms"/> and thank yourself for moving today. <break time="650ms"/></p>
+</prosody>
+</voice>
+</speak>

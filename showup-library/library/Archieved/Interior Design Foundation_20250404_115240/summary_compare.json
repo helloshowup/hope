@@ -1,0 +1,1666 @@
+{
+  "course_name": "Interior Design Foundation",
+  "csv_path": "temp\\filtered_csv_20250404_115240.csv",
+  "start_time": "2025-04-04T11:52:40.664365",
+  "status": "started",
+  "processed_rows": [
+    {
+      "module": "1",
+      "lesson": "1",
+      "step_number": "1",
+      "step_title": "Your Interior Design Journey Begins",
+      "template_type": "video",
+      "status": "completed",
+      "timestamp": "2025-04-04T11:52:40.680877",
+      "log_entries": [
+        {
+          "timestamp": "2025-04-04 11:52:40",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module 1, Lesson 1, Step 1"
+        },
+        {
+          "timestamp": "2025-04-04 11:52:40",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:52:40",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-04-04 11:52:40",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (1204 characters)"
+        },
+        {
+          "timestamp": "2025-04-04 11:52:40",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-04-04 11:52:40",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:52:40",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-04-04 11:53:40",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-04-04 11:53:40",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-04-04 11:53:40",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:53:40",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-04-04 11:54:06",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:54:06",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-04-04 11:54:26",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:54:26",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-04-04 11:54:26",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 20 AI patterns"
+        },
+        {
+          "timestamp": "2025-04-04 11:54:26",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-04-04 11:54:54",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:54:54",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-04-04 11:54:54",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to output\\Interior Design Foundation_20250404_115240\\1\\1\\1_Your Interior Design Journey Begins.md"
+        }
+      ],
+      "comparison_explanation": "No explanation provided.",
+      "review_summary": "No edit summary provided.",
+      "ai_patterns_detected": 20,
+      "editing_explanation": "I've made several key changes to transform this AI-generated content into more human-like, learner-focused text:\n\n1. Removed all \"Welcome to\" phrases and created a more engaging, direct introduction\n2. Replaced \"essential\" with more specific, varied alternatives like \"fundamental,\" \"key,\" \"important,\" and \"valuable\"\n3. Changed American spelling to British (colour, behaviour, recognise, etc.)\n4. Added a new \"Over to You\" reflection section that was missing\n5. Reduced overly formal language and added more conversational elements\n6. Shortened paragraphs and varied sentence structures for better readability\n7. Added more practical context relevant to career-changers with no prior design experience\n8. Removed redundant information and tightened the overall flow\n9. Added some gentle encouragement that acknowledges the challenges of learning a new field\n\nThese changes better address the needs of adult learners transitioning to a new field who need clear, practical guidance while building their confidence.",
+      "output_path": "output\\Interior Design Foundation_20250404_115240\\1\\1\\1_Your Interior Design Journey Begins.md",
+      "completion_timestamp": "2025-04-04T11:54:54.985798"
+    },
+    {
+      "module": "1",
+      "lesson": "2",
+      "step_number": "1",
+      "step_title": "Welcome to Professional Interior Desig",
+      "template_type": "article",
+      "status": "completed",
+      "timestamp": "2025-04-04T11:52:40.684878",
+      "log_entries": [
+        {
+          "timestamp": "2025-04-04 11:52:40",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module 1, Lesson 2, Step 1"
+        },
+        {
+          "timestamp": "2025-04-04 11:52:40",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:52:40",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-04-04 11:52:40",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (2187 characters)"
+        },
+        {
+          "timestamp": "2025-04-04 11:52:40",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-04-04 11:52:40",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:54:54",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-04-04 11:55:59",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-04-04 11:55:59",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-04-04 11:55:59",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:55:59",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-04-04 11:56:38",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:56:38",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-04-04 11:57:04",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:57:04",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-04-04 11:57:04",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 22 AI patterns"
+        },
+        {
+          "timestamp": "2025-04-04 11:57:04",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-04-04 11:57:40",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:57:40",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-04-04 11:57:40",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to output\\Interior Design Foundation_20250404_115240\\1\\2\\1_Welcome to Professional Interior Desig.md"
+        }
+      ],
+      "comparison_explanation": "No explanation provided.",
+      "review_summary": "No edit summary provided.",
+      "ai_patterns_detected": 22,
+      "editing_explanation": "No explanation provided.",
+      "output_path": "output\\Interior Design Foundation_20250404_115240\\1\\2\\1_Welcome to Professional Interior Desig.md",
+      "completion_timestamp": "2025-04-04T11:57:40.878486"
+    },
+    {
+      "module": "1",
+      "lesson": "3",
+      "step_number": "1",
+      "step_title": "Understanding Spatial Awareness",
+      "template_type": "article",
+      "status": "completed",
+      "timestamp": "2025-04-04T11:52:40.688879",
+      "log_entries": [
+        {
+          "timestamp": "2025-04-04 11:52:40",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module 1, Lesson 3, Step 1"
+        },
+        {
+          "timestamp": "2025-04-04 11:52:40",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:52:40",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-04-04 11:52:40",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (2269 characters)"
+        },
+        {
+          "timestamp": "2025-04-04 11:52:40",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-04-04 11:52:40",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:57:40",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-04-04 11:58:59",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-04-04 11:58:59",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-04-04 11:58:59",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:58:59",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-04-04 11:59:26",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:59:26",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-04-04 11:59:49",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:59:49",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-04-04 11:59:49",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 13 AI patterns"
+        },
+        {
+          "timestamp": "2025-04-04 11:59:49",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-04-04 12:00:24",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-04-04 12:00:24",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-04-04 12:00:24",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to output\\Interior Design Foundation_20250404_115240\\1\\3\\1_Understanding Spatial Awareness.md"
+        }
+      ],
+      "comparison_explanation": "No explanation provided.",
+      "review_summary": "No edit summary provided.",
+      "ai_patterns_detected": 13,
+      "editing_explanation": "I've made several changes to make this content more human-like and appropriate for HNC Interior Design Foundation learners:\n\n1. Removed the \"Welcome to...\" introduction and replaced it with a more engaging, conversational opening that still maintains professionalism\n2. Changed American spelling to British (e.g., \"color\" to \"colour\")\n3. Replaced all instances of \"essential\" with more natural alternatives\n4. Added \"Over to You\" for the reflection section\n5. Varied sentence structures to create a more natural flow\n6. Made language less formal while maintaining educational value\n7. Added more direct addressing of the reader to create connection\n8. Simplified some technical explanations while preserving core concepts\n9. Created more natural transitions between sections\n10. Adjusted some examples to be more relatable for beginner designers",
+      "output_path": "output\\Interior Design Foundation_20250404_115240\\1\\3\\1_Understanding Spatial Awareness.md",
+      "completion_timestamp": "2025-04-04T12:00:24.193732"
+    },
+    {
+      "module": "1",
+      "lesson": "4",
+      "step_number": "1",
+      "step_title": "Basic Design Tools Introduction",
+      "template_type": "video",
+      "status": "completed",
+      "timestamp": "2025-04-04T11:52:40.691879",
+      "log_entries": [
+        {
+          "timestamp": "2025-04-04 11:52:40",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module 1, Lesson 4, Step 1"
+        },
+        {
+          "timestamp": "2025-04-04 11:52:40",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:52:40",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-04-04 11:52:40",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (2353 characters)"
+        },
+        {
+          "timestamp": "2025-04-04 11:52:40",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-04-04 11:52:40",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-04-04 12:00:24",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-04-04 12:01:35",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-04-04 12:01:35",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-04-04 12:01:35",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 12:01:35",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-04-04 12:02:11",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-04-04 12:02:11",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-04-04 12:02:35",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-04-04 12:02:35",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-04-04 12:02:36",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 23 AI patterns"
+        },
+        {
+          "timestamp": "2025-04-04 12:02:36",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-04-04 12:03:06",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-04-04 12:03:06",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-04-04 12:03:06",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to output\\Interior Design Foundation_20250404_115240\\1\\4\\1_Basic Design Tools Introduction.md"
+        }
+      ],
+      "comparison_explanation": "No explanation provided.",
+      "review_summary": "No edit summary provided.",
+      "ai_patterns_detected": 23,
+      "editing_explanation": "I've made several key changes to make this content more human-like and appropriate for HNC Interior Design Foundation learners:\n\n1. Removed the \"Welcome to\" introduction and replaced it with a more engaging, direct opening\n2. Replaced all instances of \"essential\" with more natural alternatives\n3. Changed American spelling to British (e.g., \"organized\" to \"organised\")\n4. Added \"Over to You\" headings for reflection sections\n5. Varied sentence structures to create a more natural flow\n6. Made language more conversational while maintaining professionalism\n7. Simplified some complex sentences for better comprehension\n8. Added more direct connections to the learner's career journey\n9. Incorporated more practical examples relevant to beginner designers\n10. Created smoother transitions between sections\n\nThese changes better address the needs of career-changers and mature students who require structured, practical guidance while building technical competencies from a beginner level.",
+      "output_path": "output\\Interior Design Foundation_20250404_115240\\1\\4\\1_Basic Design Tools Introduction.md",
+      "completion_timestamp": "2025-04-04T12:03:06.942343"
+    },
+    {
+      "module": "1",
+      "lesson": "5",
+      "step_number": "1",
+      "step_title": "First Space Documentation",
+      "template_type": "article",
+      "status": "completed",
+      "timestamp": "2025-04-04T11:52:40.694880",
+      "log_entries": [
+        {
+          "timestamp": "2025-04-04 11:52:40",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module 1, Lesson 5, Step 1"
+        },
+        {
+          "timestamp": "2025-04-04 11:52:40",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:52:40",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-04-04 11:52:40",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (2123 characters)"
+        },
+        {
+          "timestamp": "2025-04-04 11:52:40",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-04-04 11:52:40",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-04-04 12:03:06",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-04-04 12:04:11",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-04-04 12:04:11",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-04-04 12:04:11",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 12:04:11",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-04-04 12:05:17",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-04-04 12:05:17",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-04-04 12:05:46",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-04-04 12:05:46",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-04-04 12:05:46",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 9 AI patterns"
+        },
+        {
+          "timestamp": "2025-04-04 12:05:46",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-04-04 12:06:21",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-04-04 12:06:21",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-04-04 12:06:21",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to output\\Interior Design Foundation_20250404_115240\\1\\5\\1_First Space Documentation.md"
+        }
+      ],
+      "comparison_explanation": "No explanation provided.",
+      "review_summary": "No edit summary provided.",
+      "ai_patterns_detected": 9,
+      "editing_explanation": "No explanation provided.",
+      "output_path": "output\\Interior Design Foundation_20250404_115240\\1\\5\\1_First Space Documentation.md",
+      "completion_timestamp": "2025-04-04T12:06:21.018620"
+    },
+    {
+      "module": "1",
+      "lesson": "6",
+      "step_number": "1",
+      "step_title": "Design Progress Journal Setup",
+      "template_type": "article",
+      "status": "completed",
+      "timestamp": "2025-04-04T11:52:40.698881",
+      "log_entries": [
+        {
+          "timestamp": "2025-04-04 11:52:40",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module 1, Lesson 6, Step 1"
+        },
+        {
+          "timestamp": "2025-04-04 11:52:40",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:52:40",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-04-04 11:52:40",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (2421 characters)"
+        },
+        {
+          "timestamp": "2025-04-04 11:52:40",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-04-04 11:52:40",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-04-04 12:06:21",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-04-04 12:07:26",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-04-04 12:07:26",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-04-04 12:07:26",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 12:07:26",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-04-04 12:08:06",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-04-04 12:08:06",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-04-04 12:08:34",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-04-04 12:08:34",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-04-04 12:08:35",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 22 AI patterns"
+        },
+        {
+          "timestamp": "2025-04-04 12:08:35",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-04-04 12:09:12",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-04-04 12:09:12",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-04-04 12:09:12",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to output\\Interior Design Foundation_20250404_115240\\1\\6\\1_Design Progress Journal Setup.md"
+        }
+      ],
+      "comparison_explanation": "No explanation provided.",
+      "review_summary": "No edit summary provided.",
+      "ai_patterns_detected": 22,
+      "editing_explanation": "No explanation provided.",
+      "output_path": "output\\Interior Design Foundation_20250404_115240\\1\\6\\1_Design Progress Journal Setup.md",
+      "completion_timestamp": "2025-04-04T12:09:12.591551"
+    },
+    {
+      "module": "1",
+      "lesson": "7",
+      "step_number": "1",
+      "step_title": "Design Progress Journal Setup",
+      "template_type": "downloadable",
+      "status": "completed",
+      "timestamp": "2025-04-04T11:52:40.701882",
+      "log_entries": [
+        {
+          "timestamp": "2025-04-04 11:52:40",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module 1, Lesson 7, Step 1"
+        },
+        {
+          "timestamp": "2025-04-04 11:52:40",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:52:40",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-04-04 11:52:40",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (2392 characters)"
+        },
+        {
+          "timestamp": "2025-04-04 11:52:40",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-04-04 11:52:40",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-04-04 12:09:12",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-04-04 12:10:19",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-04-04 12:10:19",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-04-04 12:10:19",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 12:10:19",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-04-04 12:10:59",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-04-04 12:10:59",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-04-04 12:11:26",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-04-04 12:11:26",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-04-04 12:11:27",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 14 AI patterns"
+        },
+        {
+          "timestamp": "2025-04-04 12:11:27",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-04-04 12:12:01",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-04-04 12:12:01",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-04-04 12:12:01",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to output\\Interior Design Foundation_20250404_115240\\1\\7\\1_Design Progress Journal Setup.md"
+        }
+      ],
+      "comparison_explanation": "No explanation provided.",
+      "review_summary": "No edit summary provided.",
+      "ai_patterns_detected": 14,
+      "editing_explanation": "I've made several key changes to make this text more human-like and appropriate for HNC Interior Design Foundation learners:\n\n1. Removed the generic \"Introduction\" heading and replaced the formulaic opening with a more direct, engaging start\n2. Changed American spelling to British (color \u2192 colour, practice \u2192 practise)\n3. Replaced all instances of \"essential\" with more natural alternatives\n4. Added \"Over to You\" headings for reflection practices\n5. Varied sentence structures to sound less AI-generated\n6. Made language more conversational while maintaining professionalism\n7. Simplified some complex sentences for clarity\n8. Added more concrete examples relevant to interior design students\n9. Removed redundant explanations and AI-like phrases (\"Research shows...\")\n10. Created a more natural flow between sections",
+      "output_path": "output\\Interior Design Foundation_20250404_115240\\1\\7\\1_Design Progress Journal Setup.md",
+      "completion_timestamp": "2025-04-04T12:12:01.895808"
+    },
+    {
+      "module": "1",
+      "lesson": "8",
+      "step_number": "1",
+      "step_title": "Basic Presentation Methods",
+      "template_type": "article",
+      "status": "completed",
+      "timestamp": "2025-04-04T11:52:40.704881",
+      "log_entries": [
+        {
+          "timestamp": "2025-04-04 11:52:40",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module 1, Lesson 8, Step 1"
+        },
+        {
+          "timestamp": "2025-04-04 11:52:40",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:52:40",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-04-04 11:52:40",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (2805 characters)"
+        },
+        {
+          "timestamp": "2025-04-04 11:52:40",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-04-04 11:52:40",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-04-04 12:12:01",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-04-04 12:13:11",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-04-04 12:13:11",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-04-04 12:13:11",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 12:13:12",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-04-04 12:13:48",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-04-04 12:13:48",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-04-04 12:14:13",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-04-04 12:14:13",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-04-04 12:14:13",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 15 AI patterns"
+        },
+        {
+          "timestamp": "2025-04-04 12:14:13",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-04-04 12:14:47",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-04-04 12:14:47",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-04-04 12:14:47",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to output\\Interior Design Foundation_20250404_115240\\1\\8\\1_Basic Presentation Methods.md"
+        }
+      ],
+      "comparison_explanation": "No explanation provided.",
+      "review_summary": "No edit summary provided.",
+      "ai_patterns_detected": 15,
+      "editing_explanation": "I've made several key changes to make this content more human-like and appropriate for HNC Interior Design Foundation learners:\n\n1. Removed the generic \"Introduction\" heading and replaced the formal introduction with a more engaging, conversational opening that still maintains professionalism\n2. Replaced all instances of \"essential\" with more natural alternatives\n3. Changed American spelling to British (color \u2192 colour, organize \u2192 organise)\n4. Added more varied sentence structures and natural transitions between ideas\n5. Incorporated more direct address to the learner to create connection\n6. Simplified some complex explanations while maintaining the technical content\n7. Changed \"Reflection Question\" to \"Over to You\" as requested\n8. Made the language more supportive and encouraging for beginners\n9. Reduced some of the overly formal academic language while keeping the content professional",
+      "output_path": "output\\Interior Design Foundation_20250404_115240\\1\\8\\1_Basic Presentation Methods.md",
+      "completion_timestamp": "2025-04-04T12:14:47.860036"
+    },
+    {
+      "module": "1",
+      "lesson": "9",
+      "step_number": "1",
+      "step_title": "Material and Color Introduction",
+      "template_type": "article",
+      "status": "completed",
+      "timestamp": "2025-04-04T11:52:40.708883",
+      "log_entries": [
+        {
+          "timestamp": "2025-04-04 11:52:40",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module 1, Lesson 9, Step 1"
+        },
+        {
+          "timestamp": "2025-04-04 11:52:40",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:52:40",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-04-04 11:52:40",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (2691 characters)"
+        },
+        {
+          "timestamp": "2025-04-04 11:52:40",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-04-04 11:52:40",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-04-04 12:14:47",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-04-04 12:15:52",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-04-04 12:15:52",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-04-04 12:15:52",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 12:15:52",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-04-04 12:16:41",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-04-04 12:16:41",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-04-04 12:17:17",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-04-04 12:17:17",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-04-04 12:17:17",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 40 AI patterns"
+        },
+        {
+          "timestamp": "2025-04-04 12:17:17",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-04-04 12:17:55",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-04-04 12:17:55",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-04-04 12:17:55",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to output\\Interior Design Foundation_20250404_115240\\1\\9\\1_Material and Color Introduction.md"
+        }
+      ],
+      "comparison_explanation": "No explanation provided.",
+      "review_summary": "No edit summary provided.",
+      "ai_patterns_detected": 40,
+      "editing_explanation": "No explanation provided.",
+      "output_path": "output\\Interior Design Foundation_20250404_115240\\1\\9\\1_Material and Color Introduction.md",
+      "completion_timestamp": "2025-04-04T12:17:55.507604"
+    },
+    {
+      "module": "1",
+      "lesson": "10",
+      "step_number": "1",
+      "step_title": "First Project Planning",
+      "template_type": "article",
+      "status": "completed",
+      "timestamp": "2025-04-04T11:52:40.711884",
+      "log_entries": [
+        {
+          "timestamp": "2025-04-04 11:52:40",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module 1, Lesson 10, Step 1"
+        },
+        {
+          "timestamp": "2025-04-04 11:52:40",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:52:40",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-04-04 11:52:40",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (2566 characters)"
+        },
+        {
+          "timestamp": "2025-04-04 11:52:40",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-04-04 11:52:40",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-04-04 12:17:55",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-04-04 12:19:01",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-04-04 12:19:01",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-04-04 12:19:01",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 12:19:01",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-04-04 12:19:35",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-04-04 12:19:35",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-04-04 12:20:00",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-04-04 12:20:00",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-04-04 12:20:01",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 12 AI patterns"
+        },
+        {
+          "timestamp": "2025-04-04 12:20:01",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-04-04 12:20:35",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-04-04 12:20:35",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-04-04 12:20:35",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to output\\Interior Design Foundation_20250404_115240\\1\\10\\1_First Project Planning.md"
+        }
+      ],
+      "comparison_explanation": "No explanation provided.",
+      "review_summary": "No edit summary provided.",
+      "ai_patterns_detected": 12,
+      "editing_explanation": "I've made several key changes to make this content more human-like and appropriate for HNC Interior Design Foundation learners:\n\n1. Removed the generic \"Welcome to\" introduction and replaced it with a more engaging, practical opening that speaks directly to the learner's situation\n2. Converted American spelling to British (color \u2192 colour, organization \u2192 organisation)\n3. Replaced all instances of \"essential\" with more specific, varied alternatives\n4. Added the \"Over to You\" heading for reflection activities\n5. Made language more conversational while maintaining professionalism\n6. Added more concrete examples and practical context that foundation learners would appreciate\n7. Varied sentence structures to create a more natural rhythm\n8. Incorporated more direct addressing of common challenges faced by new designers\n9. Simplified some technical explanations while maintaining the necessary professional terminology\n10. Added more transitional phrases between sections to improve flow",
+      "output_path": "output\\Interior Design Foundation_20250404_115240\\1\\10\\1_First Project Planning.md",
+      "completion_timestamp": "2025-04-04T12:20:35.419439"
+    },
+    {
+      "module": "1",
+      "lesson": "11",
+      "step_number": "1",
+      "step_title": "Quiz",
+      "template_type": "quiz",
+      "status": "completed",
+      "timestamp": "2025-04-04T11:52:40.714885",
+      "log_entries": [
+        {
+          "timestamp": "2025-04-04 11:52:40",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module 1, Lesson 11, Step 1"
+        },
+        {
+          "timestamp": "2025-04-04 11:52:40",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:52:40",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-04-04 11:52:40",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (2640 characters)"
+        },
+        {
+          "timestamp": "2025-04-04 11:52:40",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-04-04 11:52:40",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-04-04 12:20:35",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-04-04 12:21:44",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-04-04 12:21:44",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-04-04 12:21:44",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 12:21:44",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-04-04 12:22:15",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-04-04 12:22:15",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-04-04 12:22:38",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-04-04 12:22:38",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-04-04 12:22:38",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 16 AI patterns"
+        },
+        {
+          "timestamp": "2025-04-04 12:22:38",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-04-04 12:23:11",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-04-04 12:23:11",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-04-04 12:23:11",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to output\\Interior Design Foundation_20250404_115240\\1\\11\\1_Quiz.md"
+        }
+      ],
+      "comparison_explanation": "No explanation provided.",
+      "review_summary": "No edit summary provided.",
+      "ai_patterns_detected": 16,
+      "editing_explanation": "I've made several key changes to make this content more human-like and appropriate for HNC Interior Design Foundation learners:\n\n1. Removed the \"Welcome to\" introduction and replaced it with a more direct, purposeful opening\n2. Eliminated the word \"essential\" and similar AI-typical words like \"crucial\"\n3. Converted American spelling to British (e.g., \"color\" to \"colour\")\n4. Made the language more conversational while maintaining professionalism\n5. Added more practical context that connects to the hands-on learning needs of career-changers\n6. Varied sentence structure to create a more natural flow\n7. Added \"Over to You\" reflection section that was missing\n8. Simplified some technical explanations for beginners while maintaining rigor\n9. Created more authentic transitions between sections",
+      "output_path": "output\\Interior Design Foundation_20250404_115240\\1\\11\\1_Quiz.md",
+      "completion_timestamp": "2025-04-04T12:23:11.868367"
+    },
+    {
+      "module": "1",
+      "lesson": "12",
+      "step_number": "1",
+      "step_title": "Assignment 0.1: Formative (Initial Study Planning)",
+      "template_type": "activity",
+      "status": "completed",
+      "timestamp": "2025-04-04T11:52:40.717885",
+      "log_entries": [
+        {
+          "timestamp": "2025-04-04 11:52:40",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module 1, Lesson 12, Step 1"
+        },
+        {
+          "timestamp": "2025-04-04 11:52:40",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:52:40",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-04-04 11:52:40",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (1132 characters)"
+        },
+        {
+          "timestamp": "2025-04-04 11:52:40",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-04-04 11:52:40",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-04-04 12:23:11",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-04-04 12:24:18",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-04-04 12:24:18",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-04-04 12:24:18",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 12:24:18",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-04-04 12:24:58",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-04-04 12:24:58",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-04-04 12:25:27",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-04-04 12:25:27",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-04-04 12:25:27",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 8 AI patterns"
+        },
+        {
+          "timestamp": "2025-04-04 12:25:27",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-04-04 12:26:03",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-04-04 12:26:03",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-04-04 12:26:03",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to output\\Interior Design Foundation_20250404_115240\\1\\12\\1_Assignment 0_1_ Formative _Initial Study Planning_.md"
+        }
+      ],
+      "comparison_explanation": "No explanation provided.",
+      "review_summary": "No edit summary provided.",
+      "ai_patterns_detected": 8,
+      "editing_explanation": "I've made several key changes to transform this AI-generated content into more human-like writing suitable for HNC Interior Design Foundation learners:\n\n1. Removed the \"Welcome to...\" introduction and replaced it with a more engaging, direct opening that respects the learner's decision to pursue design education\n2. Converted American spelling to British (color \u2192 colour, etc.)\n3. Replaced all instances of \"essential\" with more natural alternatives\n4. Renamed reflection sections to \"Over to You\" as requested\n5. Reduced the overly formal tone while maintaining professionalism\n6. Varied sentence structures to create more natural rhythm\n7. Added more practical, relatable examples relevant to beginning design students\n8. Simplified complex explanations while maintaining the educational value\n9. Created more conversational transitions between sections\n10. Adjusted language to better match the hands-on learning style of the target demographic",
+      "output_path": "output\\Interior Design Foundation_20250404_115240\\1\\12\\1_Assignment 0_1_ Formative _Initial Study Planning_.md",
+      "completion_timestamp": "2025-04-04T12:26:03.005902"
+    }
+  ],
+  "log_file": "logs\\simplified_workflow_20250404_115240.log",
+  "phases_run": [
+    "generate",
+    "compare",
+    "review",
+    "finalize"
+  ],
+  "output_dir": "output\\Interior Design Foundation_20250404_115240",
+  "generation_dir": "output\\Interior Design Foundation_20250404_115240\\generation_results",
+  "comparison_dir": "output\\Interior Design Foundation_20250404_115240\\comparison_results",
+  "review_dir": "output\\Interior Design Foundation_20250404_115240\\review_results",
+  "final_dir": "output\\Interior Design Foundation_20250404_115240\\final_content",
+  "phase": "compare",
+  "phase_completion_time": "2025-04-04T12:26:03.011903"
+}

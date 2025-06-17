@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<!-- Note: This script may not meet all quality guidelines. Please review carefully. -->
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="en-US">
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>Hi! I’m glad we’re talking about how robots move. This is a really important part of robotics. If a robot can’t move the right way, it can’t do its job. I like to think about what each part does and how they work together to make the robot move. Today, let’s look at how robots choose between wheels, legs, and other ways to get around.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>Hey, great topic! I always get questions from students about why some robots have wheels and others have legs. For example, they ask why their school’s robot vacuum has wheels, but robots in rescue videos sometimes walk or even crawl. Let’s start with the basics. What are the most important things to think about when picking how a robot should move?</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>Good question. First, you need to know what the robot’s job is. We call this the “task requirement.” Ask yourself: Does the robot need to move fast or can it go slow? Does it need to carry heavy stuff? How long does it need to run before charging? Does it have to move very precisely, or is close enough good enough? And does it need to go around or over things in its way?</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>So, if I’m building a robot to deliver snacks at school, I’d want it to go pretty fast and carry a few bags of chips. That means wheels, right?</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>Exactly. Wheels are good for speed and carrying weight, especially on flat floors. They also use less battery, so the robot can run longer. Think about your robot vacuum at home—it uses wheels because it stays on flat surfaces and needs to cover a lot of ground without charging all the time.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>That reminds me—my friend’s robot vacuum always stops at the stairs. It won’t go down or up them. But on TV, I saw robots in disaster areas climb over big piles of rubble. How do they do that?</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>They use legs, or sometimes tracks. Wheels struggle with big steps or uneven places. Legs help a robot lift itself up or over obstacles. Tracks work a bit like tank treads—they spread out the robot’s weight and grip rough ground. So, for search and rescue, robots often use legs or tracks to deal with tricky terrain.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>Hmm, that’s interesting. But don’t legs use a ton of energy? I read that legged robots need more power than wheeled ones.</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>Yes, legs do use more energy, especially if the robot is heavy. They need strong motors and a sturdy body. That’s why you usually see legged robots in places where wheels just can’t work, like forests, rocky ground, or after an earthquake.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>Got it. So, wheels are better for smooth places, like a school hallway or a warehouse, and legs or tracks are for rough spots. Are there robots that can do both?</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>There are some robots that can switch between wheels and legs, but they’re pretty rare. It makes things more complicated and heavy. Most designers pick one way to move and make it work really well for the robot’s job.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>What about those cool robots in factories? I saw a video of robots sliding sideways between shelves without turning. How does that work?</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>Those robots use special wheels called “omnidirectional wheels.” Imagine a wheel with lots of little rollers on the sides. This lets the robot move in any direction—forward, backward, or sideways—without turning its body. It’s great for tight spaces, like between shelves.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>That’s awesome! So, the choice really depends on what the robot needs to do and where it works. What if I want my robot to go outside in the rain or snow?</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>Good point. Weather matters. Wet or snowy places can be slippery, so you might use big wheels with deep treads or even tracks, like on a snowmobile. For muddy places, tracks spread the weight so the robot doesn’t sink. Legs can help too, if the robot needs to step over puddles or logs.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>I see. But sometimes, robots don’t need to move at all, right? Like robotic arms on a table?</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>True, but today we’re focusing on robots that travel. For arms, you care more about reach and precision. But when it comes to moving around, picking the right method is key.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>You said earlier that wheels can’t handle many obstacles, but I saw a video of a Mars rover getting over rocks. Aren’t those wheels?</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>They are, but they’re special wheels. Mars rovers use big, bumpy wheels that can grip rocks and sand. Plus, each wheel can move up and down to help the rover climb. So, it’s not just about wheels or legs—it’s about the right kind of each.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>[pause] That makes sense. So, designing a robot is like picking the right shoes for a hike or a gym class.</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>Yes! The right “shoes” for the job.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>Okay, I think I get it now. Wheels for smooth, flat places and when you want to save energy. Legs or tracks for tough, bumpy ground. And always match the robot’s movement to what it needs to do and where it needs to go.</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>Exactly. Every robot is a little different, and the best way to move depends on its mission and environment. Think about the job, the place, and then choose the movement that fits best.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>Thanks! This really helped me understand why robots move the way they do. I’ll look at every robot’s “feet” a little differently now.</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>Me too. Whenever I see a robot, I always ask, “Why did they choose those wheels or legs?” It’s a fun way to learn more about how robots work!</p>
+</voice>
+
+</speak>

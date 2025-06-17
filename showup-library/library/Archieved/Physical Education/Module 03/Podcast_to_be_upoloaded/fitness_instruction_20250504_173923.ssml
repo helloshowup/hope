@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="en-US">
+<voice name="en-US-AndrewNeural" parameters="temperature=0.35">
+<prosody rate="-5%" pitch="+2%" volume="+10%">
+<p>Welcome to your focused exercise session. <break time="650ms"/>  
+Today,<break time="150ms"/> we’ll practice the <emphasis level="moderate">imaginary jump rope</emphasis> drill. <break time="650ms"/>  
+This move boosts your coordination and fires up your cardiovascular system. <break time="650ms"/>  
+Please listen carefully to each instruction. <break time="650ms"/></p>
+<p>Let’s begin by setting up your position. <break time="650ms"/>  
+Stand tall with feet hip-width apart. <break time="650ms"/>  
+Keep your knees slightly bent. <break time="650ms"/>  
+Let your arms hang at your sides,<break time="150ms"/> elbows soft. <break time="650ms"/>  
+Imagine holding the handles of a jump rope. <break time="650ms"/>  
+Safety reminder: <emphasis level="strong">Land softly and avoid locking your knees.</emphasis> <break time="650ms"/></p>
+<p>Start with wrists at your sides,<break time="150ms"/> palms facing forward. <break time="650ms"/>  
+Pretend to rotate the rope by circling your wrists forward. <break time="650ms"/>  
+Begin making small,<break time="150ms"/> gentle jumps. <break time="650ms"/>  
+Lift just one or two inches off the ground each time. <break time="650ms"/>  
+Keep a relaxed posture. <break time="650ms"/>  
+Ready for your first repetition set? <break time="650ms"/></p>
+<p><prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">Land softly on the balls of your feet</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">Keep your core engaged</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Three - <emphasis level="moderate">Wrists move in small circles</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Four - <emphasis level="moderate">Jump low to reduce impact</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Five - <emphasis level="moderate">Shoulders stay relaxed</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Six - <emphasis level="moderate">Breath steady and even</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Seven - <emphasis level="moderate">Keep knees slightly bent</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Eight - <emphasis level="moderate">Look straight ahead</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Nine - <emphasis level="moderate">Keep your pace comfortable</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Ten - <emphasis level="moderate">Check your posture: tall and relaxed</emphasis> <break time="3000ms"/></prosody></p>
+<p>Check in with yourself now. <break time="650ms"/>  
+Are you landing softly and moving your wrists? <break time="650ms"/>  
+If you need a modification,<break time="150ms"/> here’s an easier version: <break time="650ms"/>  
+Remain standing,<break time="150ms"/> but step one foot forward at a time. <break time="650ms"/>  
+Alternate feet,<break time="150ms"/> tapping gently,<break time="150ms"/> while still circling your wrists. <break time="650ms"/>  
+No jumping required. <break time="650ms"/></p>
+<p>Want to challenge yourself? <break time="650ms"/>  
+Try jumping side to side,<break time="150ms"/> or switch to single-leg hops. <break time="650ms"/>  
+Keep wrists moving as if you’re turning the rope. <break time="650ms"/>  
+Remember, <emphasis level="strong">focus on form,<break time="150ms"/> not speed.</emphasis> <break time="650ms"/></p>
+<p>Let’s repeat for a quick ten-count. <break time="650ms"/></p>
+<p><prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">Land softly,<break time="150ms"/> wrists rotate</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">Keep core tight</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Three - <emphasis level="moderate">Small jumps or taps</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Four - <emphasis level="moderate">Breath in and out</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Five - <emphasis level="moderate">Eyes forward</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Six - <emphasis level="moderate">Shoulders relaxed</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Seven - <emphasis level="moderate">Knees gently bent</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Eight - <emphasis level="moderate">Stay light on your feet</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Nine - <emphasis level="moderate">Steady rhythm</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Ten - <emphasis level="moderate">Finish strong,<break time="150ms"/> keep form</emphasis> <break time="3000ms"/></prosody></p>
+<p>Great job completing the imaginary jump rope drill. <break time="650ms"/>  
+This exercise improves agility and coordination with minimal equipment. <break time="650ms"/>  
+Remember,<break time="150ms"/> you can adjust the movement to fit your needs. <break time="650ms"/>  
+With regular practice,<break time="150ms"/> your stamina and footwork will improve. <break time="650ms"/>  
+Take a moment to catch your breath and appreciate your effort. <break time="650ms"/></p>
+</prosody>
+</voice>
+</speak>

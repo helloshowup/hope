@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="en-US">
+<voice name="en-US-AndrewNeural" parameters="temperature=0.35">
+<prosody rate="-5%" pitch="+2%" volume="+10%">
+<p>Welcome to today’s movement session. <break time="650ms"/>  
+We’ll focus on the **Personal Space Bubble Exercise**. <break time="650ms"/>  
+This activity builds body awareness,<break time="150ms"/> helping you move safely in any environment. <break time="650ms"/>  
+Let’s begin by setting up your space. <break time="650ms"/></p>
+<p>Stand in the center of your open area. <break time="650ms"/>  
+Make sure there are no objects nearby. <break time="650ms"/>  
+Stretch your arms out to the sides,<break time="150ms"/> front,<break time="150ms"/> and back. <break time="650ms"/>  
+This is your <emphasis level="moderate">personal space bubble</emphasis>. <break time="650ms"/>  
+You should be able to move without touching anything. <break time="650ms"/>  
+<emphasis level="strong">Safety first—check your space before you begin</emphasis>. <break time="650ms"/></p>
+<p>We’ll start by making four shapes within your bubble. <break time="650ms"/>  
+First,<break time="150ms"/> the **Tall Shape**. <break time="650ms"/>  
+Stand up straight. <break time="650ms"/>  
+Reach both arms as high as possible. <break time="650ms"/>  
+Fingers pointing up. <break time="650ms"/>  
+Feel your body lengthen. <break time="650ms"/>  
+<emphasis level="moderate">Keep feet flat on the floor</emphasis>. <break time="650ms"/>  
+Hold for a moment. <break time="650ms"/></p>
+<p>Second,<break time="150ms"/> the **Small Shape**. <break time="650ms"/>  
+Crouch down slowly. <break time="650ms"/>  
+Bring your knees close to your chest. <break time="650ms"/>  
+Wrap your arms around your knees. <break time="650ms"/>  
+Tuck your head down gently. <break time="650ms"/>  
+<emphasis level="moderate">Keep balance and move with control</emphasis>. <break time="650ms"/>  
+Hold this shape. <break time="650ms"/></p>
+<p>Third,<break time="150ms"/> the **Wide Shape**. <break time="650ms"/>  
+Stand tall. <break time="650ms"/>  
+Stretch arms out to the sides. <break time="650ms"/>  
+Step your feet apart. <break time="650ms"/>  
+Imagine making a star with your body. <break time="650ms"/>  
+<emphasis level="moderate">Fingers and toes reach out wide</emphasis>. <break time="650ms"/>  
+Hold for a count. <break time="650ms"/></p>
+<p>Fourth,<break time="150ms"/> the **Twisted Shape**. <break time="650ms"/>  
+Stand with feet facing forward. <break time="650ms"/>  
+Turn your upper body to one side. <break time="650ms"/>  
+Let your arms follow the twist. <break time="650ms"/>  
+Look gently over your shoulder. <break time="650ms"/>  
+<emphasis level="moderate">Keep your feet planted</emphasis>. <break time="650ms"/>  
+Hold this shape. <break time="650ms"/></p>
+<p>Success check: <break time="650ms"/>  
+Move through each shape again. <break time="650ms"/>  
+Did you stay in your bubble without touching anything? <break time="650ms"/>  
+If not,<break time="150ms"/> make your movements smaller or adjust your space. <break time="650ms"/></p>
+<p>Now,<break time="150ms"/> let’s move through your general space. <break time="650ms"/>  
+Walk carefully around your area. <break time="650ms"/>  
+Let’s count:  
+<prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">slow,<break time="150ms"/> controlled step</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">eyes forward,<break time="150ms"/> shoulders relaxed</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Three - <emphasis level="moderate">arms at your sides</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Four - <emphasis level="moderate">steady pace</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Five - <emphasis level="moderate">notice your surroundings</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Six - <emphasis level="moderate">quiet steps</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Seven - <emphasis level="moderate">move with confidence</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Eight - <emphasis level="moderate">keep bubble awareness</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Nine - <emphasis level="moderate">gentle steps</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Ten - <emphasis level="moderate">finish your walk</emphasis> <break time="650ms"/></prosody></p>
+<p>Now,<break time="150ms"/> five tip-toe steps:  
+<prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">lift heels,<break time="150ms"/> balance softly</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">move quietly</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Three - <emphasis level="moderate">small steps</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Four - <emphasis level="moderate">steady breathing</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Five - <emphasis level="moderate">relax your shoulders</emphasis> <break time="650ms"/></prosody></p>
+<p>Next,<break time="150ms"/> eight side steps:  
+<prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">step to the right,<break time="150ms"/> feet together</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">step to the left,<break time="150ms"/> feet together</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Three - <emphasis level="moderate">stay low,<break time="150ms"/> gentle knees</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Four - <emphasis level="moderate">arms out for balance</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Five - <emphasis level="moderate">eyes forward</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Six - <emphasis level="moderate">move smoothly</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Seven - <emphasis level="moderate">keep your bubble safe</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Eight - <emphasis level="moderate">finish strong</emphasis> <break time="3000ms"/></prosody></p>
+<p>Try a challenge: <break time="650ms"/>  
+Make your shapes bigger for more difficulty. <break time="650ms"/>  
+For an easier option,<break time="150ms"/> keep shapes and steps smaller. <break time="650ms"/></p>
+<p>Now,<break time="150ms"/> pause and reflect. <break time="650ms"/>  
+Think of a time at home when you needed your personal space. <break time="650ms"/>  
+Maybe moving in the kitchen around others. <break time="650ms"/>  
+Then,<break time="150ms"/> think of a time outside,<break time="150ms"/> like in a busy hallway. <break time="650ms"/>  
+How did your awareness help you move safely? <break time="650ms"/></p>
+<p>Great work. <break time="650ms"/>  
+This exercise helps you sense your body’s space and move with control. <break time="650ms"/>  
+You practiced making shapes,<break time="150ms"/> safe movement,<break time="150ms"/> and adjusting to your environment. <break time="650ms"/>  
+Remember,<break time="150ms"/> body awareness keeps you and others safe every day. <break time="650ms"/>  
+Take a deep breath and enjoy your improved movement skills. <break time="650ms"/></p>
+</prosody>
+</voice>
+</speak>

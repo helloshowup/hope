@@ -1,0 +1,18 @@
+Surgically remove the following two types of editorial elements from the document:
+
+Headings:
+
+Strip editorial prefixes such as numbering or labels (e.g., "Core Concept 1:") from headings.
+
+Example 1:
+Change ### Core Concept 1: Adaptive Question Generation
+to ### Adaptive Question Generation
+
+Example 2
+Change ### Core Concept 3: Reflection and Evidence of Growth
+to ### Reflection and Evidence of Growth
+
+Do not modify any other content in the document. Focus exclusively on the specified edit type.
+
+
+

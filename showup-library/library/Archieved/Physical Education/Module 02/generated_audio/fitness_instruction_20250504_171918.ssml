@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="en-US">
+<voice name="en-US-AndrewNeural" parameters="temperature=0.35">
+<prosody rate="-5%" pitch="+2%" volume="+10%">
+<p>Welcome to your movement session.<break time="350ms"/> Today’s exercise is the skipping step-hop. <break time="650ms"/> This move builds coordination and rhythm,<break time="150ms"/> and boosts your heart rate. <break time="650ms"/> Make sure your space is clear before you begin. <break time="650ms"/> Keep your landing soft to protect your joints. <break time="650ms"/></p>
+<p>Start by standing tall,<break time="150ms"/> feet hip-width apart,<break time="150ms"/> arms relaxed at your sides. <break time="650ms"/> Draw your shoulders back gently and look forward. <break time="650ms"/> Shift your weight onto your right foot. <break time="650ms"/> Step forward with your right foot. <break time="650ms"/> As your right foot lands,<break time="150ms"/> push off the ground and hop. <break time="650ms"/> At the same time,<break time="150ms"/> lift your left knee up toward your chest. <break time="650ms"/> Let your arms swing naturally,<break time="150ms"/> opposite to your legs. <break time="650ms"/> Land softly on your right foot. <break time="650ms"/> Now bring your left foot down in front. <break time="650ms"/> Hop on your left foot,<break time="150ms"/> while your right knee lifts up. <break time="650ms"/> Continue moving forward,<break time="150ms"/> alternating this step-hop motion. <break time="650ms"/></p>
+<p>Let’s practice together for six repetitions. <break time="2000ms"/></p>
+<p><prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">Step forward and hop,<break time="150ms"/> left knee lifts</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">Switch feet,<break time="150ms"/> keep your head up</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Three - <emphasis level="moderate">Swing arms in opposition to your legs</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Four - <emphasis level="moderate">Land softly,<break time="150ms"/> maintain posture</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Five - <emphasis level="moderate">Keep a steady step-hop rhythm</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Six - <emphasis level="strong">Check your balance and breathing</emphasis> <break time="3000ms"/></prosody></p>
+<p>Pause for a moment. <break time="650ms"/> Are you stepping and hopping with smooth rhythm? <break time="650ms"/> Is your posture upright,<break time="150ms"/> and are you landing softly? <break time="650ms"/> <emphasis level="moderate">Great job focusing on the details.</emphasis> <break time="650ms"/></p>
+<p>If you need an easier option,<break time="150ms"/> practice the movement in place. <break time="650ms"/> Just step and hop without traveling forward. <break time="650ms"/> Focus on coordination and balance. <break time="650ms"/> To increase the challenge,<break time="150ms"/> move faster or add more height to your hop. <break time="650ms"/> Always land gently to protect your ankles and knees. <break time="650ms"/></p>
+<p>Remember: <emphasis level="strong">Keep your gaze forward and core engaged</emphasis> throughout. <break time="650ms"/> If you feel off-balance,<break time="150ms"/> slow down and reset. <break time="650ms"/></p>
+<p>Skipping step-hops build rhythm,<break time="150ms"/> coordination,<break time="150ms"/> and cardiovascular endurance. <break time="650ms"/> They wake up your muscles and improve dynamic balance. <break time="650ms"/> Regular practice supports healthy movement and energetic posture. <break time="650ms"/> Thanks for moving with intention today. <break time="650ms"/> Carry this energy forward into your day,<break time="150ms"/> and remember—good form always comes first.</p>
+</prosody>
+</voice>
+</speak>

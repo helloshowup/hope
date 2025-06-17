@@ -1,0 +1,70 @@
+The history of typography is a fascinating journey that spans thousands of years. Here's a brief overview of its origins and key developments.
+Ancient Times (Pre-15th Century)
+In ancient times, early written communication involved symbols and pictures, known as pictographs and ideograms. Ideograms and pictographs are symbols or pictures that represent words, objects, or concepts. Each symbol or image represents a specific idea or object rather than a specific sound or phoneme, as is the case with alphabets. Although similar, the primary distinction between pictograms and ideograms is the relationship between the symbol and the entity it represents; pictograms are 'picture-like' forms and ideograms are more abstract. 
+Some examples of these include the mark-making and symbols we see in prehistoric cave paintings (roughly 25,000 BC), in cuneiform script of ancient Mesopotamia, and the hieroglyphs of ancient Egypt.
+Fig 1. Prehistoric cave paintings
+The phonetic alphabet was developed around 1050 BC and marked a significant shift towards more efficient written communication.
+Fig 2. The first phonetic alphabet
+This alphabet came before the Greek alphabet that emerged around 800 BC and the Roman alphabet in 700 BC.
+Fig 3. First Greek alphabet
+Fig 4. First Roman alphabet
+Gutenberg and the Printing Press (15th Century)
+In around 1440, German metal carver Johannes Gutenberg, revolutionised typography with the invention of the metal movable-type printing press. This printing press individually cast metal letters, or type, which could be assembled and disassembled to print different texts. The technique was used to imprint multiple copies of symbols or glyphs with a master type punch. Gutenberg's metal movable type allowed for the mass production of books, making them more accessible and affordable to the masses. 
+Fig 5. Making movable type
+Some believe the Bible was the first book to ever be printed using Gutenberg’s technique. However, although the Gutenberg Bible helped introduce printing to the West, the process was already well-established in other parts of the world. Chinese artisans were already pressing ink onto paper during the second century A.D. and by the 800s they had produced full-length books using wooden block printing (Andrews, 2023). Still, Gutenberg’s Bible did offer the world their first example of Old Style Serif font.
+Fig 6. Pixabay (n.d.) Printing using movable type
+Renaissance (15th-16th Century)
+Scholars like Aldus Manutius played a significant role in the development of humanist typography, a style of type design and book layout that emerged during the Renaissance. It is closely associated with the humanist movement, which was characterised by a revival of interest in classical learning, literature, and art. The style emphasised readability and aesthetics, influencing type design during this era. 
+Key milestones during this period include:
+1469: Nicolas Jenson introduced ‘Roman’, the first Serif type.
+1501: Francesco Griffo develops the first Italic type.
+1557: Robert Granjon produces the first Humanistic script.
+Fig 7. Wikipedia (uploaded 2006) Excerpt of Aldo Manuzio's Aristoteles (1495-1498)
+Baroque and Rococo (17th-18th Century)
+Typography during this period became more ornate and decorative, with lavish detail and strong contrasts, reflecting the elaborate artistic styles of the time. The era also introduced a new transitional type style featuring typographical features that align more with the typefaces that we are familiar with today. 
+Other notable milestones during this period include:
+1682: Nicolas Kis creates the first Transitional Serif type.
+1784: Firmin Didot develops the first Modern Serif.
+Fig 8. The types of the 18th-century English printer William Caslon are characterised by crisp, upright characters that recall the fluid strokes of the flexible steel pen and the pointed quill.
+Industrial Revolution (19th Century)
+The Industrial Revolution brought advancements like the Linotype machine, which automated the casting of individual lines of type, significantly increasing printing efficiency. With this, printers now began to distinguish between book printing and commercial printing or ‘jobbing’. This new phase of printing required a new aesthetic, making the typefaces from previous centuries inadequate for the new medium of advertising. Bigger, bolder type was required to make messages stand out in the grey printed environment and urban spaces. And so the Fat Face or Bold Face was born, one of the first created by Robert Thorne in 1803.
+Other key milestones are:
+1816: The birth of William Calson’s Sans Serif, the first ever.
+1817: Vincent Figgins’ created the Antique Roman, the first Slab Serif.
+Fig 9. William Caslon’s Sans Serif 
+Art Nouveau and Arts and Crafts Movement (Late 19th-early 20th Century)
+Design movements like Arts and Crafts and Art Nouveau emphasised decorative and organic forms, largely inspired by beauty and organic and asymmetrical shapes found in nature. This movement influenced typographic design in a similar fashion. Art Nouveau typefaces are generally stylized, elegant display designs. They were often inspired by the posters of, for example, Alphonse Mucha, a renowned artist of the period. 
+Fig 10. Pixabay (n.d.) Art Nouveau type used for a metro sign in Paris, France
+The first widely used Sans Serif font, ‘Akzidenz Grotesk’, was also developed during this era by the Berthold type foundry in 1896. ‘Akzidenz’ is the German term for ‘schrift’ or type used by commercial - as opposed to book - printers. ‘Grotesk’ is the nineteenth century German word for Sans Serif. In the United States the typeface was simply known as Standard.
+Bauhaus and Modernism (Early 20th Century)
+The Bauhaus movement and modernist designers like Jan Tschichold promoted clean, sans-serif fonts and a focus on functionality and readability. There were several notable milestones during this era of typography. 
+In 1919, the Bauhaus School of Design popularised Sans Serif type design with its consistent stroke width, giving it a clean and modern look. Sans serif type - until then reserved for headlines and captions - was seen by many as most appropriate for asymmetric page layouts that broke with traditional styles. It is worth noting that it was also at this time that the idea of ‘graphic design’ began as a separate discipline to printing or fine art. In 1925 at the Bauhaus, Herbert Bayer designed “universal”, consisting of only lowercase letters constructed with circles and straight lines.
+Fig 11. Bayer’s lowercase letters
+Eric Gill designed Gill Sans in 1928, based on the typeface his teacher Edward Johnston created in 1916 for the signage of the London Underground. Gill’s lettering is based on classic roman proportions, which give the Sans Serif a less mechanical feel than its geometric contemporaries. The typeface was initially recommended for advertising and headlines, but as the public got used to reading Sans Serif, Gill Sans worked just as well for body text.
+Fig 12. Gill Sans type
+Paul Renner designed Futura in Germany in 1927. It’s a practical and subtle font that came from this period and remains widely used today. Futura had the honour of being the first typeface on the moon, chosen for a commemorative plaque left by the astronauts of Apollo 11 in 1969.
+Fig 13. Futura type featuring in the plaque commemorating the moon landing of 1969
+Iconic filmmaker Stanley Kubrick used Futura religiously in many of his films, including in 2001: A Space Odyssey and Eyes Wide Shut. Futura (and its variants) have become a popular typeface for countless corporate logos, commercial products, films and advertisements. In fact, so popular that certain art directors had begun boycotting its use with Art Directors Against Futura Extra Bold Condensed, published in 1992's TDC Typography 13. Regardless, Futura remains one of the most used (and loved) sans-serif fonts today with no signs of slowing down.
+Another type from this modern era was Univers, created by Adrian Frutiger. Released in 1957 by the Deberny & Peignot foundry, in Paris, about the same time that Helvetica (fig 15.) was released and in response to the same perceived need for a utilitarian, versatile sans serif workhorse. Frutiger used numbers instead of names to describe the palette of widths and weights of Univers. This was in an effort to eliminate the growing confusion in typeface terminology - thin/light, regular/medium, bold/black. In any 2-digit descriptor, the first number designates character width. Even numbers indicate Italics and odd numbers indicate Romans.
+Fig 14. Univers used for street signs in London, England and across the UK
+Helvetica was developed in 1957 by Max Miedinger and Eduard Hoffmann at the Haas'sche Schriftgiesserei (Haas Type Foundry) of Münchenstein, Switzerland. Haas set out to design a new sans-serif typeface that could compete with the successful Akzidenz Grotesk in the Swiss market. Originally called Neue Haas Grotesk, its design was based on Schelter-Grotesk and Haas' Normal Grotesk. The aim of the new design was to create a neutral typeface that had great clarity, no intrinsic meaning in its form, and could be used on a wide variety of signage.
+Fig 15. Helvetica used in public signage and brand logos
+Postmodernism (Late 20th Century)
+Postmodernist designers challenged the  principles of Modernism, embracing a more eclectic and experimental approach to typography. For instance, in 1967 the Dutch designer Wim Crouwel published his designs for a “new alphabet,” consisting of no diagonals or curves. 
+Fig 16. Crouwel’s “new alphabet”
+Digital Age (Late 20th Century-Present)
+The introduction of computers, printers (the 1960s and 70s heralding laser and inkjet printers respectively) and desktop publishing software in the late 20th century democratised typography, allowing designers to easily manipulate and create type digitally. With the rise of the internet, web typography became a crucial aspect of design, leading to the development of web-safe fonts and responsive typography. One example is the French designer Philippe Apeloig, who in 1993 created these contemporary variations on reduced, geometric typefaces.
+Fig 17. Apeloig’s geometric type
+Contemporary Trends
+Just like in fashion, typography is also heavily influenced and characterised by contemporary trends. Currently, there are several typography trends worth noting, such as: 
+Variable Fonts, which allow for multiple variations (weight, width, slant, etc.) within a single font file, offering more flexibility and efficiency in design.
+Custom Fonts, which designers are increasingly using to create a unique and memorable brand identity.
+Mixing Typefaces, which entails combining different typefaces to create contrast and visual interest. However, this requires a careful balance to maintain readability and cohesion.
+Responsive Typography, which comes as a result of the increasing variety of devices and screen sizes. Responsive typography is based on adapting font sizes and styles based on screen dimensions.
+Handwritten and Script Fonts continue to be popular, adding a personal and authentic touch to designs.
+Minimalist Typography, which has its premise on simplicity and minimalism, these typefaces are clean and easy-to-read, used for a straightforward and elegant look.
+Fig 18. Unsplash (n.d) Fluid-effect 3D font
+Fig 19. Unsplash (n.d)  Handwritten font
+Throughout history, typography has evolved from handwritten manuscripts to digital fonts, with each era leaving its mark on the graphic design world. Today, typography continues to be a dynamic and evolving field, with designers exploring new possibilities in the digital age.
+References:
+Andrews, E. (2023) 7 things you may not know about the Gutenberg Bible. https://www.history.com/news/7-things-you-may-not-know-about-the-gutenberg-bible.

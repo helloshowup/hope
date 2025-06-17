@@ -1,0 +1,3173 @@
+{
+  "course_name": "Excel High School ElvatED Edu Program",
+  "csv_path": "C:/Users/User/Downloads/ElevatED Step Outline - Module 01.csv",
+  "start_time": "2025-05-27T11:59:57.019217",
+  "status": "started",
+  "processed_rows": [
+    {
+      "module": "1",
+      "lesson": "1",
+      "step_number": "1",
+      "step_title": "Growth Mindset Foundations",
+      "template_type": "lesson",
+      "status": "completed",
+      "timestamp": "2025-05-27T11:59:57.021888",
+      "log_entries": [
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module 1, Lesson 1, Step 1"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (267 characters)"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-05-27 12:00:53",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-05-27 12:00:53",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-05-27 12:00:53",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:00:53",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-05-27 12:00:54",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:00:54",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-05-27 12:01:28",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:01:28",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-05-27 12:01:28",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 0 AI patterns"
+        },
+        {
+          "timestamp": "2025-05-27 12:01:28",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-05-27 12:01:28",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:01:28",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-05-27 12:01:28",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to C:/Users/User/Documents/showup-v4/showup-library/library/SUSquaredV4_versions/EvalatED/NEW Module 1\\1\\1_Growth Mindset Foundations.md"
+        }
+      ],
+      "comparison_explanation": "Error in comparison process: maximum recursion depth exceeded while calling a Python object. Using most structurally complete version as fallback.",
+      "review_summary": "I made several significant improvements to enhance the educational effectiveness of this content:\n\n1. Added clear learning objectives at the beginning to help students understand what they'll gain from the module\n2. Incorporated interactive elements including a \"Quick Check\" reflection prompt and an application activity to promote active learning\n3. Reformatted the fixed vs. growth mindset comparison as a table for better visual clarity and easier comparison\n4. Added a specific section on applying growth mindset to Excel High School coursework with relevant examples\n5. Included a structured activity that guides students to apply concepts to their own learning challenges\n6. Added a conclusion that reinforces key takeaways\n7. Added an \"Additional Resources\" section with multimedia options and a reminder about Excel High School support services\n8. Improved formatting throughout with better use of headers, bullet points, and visual organization\n\nThese changes align with the target learner profile by:\n- Supporting self-directed learning with clear structure and navigation\n- Building confidence through reflection and application\n- Providing real-world relevance and practical strategies\n- Incorporating UDL principles with multiple means of engagement and representation\n- Supporting diverse learner segments from traditional achievers to \"second-chance\" learners",
+      "ai_patterns_detected": 0,
+      "editing_explanation": "No AI patterns detected, no edits needed.",
+      "output_path": "C:/Users/User/Documents/showup-v4/showup-library/library/SUSquaredV4_versions/EvalatED/NEW Module 1\\1\\1_Growth Mindset Foundations.md",
+      "completion_timestamp": "2025-05-27T12:01:28.422177"
+    },
+    {
+      "module": "1",
+      "lesson": "1",
+      "step_number": "2",
+      "step_title": "Exploring Growth Mindset in Practice",
+      "template_type": "step-by-step",
+      "status": "completed",
+      "timestamp": "2025-05-27T11:59:57.027393",
+      "log_entries": [
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module 1, Lesson 1, Step 2"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (486 characters)"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:01:28",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-05-27 12:02:03",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-05-27 12:02:03",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-05-27 12:02:03",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:02:03",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-05-27 12:02:03",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:02:03",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-05-27 12:02:22",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:02:22",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-05-27 12:02:22",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 0 AI patterns"
+        },
+        {
+          "timestamp": "2025-05-27 12:02:22",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-05-27 12:02:22",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:02:22",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-05-27 12:02:22",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to C:/Users/User/Documents/showup-v4/showup-library/library/SUSquaredV4_versions/EvalatED/NEW Module 1\\1\\2_Exploring Growth Mindset in Practice.md"
+        }
+      ],
+      "comparison_explanation": "Error in comparison process: maximum recursion depth exceeded while calling a Python object. Using most structurally complete version as fallback.",
+      "review_summary": "I made several key improvements to enhance learner engagement and educational effectiveness:\n\n1. Removed the \"BRYTE AI Prompt\" framing and replaced it with clearer \"Scenario\" headings to make the content more directly accessible to students.\n\n2. Added personalized reflection questions after each example to promote deeper processing and self-connection to the material.\n\n3. Added an application activity at the end to encourage immediate practice of the concepts.\n\n4. Included specific suggestions for how students can use the BRYTE AI Tutor independently, with example prompts they might try.\n\n5. Improved the overall structure with clearer headings and more consistent formatting.\n\n6. Adjusted language to be more directly relevant to both younger students and adult learners, acknowledging the diverse learner segments at Excel High School.\n\nThese changes transform the content from a passive reading experience to an active learning opportunity that better supports self-directed learning while maintaining the core educational content about growth vs. fixed mindset.",
+      "ai_patterns_detected": 0,
+      "editing_explanation": "No AI patterns detected, no edits needed.",
+      "output_path": "C:/Users/User/Documents/showup-v4/showup-library/library/SUSquaredV4_versions/EvalatED/NEW Module 1\\1\\2_Exploring Growth Mindset in Practice.md",
+      "completion_timestamp": "2025-05-27T12:02:22.177462"
+    },
+    {
+      "module": "1",
+      "lesson": "1",
+      "step_number": "3",
+      "step_title": "Personal Mindset Reflection",
+      "template_type": "Instruction",
+      "status": "completed",
+      "timestamp": "2025-05-27T11:59:57.028957",
+      "log_entries": [
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module 1, Lesson 1, Step 3"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (495 characters)"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:02:22",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-05-27 12:02:49",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-05-27 12:02:49",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-05-27 12:02:49",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:02:49",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-05-27 12:02:49",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:02:49",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-05-27 12:03:05",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:03:05",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-05-27 12:03:05",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 0 AI patterns"
+        },
+        {
+          "timestamp": "2025-05-27 12:03:05",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-05-27 12:03:05",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:03:05",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-05-27 12:03:05",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to C:/Users/User/Documents/showup-v4/showup-library/library/SUSquaredV4_versions/EvalatED/NEW Module 1\\1\\3_Personal Mindset Reflection.md"
+        }
+      ],
+      "comparison_explanation": "Error in comparison process: maximum recursion depth exceeded while calling a Python object. Using most structurally complete version as fallback.",
+      "review_summary": "I made several enhancements to improve the journal prompt while maintaining its core purpose:\n\n1. Added a \"Tips for Success\" section with concrete examples to help students who might struggle to identify a relevant experience, addressing the needs of \"Second-Chance Learners\" and others who might need additional scaffolding.\n\n2. Expanded the explanation of growth mindset with bullet points of specific behaviors and thought patterns, making the concept more concrete and actionable.\n\n3. Added clear length expectations and submission format information to provide the structure needed by Traditional Achievers and Adult Diploma Seekers.\n\n4. Improved formatting with additional headers and bullet points to enhance readability and organization, supporting Universal Design for Learning principles.\n\n5. Maintained the reflective, personal nature of the assignment while providing more scaffolding to support diverse learner needs.\n\nThese changes support the instructional design drivers of \"Scaffold & Spiral\" and \"Flexibility WITH Structure\" while making the assignment more accessible to all learner segments.",
+      "ai_patterns_detected": 0,
+      "editing_explanation": "No AI patterns detected, no edits needed.",
+      "output_path": "C:/Users/User/Documents/showup-v4/showup-library/library/SUSquaredV4_versions/EvalatED/NEW Module 1\\1\\3_Personal Mindset Reflection.md",
+      "completion_timestamp": "2025-05-27T12:03:05.288705"
+    },
+    {
+      "module": "1",
+      "lesson": "1",
+      "step_number": "4",
+      "step_title": "Growth Mindset Infographic",
+      "template_type": "infographic brief",
+      "status": "completed",
+      "timestamp": "2025-05-27T11:59:57.033018",
+      "log_entries": [
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module 1, Lesson 1, Step 4"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (440 characters)"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:03:05",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-05-27 12:03:35",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-05-27 12:03:35",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-05-27 12:03:35",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:03:35",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-05-27 12:03:36",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:03:36",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-05-27 12:03:56",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:03:56",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-05-27 12:03:56",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 0 AI patterns"
+        },
+        {
+          "timestamp": "2025-05-27 12:03:56",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-05-27 12:03:56",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:03:56",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-05-27 12:03:56",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to C:/Users/User/Documents/showup-v4/showup-library/library/SUSquaredV4_versions/EvalatED/NEW Module 1\\1\\4_Growth Mindset Infographic.md"
+        }
+      ],
+      "comparison_explanation": "Error in comparison process: maximum recursion depth exceeded while calling a Python object. Using most structurally complete version as fallback.",
+      "review_summary": "I made several improvements to enhance the assignment's clarity, structure, and alignment with educational best practices:\n\n1. Added clear learning objectives to help students understand the purpose and value of the assignment\n2. Included time estimates for each step to help with time management\n3. Added a structured submission process with file naming conventions and format requirements\n4. Incorporated accessibility considerations for diverse learners\n5. Added specific resources and support options\n6. Created a more detailed step-by-step process with an optional reflection/revision step\n7. Added suggested questions for peer feedback to make the community engagement more purposeful\n8. Improved formatting with clearer section headers and visual organization\n9. Included specific tool links to reduce barriers to getting started\n10. Added a reminder about the BRYTE AI Tutor as a research resource\n\nThese changes better align with the target learner profile by providing more structure while maintaining flexibility, supporting self-direction, incorporating UDL principles, and encouraging community engagement.",
+      "ai_patterns_detected": 0,
+      "editing_explanation": "No AI patterns detected, no edits needed.",
+      "output_path": "C:/Users/User/Documents/showup-v4/showup-library/library/SUSquaredV4_versions/EvalatED/NEW Module 1\\1\\4_Growth Mindset Infographic.md",
+      "completion_timestamp": "2025-05-27T12:03:56.590904"
+    },
+    {
+      "module": "1",
+      "lesson": "1",
+      "step_number": "5",
+      "step_title": "Infographic Submission",
+      "template_type": "Game",
+      "status": "completed",
+      "timestamp": "2025-05-27T11:59:57.033018",
+      "log_entries": [
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module 1, Lesson 1, Step 5"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (442 characters)"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:03:56",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-05-27 12:04:21",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-05-27 12:04:21",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-05-27 12:04:21",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:04:21",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-05-27 12:04:22",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:04:22",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-05-27 12:04:32",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:04:32",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-05-27 12:04:32",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 0 AI patterns"
+        },
+        {
+          "timestamp": "2025-05-27 12:04:32",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-05-27 12:04:32",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:04:32",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-05-27 12:04:32",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to C:/Users/User/Documents/showup-v4/showup-library/library/SUSquaredV4_versions/EvalatED/NEW Module 1\\1\\5_Infographic Submission.md"
+        }
+      ],
+      "comparison_explanation": "Error in comparison process: maximum recursion depth exceeded while calling a Python object. Using most structurally complete version as fallback.",
+      "review_summary": "I made several improvements to enhance clarity, engagement, and alignment with Excel High School's learner profile:\n\n1. Added a more descriptive title that clearly indicates this is a checkpoint, not the final submission\n2. Reorganized content with clearer section headings and a more logical flow\n3. Added specific guidance on what to include in the feedback request note\n4. Incorporated references to Excel-specific support resources (Success Coach, BRYTE AI Tutor)\n5. Used more direct, action-oriented language appropriate for self-paced learners\n6. Improved formatting with bulleted lists and better visual organization\n7. Added a clear call-to-action with the submit button reference\n8. Removed unnecessary explanations while maintaining all essential instructions\n9. Included language that builds confidence while maintaining clear expectations",
+      "ai_patterns_detected": 0,
+      "editing_explanation": "No AI patterns detected, no edits needed.",
+      "output_path": "C:/Users/User/Documents/showup-v4/showup-library/library/SUSquaredV4_versions/EvalatED/NEW Module 1\\1\\5_Infographic Submission.md",
+      "completion_timestamp": "2025-05-27T12:04:32.811218"
+    },
+    {
+      "module": "1",
+      "lesson": "1",
+      "step_number": "6",
+      "step_title": "SMART Goals Overview",
+      "template_type": "lesson",
+      "status": "completed",
+      "timestamp": "2025-05-27T11:59:57.033018",
+      "log_entries": [
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module 1, Lesson 1, Step 6"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (407 characters)"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:04:32",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-05-27 12:05:50",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-05-27 12:05:50",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-05-27 12:05:50",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:05:50",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-05-27 12:05:50",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:05:50",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-05-27 12:06:19",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:06:19",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-05-27 12:06:19",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 0 AI patterns"
+        },
+        {
+          "timestamp": "2025-05-27 12:06:19",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-05-27 12:06:19",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:06:19",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-05-27 12:06:19",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to C:/Users/User/Documents/showup-v4/showup-library/library/SUSquaredV4_versions/EvalatED/NEW Module 1\\1\\6_SMART Goals Overview.md"
+        }
+      ],
+      "comparison_explanation": "Error in comparison process: maximum recursion depth exceeded while calling a Python object. Using most structurally complete version as fallback.",
+      "review_summary": "I made several improvements to enhance clarity, engagement, and educational effectiveness:\n\n1. Added visual cues (\u274c and \u2705) to clearly distinguish between vague and SMART examples for each component\n2. Added \"Quick Check\" questions after each component to help learners self-assess their understanding\n3. Improved formatting with more consistent structure across all components\n4. Added a \"Try It Yourself\" section with a simple table template to encourage immediate application of the concept\n5. Enhanced visual hierarchy with better spacing and formatting to improve readability\n6. Maintained all original content while making it more scannable and interactive\n7. Ensured examples are relevant to the diverse Excel High School learner segments (traditional students, adult learners, credit recovery students)\n\nThese changes support Universal Design for Learning principles by providing multiple means of representation and engagement while maintaining the strong educational content of the original.",
+      "ai_patterns_detected": 0,
+      "editing_explanation": "No AI patterns detected, no edits needed.",
+      "output_path": "C:/Users/User/Documents/showup-v4/showup-library/library/SUSquaredV4_versions/EvalatED/NEW Module 1\\1\\6_SMART Goals Overview.md",
+      "completion_timestamp": "2025-05-27T12:06:19.501961"
+    },
+    {
+      "module": "1",
+      "lesson": "1",
+      "step_number": "7",
+      "step_title": "Crafting a SMART Goal Together",
+      "template_type": "step-by-step",
+      "status": "completed",
+      "timestamp": "2025-05-27T11:59:57.040523",
+      "log_entries": [
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module 1, Lesson 1, Step 7"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (371 characters)"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:06:19",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-05-27 12:06:56",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-05-27 12:06:56",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-05-27 12:06:56",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:06:56",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-05-27 12:06:57",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:06:57",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-05-27 12:07:17",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:07:17",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-05-27 12:07:17",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 0 AI patterns"
+        },
+        {
+          "timestamp": "2025-05-27 12:07:17",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-05-27 12:07:17",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:07:17",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-05-27 12:07:17",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to C:/Users/User/Documents/showup-v4/showup-library/library/SUSquaredV4_versions/EvalatED/NEW Module 1\\1\\7_Crafting a SMART Goal Together.md"
+        }
+      ],
+      "comparison_explanation": "Error in comparison process: maximum recursion depth exceeded while calling a Python object. Using most structurally complete version as fallback.",
+      "review_summary": "I made several key improvements to adapt this activity for Excel High School's asynchronous online learning environment:\n\n1. Modified the instructions to acknowledge the online context, specifying how students can collaborate remotely through course messaging or other digital tools\n2. Added clear submission guidelines with specific requirements\n3. Included collaboration tips specifically designed for online learners\n4. Added a fourth goal option related to online learning time management\n5. Referenced Excel High School's BRYTE AI Tutor as a support resource\n6. Added a reflection component connecting the activity to their Excel High School courses\n7. Clarified the submission process through the assignment portal\n\nThese changes maintain the educational value of the partner activity while making it practical for asynchronous online learners who may have different schedules and need more structured guidance for remote collaboration.",
+      "ai_patterns_detected": 0,
+      "editing_explanation": "No AI patterns detected, no edits needed.",
+      "output_path": "C:/Users/User/Documents/showup-v4/showup-library/library/SUSquaredV4_versions/EvalatED/NEW Module 1\\1\\7_Crafting a SMART Goal Together.md",
+      "completion_timestamp": "2025-05-27T12:07:17.170822"
+    },
+    {
+      "module": "1",
+      "lesson": "1",
+      "step_number": "8",
+      "step_title": "Your SMART Goals Draft",
+      "template_type": "Community Brief",
+      "status": "completed",
+      "timestamp": "2025-05-27T11:59:57.044547",
+      "log_entries": [
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module 1, Lesson 1, Step 8"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (375 characters)"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:07:17",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-05-27 12:07:46",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-05-27 12:07:46",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-05-27 12:07:46",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:07:46",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-05-27 12:07:47",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:07:47",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-05-27 12:08:04",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:08:04",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-05-27 12:08:04",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 0 AI patterns"
+        },
+        {
+          "timestamp": "2025-05-27 12:08:04",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-05-27 12:08:04",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:08:04",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-05-27 12:08:04",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to C:/Users/User/Documents/showup-v4/showup-library/library/SUSquaredV4_versions/EvalatED/NEW Module 1\\1\\8_Your SMART Goals Draft.md"
+        }
+      ],
+      "comparison_explanation": "Error in comparison process: maximum recursion depth exceeded while calling a Python object. Using most structurally complete version as fallback.",
+      "review_summary": "I made several enhancements to improve the content for Excel High School students:\n\n1. Expanded the example goal to be more comprehensive and illustrative:\n   - Added more detail to each SMART criterion explanation\n   - Added specific dates for the time-bound element\n   - Added a \"Potential Obstacles\" and \"Solutions\" section that references Excel-specific resources (BRYTE AI Tutor, planner)\n\n2. Added a concluding paragraph that acknowledges the need for flexibility in goal-setting, which supports the diverse learner segments who may need to adjust goals due to work, family, or other commitments.\n\n3. Added a \"Pro Tip\" that encourages students to engage with their Success Coach, promoting the support systems available at Excel High School.\n\nThese changes enhance the educational value by providing a more robust example, improve engagement through personalized Excel-specific references, and support the self-directed nature of asynchronous learning by acknowledging flexibility while maintaining structure.",
+      "ai_patterns_detected": 0,
+      "editing_explanation": "No AI patterns detected, no edits needed.",
+      "output_path": "C:/Users/User/Documents/showup-v4/showup-library/library/SUSquaredV4_versions/EvalatED/NEW Module 1\\1\\8_Your SMART Goals Draft.md",
+      "completion_timestamp": "2025-05-27T12:08:04.060290"
+    },
+    {
+      "module": "1",
+      "lesson": "1",
+      "step_number": "9",
+      "step_title": "Peer Review of SMART Goals",
+      "template_type": "community instructions",
+      "status": "completed",
+      "timestamp": "2025-05-27T11:59:57.048621",
+      "log_entries": [
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module 1, Lesson 1, Step 9"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (309 characters)"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:08:04",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-05-27 12:08:35",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-05-27 12:08:35",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-05-27 12:08:35",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:08:35",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-05-27 12:08:36",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:08:36",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-05-27 12:08:55",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:08:55",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-05-27 12:08:55",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 0 AI patterns"
+        },
+        {
+          "timestamp": "2025-05-27 12:08:55",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-05-27 12:08:55",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:08:55",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-05-27 12:08:55",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to C:/Users/User/Documents/showup-v4/showup-library/library/SUSquaredV4_versions/EvalatED/NEW Module 1\\1\\9_Peer Review of SMART Goals.md"
+        }
+      ],
+      "comparison_explanation": "Error in comparison process: maximum recursion depth exceeded while calling a Python object. Using most structurally complete version as fallback.",
+      "review_summary": "I made several enhancements to improve the content for Excel High School's asynchronous learners:\n\n1. Added a \"Pro Tip\" about how to connect with peers in an asynchronous environment, addressing a key challenge for online students.\n\n2. Included a structured feedback template to guide students in providing comprehensive, organized feedback.\n\n3. Added a fifth step focused on reflection, encouraging metacognition about the peer review process.\n\n4. Added clear submission requirements at the end to set expectations for the assignment.\n\n5. Expanded the example feedback to be more concrete and actionable.\n\nThese changes support Excel's instructional design drivers by:\n- Enhancing self-direction aids with clearer structure\n- Supporting flexibility with structure through templates and clear expectations\n- Fostering community and presence through guided peer interaction\n- Incorporating reflection to deepen learning and support mastery",
+      "ai_patterns_detected": 0,
+      "editing_explanation": "No AI patterns detected, no edits needed.",
+      "output_path": "C:/Users/User/Documents/showup-v4/showup-library/library/SUSquaredV4_versions/EvalatED/NEW Module 1\\1\\9_Peer Review of SMART Goals.md",
+      "completion_timestamp": "2025-05-27T12:08:55.399705"
+    },
+    {
+      "module": "1",
+      "lesson": "1",
+      "step_number": "10",
+      "step_title": "SMART Goals Submission",
+      "template_type": "assignment submission",
+      "status": "completed",
+      "timestamp": "2025-05-27T11:59:57.050175",
+      "log_entries": [
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module 1, Lesson 1, Step 10"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (452 characters)"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:08:55",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-05-27 12:09:23",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-05-27 12:09:23",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-05-27 12:09:23",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:09:23",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-05-27 12:09:24",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:09:24",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-05-27 12:09:37",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:09:37",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-05-27 12:09:37",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 0 AI patterns"
+        },
+        {
+          "timestamp": "2025-05-27 12:09:37",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-05-27 12:09:37",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:09:37",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-05-27 12:09:37",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to C:/Users/User/Documents/showup-v4/showup-library/library/SUSquaredV4_versions/EvalatED/NEW Module 1\\1\\10_SMART Goals Submission.md"
+        }
+      ],
+      "comparison_explanation": "Error in comparison process: maximum recursion depth exceeded while calling a Python object. Using most structurally complete version as fallback.",
+      "review_summary": "I made several improvements to enhance clarity, engagement, and alignment with Excel High School's learner profile:\n\n1. Simplified language and shortened paragraphs for better readability\n2. Added a formatted example template with bullet points to make submission requirements clearer\n3. Included specific timeframe (48 hours) for feedback instead of the placeholder\n4. Mentioned the Student Portal notification system to align with the school's platform features\n5. Added reference to BRYTE AI Tutor as a support resource (from the learner profile)\n6. Created a more engaging \"Pro Tip\" section instead of the generic reminder\n7. Clarified that approval unlocks the next module (providing motivation and structure)\n8. Improved formatting with more visual separation between sections\n9. Removed redundant language while preserving all essential instructions",
+      "ai_patterns_detected": 0,
+      "editing_explanation": "No AI patterns detected, no edits needed.",
+      "output_path": "C:/Users/User/Documents/showup-v4/showup-library/library/SUSquaredV4_versions/EvalatED/NEW Module 1\\1\\10_SMART Goals Submission.md",
+      "completion_timestamp": "2025-05-27T12:09:37.278977"
+    },
+    {
+      "module": "1",
+      "lesson": "1",
+      "step_number": "11",
+      "step_title": "Motivation & Planning Strategies",
+      "template_type": "lesson",
+      "status": "completed",
+      "timestamp": "2025-05-27T11:59:57.054732",
+      "log_entries": [
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module 1, Lesson 1, Step 11"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (360 characters)"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:09:37",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-05-27 12:10:48",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-05-27 12:10:48",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-05-27 12:10:48",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:10:48",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-05-27 12:10:48",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:10:48",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-05-27 12:11:27",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:11:27",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-05-27 12:11:27",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 0 AI patterns"
+        },
+        {
+          "timestamp": "2025-05-27 12:11:27",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-05-27 12:11:27",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:11:27",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-05-27 12:11:27",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to C:/Users/User/Documents/showup-v4/showup-library/library/SUSquaredV4_versions/EvalatED/NEW Module 1\\1\\11_Motivation _ Planning Strategies.md"
+        }
+      ],
+      "comparison_explanation": "Error in comparison process: maximum recursion depth exceeded while calling a Python object. Using most structurally complete version as fallback.",
+      "review_summary": "I made several enhancements to improve the educational effectiveness of this content:\n\n1. Added clear learning objectives at the beginning to help students understand what they'll gain from the lesson\n2. Inserted engagement elements including:\n   - \"Quick Check\" reflection questions\n   - \"Try This\" activity with a downloadable resource\n   - A real student example/testimonial to increase relatability\n3. Added a \"Putting It All Together\" section with specific action steps to help students implement what they've learned\n4. Included a Resources section with links to additional support materials\n5. Added a Summary section to reinforce key takeaways\n6. Incorporated specific references to Excel High School resources (Success Coach Pro, BRYTE AI Tutor, Writing Lab)\n7. Made minor adjustments to language to ensure inclusivity for all learner segments (e.g., acknowledging different scheduling needs for Adult Diploma Seekers)\n8. Improved the overall structure with more consistent formatting and clearer transitions between sections\n\nThese changes align with the instructional design drivers in the learner profile, particularly UDL principles, self-direction aids, and the balance of flexibility with structure.",
+      "ai_patterns_detected": 0,
+      "editing_explanation": "No AI patterns detected, no edits needed.",
+      "output_path": "C:/Users/User/Documents/showup-v4/showup-library/library/SUSquaredV4_versions/EvalatED/NEW Module 1\\1\\11_Motivation _ Planning Strategies.md",
+      "completion_timestamp": "2025-05-27T12:11:27.129037"
+    },
+    {
+      "module": "1",
+      "lesson": "1",
+      "step_number": "12",
+      "step_title": "Weekly Study Schedule",
+      "template_type": "step-by-step",
+      "status": "completed",
+      "timestamp": "2025-05-27T11:59:57.058357",
+      "log_entries": [
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module 1, Lesson 1, Step 12"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (439 characters)"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:11:27",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-05-27 12:12:04",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-05-27 12:12:04",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-05-27 12:12:04",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:12:04",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-05-27 12:12:04",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:12:04",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-05-27 12:12:26",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:12:26",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-05-27 12:12:26",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 0 AI patterns"
+        },
+        {
+          "timestamp": "2025-05-27 12:12:26",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-05-27 12:12:26",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:12:26",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-05-27 12:12:26",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to C:/Users/User/Documents/showup-v4/showup-library/library/SUSquaredV4_versions/EvalatED/NEW Module 1\\1\\12_Weekly Study Schedule.md"
+        }
+      ],
+      "comparison_explanation": "Error in comparison process: maximum recursion depth exceeded while calling a Python object. Using most structurally complete version as fallback.",
+      "review_summary": "I made several significant improvements to the content:\n\n1. Added Excel High School-specific context throughout to make the content more relevant to the target audience\n2. Expanded Step 1 to include consideration of existing commitments\n3. Enhanced the template structure to include breaks, upcoming deadlines, resources needed, and self-care reminders\n4. Added two specific examples tailored to different learner segments (traditional student and adult learner)\n5. Created a new Step 4 section with specific success strategies that reference Excel's platform features (BRYTE AI Tutor, Student Portal, Success Coach)\n6. Improved the overall organization with clearer section headers and more concise instructions\n7. Added more specific guidance for maintaining motivation and tracking progress\n8. Incorporated UDL principles by providing multiple examples and formats for different types of learners\n\nThe revised content better addresses the diverse needs of Excel's learner segments while incorporating the platform's unique features and instructional design drivers.",
+      "ai_patterns_detected": 0,
+      "editing_explanation": "No AI patterns detected, no edits needed.",
+      "output_path": "C:/Users/User/Documents/showup-v4/showup-library/library/SUSquaredV4_versions/EvalatED/NEW Module 1\\1\\12_Weekly Study Schedule.md",
+      "completion_timestamp": "2025-05-27T12:12:26.843764"
+    },
+    {
+      "module": "1",
+      "lesson": "1",
+      "step_number": "13",
+      "step_title": "Your Study Plan",
+      "template_type": "Downloadable_resource",
+      "status": "completed",
+      "timestamp": "2025-05-27T11:59:57.060522",
+      "log_entries": [
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module 1, Lesson 1, Step 13"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (400 characters)"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:12:26",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-05-27 12:12:56",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-05-27 12:12:56",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-05-27 12:12:56",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:12:56",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-05-27 12:12:56",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:12:56",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-05-27 12:13:13",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:13:13",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-05-27 12:13:13",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 0 AI patterns"
+        },
+        {
+          "timestamp": "2025-05-27 12:13:13",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-05-27 12:13:13",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:13:13",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-05-27 12:13:13",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to C:/Users/User/Documents/showup-v4/showup-library/library/SUSquaredV4_versions/EvalatED/NEW Module 1\\1\\13_Your Study Plan.md"
+        }
+      ],
+      "comparison_explanation": "Error in comparison process: maximum recursion depth exceeded while calling a Python object. Using most structurally complete version as fallback.",
+      "review_summary": "I made several enhancements to improve the content's effectiveness for Excel High School's diverse learner segments:\n\n1. Added specific break time recommendations (5-10 minutes) to make the study block advice more actionable\n2. Included a new point (#8) about using technology, specifically mentioning the Excel High School Student Portal\n3. Added a visual sample schedule template in table format to provide a concrete example\n4. Created a new section with specific study schedule tips tailored to different learner segments (working adults, student athletes, parents, credit recovery students)\n5. Added a reminder about Success Coach support to reinforce available resources\n6. Improved overall formatting and visual organization to enhance readability\n\nThese changes address the needs of diverse learners while maintaining the original content's strengths in providing clear, structured guidance for creating effective study schedules.",
+      "ai_patterns_detected": 0,
+      "editing_explanation": "No AI patterns detected, no edits needed.",
+      "output_path": "C:/Users/User/Documents/showup-v4/showup-library/library/SUSquaredV4_versions/EvalatED/NEW Module 1\\1\\13_Your Study Plan.md",
+      "completion_timestamp": "2025-05-27T12:13:13.230632"
+    },
+    {
+      "module": "1",
+      "lesson": "1",
+      "step_number": "14",
+      "step_title": "Tracking Progress Methods",
+      "template_type": "lesson",
+      "status": "completed",
+      "timestamp": "2025-05-27T11:59:57.063571",
+      "log_entries": [
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module 1, Lesson 1, Step 14"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (363 characters)"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:13:13",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-05-27 12:13:51",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-05-27 12:13:51",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-05-27 12:13:51",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:13:51",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-05-27 12:13:51",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:13:51",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-05-27 12:14:12",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:14:12",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-05-27 12:14:12",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 0 AI patterns"
+        },
+        {
+          "timestamp": "2025-05-27 12:14:12",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-05-27 12:14:12",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:14:12",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-05-27 12:14:12",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to C:/Users/User/Documents/showup-v4/showup-library/library/SUSquaredV4_versions/EvalatED/NEW Module 1\\1\\14_Tracking Progress Methods.md"
+        }
+      ],
+      "comparison_explanation": "Error in comparison process: maximum recursion depth exceeded while calling a Python object. Using most structurally complete version as fallback.",
+      "review_summary": "I made several significant improvements to enhance the educational effectiveness of this content:\n\n1. Changed \"demonstration\" to \"lesson\" in the introduction to better reflect the instructional nature of the content.\n\n2. Added specific tool suggestions (Google Sheets, Notion, Trello) to make the digital tracking method more actionable.\n\n3. Incorporated real-world applications and a student example to help learners connect with the material and see its relevance.\n\n4. Added \"Time-saving tip\" and \"Quick start\" callouts to address the needs of busy adult learners and credit recovery students.\n\n5. Added an \"Adaptation tip\" for younger learners and those who prefer digital tools.\n\n6. Added a new section \"Finding What Works for You\" that acknowledges different learning preferences and schedules, supporting the UDL principles mentioned in the learner profile.\n\n7. Added a specific \"Action Step\" at the end to promote immediate application of the content.\n\n8. Referenced the Excel High School Student Portal to connect this content with the school's existing resources.\n\n9. Improved formatting with strategic bold text to highlight key points for skimming readers.\n\nThese changes better align the content with the diverse learner segments described in the profile, particularly addressing the needs of Adult Diploma Seekers, Traditional Achievers, and \"Second-Chance\" Learners while incorporating UDL principles and self-direction aids.",
+      "ai_patterns_detected": 0,
+      "editing_explanation": "No AI patterns detected, no edits needed.",
+      "output_path": "C:/Users/User/Documents/showup-v4/showup-library/library/SUSquaredV4_versions/EvalatED/NEW Module 1\\1\\14_Tracking Progress Methods.md",
+      "completion_timestamp": "2025-05-27T12:14:12.608732"
+    },
+    {
+      "module": "1",
+      "lesson": "1",
+      "step_number": "15",
+      "step_title": "Set Up Your Tracker",
+      "template_type": "Downloadable_resource",
+      "status": "completed",
+      "timestamp": "2025-05-27T11:59:57.066597",
+      "log_entries": [
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module 1, Lesson 1, Step 15"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (422 characters)"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:14:12",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-05-27 12:14:43",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-05-27 12:14:43",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-05-27 12:14:43",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:14:43",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-05-27 12:14:43",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:14:43",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-05-27 12:15:00",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:15:00",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-05-27 12:15:00",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 0 AI patterns"
+        },
+        {
+          "timestamp": "2025-05-27 12:15:00",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-05-27 12:15:00",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:15:00",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-05-27 12:15:00",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to C:/Users/User/Documents/showup-v4/showup-library/library/SUSquaredV4_versions/EvalatED/NEW Module 1\\1\\15_Set Up Your Tracker.md"
+        }
+      ],
+      "comparison_explanation": "Error in comparison process: maximum recursion depth exceeded while calling a Python object. Using most structurally complete version as fallback.",
+      "review_summary": "I made several improvements to enhance the content's relevance and effectiveness for Excel High School students:\n\n1. Added \"Excel High School\" to the title and throughout the content to make it specific to the institution\n2. Included the Student Portal as a tracking option, acknowledging the school's existing platform\n3. Added context about fitting study schedules around work/family commitments (relevant for adult learners)\n4. Mentioned Success Coaches as a resource for questions and support\n5. Created a simple example table template to give students a concrete starting point\n6. Added a note about setting up notifications/reminders for digital tools\n7. Specified that the weekly tracker update should take 15-20 minutes (time management guidance)\n8. Added a closing statement reinforcing the value of tracking for their Excel High School experience\n9. Improved formatting and organization to enhance readability and visual appeal\n\nThese changes better align the content with the diverse learner segments at Excel High School while maintaining the original purpose and structure of the activity.",
+      "ai_patterns_detected": 0,
+      "editing_explanation": "No AI patterns detected, no edits needed.",
+      "output_path": "C:/Users/User/Documents/showup-v4/showup-library/library/SUSquaredV4_versions/EvalatED/NEW Module 1\\1\\15_Set Up Your Tracker.md",
+      "completion_timestamp": "2025-05-27T12:15:00.604836"
+    },
+    {
+      "module": "1",
+      "lesson": "1",
+      "step_number": "16",
+      "step_title": "Reflect & Analyze (Spiral 2)",
+      "template_type": "step-by-step",
+      "status": "completed",
+      "timestamp": "2025-05-27T11:59:57.069204",
+      "log_entries": [
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module 1, Lesson 1, Step 16"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (364 characters)"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:15:00",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-05-27 12:15:30",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-05-27 12:15:30",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-05-27 12:15:30",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:15:30",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-05-27 12:15:31",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:15:31",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-05-27 12:15:49",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:15:49",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-05-27 12:15:49",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 0 AI patterns"
+        },
+        {
+          "timestamp": "2025-05-27 12:15:49",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-05-27 12:15:49",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:15:49",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-05-27 12:15:49",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to C:/Users/User/Documents/showup-v4/showup-library/library/SUSquaredV4_versions/EvalatED/NEW Module 1\\1\\16_Reflect _ Analyze _Spiral 2_.md"
+        }
+      ],
+      "comparison_explanation": "Error in comparison process: maximum recursion depth exceeded while calling a Python object. Using most structurally complete version as fallback.",
+      "review_summary": "I made several improvements to enhance clarity, engagement, and educational effectiveness:\n\n1. Added more structure with bullet points and a table for the fixed vs. growth mindset section to make the activity more accessible and organized.\n\n2. Expanded prompts with more specific questions to guide student reflection and help them provide deeper, more thoughtful responses.\n\n3. Added quantifiable elements (rating scale for goals, word count guidelines) to give students clearer expectations.\n\n4. Incorporated specific references to Excel High School resources to connect the activity to the broader learning environment.\n\n5. Added a table format for the mindset reframing exercise to make this key concept more visual and structured.\n\n6. Added submission guidelines to set clear expectations for the assignment.\n\n7. Simplified some language while maintaining academic rigor to accommodate diverse learners.\n\n8. Reorganized some sections to improve the logical flow of the reflection process.",
+      "ai_patterns_detected": 0,
+      "editing_explanation": "No AI patterns detected, no edits needed.",
+      "output_path": "C:/Users/User/Documents/showup-v4/showup-library/library/SUSquaredV4_versions/EvalatED/NEW Module 1\\1\\16_Reflect _ Analyze _Spiral 2_.md",
+      "completion_timestamp": "2025-05-27T12:15:49.927496"
+    },
+    {
+      "module": "1",
+      "lesson": "1",
+      "step_number": "17",
+      "step_title": "Reflection & Log Submission",
+      "template_type": "Instruction",
+      "status": "completed",
+      "timestamp": "2025-05-27T11:59:57.071816",
+      "log_entries": [
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module 1, Lesson 1, Step 17"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (431 characters)"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:15:49",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-05-27 12:16:14",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-05-27 12:16:14",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-05-27 12:16:14",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:16:14",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-05-27 12:16:15",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:16:15",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-05-27 12:16:30",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:16:30",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-05-27 12:16:30",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 0 AI patterns"
+        },
+        {
+          "timestamp": "2025-05-27 12:16:30",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-05-27 12:16:30",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:16:30",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-05-27 12:16:30",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to C:/Users/User/Documents/showup-v4/showup-library/library/SUSquaredV4_versions/EvalatED/NEW Module 1\\1\\17_Reflection _ Log Submission.md"
+        }
+      ],
+      "comparison_explanation": "Error in comparison process: maximum recursion depth exceeded while calling a Python object. Using most structurally complete version as fallback.",
+      "review_summary": "I made several improvements to enhance clarity, engagement, and educational value:\n\n1. Added a \"Pro Tip\" section to the reflection instructions to provide practical guidance on how to approach the task effectively.\n\n2. Included a concrete example of tracking log entries to help students understand the expected format and level of detail.\n\n3. Enhanced the file naming instructions with a specific example to prevent submission errors.\n\n4. Expanded the \"Need Help?\" section with multiple contact options and clear information about who to contact for different types of issues.\n\n5. Improved the overall structure with more visual separation between sections and better use of formatting to highlight key information.\n\nThese changes address the needs of diverse learner segments by providing clearer structure for Traditional Achievers, practical examples for Adult Diploma Seekers, and additional support options for \"Second-Chance\" Learners who may need more guidance. The examples and specific instructions also support the \"Flexibility WITH Structure\" instructional design driver identified in the learner profile.",
+      "ai_patterns_detected": 0,
+      "editing_explanation": "No AI patterns detected, no edits needed.",
+      "output_path": "C:/Users/User/Documents/showup-v4/showup-library/library/SUSquaredV4_versions/EvalatED/NEW Module 1\\1\\17_Reflection _ Log Submission.md",
+      "completion_timestamp": "2025-05-27T12:16:30.452371"
+    },
+    {
+      "module": "1",
+      "lesson": "1",
+      "step_number": "18",
+      "step_title": "Peer Support & Feedback",
+      "template_type": "Community Brief",
+      "status": "completed",
+      "timestamp": "2025-05-27T11:59:57.071816",
+      "log_entries": [
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module 1, Lesson 1, Step 18"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (416 characters)"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:16:30",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-05-27 12:17:17",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-05-27 12:17:17",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-05-27 12:17:17",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:17:17",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-05-27 12:17:17",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:17:17",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-05-27 12:17:48",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:17:48",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-05-27 12:17:48",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 0 AI patterns"
+        },
+        {
+          "timestamp": "2025-05-27 12:17:48",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-05-27 12:17:48",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:17:48",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-05-27 12:17:48",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to C:/Users/User/Documents/showup-v4/showup-library/library/SUSquaredV4_versions/EvalatED/NEW Module 1\\1\\18_Peer Support _ Feedback.md"
+        }
+      ],
+      "comparison_explanation": "Error in comparison process: maximum recursion depth exceeded while calling a Python object. Using most structurally complete version as fallback.",
+      "review_summary": "I made several enhancements to improve the lesson's effectiveness for Excel High School's diverse learner segments:\n\n1. Added engagement elements:\n   - Inserted a \"Quick Check\" reflection question after the growth mindset section\n   - Added a concrete example of SMART goal transformation\n   - Included a sample response for Scenario 1\n   - Added a dialogue framework for Scenario 2\n   - Provided a \"Submission Tip\" with format options for the project\n\n2. Enhanced clarity and structure:\n   - Added more specific examples to the \"Achievable,\" \"Relevant,\" and \"Time-bound\" SMART goal components\n   - Created clearer formatting for the scenario responses\n\n3. Incorporated Excel High School's platform features:\n   - Added an \"Additional Resources\" section that references BRYTE AI Tutor, Success Coach Pro, and discussion forums\n   - Connected content to Excel's support systems\n\nThese changes support self-directed learning while maintaining the clear structure needed by traditional achievers, adult learners, and credit recovery students. The additions also incorporate UDL principles by providing multiple means of engagement and expression.",
+      "ai_patterns_detected": 0,
+      "editing_explanation": "No AI patterns detected, no edits needed.",
+      "output_path": "C:/Users/User/Documents/showup-v4/showup-library/library/SUSquaredV4_versions/EvalatED/NEW Module 1\\1\\18_Peer Support _ Feedback.md",
+      "completion_timestamp": "2025-05-27T12:17:48.116411"
+    },
+    {
+      "module": "1",
+      "lesson": "1",
+      "step_number": "19",
+      "step_title": "Resilience & Adaptability Workshop",
+      "template_type": "lesson",
+      "status": "completed",
+      "timestamp": "2025-05-27T11:59:57.077422",
+      "log_entries": [
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module 1, Lesson 1, Step 19"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (421 characters)"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:17:48",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-05-27 12:19:07",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-05-27 12:19:07",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-05-27 12:19:07",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:19:07",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-05-27 12:19:07",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:19:07",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-05-27 12:19:47",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:19:47",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-05-27 12:19:47",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 0 AI patterns"
+        },
+        {
+          "timestamp": "2025-05-27 12:19:47",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-05-27 12:19:47",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:19:47",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-05-27 12:19:47",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to C:/Users/User/Documents/showup-v4/showup-library/library/SUSquaredV4_versions/EvalatED/NEW Module 1\\1\\19_Resilience _ Adaptability Workshop.md"
+        }
+      ],
+      "comparison_explanation": "Error in comparison process: maximum recursion depth exceeded while calling a Python object. Using most structurally complete version as fallback.",
+      "review_summary": "I made several improvements to enhance the learning experience:\n\n1. **Improved Visual Organization:**\n   - Added clear headings within each core concept\n   - Created tables for the fixed vs. growth mindset examples and the application scenario\n   - Added checkmarks (\u2713) to clearly mark activities\n\n2. **Enhanced Engagement:**\n   - Reformatted reflection activities to be more interactive and action-oriented\n   - Added a table format for the application scenario to make it more structured\n   - Created a template format for the final resilience action plan\n\n3. **Increased Relevance to Excel High School:**\n   - Added specific mentions of Excel support resources (Success Coach Pro, BRYTE AI Tutor)\n   - Added an \"Additional Resources\" section that references Excel-specific tools\n\n4. **Improved Accessibility:**\n   - Broke up longer paragraphs into more digestible chunks\n   - Added bullet points to highlight key benefits of resilience\n   - Created a comparison table for fixed vs. growth mindset statements\n\n5. **Strengthened Educational Scaffolding:**\n   - Added more explicit instructions for activities\n   - Provided clearer structure for the final action plan\n   - Enhanced the growth mindset examples with an additional example\n\nThese changes maintain all the original content while making it more visually appealing, interactive, and aligned with best practices for asynchronous online learning.",
+      "ai_patterns_detected": 0,
+      "editing_explanation": "No AI patterns detected, no edits needed.",
+      "output_path": "C:/Users/User/Documents/showup-v4/showup-library/library/SUSquaredV4_versions/EvalatED/NEW Module 1\\1\\19_Resilience _ Adaptability Workshop.md",
+      "completion_timestamp": "2025-05-27T12:19:47.656439"
+    },
+    {
+      "module": "1",
+      "lesson": "1",
+      "step_number": "20",
+      "step_title": "Proactive Learning Habits",
+      "template_type": "lesson",
+      "status": "completed",
+      "timestamp": "2025-05-27T11:59:57.077422",
+      "log_entries": [
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module 1, Lesson 1, Step 20"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (439 characters)"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:19:47",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-05-27 12:21:02",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-05-27 12:21:02",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-05-27 12:21:02",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:21:02",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-05-27 12:21:02",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:21:02",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-05-27 12:21:39",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:21:39",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-05-27 12:21:39",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 0 AI patterns"
+        },
+        {
+          "timestamp": "2025-05-27 12:21:39",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-05-27 12:21:39",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:21:39",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-05-27 12:21:39",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to C:/Users/User/Documents/showup-v4/showup-library/library/SUSquaredV4_versions/EvalatED/NEW Module 1\\1\\20_Proactive Learning Habits.md"
+        }
+      ],
+      "comparison_explanation": "Error in comparison process: maximum recursion depth exceeded while calling a Python object. Using most structurally complete version as fallback.",
+      "review_summary": "I made several enhancements to improve the content's engagement, clarity, and educational effectiveness:\n\n1. Added clear section headers (\"Real-World Connection,\" \"Quick Check,\" \"Try This,\" \"Application Example\") to improve navigation and highlight key content types.\n\n2. Incorporated interactive elements like reflection questions and self-assessment prompts to increase engagement and application of concepts.\n\n3. Added specific references to Excel High School resources (BRYTE AI Tutor, Success Coach Pro, tutoring center, Writing Lab) to connect content to the school's actual support systems.\n\n4. Created a new \"Putting It Into Practice\" section with three concrete activities to help students immediately apply what they've learned.\n\n5. Improved visual organization with additional paragraph breaks and formatting to enhance readability.\n\n6. Added a supportive closing reminder about available resources to encourage help-seeking behaviors.\n\nThese changes better align the content with the target learner profile by incorporating more self-direction aids, clear navigation, early-win tasks, and real-world application opportunities.",
+      "ai_patterns_detected": 0,
+      "editing_explanation": "No AI patterns detected, no edits needed.",
+      "output_path": "C:/Users/User/Documents/showup-v4/showup-library/library/SUSquaredV4_versions/EvalatED/NEW Module 1\\1\\20_Proactive Learning Habits.md",
+      "completion_timestamp": "2025-05-27T12:21:39.660875"
+    },
+    {
+      "module": "1",
+      "lesson": "1",
+      "step_number": "21",
+      "step_title": "Community Engagement Challenge",
+      "template_type": "Community Brief",
+      "status": "completed",
+      "timestamp": "2025-05-27T11:59:57.082926",
+      "log_entries": [
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module 1, Lesson 1, Step 21"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (434 characters)"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:21:39",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-05-27 12:22:10",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-05-27 12:22:10",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-05-27 12:22:10",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:22:10",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-05-27 12:22:11",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:22:11",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-05-27 12:22:28",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:22:28",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-05-27 12:22:28",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 0 AI patterns"
+        },
+        {
+          "timestamp": "2025-05-27 12:22:28",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-05-27 12:22:28",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:22:28",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-05-27 12:22:28",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to C:/Users/User/Documents/showup-v4/showup-library/library/SUSquaredV4_versions/EvalatED/NEW Module 1\\1\\21_Community Engagement Challenge.md"
+        }
+      ],
+      "comparison_explanation": "Error in comparison process: maximum recursion depth exceeded while calling a Python object. Using most structurally complete version as fallback.",
+      "review_summary": "I made several enhancements to improve the clarity, structure, and educational effectiveness of this community engagement challenge:\n\n1. Added explanation of the SMART acronym to provide context for students who may be unfamiliar with this goal-setting framework.\n\n2. Added a contingency note for students who might be completing the assignment during periods of low forum activity.\n\n3. Added a \"Challenges encountered\" bullet point to the reflection requirements to encourage metacognitive thinking.\n\n4. Created two new sections:\n   - \"Grading Criteria\" to clearly communicate assessment expectations\n   - \"Time Management Tip\" to help students plan their work effectively\n\n5. Renamed \"Submission\" to \"Submission Requirements\" for clarity and added more structure to this section.\n\nThese changes support the diverse learner segments identified in the profile, particularly addressing the needs of self-paced learners who benefit from clear structure, adult learners who need flexibility, and \"second-chance\" learners who benefit from scaffolding and small wins. The time management guidance particularly supports the \"Self-Direction Aids\" instructional design driver.",
+      "ai_patterns_detected": 0,
+      "editing_explanation": "No AI patterns detected, no edits needed.",
+      "output_path": "C:/Users/User/Documents/showup-v4/showup-library/library/SUSquaredV4_versions/EvalatED/NEW Module 1\\1\\21_Community Engagement Challenge.md",
+      "completion_timestamp": "2025-05-27T12:22:28.697400"
+    },
+    {
+      "module": "1",
+      "lesson": "1",
+      "step_number": "22",
+      "step_title": "Personal Goals Portfolio Creation",
+      "template_type": "step-by-step",
+      "status": "completed",
+      "timestamp": "2025-05-27T11:59:57.086443",
+      "log_entries": [
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module 1, Lesson 1, Step 22"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (387 characters)"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:22:28",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-05-27 12:23:09",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-05-27 12:23:09",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-05-27 12:23:09",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:23:09",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-05-27 12:23:10",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:23:10",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-05-27 12:23:37",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:23:37",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-05-27 12:23:37",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 0 AI patterns"
+        },
+        {
+          "timestamp": "2025-05-27 12:23:37",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-05-27 12:23:37",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:23:37",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-05-27 12:23:37",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to C:/Users/User/Documents/showup-v4/showup-library/library/SUSquaredV4_versions/EvalatED/NEW Module 1\\1\\22_Personal Goals Portfolio Creation.md"
+        }
+      ],
+      "comparison_explanation": "Error in comparison process: maximum recursion depth exceeded while calling a Python object. Using most structurally complete version as fallback.",
+      "review_summary": "I made several enhancements to improve the educational effectiveness of this content:\n\n1. Added clear learning objectives at the beginning to help students understand the purpose and outcomes of the activity\n2. Incorporated more scaffolding elements like \"Quick Tips,\" \"Activity Checkpoints,\" and \"Sample Formats\" to support self-directed learning\n3. Added more examples to illustrate SMART goals beyond just the academic example\n4. Created a structured sample action plan format to guide students in organizing their thoughts\n5. Added accessibility and time management tips to support diverse learners\n6. Included reflection questions to promote deeper thinking about the activity\n7. Added a \"Need Help?\" section with specific reference to Excel High School Success Coaches\n8. Improved formatting with more visual breaks and clearer section headings\n9. Added more specific guidance for different learning styles\n10. Included more examples of goal categories relevant to the diverse Excel High School student population\n\nThese changes align with the school's instructional design drivers, particularly UDL principles, self-direction aids, and the balance of flexibility with structure.",
+      "ai_patterns_detected": 0,
+      "editing_explanation": "No AI patterns detected, no edits needed.",
+      "output_path": "C:/Users/User/Documents/showup-v4/showup-library/library/SUSquaredV4_versions/EvalatED/NEW Module 1\\1\\22_Personal Goals Portfolio Creation.md",
+      "completion_timestamp": "2025-05-27T12:23:37.319468"
+    },
+    {
+      "module": "1",
+      "lesson": "1",
+      "step_number": "23",
+      "step_title": "Portfolio Submission",
+      "template_type": "assignment submission",
+      "status": "completed",
+      "timestamp": "2025-05-27T11:59:57.092034",
+      "log_entries": [
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module 1, Lesson 1, Step 23"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (218 characters)"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-05-27 11:59:57",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:23:37",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-05-27 12:24:03",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-05-27 12:24:03",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-05-27 12:24:03",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:24:03",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-05-27 12:24:04",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:24:04",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-05-27 12:24:19",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:24:19",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-05-27 12:24:19",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 0 AI patterns"
+        },
+        {
+          "timestamp": "2025-05-27 12:24:19",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-05-27 12:24:19",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-05-27 12:24:19",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-05-27 12:24:19",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to C:/Users/User/Documents/showup-v4/showup-library/library/SUSquaredV4_versions/EvalatED/NEW Module 1\\1\\23_Portfolio Submission.md"
+        }
+      ],
+      "comparison_explanation": "Error in comparison process: maximum recursion depth exceeded while calling a Python object. Using most structurally complete version as fallback.",
+      "review_summary": "I made several improvements to enhance the content for Excel High School students:\n\n1. Added a specific placeholder for the deadline with format and time zone for clarity\n2. Removed the vague \"designated submission link below\" and replaced it with clear instructions to use the \"Submit Assignment\" button\n3. Added a \"Success Tips\" section with targeted advice for different learner segments from the profile\n4. Included a reference to the BRYTE AI Tutor as a support resource\n5. Added a \"Need Help?\" section at the end with specific Excel High School support options (Success Coach, Writing Lab)\n6. Maintained the overall structure while making the content more specific to Excel's asynchronous learning environment\n7. Ensured language is appropriate for all age groups in the learner profile\n\nThese changes make the instructions more specific to Excel High School's systems, provide differentiated guidance for various learner segments, and incorporate the available support resources mentioned in the learner profile.",
+      "ai_patterns_detected": 0,
+      "editing_explanation": "No AI patterns detected, no edits needed.",
+      "output_path": "C:/Users/User/Documents/showup-v4/showup-library/library/SUSquaredV4_versions/EvalatED/NEW Module 1\\1\\23_Portfolio Submission.md",
+      "completion_timestamp": "2025-05-27T12:24:19.762781"
+    }
+  ],
+  "log_file": "logs\\simplified_workflow_20250527_115957.log",
+  "phases_run": [
+    "generate",
+    "compare",
+    "review",
+    "finalize"
+  ],
+  "output_dir": "C:/Users/User/Documents/showup-v4/showup-library/library/SUSquaredV4_versions/EvalatED/NEW Module 1",
+  "generation_dir": "C:/Users/User/Documents/showup-v4/showup-library/library/SUSquaredV4_versions/EvalatED/NEW Module 1\\generation_results",
+  "comparison_dir": "C:/Users/User/Documents/showup-v4/showup-library/library/SUSquaredV4_versions/EvalatED/NEW Module 1\\comparison_results",
+  "review_dir": "C:/Users/User/Documents/showup-v4/showup-library/library/SUSquaredV4_versions/EvalatED/NEW Module 1\\review_results",
+  "final_dir": "C:/Users/User/Documents/showup-v4/showup-library/library/SUSquaredV4_versions/EvalatED/NEW Module 1\\final_content",
+  "phase": "finalize",
+  "phase_completion_time": "2025-05-27T12:24:19.790610"
+}

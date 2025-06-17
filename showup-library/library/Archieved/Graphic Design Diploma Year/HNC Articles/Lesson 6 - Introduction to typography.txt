@@ -1,0 +1,59 @@
+What Is Typography?
+In the simplest of terms, typography can be defined as the style or appearance of text but from a graphic design point of view,  it is the art of working with text and written words. This includes everything from font type and size, to texture and spacing. Typography is one of the most critical and most exciting elements a graphic designer will use.
+Typography is at the heart of every aspect of a business from its style guides to brand messaging, visual design, and marketing copy. Words are the most dominant form of human communication and the written word is central to a graphic design message.
+Fig 1. Unsplash (n.d.) Type letters
+We are surrounded by typography every day, from street signs and product labels to the websites we visit and texts we receive from people. Wherever we write someone a note, compile a work document, or create a presentation for educational purposes, we are actively engaged in typography. It would be a challenge not to find moments in a day when one is not engaging with typography in one form or another.
+When used well, typography has the power to influence a user’s emotions to make their experience significantly better. This impact stems from a graphic designer’s use of an original typeface and the design choices that make the message resonate with the viewer while also being accessible. 
+The Importance of Typography in Graphic Design 
+As the primary bearer of a message, typography serves an essential function in graphic design. Text needs to be readable and legible so it can convey information and ultimately, fulfil its purpose. The type of information might be as simple as wishing someone happy birthday on a card, but it can also be life-saving, like the instructions on a defibrillator. It would be a disastrous situation for someone to find themself in an emergency where they cannot decipher the crucial instructions on a device.  
+But, typically in a creative medium, context will bend this rule. Graffiti typography has much more creative bandwidth and does not need to adhere to the same readability standards as say packaging or advertising. There is also the work of graphic designers David Carson and Harriet Goren. These designers broke the conventional rules of typography, distorting text to be almost unreadable to create a grunge style that was popular in the 1990’s. 
+Fig 2. Pixabay (n.d.) Graffiti
+Regardless of the scenario, text used in graphic design should be fit for purpose. Experimentation with text is a great idea for artistic purposes, but when the aim of the text is for practical reasons, clarity and readability are essential.
+Typography also has the power to elicit a particular feeling, sentiment, or mood. For graphic designers, this power cannot be over stressed. It is a graphic designer’s typography design choices that can make or break a design and can be the difference between successfully or indeed inaccurately conveying a message.  Fonts, font sizes, font styles and how the letters are arranged will all feel different and tell a different story.  It is the sole responsibility of the graphic designer to recognise and understand the differing characteristics of typographies. They must then make suitable and appropriate decisions within the context of the project they’re working on.
+Remembering that typography is an essential element of graphic design, let’s look at a hypothetical.  A fine dining restaurant is planning to rebrand and redesign its menu. You are tasked as lead designer on the project. You are briefed with the following requirements. 
+The menu must:  
+align more with the restaurant’s brand identity
+convey a warm and inviting atmosphere 
+reduce the volume of information on the menu as noted by customers 
+be visually appealing and memorable
+be legible and readable
+be unique compared to other restaurants’ menus
+Looking at these design problems and the client’s requirements, it becomes evident that much of this can be solved through  typography.  As a graphic designer, you would need to shift from a traditional, text-heavy menu to a more visually appealing and modern design, create a custom typeface that can be easily read in dim light, and ensure that the visual hierarchy efficiently guides customers to the items they want to order. These three steps alone can make a world of difference and even increase customer satisfaction and turnover. 
+Fig 3. Unsplash (n.d.) Example of a menu
+This scenario provides a small glimpse into typography’s important role in graphic design. It's one of the fundamental elements that designers use to: 
+Communicate a message effectively
+Evoke emotions
+Create a visually appealing design
+Represent a brand’s identity
+Helps establish visual hierarchy
+Increase the legibility and readability of a certain text
+Add aesthetic appeal to a design
+Maintain consistency between different design materials of a brand
+Typography is undeniably intrinsic to good graphic design, influencing both form and function. As a result, graphic designers must consider their typography choices very carefully if they wish to effectively achieve their design goals.
+Selecting appropriate typography
+In general, contemporary typefaces tend to work well with cutting-edge texts and designs whereas traditional typefaces often work better for a more classic text or conservative design piece. The context of the material and the purpose of the design will be the main factors to consider when designing or deciding on your font. 
+For example, when designing graphics for instructions or signage, clarity is essential. Sans serif types with simple monoline structures are a good choice for these examples. Sans serif type is also ideal if type must be very small, as in diagrams or maps. But if a designer is aiming for subtlety and elegance, serif fonts will be a likely alternative..
+Fig 4. Sans Serif vs Serif type
+Old Style 
+More traditional typefaces refer to serif typefaces such as Bembo, Garamond and Caslon, which are deemed to be ideal for the purpose of continuous reading without interruptions. They have become regarded as ‘Old Style’ or ‘classic’ fonts because they have stood the test of time and still warrant respect.
+Fig 5. Old Style type
+A more familiar typeface, like Times New Roman, also fall under this category and can be seen in the logo examples below:
+Fig 6. Example of Old Style - New Times Roman
+Transitional
+Another typeface family is known as Transitional. The term transitional is born from a departure from the Old Style text influenced by calligraphy, and a move towards Modern styles. Transitional type has a vertical stress, sharp and bracketed serifs, and in most cases a medium to high contrast between thick and thin letter strokes. 
+Fig 6. Difference between Old Style and Transitional
+Century Schoolbook and Baskerville are prime examples, the latter seen in the examples below:
+Fig 7. Transitional type examples
+ 
+Modern
+Modern faces are rooted in geometry rather than the free flow of the pen. They are sharp, sleek, bold, professional, and stylish. These types are often, but not exclusively sans serif, they are easily distinctive, and they are often used in headers and logos. Modern typefaces also have a vertical stress much like Transitional type, but have an abrupt contrast between thick and thin letter strokes, fine horizontal serifs and a narrow set width in most cases.
+Fig 8. Bodoni type
+Fig 9. Examples of Modern type
+Using the correct terminology
+As well as knowing what typography is and why it is essential, as a graphic designer you need to ensure you are communicating correctly when discussing typography. These are the most  frequently misused terms:
+Typography
+Type or typeface
+Font
+Typography refers to the overall design and arrangement of text, including the selection of fonts, point sizes, line spacing, and other elements to make written language visually appealing and readable.
+A typeface, often simply called "type," refers to a set of characters that share a common design. It includes letters, numerals, punctuation marks, and other characters with a consistent visual style.
+A font is a specific variation of a typeface. It refers to a particular style, size, and weight of a typeface. For example, Times New Roman 12pt bold is a specific font within the Times New Roman typeface family.

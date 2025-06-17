@@ -1,0 +1,20 @@
+Glossary of terms
+As a designer you will come across a multitude of design terms that are specifically related to packaging design.  If you are hoping to work in the industry one day, it is essential to familiarise yourself with these terms as it can help you to communicate more effectively and avoid misunderstandings. The list below includes just a few terms to get you started, but is by no means exhaustive:
+Bar Code: A symbol made up of rectangular bars and spaces that identifies the product.
+Branding: The process of creating a name and image for a product, typically through a logo and corresponding packaging to obtain a consistent visual language.
+Brand Guidelines: A style guide that regulates the look and feel of a brand.
+Brand Manual: The visual ‘rules’ of a brand, including typeface, logo, colour palette, etc.
+Bleed: This is a printing term referring to the outer area of a design/page which should extend beyond the crop and dielines. Ideally it is a border of 3mm (or more) which will eventually be trimmed off. This allows for any inaccuracies in the printing and final cutting, ensuring there are no obvious areas that have not been printed or filled on the final label or packaging item.
+Colour Mockup: A colour-rendered package design to present to a client for feedback. 
+Colour Palette: The colour scheme used in the packaging design (i.e. 2-3 primary colours that represent the brand and other complementary or supporting colour options). The palette should consist of the included colourway (CMYK) as well as any additional spot colours or special colours (Pantone etc.) that are additional to the CMYK mix.
+Crop Marks: Horizontal and vertical lines that indicate the edge of the printed area within the final label. This is to signify the eventual outer cut lines and where the bleed of the design will need to overhang.
+Dielines: An outline drawing of the completed package design, indicating the exact shape, position, and size for elements such as halftones, cut and fold lines, etc.
+Direct Print: Printing that penetrates the surface of the packaging rather than a label. 
+DPI (Dots Per Inch): Indicates the resolution of an output device, such as a printer or printing press machine. 
+Flat lay: A flat lay is literally a flattened version of the final design before any folds or cuts have been made. Depending on the design it can have an inner or outer flat lay or both (mirroring one another).
+JPEG (Joint Photographic Electronic Group): A common file format for full-colour and black & white graphic or photographic images. 
+Label Panel: The portion of the packaging that is covered by a label.
+Master Design: The final design with all its visual elements adapted for various sizes and formats, including the front and back of the packaging. The master will usually have unflattened typographic and visual elements which are at full resolution but are still adaptable.
+Pantone Reference: An international system classifying colours for printing reference.
+PDF (Portable Document Format): A versatile and easily accessible file format that is either a vector or raster and supports both images and text. 
+Safe Zone: The label or packaging design will include inner margins which are referred to as safe zones. These zones are areas where copy or graphics do not enter to allow for marginal inaccuracies either when cutting and cropping or when folding on a dieline etc.

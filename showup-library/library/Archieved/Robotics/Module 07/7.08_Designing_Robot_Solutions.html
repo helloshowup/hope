@@ -1,0 +1,530 @@
+
+    <div class="markdown-content" style="font-family: Arial, sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 0 auto;">
+        <h1>7.8</h1>
+
+<h1>Designing Robot Solutions</h1>
+
+<h2>Learning Objectives</h2><p>By the end of this session, you'll be able to:</p>
+<ul>
+<li>Explain how robots use input, process, and output to work</li>
+</ul>
+<ul>
+<li>Match the right sensors and motors to solve a robot task</li>
+</ul>
+<ul>
+<li>List key safety and privacy points when making robots</li>
+</ul>
+<h2>The Input-Processing-Output (IPO) Method: How Robots Work</h2><p>Think about how you use your senses every day. Your eyes and ears take in information, your brain figures out what it means, and then your body responds. Robots work in a similar way!</p>
+<p>&nbsp;</p>
+
+<p>This three-step pattern helps us understand and build robots:</p>
+<ol>
+<li><strong>Input</strong> - Robots use sensors to "see" and "feel" the world around them</li>
+</ol>
+<ol>
+<li><strong>Processing</strong> - The robot's brain (a computer chip) makes decisions based on sensor information</li>
+</ol>
+<ol>
+<li><strong>Output</strong> - Motors and other parts move or respond based on those decisions</li>
+</ol>
+<p>&nbsp;</p>
+
+<p>Breaking robot design into these three parts makes it easier to solve problems. When we're creating a robot, we can ask: "What does it need to sense? How should it think about that information? How should it respond?"</p>
+<p>&nbsp;</p>
+
+<p>By thinking about robot design this way, we can make sure our robot has exactly what it needs to solve the problem we're working on - no more, no less!</p>
+<p>&nbsp;</p>
+
+<p>For example, a weather station robot that helps monitor school garden conditions uses this framework effectively:</p>
+<ul>
+<li>Input: Temperature sensors, humidity sensors, and light sensors gather environmental data</li>
+</ul>
+<ul>
+<li>Processing: A microcontroller analyzes the readings to determine if conditions are too dry, too wet, or just right</li>
+</ul>
+<ul>
+<li>Output: The robot activates water pumps, opens shade covers, or sends alerts to student caretakers</li>
+</ul>
+<h2>From Problem to Design Specifications</h2>
+
+<h3>Translating Requirements into Specifications</h3><p>When we identify a problem that a robot could solve, we need to turn our general ideas into specific technical details. For example, if we want a robot to help elderly people pick up items from the floor, we need to figure out exactly what the robot needs to do. How heavy should the items be? How will the robot know what to pick up? How fast should it move?</p>
+<p>&nbsp;</p>
+
+<p>This process is like turning a wish list into a shopping list. Instead of saying "I want a robot that helps people," we need to say "I need a robot that can detect objects on the floor, pick up items weighing up to 2 pounds, and safely hand them to a person." These specific details help us choose the right parts and design the right programs for our robot.</p>
+<p>&nbsp;</p>
+
+<p>To help organize your ideas, try creating a simple design documentation table like this:</p>
+<p>&nbsp;</p>
+
+<p><table>
+<thead>
+<tr>
+<th>General Requirement</th>
+<th>Specific Specification</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>"Help people pick up items"</td>
+<td>Detect and lift objects up to 2 pounds</td>
+</tr>
+<tr>
+<td>"Be safe to use"</td>
+<td>Move at maximum speed of 1 foot per second</td>
+</tr>
+<tr>
+<td>"Work when needed"</td>
+<td>Battery lasts at least 3 hours</td>
+</tr>
+</tbody>
+</table></p>
+<h3>Setting Design Parameters</h3><p><strong>Design parameters</strong> are the measurable goals that our robot needs to meet. These are like the rules of a game - they tell us what success looks like. For a delivery robot, parameters might include:</p>
+<ul>
+<li>Maximum speed: 3 miles per hour</li>
+</ul>
+<ul>
+<li>Battery life: at least 4 hours</li>
+</ul>
+<ul>
+<li>Weight capacity: up to 10 pounds</li>
+</ul>
+<ul>
+<li>Navigation accuracy: within 6 inches of target</li>
+</ul>
+<p>&nbsp;</p>
+
+<p>By setting clear parameters, we can test our robot to see if it meets our needs. These numbers also help us choose the right components. If we need to carry 10 pounds, we'll need motors strong enough for that weight. If we need 4 hours of battery life, we'll need to calculate power consumption and choose the right battery size.</p>
+<h3>Creating Design Constraints</h3><p><strong>Constraints</strong> are the limitations we need to work within. These might include:</p>
+<ul>
+<li>Budget: how much money we can spend</li>
+</ul>
+<ul>
+<li>Size: how big the robot can be</li>
+</ul>
+<ul>
+<li>Weight: how heavy the robot can be</li>
+</ul>
+<ul>
+<li>Time: how long we have to build it</li>
+</ul>
+<ul>
+<li>Available materials: what parts we can use</li>
+</ul>
+<p>&nbsp;</p>
+
+<p>For example, if we're designing a robot for a school hallway, it needs to be small enough to navigate without blocking students. If we're working with a $200 budget, we need to choose affordable components. Identifying these constraints early helps us avoid designing something that can't actually be built or used in the real world.</p>
+<p>&nbsp;</p>
+
+<p>While constraints might seem limiting, they can actually spark creativity! When the Mars rover designers had strict weight limits for their robot, they had to invent clever new ways to make lightweight but strong components. Sometimes having boundaries forces us to think of solutions we wouldn't have considered otherwise.</p>
+<h2>Input Component Selection</h2>
+
+<h3>Matching Sensors to Information Needs</h3><p>Choosing the right sensors is like giving your robot the senses it needs to understand its world. Different problems require different types of information:</p>
+<ul>
+<li>If your robot needs to follow a line, <strong>light sensors</strong> can detect the difference between the line and the background.</li>
+</ul>
+<ul>
+<li>If your robot needs to avoid obstacles, <strong>ultrasonic or infrared distance sensors</strong> can measure how far away objects are.</li>
+</ul>
+<ul>
+<li>If your robot needs to identify colors, a <strong>color sensor</strong> would be essential.</li>
+</ul>
+<ul>
+<li>If your robot needs to know which way is up or how it's moving, <strong>accelerometers and gyroscopes</strong> can provide that information.</li>
+</ul>
+<p>&nbsp;</p>
+
+<p>The key is to think about what information your robot needs to solve its specific problem. A robot that sorts recycling needs to identify different materials, while a robot that waters plants needs to detect soil moisture. By matching sensors to these information needs, we make sure our robot can "see" what it needs to see.</p>
+<p>&nbsp;</p>
+
+<p>For example, a garden helper robot might use these sensors:</p>
+<ul>
+<li>Soil moisture sensors to know when plants need water</li>
+</ul>
+<ul>
+<li>Light sensors to track sunlight levels</li>
+</ul>
+<ul>
+<li>Temperature sensors to monitor growing conditions</li>
+</ul>
+<ul>
+<li>Color sensors to identify ripe vegetables</li>
+</ul>
+<p>&nbsp;</p>
+
+<p>
+            <div class="stop-reflect-container" style="border:3px dashed #e50200; margin:20px 0; padding:0; display:flex; width:100%;">
+                <div class="stop-reflect-image" style="width:20%; min-width:100px; display:flex; align-items:center; justify-content:center; padding:10px;">
+                    <img src="https://api.learnstage.com/media-manager/api/access/exceled/default/lms/courses/1647/Images/Untitled%20design.jpg" 
+                         style="width:100%; height:auto; max-width:150px;" alt="Stop and Reflect">
+                </div>
+                <div class="stop-reflect-content" style="display:flex; flex-direction:column; justify-content:center; padding:15px; width:80%;">
+                    <h3 style="color:#000000; margin-top:0;">
+                    </h3><p> Consider a robot you might design to solve a real-world problem. What types of information would this robot need to gather from its environment, and what sensors would be most appropriate for collecting this data?</p>
+                </div>
+            </div></p>
+<h3>Environmental Considerations for Sensors</h3><p>The environment where your robot will operate greatly affects which sensors will work best. Imagine trying to use a regular camera in a dark room or a paper-based touch sensor in the rain - they simply wouldn't work!</p>
+<p>&nbsp;</p>
+
+<p>For outdoor robots, you need sensors that can handle sunlight, rain, dust, and temperature changes. Waterproof ultrasonic sensors might be better than infrared sensors that can be confused by bright sunlight. For robots in noisy factories, sound-based sensors might not work well, but vibration or proximity sensors could be perfect.</p>
+<p>&nbsp;</p>
+
+<p>Even the surfaces in the environment matter. A line-following robot might work perfectly on smooth floors but fail on carpet where the line is harder to detect. By thinking about the specific conditions your robot will face, you can choose sensors that will work reliably in that environment.</p>
+<h3>Sensor Placement and Configuration</h3><p>Where you place sensors on your robot is just as important as which sensors you choose. Think about how humans position our eyes, ears, and hands to best sense the world around us.</p>
+<p>&nbsp;</p>
+
+<p>For a robot that needs to avoid obstacles, placing distance sensors at the front makes sense, but adding sensors to the sides and back provides a more complete view of the surroundings. A line-following robot needs its light sensors positioned close to the ground and directly over the line.</p>
+<p>&nbsp;</p>
+
+<p>Sometimes you need multiple sensors of the same type working together. For example, two light sensors side by side can help a line-following robot stay centered on the line. Three ultrasonic sensors pointing in different directions give a robot better awareness of obstacles than just one sensor pointing forward.</p>
+<p>&nbsp;</p>
+
+<p>The height, angle, and spacing of sensors all affect what information the robot receives. Testing different configurations helps find the optimal placement for your specific robot's needs.</p>
+<p>&nbsp;</p>
+
+<p>
+            <div class="stop-reflect-container" style="border:3px dashed #e50200; margin:20px 0; padding:0; display:flex; width:100%;">
+                <div class="stop-reflect-image" style="width:20%; min-width:100px; display:flex; align-items:center; justify-content:center; padding:10px;">
+                    <img src="https://api.learnstage.com/media-manager/api/access/exceled/default/lms/courses/1647/Images/Untitled%20design.jpg" 
+                         style="width:100%; height:auto; max-width:150px;" alt="Stop and Reflect">
+                </div>
+                <div class="stop-reflect-content" style="display:flex; flex-direction:column; justify-content:center; padding:15px; width:80%;">
+                    <h3 style="color:#000000; margin-top:0;">
+                    </h3><p> Think about the sensors on your smartphone or other devices you use daily. How is their placement carefully designed to gather the information they need? How might changing their position affect how well they work?</p>
+                </div>
+            </div></p>
+<h2>Processing Component Planning</h2>
+
+<h3>Algorithm Development</h3><p><strong>Algorithms</strong> are step-by-step instructions that tell your robot how to make sense of sensor data. Think of algorithms as recipes that transform raw information into meaningful understanding.</p>
+<p>&nbsp;</p>
+
+<p>For example, a simple algorithm for a line-following robot might be:</p>
+<ol>
+<li>Read values from left and right light sensors</li>
+</ol>
+<ol>
+<li>If the left sensor detects the line (sees black), turn slightly right</li>
+</ol>
+<ol>
+<li>If the right sensor detects the line, turn slightly left</li>
+</ol>
+<ol>
+<li>If both sensors detect the line, go straight</li>
+</ol>
+<ol>
+<li>If neither sensor detects the line, make a larger turn to find the line again</li>
+</ol>
+<p>&nbsp;</p>
+
+<p>More complex robots might use algorithms that combine data from multiple sensors. A robot that navigates a room might combine distance sensor readings with information from a digital compass to create a map of its surroundings.</p>
+<p>&nbsp;</p>
+
+<p>The key is to start with simple algorithms and test them thoroughly before adding complexity. Even advanced robots often use combinations of simple algorithms rather than one extremely complicated one.</p>
+<p>&nbsp;</p>
+
+<p>When developing algorithms, it's important to balance structure with creativity. While following a step-by-step approach helps ensure your robot works reliably, don't be afraid to experiment with new ideas! Some of the best robot designs come from trying unusual approaches to solving problems. For example, robot designers working on the Mars rovers had to create entirely new algorithms for navigating the Martian surface because no one had driven a robot on Mars before.</p>
+<h3>Decision Logic Design</h3><p><strong>Decision logic</strong> is how your robot chooses what to do based on the information it has processed. This is like creating a flowchart of "if-then" statements that guide your robot's behavior.</p>
+<p>&nbsp;</p>
+
+<p>For example, a plant-watering robot might use decision logic like:</p>
+<ul>
+<li>IF soil moisture is below 30%, THEN activate water pump for 5 seconds</li>
+</ul>
+<ul>
+<li>IF soil moisture is between 30-60%, THEN check again in 6 hours</li>
+</ul>
+<ul>
+<li>IF soil moisture is above 60%, THEN check again in 12 hours</li>
+</ul>
+<p>&nbsp;</p>
+
+<p>Good decision logic anticipates different situations and provides clear instructions for each one. It's important to include what the robot should do in unexpected situations too. What if a sensor fails? What if the robot gets stuck? Adding safety conditions and fallback behaviors makes your robot more reliable.</p>
+<p>&nbsp;</p>
+
+<p>Creating a visual flowchart of your decision logic before programming can help you spot potential problems and ensure your robot will behave as expected in all situations.</p>
+<h3>Programming Considerations</h3><p>Once you've designed your algorithms and decision logic, you need to translate them into a programming language your robot can understand. Different robots use different programming languages and environments:</p>
+<ul>
+<li>Block-based languages like Scratch or Blockly are great for beginners and provide a visual way to create programs</li>
+</ul>
+<ul>
+<li>Text-based languages like Python or C++ offer more flexibility but require more coding knowledge</li>
+</ul>
+<ul>
+<li>Some robot kits come with their own specialized programming environments</li>
+</ul>
+<p>&nbsp;</p>
+
+<p>When programming your robot, consider these best practices:</p>
+<ul>
+<li>Break your program into smaller functions that each handle one specific task</li>
+</ul>
+<ul>
+<li>Add comments to explain what each part of your code does</li>
+</ul>
+<ul>
+<li>Use variables with clear names that describe what they represent</li>
+</ul>
+<ul>
+<li>Test small parts of your program before combining them into the full system</li>
+</ul>
+<p>&nbsp;</p>
+
+<p>Remember that programming is an iterative process - you'll likely need to test, adjust, and improve your code multiple times before it works perfectly.</p>
+<p>&nbsp;</p>
+
+<p>
+            <div class="stop-reflect-container" style="border:3px dashed #e50200; margin:20px 0; padding:0; display:flex; width:100%;">
+                <div class="stop-reflect-image" style="width:20%; min-width:100px; display:flex; align-items:center; justify-content:center; padding:10px;">
+                    <img src="https://api.learnstage.com/media-manager/api/access/exceled/default/lms/courses/1647/Images/Untitled%20design.jpg" 
+                         style="width:100%; height:auto; max-width:150px;" alt="Stop and Reflect">
+                </div>
+                <div class="stop-reflect-content" style="display:flex; flex-direction:column; justify-content:center; padding:15px; width:80%;">
+                    <h3 style="color:#000000; margin-top:0;">
+                    </h3><p> Think about a simple decision you made today (like choosing what to eat or wear). Could you break this decision down into an algorithm with clear if-then statements? How might a robot need to approach similar decisions?</p>
+                </div>
+            </div></p>
+<h2>Output Component Selection</h2>
+
+<h3>Choosing Appropriate Actuators</h3><p><strong>Actuators</strong> are the parts that allow your robot to move and interact with the world. Choosing the right actuators depends on what actions your robot needs to perform:</p>
+<ul>
+<li><strong>DC motors</strong> provide continuous rotation and are great for wheels that need to spin continuously</li>
+</ul>
+<ul>
+<li><strong>Servo motors</strong> can move to precise positions and are perfect for robot arms, grippers, or steering mechanisms</li>
+</ul>
+<ul>
+<li><strong>Stepper motors</strong> move in exact increments and work well for precise positioning like in 3D printers</li>
+</ul>
+<ul>
+<li><strong>Solenoids</strong> create linear (straight line) motion and can be used for simple pushing or pulling actions</li>
+</ul>
+<ul>
+<li>Speakers, lights, and displays are also actuators that provide feedback or information</li>
+</ul>
+<p>&nbsp;</p>
+
+<p>Match your actuator to the specific movement needed. If your robot needs to pick up delicate objects, a gripper with servo motors and pressure sensors might be best. If it needs to move quickly across a room, powerful DC motors with good wheels would be more appropriate.</p>
+<h3>Power and Movement Requirements</h3><p>Every actuator needs power to work, and choosing the right power system is crucial for your robot's success. Here's how to think about power requirements:</p>
+<ol>
+<li>Calculate how much power each motor or actuator needs when running at maximum effort</li>
+</ol>
+<ol>
+<li>Determine how many actuators might be running at the same time</li>
+</ol>
+<ol>
+<li>Add some extra capacity for safety (usually 20-30% more than your calculation)</li>
+</ol>
+<ol>
+<li>Choose batteries that can provide this power for your desired run time</li>
+</ol>
+<p>&nbsp;</p>
+
+<p>For movement, consider:</p>
+<ul>
+<li>How fast does your robot need to move?</li>
+</ul>
+<ul>
+<li>How much weight does it need to carry or push?</li>
+</ul>
+<ul>
+<li>Does it need to climb inclines or navigate rough terrain?</li>
+</ul>
+<ul>
+<li>How precise does its movement need to be?</li>
+</ul>
+<p>&nbsp;</p>
+
+<p>These questions help you select motors with the right speed, torque (turning force), and control capabilities. For example, a robot that needs to climb stairs needs motors with high torque, while a robot that draws pictures needs motors with precise positioning.</p>
+<h3>Feedback Mechanisms</h3><p><strong>Feedback mechanisms</strong> help your robot confirm that its actions worked as intended. Without feedback, a robot is like a person trying to pick up objects while blindfolded!</p>
+<p>&nbsp;</p>
+
+<p>Simple feedback can come from the same sensors used for input. For example, a line-following robot can tell if it's successfully following the line by continuing to detect it with its sensors.</p>
+<p>&nbsp;</p>
+
+<p>More complex feedback might include:</p>
+<ul>
+<li>Encoders on motors that count rotations to track movement distance</li>
+</ul>
+<ul>
+<li>Current sensors that detect if a motor is straining (perhaps because it's stuck)</li>
+</ul>
+<ul>
+<li>Cameras that verify if an object was successfully picked up</li>
+</ul>
+<p>&nbsp;</p>
+
+<p>Good feedback systems allow your robot to detect and correct errors. If a robot arm tries to pick up an object but the object slips, feedback sensors can detect this failure and trigger another attempt or alert the user.</p>
+<p>&nbsp;</p>
+
+<p>
+            <div class="stop-reflect-container" style="border:3px dashed #e50200; margin:20px 0; padding:0; display:flex; width:100%;">
+                <div class="stop-reflect-image" style="width:20%; min-width:100px; display:flex; align-items:center; justify-content:center; padding:10px;">
+                    <img src="https://api.learnstage.com/media-manager/api/access/exceled/default/lms/courses/1647/Images/Untitled%20design.jpg" 
+                         style="width:100%; height:auto; max-width:150px;" alt="Stop and Reflect">
+                </div>
+                <div class="stop-reflect-content" style="display:flex; flex-direction:column; justify-content:center; padding:15px; width:80%;">
+                    <h3 style="color:#000000; margin-top:0;">
+                    </h3><p> Consider everyday machines you use that provide feedback (like a toaster that pops up, or a game controller that vibrates). How does this feedback help you know the machine is working correctly? How might similar feedback be important for a robot?</p>
+                </div>
+            </div></p>
+<h2>Ethical Design Considerations</h2>
+
+<h3>Safety in Robot Design</h3><p>Safety should always be a top priority when designing robots. Even simple robots can cause harm if not designed carefully. Here are key safety considerations to include in your designs:</p>
+<p>&nbsp;</p>
+
+<p>Physical safety features might include:</p>
+<ul>
+<li>Rounded edges instead of sharp corners</li>
+</ul>
+<ul>
+<li>Speed limitations to prevent dangerous collisions</li>
+</ul>
+<ul>
+<li>Weight distribution that prevents tipping over</li>
+</ul>
+<ul>
+<li>Emergency stop buttons or commands</li>
+</ul>
+<ul>
+<li>Protective covers over moving parts like gears or motors</li>
+</ul>
+<p>&nbsp;</p>
+
+<p>Operational safety features include:</p>
+<ul>
+<li>Obstacle detection and avoidance systems</li>
+</ul>
+<ul>
+<li>Battery level monitoring to prevent unexpected shutdowns</li>
+</ul>
+<ul>
+<li>Fail-safe behaviors (what the robot does if something goes wrong)</li>
+</ul>
+<ul>
+<li>Testing procedures to verify safe operation before use</li>
+</ul>
+<p>&nbsp;</p>
+
+<p>Remember that safety isn't just about preventing immediate physical harm. A robot that makes loud, startling noises might be safe physically but still cause stress or fear. A complete safety approach considers all ways your robot might affect people and animals around it.</p>
+<h3>Privacy and Data Collection</h3><p>Many robots collect data about their environment and the people around them. As future designers, we need to be thoughtful about what data our robots collect and how that data is used:</p>
+<ul>
+<li>Collect only the data your robot truly needs to function</li>
+</ul>
+<ul>
+<li>Be transparent about what information is being collected</li>
+</ul>
+<ul>
+<li>Store data securely and delete it when it's no longer needed</li>
+</ul>
+<ul>
+<li>Consider using on-device processing instead of sending data to the cloud</li>
+</ul>
+<ul>
+<li>Provide clear ways for users to control data collection</li>
+</ul>
+<p>&nbsp;</p>
+
+<p>For example, if your robot uses a camera to navigate, does it need to save the images it captures? Could it process the visual information and then immediately delete the raw images? If your robot records sound to respond to voice commands, can you add a clear indicator light that shows when it's listening?</p>
+<p>&nbsp;</p>
+
+<p>Even simple robots can raise privacy concerns. A robot that maps a home to vacuum floors is creating a detailed layout of private spaces. Thinking about these issues during the design phase helps create robots that respect people's privacy.</p>
+<p>&nbsp;</p>
+
+<p>
+            <div class="stop-reflect-container" style="border:3px dashed #e50200; margin:20px 0; padding:0; display:flex; width:100%;">
+                <div class="stop-reflect-image" style="width:20%; min-width:100px; display:flex; align-items:center; justify-content:center; padding:10px;">
+                    <img src="https://api.learnstage.com/media-manager/api/access/exceled/default/lms/courses/1647/Images/Untitled%20design.jpg" 
+                         style="width:100%; height:auto; max-width:150px;" alt="Stop and Reflect">
+                </div>
+                <div class="stop-reflect-content" style="display:flex; flex-direction:column; justify-content:center; padding:15px; width:80%;">
+                    <h3 style="color:#000000; margin-top:0;">
+                    </h3><p> Think about a robot you've seen in a movie or real life. What privacy concerns might arise from how it operates? If you were redesigning this robot to better protect privacy, what changes would you make?</p>
+                </div>
+            </div></p>
+<h3>Accessibility and Inclusivity</h3><p>Good robot design considers the needs of all potential users, including people with different abilities, ages, and backgrounds. Here are ways to make your robot more accessible and inclusive:</p>
+<ul>
+<li>Provide multiple ways to interact with the robot (voice, touch, visual)</li>
+</ul>
+<ul>
+<li>Use clear, simple language in any instructions or interfaces</li>
+</ul>
+<ul>
+<li>Test your robot with diverse users to identify potential barriers</li>
+</ul>
+<ul>
+<li>Consider height, reach, and strength requirements for physical interaction</li>
+</ul>
+<ul>
+<li>Make sure any visual indicators are visible to people with color blindness</li>
+</ul>
+<ul>
+<li>Provide adjustable settings for speed, volume, and sensitivity</li>
+</ul>
+<p>&nbsp;</p>
+
+<p>For example, a robot with buttons should have tactile indicators so users can feel the difference between buttons without seeing them. A robot that gives instructions should provide both visual and audio feedback.</p>
+<p>&nbsp;</p>
+
+<p>Remember that accessibility features often benefit everyone, not just people with specific needs. Clear instructions, intuitive controls, and multiple feedback methods make robots easier for all users to understand and operate.</p>
+<p>&nbsp;</p>
+
+<p>
+        <!-- Check Your Understanding Section -->
+        <div style="border-bottom-style:solid;border-color:#008000;border-left-style:solid;border-right-style:solid;border-top-style:none;border-width:1px;clear:both;margin-bottom:3em;padding:1em 1em 1.1em;position:relative;">
+            <div style="background-color:#008000;display:block;height:20px;left:-1em;position:relative;top:-1em;width:calc(100% + 2em);">
+                &nbsp;
+            </div>
+            <h2 style="color:#008000;font-size:1.8em;font-weight:500;line-height:1em;margin-bottom:0.2em;margin-top:0;">
+                Check your understanding
+            </h2>
+            <p style="font-family:'Roboto', sans-serif;font-size:0.91em;font-weight:300;line-height:1.6em;">
+                &nbsp;
+            </p>
+            <p>When designing a line-following robot, which of the following represents the most appropriate application of the input-processing-output framework?</p>
+<p>A. Input: Motors, Processing: Light sensors, Output: Program code</p>
+<p>B. Input: Light sensors, Processing: Decision algorithm, Output: Motor activation</p>
+<p>C. Input: Battery, Processing: Motors, Output: Movement</p>
+<p>D. Input: Program code, Processing: Battery, Output: Sensors</p>
+            <p style="font-family:'Roboto', sans-serif;font-size:0.91em;font-weight:300;line-height:1.6em;">
+                Choose your answer and check it below.
+            </p>
+            <div style="display:none;" id="hiddenAnswer0">
+                <p>
+                    <br>
+                    &nbsp;
+                </p>
+                <p>The correct answer is B. Input: Light sensors, Processing: Decision algorithm, Output: Motor activation. In a line-following robot, light sensors detect the line (input), a decision algorithm processes this information to determine position relative to the line (processing), and motors are activated to adjust the robot's direction accordingly (output). This properly represents the flow of information through the robot system. If you chose a different answer, review the input-processing-output framework to ensure you understand how information flows through a robot system.</p>
+            </div>
+            <p>
+                <a style="color:#008000;text-decoration:none;" href="#" onclick="document.getElementById('hiddenAnswer0').style.display='block'; return false;"><strong>Click here to show the correct answer</strong></a>
+            </p>
+        </div></p>
+<p>&nbsp;</p>
+
+<p>
+        <figure class="table" style="float:left;width:92.41%;" data-font-size="14" data-line-height="20">
+            <table class="ck-table-resized" style="border-style:none;" data-font-size="14" data-line-height="20">
+                <colgroup data-font-size="14" data-line-height="20"><col style="width:13.29%;" data-font-size="14" data-line-height="20"><col style="width:86.71%;" data-font-size="14" data-line-height="20"></colgroup>
+                <tbody data-font-size="14" data-line-height="20">
+                    <tr data-font-size="14" data-line-height="20">
+                        <td style="border-style:none;" data-font-size="14" data-line-height="20">
+                            <figure class="image image_resized" style="width:100%;" data-font-size="14" data-line-height="20">
+                                <img style="aspect-ratio:600/600;" src="https://api.learnstage.com/media-manager/api/access/exceled/default/89309a11-e6ae-4133-97a9-93c735f38be4/content-page/4e85aa67-83db-423a-b7de-53b356164071_removalai_preview.png" width="600" height="600" data-font-size="14" data-line-height="20">
+                            </figure>
+                        </td>
+                        <td style="border-style:none;" data-font-size="14" data-line-height="20">
+                            <h3 data-font-size="16" data-line-height="23">
+                                <span style="color:hsl(359,97%,29%);"><span data-font-size="16" data-line-height="23"><strong data-font-size="16" data-line-height="23">Key Takeaways</strong></span></span>
+                            </h3>
+                            <ul>
+<li>Robots work through the input-processing-output (IPO) method, where sensors gather information, a computer chip makes decisions, and motors or other parts respond to solve specific problems.</li>
+<li>Successful robot design requires matching the right sensors and actuators to your specific task, considering environmental factors, and creating clear decision logic for how the robot should respond.</li>
+<li>Robot designers must prioritize safety features, respect privacy in data collection, and ensure accessibility for all potential users.</li>
+</ul>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </figure></p>
+<p>&nbsp;</p>
+    </div>
+    

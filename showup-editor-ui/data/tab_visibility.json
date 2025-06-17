@@ -1,0 +1,29 @@
+{
+  "hidden_tabs": [
+    6,
+    8,
+    10,
+    12,
+    13,
+    14
+  ],
+  "tab_names": {
+    "0": "Prompt Config",
+    "1": "Markdown Editor",
+    "2": "Batch Processing",
+    "3": "Full Doc Regeneration",
+    "4": "AI Detection",
+    "5": "Generate Content",
+    "6": "MD Splitter",
+    "7": "MD to HTML",
+    "8": "Batch Splitter",
+    "9": "File Renamer",
+    "10": "HTML Viewer",
+    "11": "Markdown Tools",
+    "12": "Podcast Generator",
+    "13": "Document Creator",
+    "14": "Audio Script Splitter",
+    "15": "Lesson Preview",
+    "16": "Enrich Lesson"
+  }
+}

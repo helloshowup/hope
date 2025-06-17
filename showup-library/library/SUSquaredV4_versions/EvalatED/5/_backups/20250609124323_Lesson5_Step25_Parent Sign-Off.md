@@ -1,0 +1,34 @@
+# 5.25 Parent Sign-Off for Field Work
+
+## Introduction
+Before students can participate in service fieldwork activities, Excel High School requires parental or guardian approval. This digital signature process ensures that guardians are fully informed about the nature of the fieldwork, potential risks, and educational benefits. This important step protects both students and the school while promoting transparent communication between Excel High School and families.
+
+## What is the Parent Sign-Off?
+The Parent Sign-Off is a digital signature that legally documents a parent or guardian's approval for their student to participate in service fieldwork. This electronic form includes details about the specific fieldwork activity, location, duration, supervision, and any special requirements or considerations. By providing their digital signature, parents acknowledge they have reviewed this information and consent to their student's participation.
+
+## Why is a Digital Signature Required?
+A digital signature is required for several important reasons:
+
+1. **Legal Protection**: The signature serves as documentation that proper consent was obtained before a minor participated in off-campus activities.
+
+2. **Safety Assurance**: It confirms that parents are aware of where their student will be and what activities they'll be performing.
+
+3. **Communication Tool**: The process ensures parents receive complete information about educational activities occurring outside the traditional classroom.
+
+4. **Liability Management**: It helps Excel High School manage risk by ensuring all participants have proper authorization.
+
+The digital signature process represents Excel High School's commitment to both educational excellence and student safety. While fieldwork provides valuable real-world learning experiences that extend beyond traditional classroom settings, proper documentation ensures these activities meet all necessary standards and requirements. The straightforward process outlined below allows parents to quickly provide authorization while maintaining appropriate oversight of their student's educational activities.
+
+1. **Access the Form**: Log in to your Parent Portal and select "Field Work Permissions" from the dashboard.
+2. **Review Details**: Carefully read all information about the specific fieldwork activity.
+3. **Complete All Fields**: Fill in all required information, including emergency contacts.
+4. **Submit Signature**: Type your full legal name and click "I Agree" to provide your digital signature.
+5. **Confirmation**: You'll receive an email confirmation once your submission is processed.
+
+## Important Reminders
+* No student may begin service fieldwork until this digital signature has been received and verified by Excel High School staff.
+* A separate form must be completed for each fieldwork activity throughout the academic year.
+* If you have questions about a specific fieldwork opportunity, please contact your student's Success Coach.
+
+## Need Help?
+If you encounter any technical difficulties with the digital signature process, please contact our Support Team at support@excelhighschool.com or call (888) 555-1234.

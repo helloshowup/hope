@@ -1,0 +1,16 @@
+{
+  "module": "Lesson 3 - Expanding Your Graphic Design Toolkit",
+  "lesson": "3",
+  "step_number": "27",
+  "step_title": "Briefing Creative Team Members for Successful Art Direction",
+  "generations": [
+    "Error generating content with Claude API: Claude API error: 400, message='Bad Request', url='https://api.anthropic.com/v1/messages'",
+    "Error generating content with Claude API: Claude API error: 400, message='Bad Request', url='https://api.anthropic.com/v1/messages'",
+    "Error generating content with Claude API: Claude API error: 400, message='Bad Request', url='https://api.anthropic.com/v1/messages'"
+  ],
+  "extracted_generations": [
+    "Error generating content with Claude API: Claude API error: 400, message='Bad Request', url='https://api.anthropic.com/v1/messages'",
+    "Error generating content with Claude API: Claude API error: 400, message='Bad Request', url='https://api.anthropic.com/v1/messages'",
+    "Error generating content with Claude API: Claude API error: 400, message='Bad Request', url='https://api.anthropic.com/v1/messages'"
+  ]
+}

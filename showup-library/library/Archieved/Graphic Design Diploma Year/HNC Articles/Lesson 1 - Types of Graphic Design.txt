@@ -1,0 +1,226 @@
+Graphic design comes in many shapes and forms and can be found all around in everyday items. The job of a graphic designer is to create visual communications to inform, inspire, influence or captivate an audience. The is an endless array of visual designs including magazine layouts, advertisement billboards, shop signs, electronic games, product packaging, websites and the list goes on.
+Below is a list of some of the more common types of graphic design:
+Branding and identity
+Digital design (websites etc)
+Advertising/Marketing
+Motion graphics and games
+Editorial/Publication
+Art and illustration
+Product 
+Packaging
+Signage and informational design
+Each type of design requires some common skills. Designers will have an expert understanding of the elements and principles of design. They will also be able to apply them creatively and will have developed skills in manual design and computer-aided design. However, some skills are specialised for each type of design. As you build your skills and learn more about graphic design, you will begin to understand your own design interests, which will guide your studies and personal development.  
+Branding and identity design
+A graphic designer specialising in branding and identity works with small business owners and large corporations to create a visual language for their brand. A designer tasked with creating a new visual identity or updating an existing brand does so by designing everything a business needs to communicate its product or service to potential customers and within its own company walls. A designer will consider colour palettes, typography, images etc. and the rules around how they should be used in different environments. Often, a designer will put all this information into a branding style guide that businesses will use to create a considered and consistent brand identity. For example, stationery, internal documentation, internal mailing, etc.
+In the case of McDonald’s, for example. There are visual similarities between their main logo, their packaging, and the additional services and offerings that they market, such as the McCafe and McDrive. The repetition of the colour scheme, i.e. yellow and red, brings coherence to the brand’s various marketing platforms and makes it clear that they are all one company.
+Fig 1. Pixabay (n.d.) McDonald's signage in the US
+Fig 2 & 3. Pixabay (n.d.) McDonalds packaging
+Although McDonald’s main colour palette is the iconic yellow and red, many McDonald's franchises in Europe have started to incorporate brown and green into their storefronts and interior design because it's associated with nature and sustainability. This is in order to appear more environmentally friendly, something McDonald's has received criticism for lacking. Yet, the familiar yellow logo and a similar typography means the branding remains recognisable on a global scale.
+ 
+Fig 4. Pixabay (n.d.) McDonald's signage in Europe
+Branding styles guides can include (but are not limited to):
+Logos
+Colour palettes
+Typefaces (fonts and sizes)
+Business card layouts
+Letterheads
+Signage (shop fronts, menus etc.)
+Brochures layouts and covers
+Webpages
+Pitch/sales decks or presentations
+Social Media images
+Packaging (e.g. mailer boxes, food packaging, bottles, etc.)
+Examples of skills/experience needed:
+Adobe Creative Suite
+Branding Conceptualization
+Creative research
+Composition / Layout
+Market research
+Communication skills
+Teamwork
+Digital design
+Although some differences exist, graphic design and digital design are closely related. While graphic design has a long history that began in the fields of art, illustration and print media, digital design was born out of computer graphics.
+A graphic designer will apply all the same skills to create aesthetically pleasing digital content, such as the layout and design of a website or visual elements of an app. However, digital design requires an extra step that considers the user experience UX. For example, a beautiful user interface or UI, that is difficult to navigate and confuses the user as they try to find the information, is not a successful design. 
+Digital designers make sure that a website looks good, but also make sure that it is user-friendly and communicates all the required information in a visually appealing way. It is all about the UX when interacting with digital content. 
+For example, a person sees an advert for a digital audiobook service on Instagram. They click on the link, and it starts a user journey which the company hopes will end with a subscription and a happy customer. 
+Fig 5. Pixabay (n.d.) Example of a prompt to register for a service/product
+With this goal in mind, the designer must think about how each part of the design works as a whole, not just each piece. There may be movement as one webpage blends into another. Is the experience interrupted if there is a delay when the user clicks a link? Does the webpage work in the same way across a range of devices? Is there music or video, and how do they play when the user reaches the page? How are the product's benefits visualised for the consumer, and is there a logical progression that leads the consumer to purchase the product?
+Once the consumer buys the product, a whole new journey starts: What does the app look like? Is the graphical interface appealing and easy to use? Does it flow? How is data visualised in the app? 
+There are many types of digital designers, for example, web design and UX/UI design. Both require understanding the end user’s digital needs. The definition of these two acronyms:
+UX is all about user experience.
+UI focuses on the user interface.
+They are often used interchangeably since a UX or UI designer needs to create a user-friendly interface that enables users to understand how to use the product. To do this, UX/UI designers need to empathise with users and must not presume they are tech-savvy. They must also solve problems and create easy and exciting platforms.
+Fig 6. Pixabay (n.d.) Examples of UX/UI design
+Examples of digital design work:
+Websites
+Apps
+Theme design (WordPress, Shopify, etc.)
+Interfaces (games, mobile phones, electronic products, etc.)
+Examples of skills/experience needed:
+Core graphic design skills plus an understanding of digital design principles (e.g. motion, space, flow etc). 
+Branding 
+UX design
+Wireframing
+Usability + User research + Design thinking
+Basic coding (HTML / CSS)
+Problem-solving
+CAD software
+Teamwork
+Advertising/marketing design
+Although there is a difference between advertising and marketing, graphic designers working in this area will generally crossover both spheres. These designers typically work with company owners, directors, and managers to create effective marketing strategies. Designers must interpret the sales/marketing strategy or plan for that specific product or service and create a relevant campaign that would reflect well on a poster ad, or street campaign, and/or roll it out to different media platforms such as marketing emails or social media. 
+Fig 7. Pixabay (n.d.) Marketing strategy
+Advertising can be found online, in a physical space, or a combination of the two. For example, a designer must develop physical poster ads for a new product or service and make the related marketing emails and social media banners that further promote that particular product or service. Advertising designers are involved in all parts of a marketing campaign, regardless of whether it is digital, print, or hybrid (a combination of both digital and print).
+Fig 8. Pixabay (n.d.) Example of advertising platforms online
+Fig 9. Pixabay (n.d.) Times Square shows multiple examples of advertising within a physical location
+Examples of marketing/advertising design work:
+Postcards and flyers
+Ads (print media, posters, banners, billboards, social media, etc.)
+Infographics
+Brochures
+Vehicle wraps
+Signage and trade show displays
+Marketing email templates
+PowerPoint presentations
+Menus
+Images for websites and blogs
+Social media campaigns
+Examples of skills/experience needed:
+Communication
+Marketing knowledge
+Problem-solving
+Time management skills
+Production for print and online environments
+CAD software
+Teamwork
+Motion graphics and game design
+Although motion and game design share similarities, they are separate fields involving different skills, approaches, and training.
+A motion graphic designer creates moving content by combining animation, audio, and visual effects (imagery and text) to tell a story. These products can be for television, the internet, or films, including trailers, presentations, animated logos, GIFs, intros, title designs, web animation, stop motion animation, mechanical animation, and 2D and 3D computer animation. Motion graphics should not be confused with animated film (e.g., Disney or Pixar) or special effects. An example of motion graphics is the ‘Athena’ video on the Further Learning website’s home page.
+Game design is a niche area within motion design. It can be for computer, mobile or console gaming and requires the designer to be highly creative and technologically skilled. The difference comes in when it applies art and design to gameplay, specifically, such as the creation of game environments, characters, pieces, and user interfaces. They also outline and map gameplay rules in conjunction with the visual design aspect.
+Fig 10. Pixabay (n.d.) Game design
+Examples of motion and game design work:
+Video games
+Cartoons and animations for television or movies
+Brand animation for social media channels
+Motion graphics for online videos
+Trailers
+Presentations
+Promotional videos
+Tutorial videos
+GIFs
+Examples of skills/experience needed:
+Storyboarding
+CAD software
+Video editing
+Problem-solving
+Teamwork
+Coding
+3D modelling
+Marketing (a plus)
+Editorial/publication design
+Also called publishing design, designers in this area usually work on magazines, newspapers, books, and catalogues both in print and online.  
+Graphic designers use their skills to develop eye-catching layouts while communicating a message. The main goal is to attract the reader's attention and make it easy for them to absorb information. It is up to the designer to use typography, colour, layout, etc. to produce easily readable, visually appealing designs that are relevant to the content. For example, a photography magazine will emphasise the visuals on the page. A business magazine needs an appropriate typeface for headers and text that conveys a professional image.
+Fig 11. Pixabay (n.d.) Magazine layout design
+Fig 12. Pexels (n.d.) Publication designers work with print and online media design
+Examples of publishing design work:
+Books
+Newspapers
+Newsletters
+Directories
+Annual reports
+Catalogues
+Magazine covers and spreads
+eBook layout and design
+Graphs or other images in nonfiction books
+Examples of skills/experience needed:
+Layout and print design
+Adobe Creative Suite
+Colour management
+Market research
+Attention to detail
+Art and Illustration
+Graphic artists and illustrators are slightly different from graphic designers with the main difference being how their talents are utilised. Graphic designers will create a design to solve a problem or to communicate information on a commercial scale, sometimes using pre-existing templates. Graphic artists on the other hand, create entirely original and unique artworks. Having a fine art background (qualification and/or experience) in painting and drawing is essential to work in art and illustration as strong drawing skills are a prerequisite to creating unique, high-quality work. These works can span multiple design fields, from print design to gaming. Many skills required for artistic creation or illustrations overlap with other graphic design specialisms.
+Fig 13. Pixabay (n.d.) Children’s book illustration
+Examples of art and illustration work:
+T-shirt design
+Graphic patterns for textiles
+Motion graphics
+Stock images
+Graphic novels
+Video games
+Websites
+Comic books
+Album art
+Book covers
+Picture books
+Infographics
+Technical illustration
+Concept art
+Examples of skills/experience needed:
+Foundation in fine arts, animation, or architecture
+Technical drawing skills
+CAD software
+Collaboration and teamwork
+Product design
+Product design may also require an  illustrator or graphic designer as part of a product design team. It also helps if a product designer has graphic design experience, since it saves time when it comes to creating mock ups and icons. Regardless of the product, you'll need graphic or illustration experience when shaping the product's visual style for the relevant audience. 
+A product designer must research, design and develop new products that solve users' problems or address specific needs (e.g. client brief). Typically, it combines the user's needs with business goals in mind, which is similar to the process of a graphic designer. The types of products these designers create will depend on which industry they work in, but it could include everything from toys to medical equipment.
+Fig 14. Pixabay (n.d.) Product design sketches
+Fig 15. Pixabay (n.d.) Car design
+Examples of product design work:
+A wide range of products
+Product packaging
+Marketing designs
+Product illustrations and prototyping
+Examples of skills/experience needed:
+Market research
+Prototyping
+3D modelling 
+Adobe Creative Suite
+Empathic skills
+Packaging design
+Packaging design is often included in product design. However, as a standalone area, packaging design is about creating packaging such as boxes, cans, bottles, labels, etc. that protects and prepares products for storage, distribution, and sale. It is an important design area that involves designing packaging that is functional, aesthetically appealing and conveys critical information to users/consumers. 
+Fig 16. Pixabay (n.d.) Example of chocolate packaging
+Packaging designers work hand-in-hand with other designers or can also be required to work across specialisms, including branding and visual identity, to ensure a particular product packaging communicates the brand in the best possible way. One of the critical features of modern-day packaging is being creative with the type of materials used as brands are becoming more environmentally conscious.
+Fig 17. Pixabay (n.d.) Example of technology product packaging
+Examples of packaging design work:
+Product packaging
+Examples of skills/experience needed:
+Market research
+Prototyping
+3D modelling 
+CAD software
+Sustainable design
+Signage and informational design
+Signage and informational design, also sometimes referred to as environmental graphic design (EGD), encompasses wayfinding systems, digital signage, window films, wall and floor graphics, and backlit displays. It is a multidisciplinary practice that involves areas such as graphic design, architecture, art, landscape, lighting, interior design, industrial design, and other fields. In combination, these disciplines are utilised to enhance the user experience through the visual translation of ideas in the built environment. For example, these designers must consider architecture and the landscape when designing road signs, maps, landmarks, and other visual cues. 
+These designs enhance people’s experiences in specific locations/spaces, making them more appealing, informative, and easier to navigate.
+Fig 18. Pixabay (n.d.) Road sign
+Fig 19. Pixabay (n.d.) Signs indicated restrooms
+Examples of signage and informational design work:
+Signage
+Building displays
+Wall murals
+Office branding
+Wayfinding systems (e.g., public transportation navigation)
+Retail store design
+Museum exhibits
+Event and conference spaces
+Examples of skills/experience needed:
+Creativity
+Communication skills
+Urban design
+Adobe Creative Suite
+Over To You
+Now it’s your turn to explore the different types of graphic design. 
+Sometimes, there is an overlap between the different types of graphic design. Take a look at the image below and consider which TWO types of graphic design might be relevant in creating such an application:
+Fig 20. Pixabay (n.d.) Google Maps application
+Identify a graphic image that appeals to you. This image could be a webpage, a user interface on an app, a magazine cover, or a package. Anything at all. Define what type of graphic it is? 
+Now grab your sketchbook. Sketch out some of the design's key elements, e.g. what is the colour palette? The typeface? The layout? Texture? 
+Next, consider how you could convert the design to another type. For example, if your design is a package, how could you create an icon for an app? What would your design look like as a web page if your design is a physical magazine cover? Try doing some rough sketches for this new design (or, if you prefer, use digital software of your choice and create a mock-up). 
+When you’re done, head over to the forum and share your thoughts, ideas and sketches with your fellow students. 
+Image reference:
+Source for Figures 1, 4-20: Pixabay.com
+Source for Figures 2 & 3: Pexels.com
+References:
+Bond, J. (2020) How closely related are Game Design and animation? DegreeQuery.com. Available at: https://www.degreequery.com/art-degrees/how-closely-related-are-game-design-and-animation/
+[Accessed: January 3, 2023].
+Brooks, A. (2020). 7 Types of Graphic Design to Consider for Your Creative Career. [online] www.rasmussen.edu. Available at: https://www.rasmussen.edu/degrees/design/blog/types-of-graphic-design/. [Accessed 28 Nov. 2022].
+Jones Cann, M. (2022). The 8 types of graphic design you need to know. The Creative Edge: Create and grow by design. Available at: https://en.99designs.pt/blog/tips/types-of-graphic-design/ [Accessed 28 Nov. 2022].

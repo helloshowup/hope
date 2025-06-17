@@ -1,0 +1,152 @@
+<?xml version="1.0"?>
+<!-- Note: This script may not meet all quality guidelines. Please review carefully. -->
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="en-US">
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>Hello! Welcome to module 10. Can you believe it's the last module of this course? It's great to talk about robots with you today. I'm really excited, because robotics is a field where you can see how science and engineering come together.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>Hi there! I'm looking forward to exploring the future of robotics with you. Robots are showing up in places you might not expect—hospitals, factories, and even people's homes. You might have seen videos of robots doing backflips or delivering packages. As we begin this final module, I want to share some examples of emerging robotics technologies. Later in the module, we'll dive deeper into exciting fields like soft robotics, swarm robotics, and bio-inspired robots. I'll also ask some questions to help everyone understand how AI and robots are changing our world. Are you ready to get started?</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>Absolutely. Let's get started!</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>Great! I saw a video of that Boston Dynamics robot doing parkour—jumping and flipping like an athlete. How does a robot like that keep its balance when it moves so fast?</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>That's a good question. They use sensors called gyroscopes and accelerometers. A gyroscope can tell if the robot is tipping over, just like how you can feel if you're falling. An accelerometer measures how fast the robot is moving. The robot's computer uses information from these sensors to adjust its motors. It makes small changes to the position of the legs or arms to keep from falling. It's a bit like when you ride a bike and shift your weight to stay upright.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>So, it's like the robot is always listening to its own body? That's pretty smart! I heard that robots can even learn new tricks over time. How does that work? Can a robot really "learn"?</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>Yeah, in a way. Modern robots use artificial intelligence, or AI. With AI, robots can learn from experience. At first, a robot might mess up. For example, if it's learning to pick up a box, it might drop it or squeeze too hard. Each time, the robot's computer remembers what worked and what didn't. Over time, it gets better, just like you get better at a video game after playing. Later in this module, we'll talk more about how AI helps robots learn in different ways.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>That's kind of amazing. It's like when I learned to skateboard—I fell a lot, but with practice, I improved. I've also read about robots that work together in groups. Later in the module, we'll explore swarm robotics, right? I read about robots that can search for people after disasters. How do these robots talk to each other without crashing?</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>That's right, we'll cover swarm robotics later on. These are really interesting systems. Instead of having one big, smart robot, you have lots of small, simple robots. Each robot follows a few basic rules. For example, "Don't bump into others," "Stay close to the group," and "If you find something important, tell your neighbors." The robots use wireless signals, like Wi-Fi or Bluetooth, to send short messages. If one robot finds something, it can alert others nearby. The group can explore a place much faster and safer than one robot alone. If one robot breaks down, the others keep going. That teamwork is based on how ants or bees work together in nature.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>Oh, I see! So, like how a group of ants can carry a big cookie crumb together, a swarm of robots can do a big job by working as a team. That's a neat way to copy nature. Speaking of nature, I've heard about robots that can squish and stretch. Later in the module, we'll learn about soft robotics, right? Why would we want a robot that's soft instead of hard and strong?</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>You're right, we'll explore soft robotics in depth later on. Soft robots are special because they can go places hard robots can't. For example, if you want a robot to crawl through a small pipe or pick up a soft fruit, a hard metal robot might get stuck or crush the fruit. Soft robots are made from materials like rubber or silicone, so they can squeeze, bend, and stretch. They use air or water to move their "muscles." This makes them gentle and flexible, perfect for delicate work. Scientists study animals like worms and octopuses to get ideas for these robots.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>So, could a soft robot help pick strawberries without squishing them? That would be pretty useful for farmers! It seems like robots are really learning from animals. Will we cover other kinds of nature-inspired robots in this module?</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>For sure. Later in the module, we'll explore bio-inspired robotics in more detail. Engineers watch how animals move and solve problems. For example, there are robots that hop like kangaroos, or that have whiskers like rats to feel in the dark. Some robots swim like fish, which helps them move smoothly in water. There are even robots with wings that flap like birds or insects.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>That's awesome! I bet a robot fish could help scientists study the ocean without scaring away real fish. Or maybe a hopping robot could explore a rocky mountain where wheels wouldn't work. But let me ask—do all robots need to look or move like animals? Can't wheels and arms do most jobs?</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>Wheels and arms are great for flat ground and simple tasks. But in places that are rough, tight, or delicate, animal-inspired robots may do better. For example, a wheeled robot can't climb stairs or squeeze through cracks, but a robot that moves like a snake or an insect can. And soft robot hands can hold an egg without breaking it, which is hard for metal claws.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>[pause] That makes sense. I was thinking of robots just rolling around, but now I see why copying animals can help solve tricky problems. Oh! How about those exoskeletons? How do those work?</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>Exoskeletons are wearable robots. They fit around a person's legs or arms. Motors and sensors help move the person's body, even if their muscles are weak or don't work. The sensors can tell when the person wants to move, and the motors help lift or push. It's a bit like having robotic "muscles" outside your body. Exoskeletons can help people stand up, walk, or even climb stairs again.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>Wow, that's really life-changing for people who can't walk on their own. I also heard about robots that help doctors in surgery. Are those robots doing all the work, or are humans still in control?</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>In most cases, the doctor is still in charge. The surgical robot acts like extra hands. These robots can move in tiny, precise ways that a human hand can't. The doctor controls the robot using special tools, and the robot's computer helps steady the movements. This lets doctors do delicate surgeries with less risk of mistakes.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>That's cool—so it's like the robot is a super tool, but the doctor decides what to do. Are there any robots that work without people telling them every step?</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>Yeah—robots with advanced AI can make some decisions on their own. In a later lesson this module, we'll explore how AI makes robots smarter. For example, self-driving vehicles use sensors and computers to drive safely on roads. They watch for other cars, people, and signs, and decide when to stop or turn. Factory robots with AI can sort packages or spot broken items without being told exactly how. But even these robots have safety systems, and humans check their decisions.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>Speaking of safety, what happens if a robot makes a mistake or does something dangerous? Like, what if a home robot breaks something or a delivery robot gets lost?</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>That's a really important question. Engineers put safety systems in robots. These can be special sensors that stop the robot if something is in the way, or emergency stop buttons. For home robots, there are rules about what they can record or do. For example, most robots can't open doors unless someone says it's okay. Also, there are laws that say how robots should protect people's privacy and safety. We'll discuss these ethical considerations more later in the module.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>I'm glad to hear that! I think a lot of people worry that robots might take over jobs or spy on them. But it sounds like most robots are made to help, not replace, people. And there are rules to keep everyone safe.</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>Exactly. Robots are best at doing jobs that are dangerous, boring, or too hard for humans. For example, cleaning up after a chemical spill, exploring Mars, or lifting heavy things all day. That way, people can focus on creative or complex problems.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>That's true. Like in a factory, robots might put together cars, but people design the cars and fix the robots if something breaks. And in hospitals, robots can carry supplies or clean rooms, but nurses and doctors take care of patients. Still, I wonder—do you think robots will ever understand emotions?</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>Robots are getting better at understanding human emotions. AI can read faces or listen to the way someone talks. If you sound sad, a robot could offer help or play your favorite song. But, robots don't really "feel" emotions—they just recognize patterns. So, while robots can act friendly or helpful, they don't experience feelings like people do. We'll explore this more when we discuss AI and robots later in the module.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>I see. Maybe robots can help with simple things, like reminding someone to take medicine or cheering them up, but they're not real friends. What about in schools? What kinds of robots could help students and teachers?</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>In schools, robots could help by carrying books, cleaning, or even helping students learn math or science. Some robots can read stories out loud or answer questions. They can also help teachers by handing out papers or showing how to do a science experiment safely. For safety, robots in schools would need clear rules—they should never block doors, record private conversations, or move too fast in crowded halls.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>I like the idea of a robot that helps carry heavy backpacks or helps kids with homework. But you're right—there would need to be rules so everyone feels safe. Maybe there could be a robot "driver's license" where robots have to pass safety tests before they're allowed in schools.</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>That's a smart idea! Testing robots before they work around people makes sure they won't cause problems. Engineers already test robots for safety in factories and hospitals.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>That's good to know. It sounds like robots are changing a lot about how we live and work, but people are still in control. I think it's exciting to imagine what robots might do in the next ten years. Maybe we'll have robots that help with chores, deliver our lunches, or even help take care of pets!</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>Yeah, the future is full of possibilities. Robots are already helping in ways that people didn't expect—exploring the deep sea, assisting doctors, or delivering packages. As robots get smarter and more flexible, they'll be able to help with more tasks at home, school, and work. But it's important to remember that robots are tools. People decide how to use them safely and kindly.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>I agree. Robots are amazing helpers, but they need good rules and careful design. I hope more students get interested in robotics—it's a field where you can solve real problems and even help people in new ways.</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>To wrap up our introduction to this module, I'd say that understanding how robots work—how their parts fit together, how they learn, and how they stay safe—makes it easier to see how they fit into our world. If you're curious and like building things, robotics could be a great path for you.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>And if you love solving problems or thinking about the future, robots have a place for you too! Whether you want to design, build, or use robots, there are so many ways to get involved. I'm excited about diving deeper into these topics in the rest of the module!</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>Me too! Keep asking questions and exploring—you never know what robots might be able to do next.</p>
+</voice>
+
+</speak>

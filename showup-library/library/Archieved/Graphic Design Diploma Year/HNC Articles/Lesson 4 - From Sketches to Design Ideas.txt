@@ -1,0 +1,59 @@
+The Iterative Development Process
+Iterative development is a popular design process used by graphic designers and creative professionals in general. Iteration means to ‘repeat’ or to create ‘a new version of something’,  and when applied to graphic design, it involves repeatedly producing and refining ideas to ensure the best outcome. For a fine art artist, this could mean creating numerous sketches before arriving at the artwork that will be hung in a gallery. For a novelist, it includes creating numerous drafts before submitting a final manuscript for publishing. For a photographer, iteration involves taking several shots before one is selected for a magazine cover.
+Fig 1. Unsplash (n.d.) Ideation includes discarding some ideas and keeping others
+Designers understand that their first versions are generally not representative of their best or most effective work but they also realise that the first designs come from unbridled instinct and freedom of expression.  As a result, they will go through an iterative development process to refine these first instincts into something more effective and to reconstruct certain elements to be the best and most effective they can be. This process allows for experimentation and deeper understanding of the work, which in turn yields better, more successful results.
+Plan
+Before starting with the ideation phase, you should first put some time aside to plan. An iterative development process requires a clear contextual understanding of the design problem and its requirements. For the iterative process to be effective it first requires focus so that each step during the iteration is directed at creating a constructive solution. 
+The planning phase is driven by research, whether primary or secondary, and should always relate to the design problem at hand. The starting point is outlining limitations such as budget constraints and deadlines. You then need to start some initial research. For example, if a brief states that you need to design something new, exploring the client’s competitors, trends, and other designs within a particular industry will inform your design and help set you apart with new and exciting ideas. If you are required to review or update a design for a client, analysing customer or stakeholder feedback is a good way to establish a framework from which to work. 
+Fig 2. Pixabay (n.d.) Planning
+Ultimately, you cannot enter the ideation phase without first educating yourself on the brief in detail. You need to have a clear and focused goal to help guide you during each step of the ideation phase which will also save you time and resources in the long run. 
+Ideation
+During this stage of the iterative process, the aim is to generate as many ideas as possible, regardless of their quality. Creating and refining ideas come from methods such as sketching, and can include gridwork, tracing, colour palette testing, etc.
+Sketching is the practice of creating numerous rough drawings of possible design solutions and alternatives, and still remains one of the most prominent ideation methods practised by professional designers. Typically, designers make use of a pencil and paper for sketching, but this can also include manually drawing on a graphics tablet, should that be the preference of the designer.
+Fig 3. Unsplash (n.d.) Quick font experimentation
+Fig 4. Unsplash (n.d.) Sketched ideas for an interface
+Unlike written or verbal communication, sketches sidestep the rules of grammar and can help clearly communicate ideas. This is especially valuable when working within a team. Sketching also keeps your creative juices flowing and can be quick, easy, and enjoyable, especially if you push yourself by adding challenging parameters.
+There are several sketching/creative thinking methods that you can use, including:
+Crazy 8s: create 8 sketches within 8 minutes.
+8-4-2-1 Rapid Sketching: sketch for 8 minutes, then for 6 minutes, 4 minutes and finally 2 minutes, with 2 minute feedback sessions in between.
+Positive/Negative: choose a simple object and instead of trying to draw the object, only draw the negative space around the object.
+Mash Up: create doodles that are based on combining two unrelated concepts/objects.   
+Fat Marker Sketches: start by sketching ideas using only a fat marker to force simplicity, after which you move on to using markers with a thinner nib to add more and more detail.
+Round Robin (team): each team member draws a solution to a design problem and passes it to another member. They then add to the drawing before passing it on again or they can give it back to the initial designer with feedback regarding the idea’s strengths and weaknesses.  
+Mind Mapping: a well-established method where you draw a diagram with the main design problem in the centre of the page and all around it are symbols that represent associated ideas.
+If you are working on a design idea that involves layout, you can also create layout sketches using tracing paper and/or grid paper. This method involves laying out all your design elements in a clean and structured way without having to use a ruler for measurements. Tracing paper is also very useful if you need to adjust your design, since redrawing a design from a basic layout, outline, or template will speed up the entire process of duplicating elements.
+Fig 5. Unsplash (n.d.) Grid paper
+Keeping a sketchbook is an established way of recording visual and textual ideas. Pages can become a record of notes, images, photos and sketches, etc. to record the various iterations of ideas relating to a task.
+Refine Ideas
+After you have created several sketches, it is time to assess what you have produced. This is where you need to take some time to evaluate and critique your ideas by comparing, contrasting and identifying the potential value of these ideas. This will help you to refine them before presenting to clients and other stakeholders. 
+In looking at the ideas created via your idea generation process, consider the following: 
+What are the pros, and what are the cons?
+What are the opportunities, and what are the limitations?
+What are the benefits, and what are the costs?
+Which idea or element meets the brief more accurately?
+Which idea has the ability to meet the brief more accurately?
+Comparing the strengths and weaknesses of your various ideas will help you determine which ideas are worth exploring further and which ideas are worth abandoning in the early stages. It is the idea generation process that gives you the opportunity to create a number of ideas that you can then evaluate to determine the best ideas you have to take further in the design process.
+Prototype
+Now that you have a preferred design solution, focussing on a single idea should simplify the rest of the process. Typically, it would be a good time for you to move onto creating a prototype using CAD software. If your sketched idea is solid, transferring it to create a digital version can be very quick and easy. 
+Fig 6. Unsplash (n.d.) Working with CAD
+Creating a prototype or mock–up using CAD doesn’t mean that you can’t make small adjustments, but they should be minimal to avoid wasting more time on ideation rather than bringing the design to its final version.
+Test & review
+The objective of the testing stage is to find out whether or not the prototype solves the design problem or brief and to gauge how well it has worked. You don’t want to implement anything new at this stage; it’s simply about rolling out your design to see if it effectively answers the brief. 
+For example, if you designed a new website, you would trial it with a user who will navigate the site and provide you with feedback regarding their experience. This helps you to objectively understand your design choices through feedback, findings, and insights.  Depending on the design, other ways to gain feedback can be through a public survey or presentation to: 
+a client
+colleagues/team members
+other creative practitioners
+a focus group.
+After analysing the results, you can make a final conclusion about the effectiveness of the design. 
+Fig. 7 Pixabay (n.d.) Success rating
+A final conclusion typically falls into one of the following categories:
+The design is suitable, effective, and addresses the brief (i.e. ready for implementation) 
+The design can be improved (i.e. needs minor adjustments to mock-up)
+The design does not satisfy the brief or solve the design problem (i.e. requires further or more extensive ideation)
+If it’s the latter, you will then need to revisit the ideation stage and decide if the problem lies with the initial idea or if you should have refined the idea differently at a later stage of the process? 
+Over To You
+Now it’s your turn to apply a technique discussed in this article. 
+Grab your sketchbook and some basic drawing tools, like a pencil or pen. Try your hand at the Crazy 8s sketching method using the following statement as your design brief:
+Design a road sign graphic (no text) for a major city aimed at warning pedestrians about the danger of using their cellphones while navigating the busy roads.  
+Set a timer for 8 minutes and see if you can come up with at least 8 different ideas by roughly sketching them out in your sketchbook. If you want, you can repeat the 8 minute cycle again and see if you can create even better ideas than the first round. You can also challenge yourself by including colour as a design requirement.  
+Head over to the student discussion forum and share your sketches with your peers, as well as any comments about your experience with the Crazy 8s sketching methods (e.g. What did you like? What didn’t you like? Do you think it’s a method you will apply again in future? Why or why not?)

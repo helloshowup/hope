@@ -1,0 +1,19 @@
+# .gitignore for showup-editor-ui
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.bak
+.DS_Store
+.env
+.venv
+.idea/
+.vscode/
+build/
+dist/
+.eggs/
+*.egg-info/
+*.egg
+assets/
+templates/

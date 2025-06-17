@@ -1,0 +1,80 @@
+
+    <div class="markdown-content" style="font-family: Arial, sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 0 auto;">
+        <h1>3.5</h1>
+
+<h1>Wheels and Legs: Common Robot Movement Methods</h1>
+
+<h2>Learning Objectives</h2><p>By the end of this session, you'll be able to:</p>
+<ul>
+<li>Tell the main pros and cons of wheels vs. legs on robots</li>
+</ul>
+<ul>
+<li>Name at least 3 types of wheel setups used in robots</li>
+</ul>
+<ul>
+<li>Build and test simple models to see how wheel setup affects movement</li>
+</ul>
+<h3>Lesson Podcast Discussion: Comparing Wheeled and Legged Robot Designs</h3><p>Imagine you're building a robot to help you around your home. Should it roll on wheels like a remote-control car, or walk on legs like a dog? This is one of the most important decisions robot designers make. Wheeled robots are usually simpler to build and control. They move smoothly and quickly on flat surfaces like floors and sidewalks. Think about how easily your bike or skateboard rolls on a smooth path! However, wheels struggle with stairs, rocky terrain, or gaps in the ground.</p>
+<p>&nbsp;</p>
+
+<p>Legged robots, on the other hand, can step over obstacles, climb stairs, and handle rough terrain much better. Just like how you can easily walk up stairs that a bicycle can't climb. The downside? Legs require more complex programming and mechanics to keep the robot balanced and moving properly. It's like the difference between riding a bike (which is pretty easy once you learn) and walking on stilts (which takes a lot more balance and coordination).</p>
+<p>&nbsp;</p>
+
+<p>When engineers choose between wheels and legs, they think about where the robot will work, what it needs to do, and how much complexity they can handle in their design. There's no one-size-fits-all answer - each approach has its own strengths and weaknesses!</p>
+<h2>Wheeled Robot Designs</h2>
+
+<h3>Two-Wheel Configurations</h3><p>Two-wheeled robots are among the simplest designs but offer surprising versatility. The most common type uses a <strong>differential drive</strong> system, where two powered wheels are placed on either side of the robot. By spinning these wheels at different speeds or in different directions, the robot can move forward, backward, or turn in place. Think about how a tank or wheelchair moves - that's differential drive in action!</p>
+<p>&nbsp;</p>
+
+<p>Some two-wheeled robots, like the famous Segway, use a <strong>self-balancing</strong> design. These robots position their wheels side by side and use sensors and motors to constantly adjust and stay upright, similar to how you balance a broom on your palm. This design creates a naturally nimble robot that can turn quickly and navigate tight spaces.</p>
+<p>&nbsp;</p>
+
+<p>Two-wheeled robots are popular for beginner projects, educational platforms, and indoor robots because they're simple to build and program. For example, the Sphero BOLT educational robot uses two wheels inside a spherical shell to roll around classrooms while teaching students coding. Delivery robots like Starship Technologies' small food delivery bots use a similar two-wheel design to navigate college campuses and neighborhoods, using sensors to detect and avoid obstacles as they travel.</p>
+<h3>Four-Wheel and Track Designs</h3><p>Four-wheeled robots offer excellent stability and are often arranged like a car, with steering in the front wheels and power in the rear wheels. This arrangement, called <strong>Ackermann steering</strong>, allows for smooth turning at higher speeds but requires more space to turn compared to differential drive systems.</p>
+<p>&nbsp;</p>
+
+<p>Another common four-wheel design is <strong>skid steering</strong>, where all four wheels are powered but don't turn independently. Instead, like in differential drive, the robot turns by running wheels on one side faster than the other. This creates a skidding motion during turns (hence the name) but makes for a sturdy, reliable design with fewer moving parts.</p>
+<p>&nbsp;</p>
+
+<p><strong>Track designs</strong>, like those on tanks or bulldozers, wrap a continuous belt around wheels to increase the contact area with the ground. This gives excellent traction on soft surfaces like sand, snow, or mud where regular wheels might sink or slip. Military robots, construction robots, and exploration robots often use tracks to handle challenging terrain, though they use more energy and turn less efficiently than wheeled designs.</p>
+<p>&nbsp;</p>
+
+<p>In the real world, NASA's Mars rovers like Curiosity and Perseverance use a special six-wheel design with individually powered wheels that can rotate in place, allowing them to navigate the rocky Martian landscape. Meanwhile, robots like the TALON used by bomb squads feature track designs that can climb stairs and move over rough debris at disaster sites.</p>
+<h3>Omnidirectional Wheels</h3><p>Imagine wheels that can roll forward like normal wheels but also slide sideways without resistance. That's what <strong>omnidirectional wheels</strong> do! These special wheels come in several designs, including <strong>Mecanum wheels</strong> (which look like regular wheels with angled rollers around the edge) and <strong>Swedish wheels</strong> (with small rollers around the circumference).</p>
+<p>&nbsp;</p>
+
+<p>By combining four of these special wheels and controlling each one independently, robots can move in any direction without needing to turn first. They can slide sideways, move diagonally, or even rotate while moving forward. This incredible flexibility makes omnidirectional wheels perfect for robots that need to navigate tight spaces or make precise movements.</p>
+<p>&nbsp;</p>
+
+<p>You'll often find these wheels on indoor robots like automated factory vehicles, camera platforms for filming, and some advanced educational robots. For example, the FIRST Robotics Competition often features student-built robots with Mecanum wheels that can strafe sideways to align with game pieces. In hospitals, some medication delivery robots use omnidirectional wheels to navigate crowded hallways without needing wide turning spaces. While they're amazing for smooth, flat surfaces, they typically don't perform well on rough terrain and can be more complex to program and control.</p>
+<h2>Activity 1: Wheel Arrangement Testing</h2><p>Using materials available to you (toy wheels, cardboard, etc.), create simple models of two different wheel arrangements discussed in this lesson. Test how each arrangement handles turning, moving forward, and traversing a small obstacle. Record your observations about stability and maneuverability differences between the arrangements.</p>
+<p>&nbsp;</p>
+
+<p>
+        <figure class="table" style="float:left;width:92.41%;" data-font-size="14" data-line-height="20">
+            <table class="ck-table-resized" style="border-style:none;" data-font-size="14" data-line-height="20">
+                <colgroup data-font-size="14" data-line-height="20"><col style="width:13.29%;" data-font-size="14" data-line-height="20"><col style="width:86.71%;" data-font-size="14" data-line-height="20"></colgroup>
+                <tbody data-font-size="14" data-line-height="20">
+                    <tr data-font-size="14" data-line-height="20">
+                        <td style="border-style:none;" data-font-size="14" data-line-height="20">
+                            <figure class="image image_resized" style="width:100%;" data-font-size="14" data-line-height="20">
+                                <img style="aspect-ratio:600/600;" src="https://api.learnstage.com/media-manager/api/access/exceled/default/89309a11-e6ae-4133-97a9-93c735f38be4/content-page/4e85aa67-83db-423a-b7de-53b356164071_removalai_preview.png" width="600" height="600" data-font-size="14" data-line-height="20">
+                            </figure>
+                        </td>
+                        <td style="border-style:none;" data-font-size="14" data-line-height="20">
+                            <h3 data-font-size="16" data-line-height="23">
+                                <span style="color:hsl(359,97%,29%);"><span data-font-size="16" data-line-height="23"><strong data-font-size="16" data-line-height="23">Key Takeaways</strong></span></span>
+                            </h3>
+                            <ul>
+<li>Wheeled robots move faster and use less energy on smooth surfaces, while legged robots can climb stairs and handle rough terrain better.</li>
+<li>The robot's job and working environment determine whether wheels or legs are better - wheels work best on flat surfaces while legs handle obstacles better.</li>
+<li>Different wheel setups (like two-wheel differential drive, four-wheel designs, and omnidirectional wheels) each have unique advantages for stability, turning ability, and the types of surfaces they can handle.</li>
+</ul>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </figure></p>
+<p>&nbsp;</p>
+    </div>
+    

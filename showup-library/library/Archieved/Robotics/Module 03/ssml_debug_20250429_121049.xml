@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<!-- Note: This script may not meet all quality guidelines. Please review carefully. -->
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="en-US">
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>Hi there! Today we’re talking about how robots can fly. Robots move in many ways, but flying is one of the trickiest. I’ll explain how the parts work together to get robots in the air.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>Hey! I’m excited to talk about flying robots. I see drones all the time, but I don’t always know what’s going on inside them. Maybe you can help me explain how these robots actually fly—especially for things like school projects or filming sports games.</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>Sure thing. Most drones you see are called quadcopters. They have four spinning propellers. Each propeller pushes air down. When all the propellers spin fast enough, the drone lifts off the ground. If you change how fast each propeller spins, you can tilt or turn the drone.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>So, is it kind of like when you blow on a piece of paper and it lifts up? The propellers push air down and that lifts the drone up?</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>Exactly. That’s a good way to think of it. But drones also need to stay balanced in the air. They use sensors—like tiny gyroscopes—to know if they’re tipping. Then, a small computer makes the right propellers spin faster or slower to keep everything level.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>That’s cool! But drones can’t fly very long, right? My friend’s drone only lasts about 20 minutes before it needs to charge.</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>That’s right. Most drones use batteries, and batteries get used up quickly when flying. They’re great for short jobs—like checking roofs or taking photos from above. But if you want to fly farther or longer, you need a different design.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>Like what? Are there robot planes?</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>Yes! Fixed-wing robots are like little airplanes. They have wings that don’t move. The wings help hold the robot up as it glides forward. These can fly for hours, but they can’t hover in one spot like a drone.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>Wait, but I saw a video of a robot that flaps its wings like a bird. How does that work?</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>That’s called a flapping-wing robot. Engineers study birds and insects to learn how to flap wings. These robots use lightweight materials and small motors to flap. Some can even change their wing shape in the air.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>Hmm, I thought flapping wings would be slower than spinning propellers. But you’re saying they can actually move quickly and turn easily?</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>Yes, in tight spaces, flapping-wing robots can be more flexible. They can zip around obstacles, just like a dragonfly.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>Wow. So, if you wanted to send a robot into a collapsed building to look for people, a flapping-wing robot might be better than a drone?</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>Sometimes, yes. Flapping-wing robots can fit in small spaces and move carefully. But for heavy lifting or carrying cameras, drones still work best.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>Got it. So, each flying robot is built for a special job and place. That makes sense.</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>Exactly. Propellers, wings, or flapping—each has strengths. Engineers choose what works best.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>This was great! I hope students see that robots fly in all sorts of ways, and each one is designed for a reason.</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>Right. Think of it like picking the right tool for a job. Flying robots are fun to watch, but they’re also smart designs built for many tasks.</p>
+</voice>
+
+</speak>

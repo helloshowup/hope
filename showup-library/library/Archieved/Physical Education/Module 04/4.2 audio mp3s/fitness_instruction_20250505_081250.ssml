@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="en-US">
+<voice name="en-US-AndrewNeural" parameters="temperature=0.35">
+<prosody rate="-5%" pitch="+2%" volume="+10%">
+<p>Welcome to your curl-ups session. <break time="650ms"/> Curl-ups are a focused core exercise that strengthens your abdominal muscles. <break time="650ms"/> They are designed to reduce strain on your neck and lower back compared to traditional sit-ups. <break time="650ms"/></p>
+<p>Let’s get ready. <break time="650ms"/></p>
+<p>Lie down on your back. <break time="650ms"/> Bend your knees comfortably. <break time="650ms"/> Place your feet flat on the floor,<break time="150ms"/> hip-width apart. <break time="650ms"/> Rest your arms alongside you. <break time="650ms"/> Now,<break time="150ms"/> slide your hands up onto your thighs. <break time="650ms"/> Your fingertips should gently rest on your upper thighs. <break time="650ms"/> Keep your head and neck relaxed. <break time="650ms"/> <emphasis level="moderate">Keep your lower back in contact with the floor</emphasis>. <break time="650ms"/> This is your starting position. <break time="650ms"/></p>
+<p>Before we start,<break time="150ms"/> remember one key safety tip. <break time="650ms"/> <emphasis level="strong">Do not pull on your neck or head</emphasis>. <break time="650ms"/> Let your hands guide the motion,<break time="150ms"/> not your neck. <break time="650ms"/></p>
+<p>Here’s how one repetition looks. <break time="650ms"/> Inhale to prepare. <break time="650ms"/> Exhale as you contract your abdominal muscles. <break time="650ms"/> Slowly curl your upper body forward. <break time="650ms"/> Slide your hands up your thighs until your fingertips reach your knees. <break time="650ms"/> Your lower back stays on the floor. <break time="650ms"/> Pause at the top. <break time="650ms"/> Then slowly return to the starting position with control. <break time="650ms"/></p>
+<p>Let’s check your form before we count. <break time="650ms"/> Are your feet flat on the floor? <break time="650ms"/> Are your hands on your thighs? <break time="650ms"/> Is your neck relaxed? <break time="650ms"/> Move smoothly,<break time="150ms"/> without jerking or using momentum. <break time="650ms"/> If yes,<break time="150ms"/> you’re ready. <break time="650ms"/></p>
+<p>Let’s begin ten repetitions together. <break time="650ms"/></p>
+<p><prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">Keep your chin slightly tucked</emphasis> <break time="650ms"/></prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">Slide hands to your knees,<break time="150ms"/> not past them</emphasis> <break time="650ms"/></prosody>
+<prosody rate="-5%" pitch="+10%">Three - <emphasis level="moderate">Lower down slowly,<break time="150ms"/> using your core</emphasis> <break time="650ms"/></prosody>
+<prosody rate="-5%" pitch="+10%">Four - <emphasis level="moderate">Breathe out as you curl up</emphasis> <break time="650ms"/></prosody>
+<prosody rate="-5%" pitch="+10%">Five - <emphasis level="moderate">Shoulders lift,<break time="150ms"/> but neck stays relaxed</emphasis> <break time="650ms"/></prosody>
+<prosody rate="-5%" pitch="+10%">Six - <emphasis level="moderate">Keep lower back on the mat</emphasis> <break time="650ms"/></prosody>
+<prosody rate="-5%" pitch="+10%">Seven - <emphasis level="moderate">Pause briefly at the top</emphasis> <break time="650ms"/></prosody>
+<prosody rate="-5%" pitch="+10%">Eight - <emphasis level="moderate">Hands return to thighs each time</emphasis> <break time="650ms"/></prosody>
+<prosody rate="-5%" pitch="+10%">Nine - <emphasis level="moderate">Use your abs,<break time="150ms"/> not momentum</emphasis> <break time="650ms"/></prosody>
+<prosody rate="-5%" pitch="+10%">Ten - <emphasis level="strong">Finish with control</emphasis> <break time="3000ms"/></prosody></p>
+<p>If you want to make this easier, <break time="650ms"/> move your hands only halfway up your thighs. <break time="650ms"/> If you want more challenge, <break time="650ms"/> hold the top position for two seconds before lowering. <break time="650ms"/></p>
+<p>Great work. <break time="650ms"/> Curl-ups help strengthen your abdominal muscles and support better posture. <break time="650ms"/> They protect your neck and lower back while building core stability. <break time="650ms"/> Practice them regularly for safer,<break time="150ms"/> stronger abs. <break time="650ms"/> Remember,<break time="150ms"/> controlled movement is key. <break time="650ms"/> Excellent job today. <break time="650ms"/></p>
+</prosody>
+</voice>
+</speak>

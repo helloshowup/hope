@@ -1,0 +1,14 @@
+# Quiz Generation Prompt
+
+Create a comprehensive assessment based on the provided content.
+
+## Instructions
+1. Generate 5-10 multiple choice questions
+2. Include a mix of recall and application questions
+3. Provide answer key with explanations
+
+## Prompt
+
+Please create a quiz based on the following content:
+
+{content}

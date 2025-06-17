@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="en-US">
+<voice name="en-US-AndrewNeural" parameters="temperature=0.35">
+<prosody rate="-5%" pitch="+2%" volume="+10%">
+<p>Welcome to your shoulder mobility session. <break time="650ms"/> Today,<break time="150ms"/> we’ll focus on arm circles. <break time="650ms"/> This exercise helps increase shoulder strength and flexibility. <break time="650ms"/> It’s also a great way to prepare your upper body for movement. <break time="650ms"/></p>
+<p>Let’s get started. <break time="650ms"/> Stand tall,<break time="150ms"/> with your feet shoulder-width apart. <break time="650ms"/> Relax your neck and keep your back straight. <break time="650ms"/> Extend both arms out to your sides,<break time="150ms"/> at shoulder height. <break time="650ms"/> Your palms should face down. <break time="650ms"/> Keep your arms straight,<break time="150ms"/> but avoid locking your elbows. <break time="650ms"/> <emphasis level="moderate">Shoulders stay down—avoid shrugging.</emphasis> <break time="650ms"/></p>
+<p>Before we begin,<break time="150ms"/> remember this <emphasis level="strong">important safety tip</emphasis>: <break time="650ms"/> If you feel any sharp pain or discomfort,<break time="150ms"/> stop immediately. <break time="650ms"/> Only move within a pain-free range. <break time="650ms"/></p>
+<p>Now,<break time="150ms"/> start making small circles with your arms—forward direction first. <break time="650ms"/> Move slowly and with control. <break time="650ms"/> Keep your head up and your core gently engaged. <break time="650ms"/> We’ll count ten slow circles together. <break time="650ms"/></p>
+<p><prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">circle from the shoulder,<break time="150ms"/> not the wrist</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">keep your arms parallel to the floor</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Three - <emphasis level="moderate">steady breathing,<break time="150ms"/> don’t hold your breath</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Four - <emphasis level="moderate">shoulders relaxed,<break time="150ms"/> neck long</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Five - <emphasis level="moderate">tiny circles,<break time="150ms"/> no rushing</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Six - <emphasis level="moderate">arms stay level,<break time="150ms"/> don’t drop</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Seven - <emphasis level="moderate">engage your core for support</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Eight - <emphasis level="moderate">smooth,<break time="150ms"/> controlled motion</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Nine - <emphasis level="moderate">feel warmth in your shoulders</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Ten - <emphasis level="moderate">maintain steady pace</emphasis> <break time="2000ms"/></prosody></p>
+<p>Now pause. <break time="650ms"/> Do a quick success check. <break time="650ms"/> You should notice a gentle warmth or a mild burning sensation in your shoulders. <break time="650ms"/> This means your shoulder muscles are activating. <break time="650ms"/></p>
+<p>Let’s reverse the direction—now,<break time="150ms"/> circle backward. <break time="650ms"/> Same small,<break time="150ms"/> controlled circles. <break time="650ms"/> Ten more times. <break time="650ms"/></p>
+<p><prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">move from the shoulder joint</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">keep arms straight,<break time="150ms"/> elbows soft</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Three - <emphasis level="moderate">don’t hunch your shoulders</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Four - <emphasis level="moderate">palms still facing down</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Five - <emphasis level="moderate">steady,<break time="150ms"/> even breathing</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Six - <emphasis level="moderate">circle size stays consistent</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Seven - <emphasis level="moderate">keep your neck relaxed</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Eight - <emphasis level="moderate">core is supporting your posture</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Nine - <emphasis level="moderate">feel the shoulder muscles working</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Ten - <emphasis level="moderate">finish the last circle strong</emphasis> <break time="3000ms"/></prosody></p>
+<p>If you want to make this exercise easier,<break time="150ms"/> make the circles smaller. <break time="650ms"/> If you want more challenge,<break time="150ms"/> make larger circles or slow down the movement. <break time="650ms"/></p>
+<p>Great work. <break time="650ms"/> Arm circles help strengthen the muscles around your shoulders. <break time="650ms"/> They also improve your shoulder mobility and prepare your upper body for activity. <break time="650ms"/> Remember,<break time="150ms"/> consistent practice helps maintain healthy,<break time="150ms"/> mobile shoulders. <break time="650ms"/> Well done—your shoulders will thank you. <break time="650ms"/></p>
+</prosody>
+</voice>
+</speak>

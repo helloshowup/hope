@@ -1,0 +1,134 @@
+
+    <div class="markdown-content" style="font-family: Arial, sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 0 auto;">
+        <h1>2.23</h1>
+
+<h1>Troubleshooting Fundamentals</h1>
+
+<h2>Learning Objectives</h2><p>By the end of this session, you'll be able to:</p>
+<ul>
+<li><strong>Identify common robot system failures</strong> and their typical symptoms</li>
+</ul>
+<ul>
+<li><strong>Apply systematic troubleshooting approaches</strong> to diagnose robot problems</li>
+</ul>
+<ul>
+<li><strong>Demonstrate a methodical problem-solving process</strong> to fix specific robot malfunctions</li>
+</ul>
+<h2>Common System Failures</h2><p>Even the best-designed robots sometimes have problems. Knowing how to find and fix these issues is an important skill for anyone working with robots.</p>
+<p>&nbsp;</p>
+
+<p>Robot systems can fail in many ways, but some problems happen more often than others. <strong>Connection problems</strong> are very common - loose wires, disconnected sensors, or bad connections between parts can make a robot act strangely or not work at all.</p>
+<p>&nbsp;</p>
+
+<p><strong>Power issues</strong> also cause lots of problems. Batteries might be low or dead, power switches might be off, or there might be a short circuit somewhere in the system. These issues often mean a robot won't turn on, suddenly shuts down, or works sometimes but not always.</p>
+<p>&nbsp;</p>
+
+<p><strong>Mistakes in the programming</strong> can make robots behave in weird ways. A small error in the code might make a robot move in the wrong direction, ignore its sensors, or get stuck doing the same action over and over. You might notice your robot follows some commands but not others, or does things in the wrong order.</p>
+<h2>Diagnostic Approaches</h2><p>Good troubleshooting starts with watching carefully. What exactly is the robot doing or not doing? When did the problem start? Does it happen all the time or just sometimes?</p>
+<p>&nbsp;</p>
+
+<p>After watching, it's best to follow a step-by-step approach. This often means using a <strong>decision tree</strong> - a series of questions that helps narrow down what might be causing the problem. For example, if a robot won't move, you might first check if it's turned on, then check if the motors are connected, then test if each motor works by itself, and so on.</p>
+<p>&nbsp;</p>
+
+<p><strong>Testing one part at a time</strong> is another great way to find problems. This is called <strong>isolation testing</strong>. For instance, if you think a sensor isn't working, you could write a simple program that just reads and shows that sensor's values to see if it's working right.</p>
+<h2>Systematic Problem Solving</h2><p>When your robot has a problem, follow these steps to find and fix it:</p>
+<ol>
+<li><strong>Define the problem clearly</strong> - What should the robot be doing? What is it actually doing?</li>
+</ol>
+<ol>
+<li><strong>Check the obvious</strong> - Is it turned on? Are batteries charged? Can you see any disconnected wires?</li>
+</ol>
+<ol>
+<li><strong>Divide and conquer</strong> - Test each part separately (sensors, motors, brain, power) to find what's not working.</li>
+</ol>
+<ol>
+<li><strong>Change one thing at a time</strong> - If you fix multiple things at once, you won't know which fix actually solved the problem.</li>
+</ol>
+<ol>
+<li><strong>Write down what you try</strong> - Keep track of what you've tested so you don't repeat steps.</li>
+</ol>
+<p>&nbsp;</p>
+
+<p>Here's an example: If your line-following robot keeps losing the line, you might first check if the line sensor is in the right position, then test if the sensor can actually see the line, then check if the motors respond to commands, and finally look at your code to make sure it's correctly using the sensor information.</p>
+<p>&nbsp;</p>
+
+<p>Let's look at a real example: Imagine you built a robot that's supposed to follow a line on the floor, but it keeps spinning in circles instead. Here's how you might solve it:</p>
+<ol>
+<li><strong>Define the problem</strong>: Robot should follow a line but spins in circles instead</li>
+</ol>
+<ol>
+<li><strong>Check the obvious</strong>: Batteries are charged, robot is turned on, line is easy to see</li>
+</ol>
+<ol>
+<li><strong>Divide and conquer</strong>: Test each sensor by putting it over the line and seeing if it detects light changes</li>
+</ol>
+<ol>
+<li>You discover one sensor always reads "dark" no matter what it's looking at</li>
+</ol>
+<ol>
+<li>Fix the sensor connection and test again - now the robot follows the line correctly!</li>
+</ol>
+<p>&nbsp;</p>
+
+<p>
+        <!-- Check Your Understanding Section -->
+        <div style="border-bottom-style:solid;border-color:#008000;border-left-style:solid;border-right-style:solid;border-top-style:none;border-width:1px;clear:both;margin-bottom:3em;padding:1em 1em 1.1em;position:relative;">
+            <div style="background-color:#008000;display:block;height:20px;left:-1em;position:relative;top:-1em;width:calc(100% + 2em);">
+                &nbsp;
+            </div>
+            <h2 style="color:#008000;font-size:1.8em;font-weight:500;line-height:1em;margin-bottom:0.2em;margin-top:0;">
+                Check your understanding
+            </h2>
+            <p style="font-family:'Roboto', sans-serif;font-size:0.91em;font-weight:300;line-height:1.6em;">
+                &nbsp;
+            </p>
+            <p>A robot is not responding to touch sensor input. Which troubleshooting step would be MOST logical to try first?</p>
+<p>A. Immediately replace the robot's processing unit</p>
+<p>B. Check the physical connection between the sensor and the controller</p>
+<p>C. Reprogram the entire robot with new software</p>
+<p>D. Increase the power supply to all systems</p>
+            <p style="font-family:'Roboto', sans-serif;font-size:0.91em;font-weight:300;line-height:1.6em;">
+                Choose your answer and check it below.
+            </p>
+            <div style="display:none;" id="hiddenAnswer0">
+                <p>
+                    <br>
+                    &nbsp;
+                </p>
+                <p>The correct answer is B. Check the physical connection between the sensor and the controller. When troubleshooting, it's best to start with the simplest and most common causes before moving to more complex or expensive solutions. Checking physical connections is a quick, non-destructive first step that addresses a frequent issue. If you chose a different answer, remember that troubleshooting should progress from simple to complex solutions, checking each component methodically.</p>
+            </div>
+            <p>
+                <a style="color:#008000;text-decoration:none;" href="#" onclick="document.getElementById('hiddenAnswer0').style.display='block'; return false;"><strong>Click here to show the correct answer</strong></a>
+            </p>
+        </div></p>
+<p>&nbsp;</p>
+
+<p>
+        <figure class="table" style="float:left;width:92.41%;" data-font-size="14" data-line-height="20">
+            <table class="ck-table-resized" style="border-style:none;" data-font-size="14" data-line-height="20">
+                <colgroup data-font-size="14" data-line-height="20"><col style="width:13.29%;" data-font-size="14" data-line-height="20"><col style="width:86.71%;" data-font-size="14" data-line-height="20"></colgroup>
+                <tbody data-font-size="14" data-line-height="20">
+                    <tr data-font-size="14" data-line-height="20">
+                        <td style="border-style:none;" data-font-size="14" data-line-height="20">
+                            <figure class="image image_resized" style="width:100%;" data-font-size="14" data-line-height="20">
+                                <img style="aspect-ratio:600/600;" src="https://api.learnstage.com/media-manager/api/access/exceled/default/89309a11-e6ae-4133-97a9-93c735f38be4/content-page/4e85aa67-83db-423a-b7de-53b356164071_removalai_preview.png" width="600" height="600" data-font-size="14" data-line-height="20">
+                            </figure>
+                        </td>
+                        <td style="border-style:none;" data-font-size="14" data-line-height="20">
+                            <h3 data-font-size="16" data-line-height="23">
+                                <span style="color:hsl(359,97%,29%);"><span data-font-size="16" data-line-height="23"><strong data-font-size="16" data-line-height="23">Key Takeaways</strong></span></span>
+                            </h3>
+                            <ul>
+<li><strong>Robot problems</strong> usually come from loose wires, dead batteries, or code mistakes - each showing different symptoms you can learn to spot.</li>
+<li><strong>Successful troubleshooters</strong> carefully observe the problem, then test one part at a time to find what's broken.</li>
+<li>Follow <strong>five simple steps</strong> when fixing robots: identify the problem, check obvious things first, test each part, change one thing at a time, and track what you've tried.</li>
+</ul>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </figure></p>
+<h2>Activity 2: Troubleshooting Scenarios</h2><p>Work through the provided troubleshooting scenarios where robot systems are exhibiting various malfunctions. For each scenario, apply the systematic troubleshooting approach learned in this lesson to identify the most likely cause of the problem. Document your reasoning process and the steps you would take to diagnose and resolve each issue, explaining which components you would check first and why.</p>
+<p>&nbsp;</p>
+    </div>
+    

@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="en-US">
+<voice name="en-US-AndrewNeural" parameters="temperature=0.35">
+<prosody rate="-5%" pitch="+2%" volume="+10%">
+<p>Welcome to the Target Challenge. <break time="650ms"/> This exercise builds hand-eye coordination,<break time="150ms"/> precision,<break time="150ms"/> and motor learning. <break time="650ms"/> You’ll need five small objects as targets,<break time="150ms"/> a few throwing lines,<break time="150ms"/> and something to toss. <break time="650ms"/> Let’s get set up and start your first round. <break time="650ms"/></p>
+<p>Begin by arranging five targets in a straight row,<break time="150ms"/> about six inches apart. <break time="650ms"/> Bottles or boxes work well. <break time="650ms"/> Mark three throwing lines. <break time="650ms"/> Place them at three feet,<break time="150ms"/> six feet,<break time="150ms"/> and nine feet from the targets. <break time="650ms"/> Assign point values: <emphasis level="moderate">closest targets are worth one point each</emphasis>, <break time="650ms"/> middle targets are three points, <break time="650ms"/> and farthest targets are five points. <break time="2000ms"/></p>
+<p>Stand behind the three-foot line. <break time="650ms"/> Hold your throwing object in your dominant hand. <break time="650ms"/> Feet shoulder-width apart,<break time="150ms"/> knees slightly bent. <break time="650ms"/> Your non-throwing arm points towards the targets. <break time="650ms"/> Keep your eyes focused on your chosen target. <break time="650ms"/> <emphasis level="moderate">Check your surroundings for obstacles</emphasis>—this is your safety reminder. <break time="2000ms"/></p>
+<p>Let’s begin the first round. <break time="650ms"/> You’ll throw ten times,<break time="150ms"/> aiming at any target. <break time="650ms"/> After each throw,<break time="150ms"/> record your score. <break time="650ms"/></p>
+<p><prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">step forward as you throw</emphasis> <break time="650ms"/></prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">release gently for accuracy</emphasis> <break time="650ms"/></prosody>
+<prosody rate="-5%" pitch="+10%">Three - <emphasis level="moderate">follow through towards the target</emphasis> <break time="650ms"/></prosody>
+<prosody rate="-5%" pitch="+10%">Four - <emphasis level="moderate">reset your stance each time</emphasis> <break time="650ms"/></prosody>
+<prosody rate="-5%" pitch="+10%">Five - <emphasis level="moderate">focus on a single target</emphasis> <break time="650ms"/></prosody>
+<prosody rate="-5%" pitch="+10%">Six - <emphasis level="moderate">adjust your force if needed</emphasis> <break time="650ms"/></prosody>
+<prosody rate="-5%" pitch="+10%">Seven - <emphasis level="moderate">aim for the center of the target</emphasis> <break time="650ms"/></prosody>
+<prosody rate="-5%" pitch="+10%">Eight - <emphasis level="moderate">keep your movements smooth</emphasis> <break time="650ms"/></prosody>
+<prosody rate="-5%" pitch="+10%">Nine - <emphasis level="moderate">watch your throwing line</emphasis> <break time="650ms"/></prosody>
+<prosody rate="-5%" pitch="+10%">Ten - <emphasis level="moderate">record your final score</emphasis> <break time="3000ms"/></prosody></p>
+<p>Pause and check your progress. <break time="650ms"/> Did you hit at least seven out of ten? <break time="650ms"/> If yes,<break time="150ms"/> move to the six-foot line. <break time="650ms"/> If not,<break time="150ms"/> repeat at three feet until you improve. <break time="650ms"/></p>
+<p>Ready for a challenge? <break time="650ms"/> Try rolling the object instead of pitching it. <break time="650ms"/> Complete ten throws using each method. <break time="650ms"/> Record your scores for both rolling and pitching. <break time="650ms"/> For a modification,<break time="150ms"/> use a lighter object for easier throws,<break time="150ms"/> or choose a heavier one to increase difficulty. <break time="650ms"/></p>
+<p>Always track your results in a simple chart. <break time="650ms"/> Note your distance,<break time="150ms"/> method,<break time="150ms"/> score,<break time="150ms"/> and date. <break time="650ms"/> This will help you see your improvement over time. <break time="650ms"/></p>
+<p>Target Challenge helps your brain fine-tune force and accuracy, <break time="650ms"/> builds consistent muscle memory, <break time="650ms"/> and keeps you engaged as you compete with yourself. <break time="650ms"/> Remember: motor learning takes time,<break time="150ms"/> but each practice round makes you more skilled. <break time="650ms"/> Stay patient, <break time="650ms"/> have fun, <break time="650ms"/> and celebrate every bit of progress. <break time="650ms"/> When you’re ready,<break time="150ms"/> move to the next line or try for a higher score. <break time="650ms"/> Great work today—keep aiming higher! <break time="650ms"/></p>
+</prosody>
+</voice>
+</speak>

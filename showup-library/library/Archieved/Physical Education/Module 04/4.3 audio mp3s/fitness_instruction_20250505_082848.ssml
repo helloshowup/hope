@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="en-US">
+<voice name="en-US-AndrewNeural" parameters="temperature=0.35">
+<prosody rate="-5%" pitch="+2%" volume="+10%">
+<p>Welcome to your quick shoulder roll stretch session. <break time="650ms"/> This exercise is designed to release tension in your upper back and shoulders. <break time="650ms"/> It’s a great way to reset after long hours at your desk. <break time="650ms"/></p>
+<p>Let’s begin by getting into the starting position. <break time="650ms"/> Stand tall with your feet about shoulder-width apart. <break time="650ms"/> Keep your arms relaxed by your sides. <break time="650ms"/> Let your neck and jaw stay soft. <break time="650ms"/> <emphasis level="moderate">Keep your chin parallel to the floor.</emphasis> <break time="650ms"/> Take a deep breath in. <break time="650ms"/></p>
+<p>We’ll start with forward shoulder rolls. <break time="650ms"/> As you roll, <emphasis level="moderate">move your shoulders in big,<break time="150ms"/> slow circles</emphasis>. <break time="650ms"/> Make sure you are not shrugging up toward your ears. <break time="650ms"/> Keep the motion smooth and controlled. <break time="650ms"/> If you feel any sharp pain, <emphasis level="strong">stop the movement immediately</emphasis>. <break time="650ms"/></p>
+<p>Let’s count together for five forward rolls. <break time="650ms"/></p>
+<p><prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">draw your shoulders up,<break time="150ms"/> forward,<break time="150ms"/> down,<break time="150ms"/> and around</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">keep your arms loose and relaxed</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Three - <emphasis level="moderate">breathe out as you roll down</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Four - <emphasis level="moderate">keep circles smooth,<break time="150ms"/> not rushed</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Five - <emphasis level="moderate">finish the circle,<break time="150ms"/> relax your neck</emphasis> <break time="2000ms"/></prosody></p>
+<p>Now,<break time="150ms"/> let’s roll the shoulders backward,<break time="150ms"/> five times. <break time="650ms"/> Move slowly,<break time="150ms"/> feeling the muscles work. <break time="650ms"/></p>
+<p><prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">lift,<break time="150ms"/> move shoulders back,<break time="150ms"/> down,<break time="150ms"/> and around</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">draw shoulder blades gently together</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Three - <emphasis level="moderate">keep your neck long,<break time="150ms"/> don’t hunch</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Four - <emphasis level="moderate">exhale as shoulders drop down</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Five - <emphasis level="moderate">finish with shoulders relaxed</emphasis> <break time="3000ms"/></prosody></p>
+<p>Take a moment to check in. <break time="650ms"/> Your shoulders should feel a little looser. <break time="650ms"/> There should be no pain or pinching. <break time="650ms"/> If you feel discomfort,<break time="150ms"/> adjust your range of motion next time. <break time="650ms"/></p>
+<p>If you want an easier option,<break time="150ms"/> try sitting in a chair. <break time="650ms"/> Keep your back straight and feet flat on the ground. <break time="650ms"/> For a challenge,<break time="150ms"/> add light hand weights,<break time="150ms"/> but move slowly and with control. <break time="650ms"/></p>
+<p>Shoulder rolls help release tension from your upper back and neck. <break time="650ms"/> They improve circulation and mobility in your shoulders. <break time="650ms"/> Doing these regularly can help prevent stiffness,<break time="150ms"/> especially if you spend a lot of time sitting. <break time="650ms"/> Remember,<break time="150ms"/> smooth movement and good form matter more than speed. <break time="650ms"/></p>
+<p>Great job taking a few minutes to care for your shoulders. <break time="650ms"/> Try to include this stretch in your daily routine,<break time="150ms"/> especially after working at a desk. <break time="650ms"/> Your body will thank you for it. <break time="650ms"/></p>
+</prosody>
+</voice>
+</speak>

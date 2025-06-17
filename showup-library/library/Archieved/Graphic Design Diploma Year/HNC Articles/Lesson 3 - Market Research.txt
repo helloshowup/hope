@@ -1,0 +1,96 @@
+Data is not something graphic designers need to fear. In fact, it is quickly becoming
+an essential element of all creative industry practices. Whether you work as a freelancer, run
+your own business or work with a large international company; data-driven insights resulting from market research can improve your design work and help you to meet the needs of your customers more effectively.
+The main purpose of market research is to identify patterns in consumer behaviour. This
+means collecting data about consumers and analysing this information to help business
+owners and other professionals understand the needs of a particular market which in effect lead to better commercial decisions. Market research is one of the most effective ways creative
+industries can identify upcoming trends and respond to changes in consumer needs.
+Fig 1. Unsplash (n.d.) Identifying consumer behaviour is vital for effective marketing
+Doing market research
+Market research is conducted using primary and secondary research. It is then interpreted
+and critically analysed to produce consumer insights. These insights can be used to:
+Decide which projects to focus on
+Influence design choices for upcoming projects
+Identify customers and potential customers for a particular product or service
+Identify and implement new trends and changes to existing trends
+Create and adapt products and services in response to customer feedback
+Make decisions about how a finished product or service will be marketed and sold to customers
+User Studies
+User studies, also known as usability studies or user research, are research activities conducted to gain insights into how users interact with products, services, or systems. These studies are commonly used in areas of design such as user experience (UX) design, graphic design, product development, and AI systems. User studies help businesses to better understand their target audience, make informed decisions about product development and marketing strategies, and ultimately improve their products or services. 
+Fig 2. Unsplash (n.d.) Identify target audience to conduct user studies
+User studies also help in identifying or ‘segmenting’ a particular target audience into groups based on common demographics (e.g. age, gender, location, etc.) and other characteristics. This segmentation allows businesses to effectively tailor their marketing efforts to various customer segments. Graphic designers use audience segmentation to create tailored visual communications that speak more directly to specific sub-groups within the target audience. 
+For example, a graphic designer is tasked with creating marketing materials for a new health and fitness app. The app is suitable for a broad range of users so dividing it into age groups for example, can improve the user experience by tailoring to a more specific group. It can be broken down as follows: 
+16 - 30 year olds
+30 - 50 year olds
+50+ years and older. 
+If a graphic design is to attract the attention of the specific audience subset, the design needs to look and feel different in order to be relevant to these target groups. For 16 to 30 year olds for example,  designs would possibly have bolder and more energetic colour schemes whereas the older group may respond better to a warmer and more inviting colour palette. 
+Keeping the above audience segmentation in mind, user studies are then rolled out to the various sub-groups to gather the necessary data. Some common types of user studies include surveys, focus groups, interviews, and observations.
+Primary market research
+Surveys 
+Surveys are the most well-known type of primary market research. They are a great tool for
+gathering simple information about consumer activities e.g. “how often have you bought
+clothes online in the past three months” or “what is the most important factor you consider
+when buying clothes for your children?” They can be completed in person, over the
+telephone or online. There are a number of websites that allow you to create and share your
+own surveys for free (e.g. Google Forms and Survey Monkey).
+Fig 3. Unsplash (n.d.) Surveys can take many paper-based on digital forms
+You need to be careful who you survey as you want to target consumers who are likely to
+need your product or service. For example, a fashion designer specialising in luxury
+sportswear is likely to need information about people who regularly engage in sports and
+other fitness activities. At the same time, you don’t want to be too specific about who you
+survey because you could lose important information about consumer needs.
+For example, if you only survey people who go to the gym every day you could miss
+important information about others who wear sportswear for comfort and to express their own style. Such information could have a strong impact on your designs and business choices.
+Focus groups 
+Focus groups are used when you want more in-depth information about consumer
+attitudes. They bring a small number of people together in a room where a moderator asks
+questions and oversees a detailed discussion. Focus groups normally last for one or two
+hours but you may have to conduct a few sessions to get all the information you need.
+Fig 4. Unsplash (n.d.) Focus group session
+Interviews 
+Interviews are similar to focus groups but are completed one on one and usually in person.
+They are useful for uncovering attitudes towards a new product or service or for identifying
+problems with items so that they can be improved before being made widely available.
+Fig 5. Unsplash (n.d.) Interview
+Observations
+Observations focus on observing people in action, for example, at work, in a store, or at home, to better understand their behaviour and preferences.
+Sometimes what people say in surveys and what they do in practice are different. Seeing
+how people behave and interact with products and services in a natural setting can create
+important insights about their habits and patterns.
+Fig 6. Unsplash (n.d.) Observing shopping habits can produce rich data
+Secondary market research
+Reviewing data 
+Reviewing data that has been published by others is central to secondary market research.
+It is used to understand current trends, identify competitors and analyse patterns in
+consumer attitudes. Common resources of secondary market research include trend forecast
+reports, articles from magazines and industry journals, social media comments, census data
+and market statistics produced by research agencies. It can take time to gather, read,
+document and critically analyse these resources so it is important to give yourself plenty of
+time to conduct your research.
+Visual research 
+Visual research is a specific form of market research that is valuable to the creative
+industries. It’s a method that uses visual resources to develop consumer insights. It uses
+photographs, diagrams, timelines, maps, videos, drawings, material samples, colour
+samples and collages to draw conclusions. Primary visual research is where you visit
+different locations, take photos and sketch images to create insights. Secondary visual
+research is typically more common. This is where you examine and critically analyse images
+from forecasting agencies, industry competitors, social media channels, and perhaps ‘street fashion’ by reviewing fashion blogs and Instagram accounts for example.
+Ethics in market research
+Fig 7. Unsplash (n.d.) Ethics should take priority over all else in research
+When conducting primary market research, it is extremely important to respect and protect
+the privacy of all participants. You should never share anyone’s information without first receiving permission in writing. The first step before interviewing, observing or surveying is to ensure the volunteer signs a consent form allowing you to use the information you collect for specific purposes. You should always be open and honest about how you plan to use the information you collect. Any information you publish should be anonymous, never using names or any other identifying factors. Also, your research should never cause any psychological, financial or social harm to your participants. 
+In secondary research, you must acknowledge and credit the original creators of any resources you use. Passing another person’s work off as your own is plagiarism. Use the Harvard
+Referencing System for all resources you gather during secondary research.
+Analysing the data
+After collecting all the information from your market research, it should be properly analysed to ensure it can be useful enough to influence any action. How the data is organised is up to the designer or marketing team. It may be categorised by geographical location, age, gender, etc. As long as it makes sense in terms of its purpose, your target market and competition.
+Fig 8. Pexels (n.d.) Present findings data in an easily congestible manner
+Depending on your research aims, after examining the data in detail you should be able to summarise and outline much of the following information (Freedman, 2023):
+An overview of the specific industry’s size and growth rate
+The relevant company/brand’s projected market share percentage
+An industry outlook
+Customer buying trends
+Forecasted growth
+How much customers are willing to pay for the specific product or service
+After completing a market analysis, it can be used to drive decisions that include design choices for marketing material. 
+Reference
+Freedman, M. (2023) “How to conduct a market analysis for your business,” Business News Daily [Preprint]. Available at: https://www.businessnewsdaily.com/15751-conduct-market-analysis.html. 

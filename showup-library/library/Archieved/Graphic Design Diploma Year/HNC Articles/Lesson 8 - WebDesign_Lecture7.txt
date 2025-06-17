@@ -1,0 +1,318 @@
+Web Development Part 2 - CSS
+Graphic Design – Web Design and User Testing for Design
+What is CSS?
+CSS controls the appearance of HTML elements.
+CSS allows us to create rules that specify how the content of an element should appear.
+For example, you can specify that the background of the page is cream, all paragraphs will appear in grey using the Arial typeface, or that all level one headings should be in a blue, italic and Times typeface.
+Graphic Design – Web Design and User Testing for Design
+How does CSS work?
+To control the appearance of an HTML element, CSS rules are created. These specify how the element should appear.
+CSS works by associating CSS rules with different HTML elements. This can be done by using HTML tags as selectors.
+Graphic Design – Web Design and User Testing for Design
+CSS: Cascading Style Sheets
+CSS Styles were added to HTML 4.0 to solve a problem.
+Prior to HTML 4.0 styling was part of the HTML tags themselves.
+In HTML 4.0, all formatting could be removed from the HTML document and stored in a separate CSS file.
+CSS files solved the problem of bloated files and made everything more accessible.
+External Style Sheets can save a lot of work and are stored in .css files.
+Graphic Design – Web Design and User Testing for Design
+CSS: What is Cascade?
+What happens when an HTML element has multiple styles declared against it? The closest declaration to the HTML tag gets honoured.
+In reverse order, weakest to strongest:
+Browser default
+External style sheet
+Embedded Styles (in the head section)
+Inline style (inside an HTML element)
+An inline style (inside an HTML element) has the highest priority, it will override an embedded style defined inside the <head> tag, or in an external style sheet, or in a browser (a default value).
+One Exception: If the link to the external style sheet is placed after the embedded styles in HTML <head>, the external style sheet will override the embedded styles!
+Graphic Design – Web Design and User Testing for Design
+Understanding CSS: Thinking Inside the Box
+The key to understanding how CSS works is to imagine that there is an invisible box around every HTML element.
+On this page, you can see a basic HTML page.
+Graphic Design – Web Design and User Testing for Design
+Here, each of the elements are outlined so you can see how CSS will treat each element as if it lives inside its own box.
+CSS allows you to create rules that control the way each individual box (and the contents of said box) is presented.
+In this example, block level elements are shown with red borders and inline elements have green borders.
+The <body> element creates the first box, then the <h1>,
+<h2>, <p>, <i> and <a> elements each create their own boxes within it.
+Using CSS, it’s possible to add a border around any of the boxes, specify its width and height, or add a background colour. It’s also possible to control text inside a box — for example, its colour, size and the typeface used.
+Graphic Design – Web Design and User Testing for Design
+Constructing CSS Rules
+A CSS rule contains two parts: a selector and a declaration.
+This rule indicates that all <p> elements should be shown in the Arial typeface.
+Graphic Design – Web Design and User Testing for Design
+Selectors & Declarations
+Selectors indicate which element the rule applies to. The same rule can apply to more than one element if you separate the element names with commas.
+Declarations indicate how the elements referred to in the selector should be styled.
+They are split into two parts (a property and a value), and are separated by a colon.
+Graphic Design – Web Design and User Testing for Design
+CSS Declarations
+CSS declarations sit inside curly brackets { } and each is made up of two parts: a property and a value, separated by a colon and closed by a semi-colon { property:value; }.
+Several properties can be specified in one declaration, with each separated by a semi-colon.
+This rule indicates that all <h1>, <h2> and <h3> elements should be shown in Arial, in a yellow colour.
+Graphic Design – Web Design and User Testing for Design
+Properties & Values
+Properties indicate the aspects of the element that can be changed.
+For example: colour, font, width, height and border.
+Values specify the settings for each of the properties. For example, the property we here is the font-family and the value we want to change to is Arial.
+Graphic Design – Web Design and User Testing for Design
+CSS Rules
+The CSS rules are written in a CSS file. We link the CSS file to the html file with a <link> tag.
+The <link> element can be used in an HTML file to tell the Browser where to find the CSS files used to style the html page. It is an empty element so does not need a closing tag. It lives inside the <head> section of the HTML file and uses 3 attributes.
+<link rel="stylesheet" type="text/css" href=“css/layout.css">
+Graphic Design – Web Design and User Testing for Design
+CSS Attributes
+<link rel="stylesheet" type="text/css" href=“css/layout.css">
+Attribute 1	Attribute 2	Attribute 3
+The rel attribute specifies the relationship between the HTML page and the file it is linked to. The value should be stylesheet when linking a CSS file.
+The type attribute specifies the type of document being linked to. The value should be text/css.
+The href is used the same way as usual, it specifies the path to the CSS file, which we generally place inside a folder. Here you can see from the file path, that the CSS file is inside a CSS folder.
+Graphic Design – Web Design and User Testing for Design
+CSS Selectors
+There are many CSS selectors that allow for more specificity. These include:
+class selector
+id selector
+universal selector
+descendant ....
+More on CSS Selectors – https://www.w3schools.in/css3/selectors/
+Graphic Design – Web Design and User Testing for Design
+Many HTML tags can be used as CSS selectors. However, writing a rule for
+<p> will effect every <p> element on the page, meaning all the paragraphs on the webpage will appear the exact same.
+Using html tags as selectors is like throwing out a full fishing net. This is why it is necessary to be more specific.
+Graphic Design – Web Design and User Testing for Design
+Class Attributes
+The class attribute allows for linking/using a CSS rule with an html element by using it with the opening tag of an element.
+The class selector matches an element whose class attribute has a value that matches the one specified at a rule in the CSS file. Class selectors have a full stop before their name in the CSS file.
+The class attribute provides flexibility. It enables a number of CSS rules targeting different HTML tags.
+.poem { color: pink;
+}
+Graphic Design – Web Design and User Testing for Design
+Constructing CSS rules is always the same. Only the selector changes. With a rule that will be used as a class attribute you must add a full stop before the name of the rule as the selector.
+.para1 {font-family:“Times”; color: #FFFFFF;}
+Graphic Design – Web Design and User Testing for Design
+<p class=“poem”>This is a Masterpiece</p>
+Attribute Name Attribute Value
+Class is an attribute and so is added to the html inside the opening tag.
+The value of the attribute is the name of the CSS rule that you want to use to change the appearance of the html element.
+Graphic Design – Web Design and User Testing for Design
+p {
+font-family: Arial, sans- serif;
+font-size: 18px; color: grey; margin-left: 20%;
+margin-right: 20%;
+}
+Left are rules written for
+<p> with the colour of the text set to grey. In the new rule, to the right, the colour is now pink.
+.poem { color: pink;
+}
+Graphic Design – Web Design and User Testing for Design
+ID Selectors
+CSS id selector is used to select the HTML element using the ID attribute to apply a style to it.
+This id element is distinctive always inside the page, and hence it is preferred for selecting a distinct, unique HTML element. When you want to apply the style to only one HTML tag at a time on a page, then you can use the ID selector.
+ID Selectors match an element whose id attribute has a value that matches the one specified after the # symbol.
+#id_name{ color: pink;
+}
+Graphic Design – Web Design and User Testing for Design
+<p id=”poem"> This is also a Masterpiece </p>
+Attribute Name Attribute Value
+ID is an attribute and so is added to the html inside the opening tag.
+The value of the attribute is the name of the CSS rule that you want to use to change the appearance of the html element.
+Graphic Design – Web Design and User Testing for Design
+Class vs ID Selectors
+Class Selectors
+You can use the same class on multiple elements.
+You can use multiple classes on the same element.
+Any styling information that needs to be applied to multiple objects on a page should be done with a class.
+Classes have no special abilities in the browser.
+ID Selectors
+Each element can only have one ID.
+Each page can only have one element with that ID.
+ID selectors have one special abilities in the browser:
+–	the hash value in the URL means that the browser will attempt to locate the element with the associated ID and automatically scroll the page to show that element.
+Graphic Design – Web Design and User Testing for Design
+Where ID Selectors Matter Most
+You can use both ID and Class on a single element. The Class is applied for styling whilst the ID value can be used for direct linking and targeting by JavaScript.
+CSS Doesn’t Care
+There is nothing you can do with an ID that you can’t do with a Class and vica versa.
+JavaScript Does
+JavaScript depends on there being only one page element with any particular ID.
+When using jQuery (js library), it is easy to remove classes from page elements but this function relies on IDs to allow that manipulation to work.
+More The Difference Between ID and Class –
+https://css-tricks.com/the-difference-between-id-and-class/
+Graphic Design – Web Design and User Testing for Design
+So, what can CSS do?
+CSS can be used to style the the basic elements of visual design, making up the building blocks of a visual layout.
+Each of these can be mapped to CSS rules, making it possible to create almost any layout.
+Graphic Design – Web Design and User Testing for Design
+Colour
+Graphic Design – Web Design and User Testing for Design
+Declaring Colour in CSS
+Graphic Design – Web Design and User Testing for Design
+Foreground Color
+The colour property allows you to specify the colour of text inside an element.
+You can specify any colour in CSS in one of three ways: HEX, RGB or Colour Name.
+Graphic Design – Web Design and User Testing for Design
+Background Color
+CSS treats each HTML element as if it appears in a box, and the background colour property sets the colour of the background for said box. You can specify your choice of background colour in the same three ways you can specify foreground colours : HEX, RGB or Colour Name. If you do not specify a background colour the background will then be transparent.
+Graphic Design – Web Design and User Testing for Design
+Selecting Colours
+Within Photoshop you have access to colour info on any colour you may need. Open any photo in Photoshop and use the ‘Eyedropper’ tool to select any pixel of colour, which will then be updated in the Colour Swatch Panel, revealing the associated colour values.
+Graphic Design – Web Design and User Testing for Design
+CSS Typography
+The properties that allow for control over the appearance of the text can be split into two groups:
+Those that directly affect the font and its appearance (including the typeface, whether it is regular, bold or italic, and the size of the text).
+Those that would have the same effect on text no matter what font you were using (including the colour of text and the spacing between words and letters).
+The formatting of the text can have a significant effect on how readable pages are.
+Graphic Design – Web Design and User Testing for Design
+Graphic Design – Web Design and User Testing for Design
+Type Properties
+For typography properties include:
+font-family:
+font-size:
+font-style:
+font-weight:
+line-height:
+letter-spacing:
+text-align:
+text-transform:
+text-decoration:
+text-indent:
+text-shadow:
+For each property there are a number of value options:
+font-family: Arial, Helvetica, Verdana, Roboto, Railway, etc.;
+font-size: 10px - 300px;
+font-style: bold, italic, oblique;
+font-weight: this depends on the typeface;
+line-height: pixel value, generally 3-7 pixels larger than font-size;
+letter-spacing: 1- 30px depending on what the design is;
+text-align: left, right, centre, justify;
+text-transform: uppercase, lowercase, capitalise;
+text-decoration: none, underline, overline, line-through, blink;
+text-indent: px value to indent the first line of a paragraph;
+text-shadow: don’t use this!
+Graphic Design – Web Design and User Testing for Design
+Google Fonts
+Google Fonts are free to use, and have more than 1000 fonts to choose from. They’re a great alternative to the standard fonts in HTML.
+<head>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sofia">
+<style> body {
+font-family: "Sofia", sans-serif;
+All you need to do is add a special style sheet link in the <head> section and then refer to the font in the CSS.
+}
+</style>
+</head>
+Google Fonts – https://fonts.google.com
+Graphic Design – Web Design and User Testing for Design
+Line
+Because tags are containers (also known as BLOCK LEVEL elements), each one is treated as if enclosed in a rectangular box, beginning on a new line with space above it and below it..
+Every html element can have a border and you can specify the colour, weight & type of stroke.
+h1 {
+border: 5px solid #21A6A4;
+}
+h2 {
+border: 5px dotted #2178A6;
+}
+Graphic Design – Web Design and User Testing for Design
+Space
+Your use of space is important in any design. With a proper use of space a design can be easier to read, have an improved flow of information by bringing a hierarchy to a design.
+There are a number of ways to specify space:
+padding – space inside an element
+margins – the space outside a border of an element
+h1 {
+border: 5px solid #21A6A4; padding: 20px;
+}
+h2 {
+border: 5px dotted #2178A6; margin: 20px;
+}
+Graphic Design – Web Design and User Testing for Design
+div {
+background-color: #ededed; width: 300px;
+border: 15px solid #21A143; padding: 50px;
+margin: 20px;
+}
+Graphic Design – Web Design and User Testing for Design
+Styling Your Website
+Once again we will be returning to our text editor to apply CSS styles to the HTML.
+Starting with our index.html file, it’s time to experiment with what can be done and how to do it.
+Graphic Design – Web Design and User Testing for Design
+Getting Started with CSS
+Recap on CSS from last week:
+Create a folder
+Name it ‘css’
+In Brackets, go to ‘File’ and then ‘New’
+Then, go to ‘File’ and ‘Save’, naming your new document ‘layout.css’ and saving it into the css folder
+Graphic Design – Web Design and User Testing for Design
+Linking HTML to CSS
+To link the css file to the html file, we use the <link> tag and add it to the <head> section of the file.
+<link rel="stylesheet" type="text/css" href="css/layout.css">
+Graphic Design – Web Design and User Testing for Design
+Add CSS Rules
+Now that we have these two linked, we can add styling and see what effects they have on the file index.html, viewing how it appears in the browser.
+To start, in the new file, layout.css, add CSS rules for body, h1, h2, h3, image and p, as per image to your right.
+Don’t worry too much about how this matches your website design yet, just experiment for starters, being sure to check the index.html file in the browser.
+Graphic Design – Web Design and User Testing for Design
+Add CSS Rules – Class Selectors
+Now, create 2 more rules with class selectors.
+Graphic Design – Web Design and User Testing for Design
+In the index.html file, use the class attribute to add the class selectors to two of the html elements, an image and a second part of your choice.
+Then check the index.html file in the browser.
+Graphic Design – Web Design and User Testing for Design
+Selector Rules to Remember
+You can have multiple declarations in a rule.
+For legibility, you can put declarations on separate lines.
+Some CSS declarations have multiple values.
+Multiple selectors can be grouped.
+Multiple rules can be applied to the same selector.
+Graphic Design – Web Design and User Testing for Design
+Recap on <div> tags
+The <div> tag is a container that defines a division or a section on a page. It is used to group HTML elements to appear together in the browser and be targeted with CSS rules.
+Create <div> tag elements and place the already tagged content, the images and text inside the div element.
+To create the sections or columns inside the rows, we have to nest <div> elements.
+Graphic Design – Web Design and User Testing for Design
+Adding <div>
+We have to write some rules in CSS to control how these
+<div> tags appear & apply them to the <div> elements using the class attribute.
+Graphic Design – Web Design and User Testing for Design
+Adding <div> to HTML
+Top row, column 1 Top row, column 2 Middle row, column 1 Middle row, column 2 Bottom row, column 1 Bottom row, column 2 Bottom row, column 3 Bottom row, column 3
+Note: Using the below, it is possible comment out lines of code in an HTML file
+<!--///////////Invisible///////////-->
+Graphic Design – Web Design and User Testing for Design
+Controlling the Structure with <div> tags
+We need to tell the browser that the outer <div> is a flexible container and that it can contain other <div> elements side by side.
+There is a specific declaration we can use in the CSS rule for row. This declaration is display: flex;
+This declaration is used with <div> elements and tells the browser that this <div> is a flex container and will flex to accommodate the direct children inside – direct children are the nested <div> elements.
+Graphic Design – Web Design and User Testing for Design
+We can control the children (the nested
+<div>) by giving them percentage widths. The outer <div> element with display flex will automatically go 100% of the screen. We can set the widths of the columns accordingly.
+The display: flex; declaration can do a lot more than this, but it can take practice. The Flexbox Froggy game can help with this:
+https://flexboxfroggy.com
+.row { display: flex;}	.col2 { width: 50%;}	.col4 { width: 25%;}
+Graphic Design – Web Design and User Testing for Design
+Adding <div> tags
+Structure some content in your index.html to include a nested <div>.
+Here, divs are being used to represent a 2 column structure with text featured alongside an image on the one row.
+Graphic Design – Web Design and User Testing for Design
+In your CSS file, create three new rules to represent a 2 column design.
+Here, the CSS rules for the HTML layout created on the previous slide can be seen.
+Graphic Design – Web Design and User Testing for Design
+Adding a Navigation Menu
+For a navigation menu, add a
+<div> tag to the links within the HTML file.
+Graphic Design – Web Design and User Testing for Design
+Adding a Navigation Menu
+In the CSS file, outline rules for the navigation div.
+Also, apply rules to the tags to style them to suit your design, based on what you’ve learnt so far.
+Graphic Design – Web Design and User Testing for Design
+Hover Effect
+The :hover selector is used to select elements when the mouse is dragged over them. The CSS Syntax is:
+:hover {
+css declarations;
+}
+Note:
+This can be used on all elements, not only links.
+More of :hover Selectors – https://www.w3schools.com/cssref/sel_hover.asp
+Graphic Design – Web Design and User Testing for Design
+Today’s Tasks!
+Add CSS styling to your HTML to depict your visual design as closely as possible.
+Recommended reading/research: cssreference.io & csstricks.com
+Graphic Design – Web Design and User Testing for Design

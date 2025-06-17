@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<!-- Note: This script may not meet all quality guidelines. Please review carefully. -->
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="en-US">
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>Hi there! Today, my job is to talk about how robots move and how we program them to do what we want.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>Hey! I'm here to point out for students when they actually see their code turn into real movement. For example, watching a robot draw a shape on the floor or race through a maze is a lot more exciting than just seeing numbers on a screen.</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>Exactly. When you program a robot, you give it a set of instructions. The robot follows these instructions step by step, just like following a recipe for cookies. First, it might move forward, then turn, then move again. The order is very important. If you switch steps, the robot will go somewhere else.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>That reminds me of giving someone directions. If you say “turn right” before you even start walking, they’ll get lost! So, can you explain how robots actually know how far to move or when to turn?</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>Sure! Robots use motors for movement. These motors turn the wheels. We tell the motors how long to run, or how many times to spin. For turning, one wheel moves while the other stops, or the wheels turn in opposite directions. Sensors help too. They can tell if the robot has reached a wall or turned enough degrees.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>So, sensors are kind of like the robot’s eyes and ears? That helps a lot. I’ve seen robots in competitions that follow lines on the ground. Is that all about sensors?</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>Yes, exactly. Sensors let robots react to the world. A line-following robot uses a sensor to see if it’s on the line. If it starts to go off, the robot can turn a little to get back on track. The program tells the robot what to do if the sensor “sees” white or black.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>I like that. It’s almost like the robot is thinking, but really, it’s just following rules we set up. Now, let’s talk about combining moves. You mentioned simple moves, but what if I want my robot to make a square or a triangle?</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>Good question! You combine basic moves in a sequence. For a square, you move forward, turn, and repeat that four times. You can write a function—think of it like a shortcut—that tells the robot “make a square.” Then, you can use that shortcut whenever you want, without writing all the steps again.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>But what about speed? I noticed that when robots move faster, they sometimes miss their turns. Why is that?</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>That’s because of momentum. When the robot goes faster, it doesn’t stop as quickly. So, if you tell it to turn 90 degrees at high speed, it might go too far. You have to adjust the turn angle or slow down before turning. Think of riding a scooter—if you go fast and turn suddenly, you might tip over or miss the turn.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>Hmm, that makes sense. But sometimes, I see robots in games turn just fine at high speed. Is it always better to slow down for turning?</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>Not always. [pause] If the robot has good grip and the turn is wide, it can stay fast. But for sharp corners, slowing down helps. We can also program the robot to check its speed and change how it turns. That’s why parameters like speed and angle are important.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>Got it. So, you’re saying the program can change the way the robot moves depending on what it’s doing? That’s pretty smart. What about when robots have to react to new things, like someone stepping in front of them?</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>Yes, the robot can use sensors to notice what’s around it. If it sees something in front, it can stop or go around. You can set up your program with “if” statements, like “if there’s something ahead, turn left.” This lets the robot make decisions as it moves.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>That’s really cool. I can see why programming robots is more fun than just making pictures on a screen. You get to see your ideas come to life and solve real problems.</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>Yes! And by creating reusable movement blocks, you can build more complex behaviors faster. It’s all about planning your path and using the right commands in the right order.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>I agree. For anyone starting out, remember: break big problems into smaller steps, and think about what your robot “sees” and “feels.” That makes your programs work better and helps you fix mistakes.</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>That’s right. Robots do what we tell them, one step at a time. By understanding how moves, speed, and sensors work together, you can make your robot do almost anything you imagine.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>So true! And the best part is, the more you practice, the more creative you can get. Good luck, future robot programmers!</p>
+</voice>
+
+</speak>

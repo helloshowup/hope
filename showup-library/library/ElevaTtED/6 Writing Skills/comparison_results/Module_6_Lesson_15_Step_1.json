@@ -1,0 +1,8 @@
+{
+  "module": "6",
+  "lesson": "15",
+  "step_number": "1",
+  "step_title": "Evidence Checklist",
+  "best_version": "# Evidence Checklist\n\n## Purpose\nThis checklist helps you evaluate the quality of evidence used in your writing. You must score at least 80% on this assessment before proceeding to the next unit.\n\n## Instructions\nReview each piece of evidence in your writing against these criteria:\n\n### Relevance\n- [ ] Evidence directly supports your main argument\n- [ ] Information is on-topic and necessary\n\n### Credibility\n- [ ] Sources are authoritative and trustworthy\n- [ ] Information is current and accurate\n- [ ] Multiple sources confirm key points\n\n### Citation\n- [ ] All sources properly cited in required format\n- [ ] Quotations clearly indicated\n- [ ] Paraphrased content properly attributed\n\n## Scoring\nEach criterion is worth equal points. You must achieve at least 80% to unlock the next unit.",
+  "explanation": "Error in comparison process: maximum recursion depth exceeded while calling a Python object. Using most structurally complete version as fallback."
+}

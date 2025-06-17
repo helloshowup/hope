@@ -1,0 +1,981 @@
+{
+  "course_name": "Film Movements Fundamentals",
+  "csv_path": "C:/Users/User/Desktop/ShowupSquaredV4/data/input/csv/Open Window Lesson-Create Spreadsheet - Sheet2.csv",
+  "start_time": "2025-04-17T12:00:05.533697",
+  "status": "started",
+  "processed_rows": [
+    {
+      "module": "1",
+      "lesson": "1",
+      "step_number": "1",
+      "step_title": "Historical Film Movements ",
+      "template_type": "Article",
+      "status": "completed",
+      "timestamp": "2025-04-17T12:00:05.548863",
+      "log_entries": [
+        {
+          "timestamp": "2025-04-17 12:00:05",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module 1, Lesson 1, Step 1"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:05",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:05",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:05",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (329 characters)"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:05",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:05",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:05",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:06",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:06",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:06",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:06",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:11",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:11",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:16",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:16",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:16",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 0 AI patterns"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:16",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:16",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:16",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:16",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to output\\Film Movements Fundamentals_20250417_120005\\1\\1\\1_Historical Film Movements.md"
+        }
+      ],
+      "comparison_explanation": "No explanation provided.",
+      "review_summary": "No edit summary provided.",
+      "ai_patterns_detected": 0,
+      "editing_explanation": "No AI patterns detected, no edits needed.",
+      "output_path": "output\\Film Movements Fundamentals_20250417_120005\\1\\1\\1_Historical Film Movements.md",
+      "completion_timestamp": "2025-04-17T12:00:16.175449"
+    },
+    {
+      "module": "1",
+      "lesson": "1",
+      "step_number": "2",
+      "step_title": "Historical Film Movements ",
+      "template_type": "Article",
+      "status": "completed",
+      "timestamp": "2025-04-17T12:00:05.549386",
+      "log_entries": [
+        {
+          "timestamp": "2025-04-17 12:00:05",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module 1, Lesson 1, Step 2"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:05",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:05",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:05",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (1209 characters)"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:05",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:05",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:16",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:17",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:17",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:17",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:17",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:22",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:22",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:28",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:28",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:28",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 1 AI patterns"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:28",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:38",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:38",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:38",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to output\\Film Movements Fundamentals_20250417_120005\\1\\1\\2_Historical Film Movements.md"
+        }
+      ],
+      "comparison_explanation": "No explanation provided.",
+      "review_summary": "No edit summary provided.",
+      "ai_patterns_detected": 1,
+      "editing_explanation": "I've edited the text to make it more human-like and appropriate for first-year students at Open Window South Africa Higher Education. The main changes include:\n\n1. Removed the formal, AI-like introduction and created a more direct, conversational opening\n2. Replaced instances of \"essential\" with more natural alternatives\n3. Changed American spelling to British (e.g., \"specialised\" instead of \"specialized\")\n4. Added \"Over to You\" headings for reflection practices\n5. Varied sentence structure and made language more conversational while maintaining professionalism\n6. Improved flow between sections and ideas to sound more natural\n7. Added some rhetorical questions to engage students directly\n8. Simplified some complex phrasing while preserving the core information",
+      "output_path": "output\\Film Movements Fundamentals_20250417_120005\\1\\1\\2_Historical Film Movements.md",
+      "completion_timestamp": "2025-04-17T12:00:38.490772"
+    },
+    {
+      "module": "1",
+      "lesson": "1",
+      "step_number": "3",
+      "step_title": "Historical Film Movements ",
+      "template_type": "Article",
+      "status": "completed",
+      "timestamp": "2025-04-17T12:00:05.549386",
+      "log_entries": [
+        {
+          "timestamp": "2025-04-17 12:00:05",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module 1, Lesson 1, Step 3"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:05",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:05",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:05",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (1097 characters)"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:05",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:05",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:38",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:39",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:39",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:39",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:39",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:44",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:44",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:50",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:50",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:50",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 0 AI patterns"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:50",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:50",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:50",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:50",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to output\\Film Movements Fundamentals_20250417_120005\\1\\1\\3_Historical Film Movements.md"
+        }
+      ],
+      "comparison_explanation": "No explanation provided.",
+      "review_summary": "No edit summary provided.",
+      "ai_patterns_detected": 0,
+      "editing_explanation": "No AI patterns detected, no edits needed.",
+      "output_path": "output\\Film Movements Fundamentals_20250417_120005\\1\\1\\3_Historical Film Movements.md",
+      "completion_timestamp": "2025-04-17T12:00:50.364083"
+    },
+    {
+      "module": "1",
+      "lesson": "1",
+      "step_number": "4",
+      "step_title": "Historical Film Movements ",
+      "template_type": "Article",
+      "status": "completed",
+      "timestamp": "2025-04-17T12:00:05.549386",
+      "log_entries": [
+        {
+          "timestamp": "2025-04-17 12:00:05",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module 1, Lesson 1, Step 4"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:05",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:05",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:05",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (1596 characters)"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:05",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:05",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:50",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:51",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:51",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:51",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:51",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:56",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:56",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-04-17 12:01:00",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-04-17 12:01:00",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-04-17 12:01:00",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 0 AI patterns"
+        },
+        {
+          "timestamp": "2025-04-17 12:01:00",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-04-17 12:01:00",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-04-17 12:01:00",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-04-17 12:01:00",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to output\\Film Movements Fundamentals_20250417_120005\\1\\1\\4_Historical Film Movements.md"
+        }
+      ],
+      "comparison_explanation": "No explanation provided.",
+      "review_summary": "No edit summary provided.",
+      "ai_patterns_detected": 0,
+      "editing_explanation": "No AI patterns detected, no edits needed.",
+      "output_path": "output\\Film Movements Fundamentals_20250417_120005\\1\\1\\4_Historical Film Movements.md",
+      "completion_timestamp": "2025-04-17T12:01:00.737037"
+    },
+    {
+      "module": "1",
+      "lesson": "1",
+      "step_number": "5",
+      "step_title": "Historical Film Movements ",
+      "template_type": "Article",
+      "status": "completed",
+      "timestamp": "2025-04-17T12:00:05.564890",
+      "log_entries": [
+        {
+          "timestamp": "2025-04-17 12:00:05",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module 1, Lesson 1, Step 5"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:05",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:05",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:05",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (1503 characters)"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:05",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:05",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-04-17 12:01:00",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-04-17 12:01:01",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-04-17 12:01:01",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-04-17 12:01:01",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-17 12:01:01",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-04-17 12:01:06",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-04-17 12:01:06",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-04-17 12:01:11",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-04-17 12:01:11",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-04-17 12:01:11",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 0 AI patterns"
+        },
+        {
+          "timestamp": "2025-04-17 12:01:11",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-04-17 12:01:11",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-04-17 12:01:11",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-04-17 12:01:11",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to output\\Film Movements Fundamentals_20250417_120005\\1\\1\\5_Historical Film Movements.md"
+        }
+      ],
+      "comparison_explanation": "No explanation provided.",
+      "review_summary": "No edit summary provided.",
+      "ai_patterns_detected": 0,
+      "editing_explanation": "Content appears to be an AI response rather than educational content. No edits performed.",
+      "output_path": "output\\Film Movements Fundamentals_20250417_120005\\1\\1\\5_Historical Film Movements.md",
+      "completion_timestamp": "2025-04-17T12:01:11.618714"
+    },
+    {
+      "module": "1",
+      "lesson": "1",
+      "step_number": "6",
+      "step_title": "Historical Film Movements ",
+      "template_type": "Article",
+      "status": "completed",
+      "timestamp": "2025-04-17T12:00:05.564890",
+      "log_entries": [
+        {
+          "timestamp": "2025-04-17 12:00:05",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module 1, Lesson 1, Step 6"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:05",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:05",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:05",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (1524 characters)"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:05",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:05",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-04-17 12:01:11",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-04-17 12:01:12",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-04-17 12:01:12",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-04-17 12:01:12",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-17 12:01:12",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-04-17 12:01:17",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-04-17 12:01:17",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-04-17 12:01:23",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-04-17 12:01:23",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-04-17 12:01:23",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 0 AI patterns"
+        },
+        {
+          "timestamp": "2025-04-17 12:01:23",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-04-17 12:01:23",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-04-17 12:01:23",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-04-17 12:01:23",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to output\\Film Movements Fundamentals_20250417_120005\\1\\1\\6_Historical Film Movements.md"
+        }
+      ],
+      "comparison_explanation": "No explanation provided.",
+      "review_summary": "No edit summary provided.",
+      "ai_patterns_detected": 0,
+      "editing_explanation": "No AI patterns detected, no edits needed.",
+      "output_path": "output\\Film Movements Fundamentals_20250417_120005\\1\\1\\6_Historical Film Movements.md",
+      "completion_timestamp": "2025-04-17T12:01:23.678713"
+    },
+    {
+      "module": "1",
+      "lesson": "1",
+      "step_number": "7",
+      "step_title": "Historical Film Movements ",
+      "template_type": "Article",
+      "status": "completed",
+      "timestamp": "2025-04-17T12:00:05.564890",
+      "log_entries": [
+        {
+          "timestamp": "2025-04-17 12:00:05",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module 1, Lesson 1, Step 7"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:05",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:05",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:05",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (739 characters)"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:05",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-04-17 12:00:05",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-04-17 12:01:23",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-04-17 12:01:24",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-04-17 12:01:24",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-04-17 12:01:24",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-17 12:01:24",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-04-17 12:01:28",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-04-17 12:01:28",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-04-17 12:01:32",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-04-17 12:01:32",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-04-17 12:01:32",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 0 AI patterns"
+        },
+        {
+          "timestamp": "2025-04-17 12:01:32",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-04-17 12:01:32",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-04-17 12:01:32",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-04-17 12:01:32",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to output\\Film Movements Fundamentals_20250417_120005\\1\\1\\7_Historical Film Movements.md"
+        }
+      ],
+      "comparison_explanation": "No explanation provided.",
+      "review_summary": "No edit summary provided.",
+      "ai_patterns_detected": 0,
+      "editing_explanation": "No AI patterns detected, no edits needed.",
+      "output_path": "output\\Film Movements Fundamentals_20250417_120005\\1\\1\\7_Historical Film Movements.md",
+      "completion_timestamp": "2025-04-17T12:01:32.979610"
+    }
+  ],
+  "log_file": "logs\\simplified_workflow_20250417_120005.log",
+  "phases_run": [
+    "generate",
+    "compare",
+    "review",
+    "finalize"
+  ],
+  "output_dir": "output\\Film Movements Fundamentals_20250417_120005",
+  "generation_dir": "output\\Film Movements Fundamentals_20250417_120005\\generation_results",
+  "comparison_dir": "output\\Film Movements Fundamentals_20250417_120005\\comparison_results",
+  "review_dir": "output\\Film Movements Fundamentals_20250417_120005\\review_results",
+  "final_dir": "output\\Film Movements Fundamentals_20250417_120005\\final_content",
+  "phase": "finalize",
+  "phase_completion_time": "2025-04-17T12:01:32.986735"
+}

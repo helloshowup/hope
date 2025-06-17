@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Robot Path Planner</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 20px;
+    }
+
+    #grid {
+      display: grid;
+      grid-template-columns: repeat(6, 50px);
+      grid-template-rows: repeat(6, 50px);
+      gap: 2px;
+      margin-bottom: 20px;
+    }
+
+    .cell {
+      width: 50px;
+      height: 50px;
+      background: #f0f0f0;
+      border: 1px solid #ccc;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      user-select: none;
+    }
+
+    .obstacle {
+      background: #555;
+    }
+
+    .goal {
+      background: #8bc34a;
+    }
+
+    .robot {
+      background: #2196f3;
+      color: #fff;
+      font-weight: bold;
+    }
+
+    textarea {
+      width: 300px;
+      height: 120px;
+      margin-top: 4px;
+    }
+
+    button {
+      margin: 5px;
+      padding: 6px 12px;
+      font-size: 14px;
+      cursor: pointer;
+    }
+
+    #message {
+      margin-top: 10px;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <h1>Robot Path Planner</h1>
+
+  <!-- Game Grid -->
+  <div id="grid"></div>
+
+  <!-- Command Input -->
+  <label for="commands">Enter Commands (one per line):</label><br />
+  <textarea id="commands" placeholder="Example:\nFORWARD\nRIGHT\nFORWARD\nREPEAT 2 LEFT"></textarea><br />
+
+  <!-- Controls -->
+  <button id="runBtn">Run</button>
+  <button id="resetBtn">Reset</button>
+  <p id="message" aria-live="polite"></p>
+
+  <script>
+    /* =====================
+       Game Configuration
+       ===================== */
+    const size = 6; // grid width and height (6 x 6)
+    const gridEl = document.getElementById("grid");
+    const messageEl = document.getElementById("message");
+
+    let robotPos = { x: 0, y: 5 }; // start bottom‑left
+    let robotDir = 0; // 0‑up, 1‑right, 2‑down, 3‑left
+
+    // Preset obstacles and goal
+    const obstacles = [
+      { x: 2, y: 4 },
+      { x: 3, y: 3 },
+      { x: 1, y: 2 },
+      { x: 4, y: 1 }
+    ];
+    const goal = { x: 5, y: 0 };
+
+    /* =====================
+       Setup & Rendering
+       ===================== */
+    function createGrid() {
+      gridEl.innerHTML = "";
+      for (let y = 0; y < size; y++) {
+        for (let x = 0; x < size; x++) {
+          const cell = document.createElement("div");
+          cell.classList.add("cell");
+          cell.dataset.x = x;
+          cell.dataset.y = y;
+
+          if (obstacles.some((o) => o.x === x && o.y === y)) {
+            cell.classList.add("obstacle");
+          }
+          if (goal.x === x && goal.y === y) {
+            cell.classList.add("goal");
+          }
+
+          gridEl.appendChild(cell);
+        }
+      }
+      drawRobot();
+    }
+
+    function drawRobot() {
+      // Remove existing robot markers
+      document.querySelectorAll(".robot").forEach((c) => {
+        c.textContent = "";
+        c.classList.remove("robot");
+      });
+
+      // Add robot to its current cell
+      const index = robotPos.y * size + robotPos.x;
+      const cell = gridEl.children[index];
+      cell.classList.add("robot");
+      cell.textContent = arrowForDir(robotDir);
+    }
+
+    function arrowForDir(d) {
+      return ["↑", "→", "↓", "←"][d];
+    }
+
+    /* =====================
+       Movement Helpers
+       ===================== */
+    function moveForward() {
+      const newPos = { x: robotPos.x, y: robotPos.y };
+
+      if (robotDir === 0) newPos.y -= 1; // up
+      if (robotDir === 1) newPos.x += 1; // right
+      if (robotDir === 2) newPos.y += 1; // down
+      if (robotDir === 3) newPos.x -= 1; // left
+
+      // Check bounds
+      if (newPos.x < 0 || newPos.x >= size || newPos.y < 0 || newPos.y >= size) {
+        return false;
+      }
+      // Check obstacles
+      if (obstacles.some((o) => o.x === newPos.x && o.y === newPos.y)) {
+        return false;
+      }
+
+      robotPos = newPos;
+      return true;
+    }
+
+    function turnLeft() {
+      robotDir = (robotDir + 3) % 4;
+    }
+
+    function turnRight() {
+      robotDir = (robotDir + 1) % 4;
+    }
+
+    function resetGame() {
+      robotPos = { x: 0, y: 5 };
+      robotDir = 0;
+      messageEl.textContent = "";
+      createGrid();
+    }
+
+    /* =====================
+       Command Parsing
+       ===================== */
+    function parseAndRun() {
+      const lines = document
+        .getElementById("commands")
+        .value.split(/\n/)
+        .map((l) => l.trim())
+        .filter((l) => l !== "");
+
+      const commands = [];
+      let i = 0;
+
+      while (i < lines.length) {
+        const parts = lines[i].split(/\s+/);
+        const keyword = parts[0].toUpperCase();
+
+        if (keyword === "REPEAT" && !isNaN(parts[1])) {
+          const count = parseInt(parts[1], 10);
+          i += 1;
+          if (i >= lines.length) {
+            messageEl.textContent = "REPEAT without body";
+            return;
+          }
+          const body = lines[i].split(/\s+/);
+          for (let c = 0; c < count; c++) {
+            commands.push(...body);
+          }
+        } else {
+          commands.push(...parts);
+        }
+        i += 1;
+      }
+
+      runCommands(commands);
+    }
+
+    /* =====================
+       Command Execution
+       ===================== */
+    function runCommands(cmds) {
+      let step = 0;
+
+      function next() {
+        if (step >= cmds.length) {
+          if (robotPos.x === goal.x && robotPos.y === goal.y) {
+            messageEl.textContent = "🎉 Success! You reached the goal.";
+          } else {
+            messageEl.textContent = "Program finished. Robot did not reach the goal.";
+          }
+          return;
+        }
+
+        const cmd = cmds[step].toUpperCase();
+        let ok = true;
+
+        switch (cmd) {
+          case "FORWARD":
+            ok = moveForward();
+            break;
+          case "LEFT":
+            turnLeft();
+            break;
+          case "RIGHT":
+            turnRight();
+            break;
+          default:
+            messageEl.textContent = "Unknown command: " + cmd;
+            return;
+        }
+
+        if (!ok) {
+          messageEl.textContent =
+            "💥 Collision or out of bounds at step " + (step + 1);
+          return;
+        }
+
+        drawRobot();
+        step += 1;
+        setTimeout(next, 300); // animate every 300 ms
+      }
+
+      next();
+    }
+
+    /* =====================
+       Event Listeners
+       ===================== */
+    document.getElementById("runBtn").addEventListener("click", () => {
+      resetGame();
+      parseAndRun();
+    });
+
+    document.getElementById("resetBtn").addEventListener("click", resetGame);
+
+    /* =====================
+       Initialize Game
+       ===================== */
+    createGrid();
+  </script>
+</body>
+</html>

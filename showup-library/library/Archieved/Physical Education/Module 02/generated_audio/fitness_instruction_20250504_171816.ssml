@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="en-US">
+<voice name="en-US-AndrewNeural" parameters="temperature=0.35">
+<prosody rate="-5%" pitch="+2%" volume="+10%">
+<p>Welcome to your running technique session. <break time="650ms"/> Today,<break time="150ms"/> we’ll focus on how to run with good form. <break time="650ms"/> This helps you move efficiently and reduces your risk of injury. <break time="650ms"/> Let’s get started.</p>
+<p>Stand tall with your feet about hip-width apart. <break time="650ms"/> Your upper body should be straight,<break time="150ms"/> but lean slightly forward from your ankles. <break time="650ms"/> Keep your head up and look ahead. <break time="650ms"/> Relax your shoulders away from your ears. <break time="650ms"/> Bend your arms at about ninety degrees. <break time="650ms"/> Hold your hands gently,<break time="150ms"/> as if you’re holding a potato chip you don’t want to crush. <break time="650ms"/> This keeps tension out of your arms. <break time="650ms"/></p>
+<p>Before we start,<break time="150ms"/> remember: <emphasis level="strong">Never land hard on your heel.</emphasis> <break time="650ms"/> This helps protect your knees and joints. <break time="650ms"/></p>
+<p>Let’s practice in place if you don’t have room to run. <break time="650ms"/> Begin by slowly marching,<break time="150ms"/> then move into a light jog. <break time="650ms"/> Ready? <break time="650ms"/> Here we go. <break time="650ms"/></p>
+<p><prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">Lean forward slightly from your ankles</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">Lift your knees a little higher than you would when walking</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Three - <emphasis level="moderate">Land softly on the middle or front of your foot</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Four - <emphasis level="moderate">Pump your arms forward and back,<break time="150ms"/> not side to side</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Five - <emphasis level="moderate">Keep your hands relaxed.<break time="350ms"/> No tight fists</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Six - <emphasis level="moderate">Breathe naturally through both your nose and mouth</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Seven - <emphasis level="moderate">Check your posture.<break time="350ms"/> Shoulders relaxed,<break time="150ms"/> head up</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Eight - <emphasis level="moderate">Keep your core engaged for stability</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Nine - <emphasis level="moderate">Maintain a steady,<break time="150ms"/> comfortable rhythm</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Ten - <emphasis level="strong">Stay light on your feet to reduce impact</emphasis> <break time="3000ms"/></prosody></p>
+<p>Let’s check your form. <break time="650ms"/> Are your arms bent at ninety degrees and moving forward and back? <break time="650ms"/> Are your feet landing softly,<break time="150ms"/> not on your heels? <break time="650ms"/> If so,<break time="150ms"/> you’re on the right track. <break time="650ms"/></p>
+<p>If you need an easier option,<break time="150ms"/> slow down to a march. <break time="650ms"/> Focus on lifting your knees and arm movement. <break time="650ms"/> For a greater challenge,<break time="150ms"/> try running for a short distance outdoors. <break time="650ms"/> Keep your form cues in mind. <break time="650ms"/></p>
+<p>Running with good technique trains your body to move efficiently. <break time="650ms"/> It helps you build speed and endurance over time. <break time="650ms"/> Proper form protects your joints and makes running feel easier. <break time="650ms"/> Remember to check your posture and stay relaxed each time you run. <break time="650ms"/> Keep practicing these cues,<break time="150ms"/> and you’ll become a stronger,<break time="150ms"/> safer runner. <break time="650ms"/> Great job focusing on your technique today. <break time="650ms"/></p>
+</prosody>
+</voice>
+</speak>

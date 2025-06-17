@@ -1,0 +1,119 @@
+DESIGN
+Basic Principles 2
+Design - Basic Principles 2
+Basic Principles of Good Design:
+In every well designed piece of work 4 basics principles will be evident. Rarely will any of these principles be seen in isolation, in reality they are all interconnected and will all or mostly all be present in any piece.
+Contrast Repetition Alignment Proximity
+Design - Basic Principles 2
+Contrast:
+The idea behind contrast is to avoid items on the page which are merely ‘similar’.
+In order to highlight differences between elements make them very different.
+Contrast is often the most important visual attraction of a page - its often the thing that draws the viewer in the first place. It is one of the most effective ways to add interest to  your page.
+Contrast is also a really useful tool to create organisational hierarchy among different elements.
+Design - Basic Principles 2
+The key to creating good strong contrast is to be bold!
+If two items are not the same - then make them very very different. If two elements are only a little different, then you create conflict and confusion - not contrast.
+Design - Basic Principles 2
+Contrast can be created in many ways
+You can contrast large type with small type.
+An Oldstyle font with a geometric sans serif font. A thin line with a thick line.
+A horizontal element with a vertical element.
+Colours: black with white, yellow with purple.
+Design - Basic Principles 2
+Repetition:
+Repeating visual elements through a design piece will develop the organisation and strengthen the unity.
+Repetition adds ‘consistency’ to the piece - thereby creating unity.
+Repeating any element throughout a design will add to this consistency - it could be a bold font, a thick line rule, a particular colour or format.
+When you decide that all headlines will be the same font size and colour you are adding repetition and consistency to your design.
+When you place the chapter title in the same place, in the same style on every page - you are adding consistency and repetition.
+Design - Basic Principles 2
+Repeating visual elements can be particularly useful when working on a suite of materials for the one company… the repetition of elements, such as the company logo and company colours, create a strong corporate identity and begin to build that company’s visual brand.
+Each element becomes easily identifiable as belonging to that company’s suite of materials.
+Design - Basic Principles 2
+So think of repetition as being consistent, and then ask yourself if you can push the existing consistencies even further?
+Could you turn some of those consistent elements into a conscious design feature?
+You can also consider the possibility of adding elements whose sole purpose is to create a repetition - for example if you have lists throughout your text consider adding a reversed number and the repeating that treatment throughout every numbered list in the publication.
+Avoid however repeating any element so much that it becomes confusing or annoying. Be conscious of the value of contrast and ensure that your repetition creates unifying contrast and not overwhelming confusion!
+Design - Basic Principles 2
+Alignment
+In every piece of design you create every element should be considered and should be placed with some visual connection to another element on the page.
+Nothing should be placed on the page arbitrarily.
+Deliberate alignment of elements adds to the strength of any piece and creates a clean and sophisticated look.
+Design - Basic Principles 2
+When items are aligned on the page the result is a stronger more cohesive unit.
+Even when aligned elements are physically separated from each other there is an invisible line which connects them - both in the eye and in the mind.
+Even though you may have separated elements deliberately and used the principle of proximity to indicate their relationships, it is the principle of alignment that tells the viewer that even though these items are not close, they belong to the same piece.
+Design - Basic Principles 2
+Proximity
+In order to organise information and reduce clutter, items that relate to each other should be placed in close proximity to each other.
+When several items are placed in close proximity to one another, they become one visual unit rather than several separate units.
+The proximity, or closeness, implies a relationship to one another.
+Design - Basic Principles 2
+By grouping similar elements into one unit several things happen…
+The page becomes more organised.
+You understand where to begin reading the message, and you know when you are finished.
+The white space automatically becomes more organised as well which adds to the overall strength of the piece.
+Your eye needs to stop less frequently so the message becomes more articulate.
+Design - Basic Principles 2
+So the basic purpose of proximity is to organise the elements of your page and to give a hierarchy to the information being presented.
+If the elements are organised they are more likely to be read and understood.
+So try to avoid too many separate elements on your page.
+Squint your eyes to get a sense of how many elements appear to float alone… can any of these be grouped together?
+Avoid even a split second of confusion over whether a headline, subhead, caption etc belongs with its related material - create a strong relationship with close proximity!
+Design - Basic Principles 2
+Grids
+Another very useful tool in organising your page and design effectively is the use of a Grid.
+Once you have answered most of the questions regarding the content and format you should begin sketching out grid structures based on the appropriate page sizes and formats.
+You should first begin by defining the Type Area.
+The Type Area is the area where your grid will be contained. It is surrounded on all sides by margins and in some cases running heads and page footers, numbers etc.
+Design - Basic Principles 2
+The grid is used as a tool for organising horizontal and vertical space by dividing the page into columns and rows in order to help the designer to specify where elements can be placed on the page.
+Although the grid itself is invisible, it helps readers to scan and make sense of the content.
+Grids can be a fantastic guide to help with organisation and placement but should not become dogmatic or constricting.
+Design - Basic Principles 2
+Working to a grid becomes essential if you are designing repetitive pages such as a magazine layout or a booklet or brochure.
+Using a grid makes it far easier to organise the layout which leaves you to focus on the creative aspects.
+The grid also allows for consistency from spread to spread. Working to the same measures and positions will give the piece an overall unity and cohesive style. If however a grid is not working for you feel free to stop and change the grid to suit your purposes - it is an aid  for you to use as suits.
+Design - Basic Principles 2
+Margins
+White space is important in design. It gives the text and graphics breathing room. The most
+prominent white space in a design is the margins all around the page. This space full of nothing is an important element of the overall page layout. Margins can convey a specific tone, make the page easier or harder to hold or read, and margins can affect the cost of the printed piece as well.
+The margin — top, bottom, or either side — is that empty space between the trim (where the page is cut) and the live printing area (primary text and graphics) of the page. Sometimes headers or footers may be placed within the margin area.
+Margins have several functions.
+Visually, they keep the text and graphics from "falling off the page" by providing a buffer zone.
+They give the eye a break or resting place, even in densely set type.
+On the practical side, margins leave space for the reader to hold the material without obscuring the text with fingers or thumbs.
+In manuals, workbooks, and textbooks, ample margins give the reader space for making notes.
+They allow for binding the material with staples, three ring binders, or other methods.
+Design - Basic Principles 2
+Using the margins to set a tone for the piece is subjective. As the designer, you must balance artistic considerations with practical matters such as paper size restrictions and binding requirements.
+In general, with books and ad layouts, the more space devoted to margins compared to the text and graphics, the more formal the design.
+Minimalist designs with little text, simple graphics, and generous margins can convey elegance, simplicity, or richness depending on other elements of the design.
+Skimpy margins can suggest "mass produced." These tight margins are found in paperback novels, newspapers, and phone books and came about due to cost restraints and the desire to get as much information as possible into a small amount of space. We've grown so accustomed to this format that more generous margins in similar publications might seem odd and disconcerting even if it did improve readability.
+Design - Basic Principles 2
+The Rule of Thirds
+One of the most effective
+principles in grid design is called the Rule of Thirds, also known as the golden grid rule.
+The Rule of Thirds is a technique which is applied by dividing a space into thirds, both vertically and horizontally, creating a grid of 9 parts.
+With this grid in mind the rule of thirds now identifies four important parts of the layout that you should consider placing points of interest in as you compose your design.
+Design - Basic Principles 2
+Not only this but it also gives you four lines that are also useful positions for elements in your composition.
+The theory is that if you place points of interest in the intersections or along the lines that your layout becomes more balanced and will enable a viewer of the piece to interact with it more naturally.
+Studies have shown that when viewing images or posters that peoples eyes usually go to one of the intersection points most naturally rather than the center of the shot - using the rule of thirds works with this natural way of viewing an image rather than working against it.
+Design - Basic Principles 2
+Design - Basic Principles 2
+The Golden Section
+The Golden Section, Golden Ratio, Divine
+Proportion and Fibonacci Sequence are all names for the same thing;
+A ratio of 1.618
+Found in art, architecture, design, and most intriguingly, in nature, this ratio has been used throughout history and today for its aesthetic
+beauty. The Golden Ratio is a ratio which is evident throughout the universe as the number Phi. (Not Pi which is another naturally occurring ratio of 3.14)
+You can use this ratio to good effect in design by making sure that elements of your grid and or your layout conform to this ratio. Using the Golden Section can ensure a natural sense of correct composition, even though it is based in mathematics it will ‘feel’ right.”
+The Mona Lisa - Measure the length and the width of the painting itself. The ratio is, of course, Golden. Draw a rectangle around Mona's face (from the top of the forehead to the base of the chin, and from left cheek to right cheek) and notice that this, too, is a Golden rectangle
+Design - Basic Principles 2
+So before you even begin designing or re-designing something you now know there are a range of basic principles you can employ to aid you.
+You can consider the focal point - what you need your viewer to see first.
+You can consider the use of a grid system and the Rule of Thirds when it comes to placing various elements.
+You can consider what items you can logically group together and use proximity to infer this.
+You can consider repetition to create a cohesive visual and you can use contrast to create interest.
+Design - Basic Principles 2

@@ -1,0 +1,8 @@
+{
+  "module": "10",
+  "lesson": "5",
+  "step_number": "5",
+  "step_title": "Inclusion Plan Rubric",
+  "best_version": "# Inclusion Plan Rubric Self-Assessment\n\n## Instructions\nBelow is a rubric to evaluate your inclusion plan proposal. Rate your plan on each criterion using the 1-4 scale provided. The system will automatically generate feedback based on your self-assessment.\n\n## Rubric Criteria\n1. **Diversity Considerations** (1-4)\n   - How well does your plan address diverse learning needs?\n\n2. **Accessibility Measures** (1-4)\n   - To what extent does your plan incorporate accessibility features?\n\n3. **Participatory Strategies** (1-4)\n   - How effectively does your plan encourage participation from all learners?\n\n4. **Cultural Responsiveness** (1-4)\n   - How well does your plan respect and incorporate cultural differences?\n\n5. **Implementation Feasibility** (1-4)\n   - How realistic is your plan to implement in a classroom setting?\n\n*Note: Scores below 3 in any category will trigger suggestions for improvement. A total score of at least 15 is required to pass this assessment gate.*",
+  "explanation": "Error in comparison process: maximum recursion depth exceeded while calling a Python object. Using most structurally complete version as fallback."
+}

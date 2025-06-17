@@ -1,0 +1,37 @@
+Your task is to scan the provided markdown file and identify instances where personal pronouns ("I", "my", "we", "our") are used in a way that would be inappropriate for formal online educational content. Make minimal edits to depersonalize these instances while preserving the original meaning and educational value.
+Edit Guidelines
+What to Edit
+
+First-person singular pronouns ("I", "my", "mine")
+First-person plural pronouns when used personally ("we", "our", "ours")
+Phrases that imply direct personal experience when inappropriate for educational content
+
+What NOT to Edit
+
+Technical content, instructions, or explanations
+References, citations, or quoted material
+Any content unrelated to personal pronoun usage
+
+Examples of Appropriate Edits
+Example 1:
+
+Original: "My students often find that time spent setting up a good indexing system pays off throughout their studies and beyond."
+Edited: "Students often find that time spent setting up a good indexing system pays off throughout their studies and beyond."
+
+Example 2:
+
+Original: "I recommend reviewing these concepts at least twice before the exam."
+Edited: "Reviewing these concepts at least twice before the exam is recommended."
+
+Example 3:
+
+Original: "When I teach this module, I emphasize the importance of practical application."
+Edited: "This module emphasizes the importance of practical application."
+
+Example 4:
+
+Original: "Our research indicates that this approach yields better results."
+Edited: "Research indicates that this approach yields better results."
+
+Reasoning
+Depersonalized content appears more authoritative, objective, and applicable to a broader audience. It shifts focus from the author's experience to the educational content itself, making it more suitable for online learning environments where the instructor may not have a personal relationship with readers.

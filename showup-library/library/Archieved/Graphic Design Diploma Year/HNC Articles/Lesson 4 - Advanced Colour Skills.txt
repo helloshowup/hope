@@ -1,0 +1,56 @@
+Earlier in this course you took a look at colour theory, but now it’s time to take it deeper than selecting swatches, creating a palette or creating visual material and/or a brand identity for a client. There are numerous conscious decisions a graphic designer must consider before settling on a selection of colours including their end use and accessibility. 
+Fig 1. Unsplash (n.d.) Colour considerations in design
+Where will the colours be used? 
+When creating graphic designs you have to consider the ‘end destination’. Will they be used digitally or as printed media, or both? This will determine the modes that you apply to the colour(s), which will in turn contribute to the effectiveness of your designs on particular platforms. 
+RGB (Red Green and Blue)
+RGB (Red, Green, Blue) is a colour mode used in digital graphic design and photography. It is the standard mode for displaying colours on electronic devices such as computer monitors, smartphones, and television screens. Understanding how RGB impacts graphic design is crucial for creating digital visuals that appear accurately and vibrantly on screens.
+RGB colour mode is an additive colour spectrum, meaning it uses light to display colour.  Computer monitors, TVs, and electronic devices emit light to create colours and they use RGB to produce a wide spectrum of colours. In contrast, subtractive colour modes use reflected light. By designing visual material in RGB, you also reduce the risk of colour shifts or inconsistencies when your work is displayed on different screens.
+The RGB mode values are expressed as 0-255. If you assign the maximum values to each of the channels - red, green, and blue -  you create white (i.e. R255, G255 and B255). Whereas assigning the minimum values to each channel creates black (R0, G0 and B0).
+CMYK (Cyan, Magenta, Yellow and Key/Black)
+CMYK stands for Cyan, Magenta, Yellow, and Key (Black). Unlike RGB, CMYK is a subtractive colour model, meaning colours are created by reducing the reflective light upon adding more colour. It involves subtracting varying percentages of these four ink colours from white paper. Therefore, when all colours are at 100% intensity, they create a rich, solid black. The CMYK colour mode is assigned to visual materials that will be printed in full colour, like posters, magazines, packaging, etc. 
+During the colour printing process, each image is separated into cyan, magenta, yellow, and black dot patterns which vary in size and density to create combinations (i.e. complete images). The CMYK model values can be expressed as C100, M100, Y100 - a combination of these would be a process black. C0 M0 Y0 K100 is classed as a registration black.
+It is worth noting that, in order to achieve accurate colour in print, you have to ensure that the colours you see on your computer monitor during the creation phase closely match what you will see in the final printed product. You will therefore need to convert your digital RGB designs to CMYK.
+Fig 1. RGB and CMYK colour model uses
+Hexadecimal (hex code)
+Hexadecimal (often referred to as hex or hex code) is a numerical system used in graphic design, particularly in web and digital design, to specify and represent colours.This model is assigned to Cascading Style Sheets (CSS) and Hypertext Markup Language (HTML) based colours and its representation of colour values are in a binary code form. These hexadecimal values are essential for ensuring colour consistency across digital platforms and for accurately conveying colour choices to other designers, developers, and software.
+Hex codes start with # and is followed by six letters and/or numbers. These hex codes or values are employed to define colours. For example, you use the colour property in CSS to set text colour using a hex value of #RRGGBB. The first two letters/numbers refer to red, the next two refer to green and the last two refer to blue.
+Fig 3. Microsoft 365 Insider (n.d.) Hex code
+Hexadecimal colour values are defined between 00 and FF rather than the RGB values of 0-255. Numbers are used with the value falling between 1-9, and letters are used when the value is higher than 9, for instance, in the case of A-10, B-11, C12.
+Brands often have specific colours associated with their identity which will apply to all branding materials. Graphic designers need to create visuals to precisely match these colours, which is where the brand's hex codes come into play. You will use these exact colour values to maintain brand consistency across different platforms.
+Pantone Colour Swatches
+Pantone is a proprietary colour matching model that uses a unique numbering system to identify each colour, often represented as a coded colour chart. Pantone swatches are a physical reference tool that can be used to ensure that colours are consistent across different devices and print processes.
+Relationship between Pantone, RGB, and CMYK
+Pantone swatches can be converted to RGB and CMYK values, but it is important to note that the CMYK range is smaller than the Pantone range. This means that some Pantone colours cannot be reproduced accurately in CMYK. When converting a Pantone colour to RGB or CMYK, it is important to use a colour conversion chart. This will help you ensure that a specific colour is as close to the original Pantone colour as possible.
+Who will view the colours?
+There are numerous colour rules and considerations to bear in mind when you create colour palettes and schemes for visual work, not only the end usage of the potential material(s), but also how the colours are perceived by the intended audience. This consideration can be applied to individual colours or a combination of colours, such as when they are utilised together or alongside one another.
+Fig 4. Unsplash (n.d.) Consider your audience when choosing colour
+Colour Accessibility
+Accessibility of colour is measured by contrast and ensures elements are distinguishable from one another. In order for an audience to clearly read and understand your design, accessibility of colour is vital.
+Minimal accessibility: When colour pairings have a contrast ratio below 4.5:1 (or 3:1 for large copy and graphics). This can be difficult to view for people suffering from impaired vision.
+Strong accessibility: When colour pairings have a contrast ratio of 4.5:1 and above. This provides sufficient accessibility for most people.
+Enhanced accessibility: When the colour pairings have a contrast ratio of 7:1. This provides enhanced accessibility. People with some visual impairment will be able to access the visual material.
+Fig 5. Example of weak vs strong contrasts
+There are numerous online contrast checkers available to help you decide which colour pairings work well with one another and which pairings could potentially cause problems for viewers of your work. Here are two examples to get you started:
+Coolors.co
+The coolors.co website allows you to not only create a swatch palette and adapt it to suit each client brief, but it also has a useful ‘contrast checker’ that you can utilise to check your swatches against certain types of colour blindness (see section below for different blindness types).
+Color.adobe.com
+Adobe’s contrast checker allows you to input two colours to check for potential accessibility issues. The tool lets you quickly verify that the contrast ratio of text and background colour combinations meet the standards of the Web Content Accessibility Guidelines (WCAG).
+Colour Blindness
+There are three main types of colour blindness that you will have to consider as a graphic designer, as it might impact your colour choices when creating visuals: red-green colour blindness, blue-yellow colour blindness, and total colour blindness. Within each of these three main types of colour blindness, there are several different subtypes. The subtypes are classified by which colour cone cells are affected and to what degree.
+Red-green colour blindness
+Red-green colour blindness is the most common type of colour blindness, affecting about 1 in 12 men and 1 in 200 women. People with red-green colour blindness have difficulty distinguishing between shades of red and green.
+Red-green colour blindness subtypes:
+Protanopia: People with protanopia have no red cone cells. They see the world in shades of yellow, blue, and green.
+Protanomaly: People with protanomaly have red cone cells, but they are less sensitive to red light than normal. They may have difficulty distinguishing between shades of red and green, especially in low light.
+Deuteranopia: People with deuteranopia have no green cone cells. They see the world in shades of red, yellow, and blue.
+Deuteranomaly: People with deuteranomaly have green cone cells, but they are less sensitive to green light than normal. They may have difficulty distinguishing between shades of red and green, especially in low light.
+Blue-yellow colour blindness
+Blue-yellow colour blindness is much less common, affecting about 1 in 10,000 people. People with blue-yellow colour blindness have difficulty distinguishing between shades of blue and yellow.
+Blue-yellow colour blindness subtype:
+Tritanopia: People with tritanopia have no blue cone cells. They see the world in shades of red, yellow, and green.
+Total colour blindness 
+Total colour blindness is the rarest type of colour blindness, affecting about 1 in 100,000 people. People with total colour blindness can only see shades of grey. 
+Total colour blindness subtypes:
+Monochromacy: People with monochromacy have only one type of cone cell. They see the world in shades of grey.
+Achromatopsia: People with achromatopsia have no cone cells at all. They see the world in black and white.
+As you can see, there is much more to colour theory than just picking some colours and creating a pallet for your work. Each colour should be carefully considered in its own right but consideration must also extend to how each colour will be used alongside another in order for your designs to reach the intended audience. 

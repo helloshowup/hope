@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="en-US">
+<voice name="en-US-AndrewNeural" parameters="temperature=0.35">
+<prosody rate="-5%" pitch="+2%" volume="+10%">
+<p>Welcome to your squat workout. <break time="650ms"/> Today,<break time="150ms"/> we’ll focus on bodyweight squats—a powerful way to strengthen your entire lower body. <break time="650ms"/> Squats help build strong legs and glutes,<break time="150ms"/> and they also support better balance and everyday movement. <break time="650ms"/></p>
+<p>Let’s get started. <break time="650ms"/> Stand tall with your feet about shoulder-width apart. <break time="650ms"/> Toes should point slightly outward,<break time="150ms"/> not straight ahead. <break time="650ms"/> Keep your chest up,<break time="150ms"/> shoulders back,<break time="150ms"/> and eyes forward. <break time="650ms"/> Rest your arms at your sides,<break time="150ms"/> or extend them in front of you for balance. <break time="650ms"/></p>
+<p>A quick safety note: <emphasis level="strong">Never let your knees collapse inward during squats.</emphasis> <break time="650ms"/> Always keep your weight centered over your heels,<break time="150ms"/> not your toes. <break time="650ms"/></p>
+<p>Here’s how to squat. <break time="650ms"/> Begin by pushing your hips back,<break time="150ms"/> as if sitting down on a chair. <break time="650ms"/> Bend your knees and lower yourself slowly. <break time="650ms"/> Go as low as you can,<break time="150ms"/> aiming for your thighs to be parallel to the floor. <break time="650ms"/> Keep your chest lifted,<break time="150ms"/> and spine straight. <break time="650ms"/> Press through your heels to return to standing. <break time="650ms"/></p>
+<p>Let’s check your form. <break time="650ms"/> Are your heels flat on the ground? <break time="650ms"/> Are your knees tracking over your toes—not caving in or bowing out? <break time="650ms"/> If so,<break time="150ms"/> you’re ready to begin. <break time="650ms"/></p>
+<p>We’ll do ten squats together. <break time="2000ms"/></p>
+<p><prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">hips back,<break time="150ms"/> chest high</emphasis> <break time="650ms"/></prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">knees over toes,<break time="150ms"/> heels down</emphasis> <break time="650ms"/></prosody>
+<prosody rate="-5%" pitch="+10%">Three - <emphasis level="moderate">keep your back straight</emphasis> <break time="650ms"/></prosody>
+<prosody rate="-5%" pitch="+10%">Four - <emphasis level="moderate">press up through your heels</emphasis> <break time="650ms"/></prosody>
+<prosody rate="-5%" pitch="+10%">Five - <emphasis level="moderate">control your pace,<break time="150ms"/> no bouncing</emphasis> <break time="650ms"/></prosody>
+<prosody rate="-5%" pitch="+10%">Six - <emphasis level="moderate">shoulders relaxed,<break time="150ms"/> eyes forward</emphasis> <break time="650ms"/></prosody>
+<prosody rate="-5%" pitch="+10%">Seven - <emphasis level="moderate">thighs parallel if you can</emphasis> <break time="650ms"/></prosody>
+<prosody rate="-5%" pitch="+10%">Eight - <emphasis level="moderate">breathe out as you stand</emphasis> <break time="650ms"/></prosody>
+<prosody rate="-5%" pitch="+10%">Nine - <emphasis level="moderate">finish each rep fully upright</emphasis> <break time="650ms"/></prosody>
+<prosody rate="-5%" pitch="+10%">Ten - <emphasis level="strong">excellent work,<break time="150ms"/> form first</emphasis> <break time="3000ms"/></prosody></p>
+<p>Need an easier option? <break time="650ms"/> Place a sturdy chair or couch behind you. <break time="650ms"/> Lower down until you touch the seat,<break time="150ms"/> then stand back up. <break time="650ms"/> This helps with balance and confidence. <break time="650ms"/></p>
+<p>Ready for a challenge? <break time="650ms"/> Try jump squats—add a small jump as you rise. <break time="650ms"/> Or attempt single-leg squats with support nearby. <break time="650ms"/></p>
+<p>Squats are a foundation for lower body strength. <break time="650ms"/> They improve your mobility,<break time="150ms"/> help protect your knees,<break time="150ms"/> and support better movement in daily life. <break time="650ms"/> Keep practicing,<break time="150ms"/> and you’ll see progress. <break time="650ms"/> Nice work today—your legs and core will thank you. <break time="650ms"/></p>
+</prosody>
+</voice>
+</speak>

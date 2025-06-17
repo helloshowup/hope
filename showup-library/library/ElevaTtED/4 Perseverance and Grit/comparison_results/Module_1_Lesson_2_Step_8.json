@@ -1,0 +1,8 @@
+{
+  "module": "1",
+  "lesson": "2",
+  "step_number": "8",
+  "step_title": "Evaluate Two Scenarios",
+  "best_version": "# Evaluate Two Scenarios: Demonstrating Grit\n\nRead the two scenarios below and determine which student demonstrates stronger grit.\n\n**Scenario 1:**\nMia struggled with algebra all semester. After failing her midterm, she felt discouraged but created a study schedule, sought help from her teacher during lunch periods, and joined a study group. Though she still found the material challenging, she persisted with her plan for eight weeks. Her final grade improved from an F to a B-.\n\n**Scenario 2:**\nJordan received a C on his history project. He was disappointed and complained to friends that the teacher graded unfairly. For his next assignment, he put in extra effort the night before it was due and earned a B. Jordan was satisfied with this improvement and maintained his usual study habits afterward.\n\n**Which student demonstrated stronger grit?**\n\u25cb Mia\n\u25cb Jordan\n\n**Explain your choice in one sentence:**\n[Text entry field]\n\n**Feedback:**\nMia demonstrated stronger grit by creating a systematic plan, seeking help, and maintaining consistent effort over an extended period despite ongoing challenges, while Jordan showed a temporary increase in effort without sustained commitment to improvement.",
+  "explanation": "Error in comparison process: maximum recursion depth exceeded while calling a Python object. Using most structurally complete version as fallback."
+}

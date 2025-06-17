@@ -1,0 +1,20 @@
+You are about to receive a markdown document that needs specific formatting modifications. Your task is to:
+
+Scan through the entire document and identify all instances of 'Over to you:' that are formatted as headings (using #, ##, or ### before the text)
+For each instance, remove the heading formatting (# symbols) and convert to bold text format instead
+Specifically:
+
+Change: ### Over to you:
+To: Over to you:
+
+
+Keep all content following 'Over to you:' exactly as it appears in the original document
+Maintain all spacing and paragraph structures throughout the document
+Do not modify any other headings or content in the document
+
+For example, when you see:
+'### Over to you:
+How might your personal organizational style influence the way you structure your design journal? Consider what documentation methods you naturally gravitate toward, and how you can leverage these preferences while still maintaining the professional standards outlined above.'
+You should change it to:
+'Over to you: How might your personal organizational style influence the way you structure your design journal? Consider what documentation methods you naturally gravitate toward, and how you can leverage these preferences while still maintaining the professional standards outlined above.'
+The final output should be the complete document with only these specific formatting modifications made. Preserve the flow and integrity of the rest of the document exactly as provided."

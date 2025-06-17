@@ -1,0 +1,8 @@
+{
+  "module": "6",
+  "lesson": "10",
+  "step_number": "1",
+  "step_title": "Structure Rubric",
+  "best_version": "# Structure Rubric\n\n## Understanding the Auto-Checker Evaluation\n\nWhen you submit your essay, our auto-checker will evaluate three key structural elements:\n\n1. **Thesis Clarity**: Your thesis statement must clearly present your main argument and appear in the introduction.\n\n2. **Paragraph Unity**: Each paragraph must focus on a single main idea that supports your thesis, with appropriate transitions between paragraphs.\n\n3. **Conclusion Strength**: Your conclusion should effectively summarize your main points and restate your thesis in a new way.\n\n## Passing Requirements\n\nTo pass the structure assessment, your essay must have **no more than 2 issues** across these three categories. For example, if your thesis is somewhat unclear (1 issue) and one paragraph lacks unity (1 issue), but your conclusion is strong, you would still pass with 2 total issues.\n\nUse this rubric as a checklist before submitting your work to ensure structural soundness.",
+  "explanation": "Error in comparison process: maximum recursion depth exceeded while calling a Python object. Using most structurally complete version as fallback."
+}

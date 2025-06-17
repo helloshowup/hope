@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="en-US">
+<voice name="en-US-AndrewNeural" parameters="temperature=0.35">
+<prosody rate="-5%" pitch="+2%" volume="+10%">
+<p>Welcome and Setup</p>
+<p>Welcome to your guided fitness session.<break time="350ms"/> Today,<break time="150ms"/> we’ll focus on gentle stretching to cool down your body after exercise. <break time="650ms"/> Stretching boosts flexibility and helps your muscles recover. <break time="650ms"/> Let’s begin by preparing for our first stretch. <break time="650ms"/></p>
+<p>Main Instruction Segment</p>
+<p>Start by standing tall with your feet hip-width apart. <break time="650ms"/> Relax your shoulders and take a deep breath. <break time="650ms"/></p>
+<p>Reach both arms high overhead,<break time="150ms"/> stretching your fingers toward the ceiling. <break time="650ms"/> Feel your spine lengthen. <break time="650ms"/> Hold for a moment. <break time="650ms"/></p>
+<p>Now,<break time="150ms"/> gently fold forward at your hips,<break time="150ms"/> aiming your hands toward your toes. <break time="650ms"/> Let your head and neck relax. <break time="650ms"/> If you can’t reach your toes,<break time="150ms"/> rest your hands on your shins or knees. <break time="650ms"/></p>
+<p>Let’s count through a few deep breaths in this position. <break time="650ms"/></p>
+<p><prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">keep your knees soft,<break time="150ms"/> not locked</emphasis> <break time="650ms"/></prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">relax your neck and shoulders</emphasis> <break time="650ms"/></prosody>
+<prosody rate="-5%" pitch="+10%">Three - <emphasis level="moderate">breathe slowly and deeply</emphasis> <break time="2000ms"/></prosody></p>
+<p>Return to standing slowly,<break time="150ms"/> rolling up through your spine. <break time="650ms"/></p>
+<p>Next,<break time="150ms"/> stretch your arms across your chest. <break time="650ms"/> Bring your right arm straight out in front of you. <break time="650ms"/> Use your left hand to pull your right arm across your chest,<break time="150ms"/> just below the shoulder. <break time="650ms"/></p>
+<p>Hold and breathe. <break time="650ms"/> Feel a gentle stretch in the back of your shoulder. <break time="650ms"/></p>
+<p><prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">keep your shoulder down away from your ear</emphasis> <break time="650ms"/></prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">hold your arm at chest height</emphasis> <break time="650ms"/></prosody></p>
+<p>Switch arms. <break time="650ms"/> Bring your left arm across your chest. <break time="650ms"/> Use your right hand for support. <break time="650ms"/></p>
+<p><prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">gentle pressure only,<break time="150ms"/> no pain</emphasis> <break time="650ms"/></prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">steady breathing</emphasis> <break time="2000ms"/></prosody></p>
+<p>Release and shake out your arms. <break time="650ms"/></p>
+<p>Now,<break time="150ms"/> let’s stretch your thighs and hamstrings. <break time="650ms"/> Stand tall and hold onto a wall or chair for balance if needed. <break time="650ms"/> Bend your right knee and bring your heel toward your glute. <break time="650ms"/> Hold your ankle gently. <break time="650ms"/></p>
+<p><prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">knees stay side by side</emphasis> <break time="650ms"/></prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="strong">don’t pull too hard</emphasis> <break time="650ms"/></prosody></p>
+<p>Switch legs. <break time="650ms"/> Bring your left heel up. <break time="650ms"/> Hold gently. <break time="650ms"/></p>
+<p><prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">keep your back straight</emphasis> <break time="650ms"/></prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">steady your balance</emphasis> <break time="3000ms"/></prosody></p>
+<p>Success check: Are you feeling a gentle stretch,<break time="150ms"/> with no sharp pain? <break time="650ms"/> Remember,<break time="150ms"/> stretching should feel comfortable,<break time="150ms"/> not forced. <break time="650ms"/></p>
+<p>If you’d like an easier option,<break time="150ms"/> try these stretches seated on the floor or in a chair. <break time="650ms"/> For a deeper stretch,<break time="150ms"/> hold each position a bit longer. <break time="650ms"/></p>
+<p>Conclusion</p>
+<p>Great job taking time to stretch and recover. <break time="650ms"/> Stretching after exercise increases flexibility and helps reduce muscle tension. <break time="650ms"/> As you stretch,<break time="150ms"/> consider these questions: Which cardio exercise did you enjoy the most and why? <break time="650ms"/> Where in your home could you do these stretches regularly? <break time="650ms"/> How did each stretch affect your breathing and energy? <break time="650ms"/> Remember,<break time="150ms"/> regular stretching supports better movement and overall health. <break time="650ms"/> These simple stretches can fit into your daily routine,<break time="150ms"/> anywhere you have a bit of space. <break time="650ms"/></p>
+</prosody>
+</voice>
+</speak>

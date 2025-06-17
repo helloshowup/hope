@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="en-US">
+<voice name="en-US-AndrewNeural" parameters="temperature=0.35">
+<prosody rate="-5%" pitch="+2%" volume="+10%">
+<p>Welcome to your guided neck stretch. <break time="650ms"/> This quick exercise helps relieve tension from looking down at screens. <break time="650ms"/> It can be done sitting or standing. <break time="650ms"/> Remember,<break time="150ms"/> if you feel dizzy,<break time="150ms"/> stop and return to the center. <break time="650ms"/></p>
+<p>Let’s begin. <break time="650ms"/> Start by sitting or standing tall. <break time="650ms"/> Align your head over your shoulders. <break time="650ms"/> Rest your hands gently at your sides. <break time="650ms"/> Keep your back straight. <break time="650ms"/> Take a slow,<break time="150ms"/> deep breath in. <break time="650ms"/> Exhale,<break time="150ms"/> relaxing your shoulders down. <break time="650ms"/></p>
+<p>Now,<break time="150ms"/> prepare to stretch. <break time="650ms"/> Slowly tilt your head toward your right shoulder. <break time="650ms"/> Move only until you feel a gentle stretch along the left side of your neck. <emphasis level="moderate">Do not lift your shoulder to meet your ear.</emphasis> <break time="650ms"/> Keep your shoulders relaxed and down. <break time="650ms"/> Hold this position as you breathe normally. <break time="650ms"/></p>
+<p>Let’s count together as you hold. <break time="650ms"/>  
+<prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">feel a gentle pull,<break time="150ms"/> not pain</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">keep your shoulders even</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Three - <emphasis level="moderate">relax your jaw</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Four - <emphasis level="moderate">breathe slowly</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Five - <emphasis level="moderate">check for any dizziness</emphasis> <break time="650ms"/></prosody></p>
+<p>Slowly return your head to the center. <break time="650ms"/> Take a breath. <break time="2000ms"/></p>
+<p>Now,<break time="150ms"/> tilt your head toward your left shoulder. <break time="650ms"/> Stretch gently until you feel that same gentle pull along the right side of your neck. <break time="650ms"/> Shoulders stay down. <break time="650ms"/> You should not feel pain or strain. <break time="650ms"/> Let’s count again as you hold. <break time="650ms"/>  
+<prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">gentle stretch</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">shoulders relaxed</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Three - <emphasis level="moderate">jaw relaxed</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Four - <emphasis level="moderate">steady breathing</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Five - <emphasis level="moderate">no pain or dizziness</emphasis> <break time="650ms"/></prosody></p>
+<p>Slowly bring your head back to the center. <break time="3000ms"/></p>
+<p>Success check: <break time="650ms"/> You should feel a light stretch along the side of your neck. <break time="650ms"/> There should be no sharp pain or tingling. <break time="650ms"/> If you feel discomfort,<break time="150ms"/> ease off the stretch or stop. <break time="650ms"/></p>
+<p>For a lighter option,<break time="150ms"/> reduce how far you tilt your head. <break time="650ms"/> For a deeper stretch,<break time="150ms"/> gently place your hand on top of your head and add slight pressure—never pull. <break time="650ms"/></p>
+<p>This neck stretch helps reduce tension from screen time and improves flexibility. <break time="650ms"/> Remember,<break time="150ms"/> regular gentle stretching keeps your neck mobile and comfortable. <break time="650ms"/> Well done for giving your neck some care today. <break time="650ms"/> Take a few deep breaths,<break time="150ms"/> and notice how your neck feels lighter and more relaxed. <break time="650ms"/></p>
+</prosody>
+</voice>
+</speak>

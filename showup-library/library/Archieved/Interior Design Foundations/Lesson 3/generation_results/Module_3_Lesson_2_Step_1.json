@@ -1,0 +1,16 @@
+{
+  "module": "3",
+  "lesson": "2",
+  "step_number": "1",
+  "step_title": "Client Brief Development",
+  "generations": [
+    "Error generating content with Claude API: Claude API error: 400, message='Bad Request', url='https://api.anthropic.com/v1/messages'",
+    "Error generating content with Claude API: Claude API error: 400, message='Bad Request', url='https://api.anthropic.com/v1/messages'",
+    "Error generating content with Claude API: Claude API error: 400, message='Bad Request', url='https://api.anthropic.com/v1/messages'"
+  ],
+  "extracted_generations": [
+    "Error generating content with Claude API: Claude API error: 400, message='Bad Request', url='https://api.anthropic.com/v1/messages'",
+    "Error generating content with Claude API: Claude API error: 400, message='Bad Request', url='https://api.anthropic.com/v1/messages'",
+    "Error generating content with Claude API: Claude API error: 400, message='Bad Request', url='https://api.anthropic.com/v1/messages'"
+  ]
+}

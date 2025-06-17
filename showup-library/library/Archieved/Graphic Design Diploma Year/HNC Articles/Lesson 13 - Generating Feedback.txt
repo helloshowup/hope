@@ -1,0 +1,67 @@
+Types of Feedback Generating Strategies
+At this point in the course, you will have realised the need and the value of feedback. You should also be aware however, that feedback may not simply come to you without invitation or a prompt of some sort. As a graphic designer, the responsibility lies with you to employ ways to generate feedback in order for it to inform your work. This involves developing strategies that will help you gather insights, opinions, and suggestions from stakeholders. Below is a list of some effective techniques commonly used in graphic design:
+Interviews
+With clients, colleagues, and target audience members, you can conduct one-on-one or group interviews to gather qualitative feedback on your designs. During these interviews, it is best to use open-ended questions. These are the types of questions that can't simply be answered with Yes/No, True/False, multiple choice, or rated on a number or star-rating scale. Open-ended questions allow participants to go into greater detail and offer deeper qualitative data.It is an opportunity to discuss their perceptions, preferences, and suggestions for improvement related to your design. 
+Fig 1. Unsplash (n.d.) Interview
+Feedback Form
+When you meet with a larger participant group, you can create either online or offline surveys or questionnaires to collect quantitative and qualitative feedback. It is always useful to include a mix of closed-ended and open-ended questions to gather specific feedback on different aspects of the design, such as visual appeal, readability, and messaging. There are many tools you can use to create digital feedback forms, including: 
+Google Forms
+Typeform
+Filestage
+Fig 2. Google forms screenshot (n.d.) Feedback form template
+Focus Groups
+Focus groups are moderated small groups (4-12 participants) that enter into reflective discussions and provide in-depth feedback. In the case of graphic design, it might be feedback based on their experiences and perspectives accessing a particular design. This, in turn, helps a designer to better understand which elements of a design work and which don’t, so they can make the necessary adjustments. To get the most reliable and valid data, you should ideally arrange focus groups that are comprised of people representing your target audience. Use guided discussions, activities, and exercises to explore participants’ perceptions, attitudes, and reactions to the design.
+Fig 3. Unsplash (n.d.) Focus groups
+Reflective Exercises (WWW & EBI)
+WWW (What Went Well): This part of the reflective exercise focuses on aspects of the design that were successful, effective, or well-executed - as perceived by the stakeholders, participants or users. This positive reinforcement helps reinforce successful design decisions and can help build your confidence in the design process.
+EBI (Even Better If): This part of the reflective exercise prompts stakeholders, participants or users to provide constructive feedback on areas of the design that could be improved, enhanced, or revised. To get the most of this feedback, you need to encourage respondents to offer specific suggestions, actionable recommendations, and ideas for refinement.
+Reviews
+Sometimes, rather than seeking feedback from laypersons or random samples of target users, you might want to consult with design experts or mentors through expert reviews or critique sessions. When you are presenting your work to more knowledgeable individuals within the field of graphic design or relevant industry sectors, you can obtain expert insights, recommendations, and constructive criticism that will help you refine your designs even more.
+Besides experts, you can also conduct peer review sessions where you share your work with colleagues or fellow designers for feedback and critique. Ensure to encourage constructive feedback, peer-to-peer collaboration, and knowledge sharing to make the opportunity valuable and to facilitate learning and improvement.
+Fig 4. Unsplash (n.d.) Colleagues providing feedback
+Another type of review to generate feedback are post-implementation reviews. After your design has been implemented or launched, you conduct these reviews to evaluate your design’s performance, effectiveness, and impact. To do this, you must gather feedback from end-users, clients, and stakeholders to assess the design's success in achieving its intended objectives.
+A/B Testing
+A/B testing, also known as split testing, is a method used in graphic design to compare two or more design variations and determine which one performs better in achieving specific goals or objectives. In A/B testing, you split an existing audience into two groups and present each group with a different version of your creative design. For example, you might be testing different design elements or layouts to identify the most effective approach. Once you obtain the outcome of the experiences from the two groups, you can make more data-driven decisions, including identifying the most effective approach. 
+Usability Testing
+Usability testing is when representative users of your target audience get the opportunity to access and interact with your mock-up design or prototype. As the designer, you can be the person who observes these users as they interact with the product and then you can moderate the feedback discussion afterwards. User testing can be conducted repeatedly throughout the design process and aims to identify, for example, usability issues and navigation challenges, so that you can make the necessary experience improvements to your design.
+Fig 5. Pexels (n.d.) User testing
+Types of Feedback Generating Questions
+To effectively gather feedback on a particular design, it's important to ask a variety of questions that prompt specific, actionable responses while also allowing respondents to express their overall impressions and opinions. 
+Fig 6. Pexels (n.d.) Types of questions
+Here are some example questions related to specific areas:
+Overall impressions
+What are your initial thoughts or impressions of the design?
+Does the design catch your attention and make a positive first impression?
+How would you describe the overall look and feel of the design?
+Visual appeal
+Are the colours in the design appealing and appropriate for the intended audience?
+Do the typography choices enhance readability and complement the design aesthetic?
+Are the images, illustrations, or graphics visually engaging and relevant to the content?
+Clarity and readability
+Is the design easy to understand and navigate?
+Are important elements such as headlines, key messages, and calls to action clearly communicated?
+Does the hierarchy of information guide your eye effectively through the design?
+Consistency and cohesion
+Does the design maintain a consistent visual style and brand identity?
+Are design elements such as colour, font, and imagery used consistently throughout the design?
+Does the design feel cohesive and unified, or are there elements that feel disjointed or out of place?
+Functionality and usability
+Is the design functional and user-friendly?
+Does the layout and organisation of content facilitate easy navigation and usability?
+Are interactive elements (if applicable) intuitive and easy to use?
+Message and communication
+Does the design effectively convey the intended message or information?
+Is the tone and voice of the design appropriate for the target audience?
+Are there any areas where the messaging could be clarified or strengthened?
+Emotional response
+How does the design make you feel?
+Does the design evoke the desired emotions or reactions from the audience?
+Are there any elements of the design that resonate particularly strongly with you?
+Improvement suggestions
+What aspects of the design do you think could be improved?
+Are there any specific changes or enhancements you would recommend?
+Are there any missed opportunities or areas where the design could be optimised further?
+Alignment with objectives
+Does the design align with the project objectives and goals?
+Does it effectively address the needs and preferences of the target audience?
+Are there any areas where the design could better support the overarching objectives of the project?

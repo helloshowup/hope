@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="en-US">
+<voice name="en-US-AndrewNeural" parameters="temperature=0.35">
+<prosody rate="-5%" pitch="+2%" volume="+10%">
+<p>Welcome to your guided plank exercise session. <break time="650ms"/> Today,<break time="150ms"/> you’ll strengthen your core and stabilize your spine with a plank hold. <break time="650ms"/> Planks help build deep abdominal strength and support healthy posture. <break time="650ms"/> Please listen carefully to each step. <break time="650ms"/></p>
+<p>Let’s begin by setting up in the standard plank position. <break time="650ms"/> Start on the floor,<break time="150ms"/> facing down. <break time="650ms"/> Place your forearms flat on the ground,<break time="150ms"/> elbows under your shoulders,<break time="150ms"/> and hands flat or clasped. <break time="650ms"/> Extend your legs straight behind you,<break time="150ms"/> feet hip-width apart,<break time="150ms"/> with toes supporting your lower body. <break time="650ms"/> Engage your core by gently pulling your belly button toward your spine. <break time="650ms"/> Keep your body in a straight line from head to heels. <break time="650ms"/> Look down to keep your neck neutral. <break time="650ms"/></p>
+<p><emphasis level="strong">Do not let your hips sag or lift too high.</emphasis> <break time="650ms"/> This helps protect your lower back. <break time="650ms"/> If you feel any discomfort in your back or shoulders,<break time="150ms"/> pause and reset your position. <break time="650ms"/></p>
+<p>Let’s check your form before we start the hold. <break time="650ms"/> Are your elbows beneath your shoulders? <break time="650ms"/> Is your back flat,<break time="150ms"/> not arched or sagging? <break time="650ms"/> Are you breathing steadily? <break time="650ms"/> If so,<break time="150ms"/> you’re ready to hold. <break time="650ms"/></p>
+<p>We’ll hold this plank for several slow counts. <break time="650ms"/> I’ll cue you with reminders. <break time="650ms"/></p>
+<p><prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">Press your forearms down.<break time="350ms"/> Activate your shoulders.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">Draw your belly in.<break time="350ms"/> Keep your hips steady.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Three - <emphasis level="moderate">Squeeze your glutes for extra support.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Four - <emphasis level="moderate">Keep breathing.<break time="350ms"/> Don’t hold your breath.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Five - <emphasis level="moderate">Check your body is in a straight line.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Six - <emphasis level="moderate">Relax your neck.<break time="350ms"/> Gaze gently down.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Seven - <emphasis level="moderate">Push your heels back slightly for stability.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Eight - <emphasis level="moderate">Maintain even pressure in both arms.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Nine - <emphasis level="moderate">Keep your form strong.<break time="350ms"/> Almost there.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Ten - <emphasis level="moderate">Hold steady for the last few seconds.</emphasis> <break time="3000ms"/></prosody></p>
+<p>If you need to modify,<break time="150ms"/> drop your knees to the ground while keeping your hips forward,<break time="150ms"/> or try a plank against a wall. <break time="650ms"/> For more challenge,<break time="150ms"/> lift one leg at a time,<break time="150ms"/> keeping your hips stable. <break time="650ms"/></p>
+<p>You’ve completed your plank hold. <break time="650ms"/> This exercise helps increase core strength,<break time="150ms"/> stabilizes your spine,<break time="150ms"/> and supports overall balance. <break time="650ms"/> Practicing planks regularly improves your posture and reduces risk of back strain. <break time="650ms"/> Try to add a few seconds each session,<break time="150ms"/> and always prioritize <emphasis level="strong">quality form over duration.</emphasis> <break time="650ms"/> Well done. <break time="650ms"/></p>
+</prosody>
+</voice>
+</speak>

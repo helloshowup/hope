@@ -1,0 +1,35 @@
+## Fig 21
+Screenshot of a design system documentation showing component versioning with status indicators (stable, deprecated, beta) and change history.
+Suggested search terms:
+- component library
+- version status
+- change history
+- documentation
+- design system
+
+## Fig 22
+Screenshot of the same components implemented in code with version numbers matching the design system.
+Suggested search terms:
+- button
+- code editor
+- version control
+- software development
+- user interface
+
+## Fig 3
+Designer using a version control interface showing a timeline of design iterations with branching paths and visual thumbnails.
+Suggested search terms:
+- designer
+- version control interface
+- design iterations
+- branching paths
+- visual thumbnails
+
+## Fig 4
+Professional design documentation showing a visual differential analysis with side-by-side comparison of interface versions, highlighted changes, and annotated explanations of design decisions.
+Suggested search terms:
+- design documentation
+- interface comparison
+- design annotations
+- visual analysis
+- design changes

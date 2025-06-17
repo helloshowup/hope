@@ -1,0 +1,39 @@
+Designing a typeface is a detailed and intricate process that involves creating a set of characters that are both coherent and have a distinctive style. Here are some tips for graphic designers venturing into typeface design.
+Define Purpose and Characteristics
+Like with any project, it is essential to analyse the brief first. The same goes for designing a typeface. You have to clearly define the purpose of your typeface and any other design requirements and/or limitations imposed on you. Ask yourself: is the type for display, body text, or to encompass a specific theme? Once you have established the purpose, decide on the overall characteristics of your typeface (e.g. serif or sans-serif, geometric or humanist).
+Conduct Research
+Start by researching existing typefaces to understand different styles and classifications. This is especially important if this is your first attempt at designing your own typeface or you are just starting out. Draw inspiration from various sources, including historical fonts, contemporary designs, and even non-typographic elements.
+Fig 1. Find inspiration from other fonts
+Put Pencil to Paper
+Always begin with pencil and paper to sketch out some ideas. Begin by simplifying the most basic individual letterforms (e.g. uppercase, lowercase, and numerals) into basic shapes and sketch them in pencil to get your placement right. You might not get exactly what you envision on paper the first time around, but it is vital that you put in the time and keep practising until you are happy with the result.
+Fig 2. Unsplash (n.d.) Always start with manual sketching
+Don’t Be Afraid to Experiment
+If you’re stuck in a rut or want to keep things fresh, switch gears by trying a new tool. For example, many graphic designers have a preferred set of pens that they consistently use. However, something as simple as switching it for new hand lettering tools, like brush pens or even adding watercolours to your monotone letters, can reinvigorate your design and help you to evolve your typographic style.
+Fig 3. Type experimentations 
+Less is More
+It is often best to create lettering with only one or two styles. A lot of novice graphic designers who want to show their creativity, tend to start out by using lots of styles for a single letter. There's nothing inherently wrong with that, but it’s likely you will end up with more of a mess than a masterpiece, especially with limited type-design experience.
+Incorporate Personality
+Your typeface should also convey the identity of the brand or the personality of the message you are designing for. This will, first and foremost, depend on your brief. For example, if your client is a longstanding brand, you will have to add traits and characteristics that are well-known and associated with that particular brand (e.g. colour, style, etc.). If it’s a start-up or for a ‘once off’ design, you generally have more freedom to add features that contribute to the uniqueness of your typeface, while still conveying a particular personality.
+Use Grids and Guidelines
+Even the most experienced designers use grids and guidelines when designing type. This helps to maintain consistency in the proportions and alignments of the characters. Using grids and guidelines is especially important when designing different weights and styles within the same typeface.
+Fig 4. Graph paper is a useful tool for designing type
+Trust Your Eyes
+Don’t be afraid to make optical adjustments to ensure your type characters appear balanced, even if their mathematical measurements differ. Your eyes are a good assessment tool, so see what the visual impact is when you, for example, experiment with contrast in stroke thickness. Emphasising certain elements can create visual interest, or perhaps try using negative space in a creative way. 
+Make Mistakes!
+The best graphic designers will recognise mistakes as an opportunity to learn. If you discover that a particular design is not working, reflect on the reasons why. Typeface design (and graphic design in general) is an iterative process by nature, so refining your designs and making adjustments is part of the job. Rather than seeing mistakes as a setback, consider it a chance to  add value to your work and provide insight.
+Consider Kerning and Tracking
+Pay careful attention to kerning (space between individual characters) and overall spacing (tracking). Consistent visual spacing is crucial for a professional and readable typeface. Remember to consider the use of different letterforms. The kerning that works between ‘n’ and ‘t’ won't necessarily look right if you use the same kerning between a ‘v’ and ‘o’.
+Test Your Typeface
+Whether you are reflecting on your own work or asking others for feedback, testing your typeface is a critical step in the process. Critique and suggestions from others can be invaluable in refining and improving your typeface. This could also include asking yourself some tough questions or being open to the criticism of others. When testing your typeface, consider for instance, the: 
+Legibility of your typeface: It should be readable at various sizes and on different devices. 
+Harmony of your typeface: While individual characters may be unique, they should work together cohesively as a unified set.
+Mood it conveys: Ensure the font, style, colour, etc. support the message and emotions it is intended to evoke. 
+Overall readability:  Does the font read as intended.
+Create a Full Character Set
+Develop a complete character set that includes uppercase and lowercase letters, numerals, punctuation, and special characters (glyphs). Consistency across the set is crucial. It is also important to consider the languages your typeface will support, ensuring that you have included all characters necessary for various languages and writing systems.
+Create Variations
+Once you’ve created a full character set, develop variations of your typeface such as different weights (bold, regular, light), italics, and other styles. This enhances the versatility of your typeface.
+Fig 5. Create variations through letter weights and styles
+Use Design Software
+At some point, when you are satisfied with your type designs, it will be time to transition from your manual sketches to digital tools for more precise and scalable designs. Software like Glyphs, FontLab, or Adobe Illustrator can be beneficial for creating and refining digital versions of your typeface.
+Fig 6. Unsplash (n.d.) Transfer manual sketches to digital format

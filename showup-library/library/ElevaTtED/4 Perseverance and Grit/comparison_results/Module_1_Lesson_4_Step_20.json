@@ -1,0 +1,8 @@
+{
+  "module": "1",
+  "lesson": "4",
+  "step_number": "20",
+  "step_title": "Goal-Clarity Rubric",
+  "best_version": "# Goal-Clarity Rubric\n\n## Overview\nThe Goal-Clarity Rubric is an AI-powered tool designed to evaluate your academic goals and provide immediate feedback on their effectiveness. This rubric analyzes three critical components of your goals:\n\n1. **Specificity**: How clearly defined is your goal?\n2. **Measurability**: Can progress toward your goal be tracked and measured?\n3. **Timeline**: Does your goal include a realistic deadline?\n\n## How It Works\n1. Submit your academic goal in the provided text box\n2. The AI evaluates your goal against the SMART criteria\n3. Receive an instant score and specific feedback\n4. If your score falls below mastery level (80%), you'll receive a link to revise and resubmit your goal\n\nUse this rubric to strengthen your goal-setting skills and create more effective academic targets that will support your sustained effort and success.",
+  "explanation": "Error in comparison process: maximum recursion depth exceeded while calling a Python object. Using most structurally complete version as fallback."
+}

@@ -1,0 +1,73 @@
+Digital Design
+Although some differences exist, graphic design and digital design are closely related. While graphic design has a long history that began in the fields of art, illustration and print media, digital design was born out of the creation of computer graphics.
+A graphic designer will apply all the same skills to create aesthetically pleasing digital content, such as the layout and design of a website or visual elements of an app. However, digital design requires an extra step that considers the user experience (UX). For example, a website that is beautiful to look at but is confusing or time consuming for the user to find information, is not considered a successful design. 
+Fig 1. Unsplash (n.d) Easy navigation is key to a digital product’s design
+Digital designers ensure that a website looks good, but must also make sure that it is user-friendly and communicates all the required information in a visually appealing and logical manner. It is all about the user's experience when interacting with digital content. 
+An ideal scenario would be where a user spots an Ad for a digital audiobook on Instagram. They click on the link and easily follow a user journey which ends with a subscription and a happy customer. 
+With this goal in mind, the designer must think about how each part of the design works as a whole and not just each piece. One approach is to include movement where one webpage blends into another or perhaps clear iconography that guides the user through the steps required for the journey. 
+There are numerous potential ‘pinch points’ a digital designer needs to consider, such as:
+Is the experience interrupted if there is a delay when the user clicks a link? Does the webpage work in the same way across a range of devices? Is there music or video, and how do they play when the user reaches the page? How are the benefits of the product visualised for the consumer, and is there a logical progression that leads the consumer to purchase the product?
+Once the consumer buys the product, there may be an app attached to it and a whole new journey begins. What does the app look like? Is the graphical interface appealing and easy to use? Does it flow? How is data visualised in the app? How is the branding and style applied to the visual aspects of each page view?
+Fig 2. Unsplash (n.d.) Designers need to consider the user journey 
+There are many types of roles a digital designer can specialise in, for example, web design, UX/UI design, animation etc. Whatever the role, they all require an understanding of the end user’s digital needs. The definition of these two acronyms:
+UX =  User Experience (how the user navigates the app/website)
+UI  = User Interface (what the app/website looks like)
+Sometimes you might hear people refer to UI / UX design, combining the two design fields when talking about creating a practical, rich and satisfying experience for a user. While they are often referred to together, UI and UX are two different disciplines and both play crucial roles in the creation of digital products, services, websites, and/or applications.
+Similarities between UI and UX design
+First, let’s look at some of the key similarities between UI and UX design:
+User-Centred Approach
+UX design focuses on understanding the user’s needs, preferences, and behaviours to create a positive overall experience. Navigating the screen or page should feel instinctive to the user.
+This also applies to UI design as it must be designed with the user’s need in mind making it both visually appealing and easy to interact with. 
+Collaboration
+UX designers are expected to collaborate with various stakeholders, including developers, product managers, and business analysts, to ensure that the product meets both user and business goals. 
+UI designers collaborate with UX designers, developers, and other team members to implement the visual aspects of a product, website or app user interface in line with the overall user experience.
+Research and Analysis
+UX design involves user research, usability testing, and analysis of user feedback to guide the design process and improve the overall user experience. 
+In UI design, you also need to understand design principles, trends, and user preferences to create visually appealing and aesthetically pleasing interfaces.
+Prototyping
+UX designers often have to create wireframes and prototypes to test and validate design concepts before moving into the final implementation. 
+UI designers implement the visual design based on the approved wireframes and prototypes, ensuring that the final product aligns with the overall user experience.
+Consistency
+UX design aims to create a consistent and cohesive experience across different parts of the product, ensuring that users can navigate and interact seamlessly. 
+UI design ensures visual consistency by applying a consistent design language, including colours, fonts, and styles, throughout the user interface.
+Key differences between UI and UX
+UI and UX design are closely related but they exist as distinct disciplines in the field of design. Consider this. You have an online retail app that looks striking, catches your attention, and is all round aesthetically pleasing (credit to UI), but it is slow to load and difficult to navigate between pages (UX design). You will not be rating such an app as very effective.
+It doesn’t matter how attractive a website or an app is. If it’s not user friendly, then people won’t be using it. It is therefore vital to consider the finer nuances of both UI and UX design during the creative process to deliver a digital product that will score high in both disciplines. 
+Here are the key differences between UI and UX:
+Focus and Scope
+UX designers are mainly concerned with the overall user experience, i.e. how users feel when interacting with a product or service. It involves understanding user needs, conducting research, and designing solutions that meet those needs. 
+UI designers focus more on the visual and interactive aspects of a product. They deal with the look and feel of the interface, including the design of buttons, icons, colour schemes, and other visual elements.
+Definition
+UX design encompasses the entire user journey, from the moment a user first encounters a product to their ongoing interactions. It involves a holistic approach to designing for user satisfaction and usability. 
+UI design concentrates on the specific interface elements and visual aesthetics that users interact with. It's more concerned with the presentation and layout of the elements on the screen and the cohesive overarching application of the visual interface as users navigate through the app or site.
+User-Centred vs. Interface-Centred
+UX design puts the user at the centre of the design process, aiming to create products that are intuitive, easy to use, and aligned with user needs and goals. UI design primarily focuses on the design of the interface itself, emphasising visual appeal, consistency, and the effective presentation of information.
+Process
+UX design involves user research, personal development, user journey mapping, wireframing, prototyping, and usability testing. It is more strategic and involves understanding the context in which the product will be used. UI design includes creating visual designs, selecting colour schemes, designing icons, and crafting the overall look and feel of the interface. 
+Metrics and Goals
+The success of a UX design is often measured by user satisfaction, task success rates, and overall ease of use. The goal is to create a positive, meaningful, and efficient experience for the user. The success of a UI design is measured by the visual appeal, consistency, and clarity of the interface. The goal is to create an aesthetically pleasing and visually cohesive design.
+Timeline in the Design Process
+UX design typically comes before UI design in the design process. It lays the foundation by understanding user needs and defining the overall user experience. UI design follows UX design and involves implementing the visual aspects based on the wireframes and prototypes created during the UX phase.
+Responsibilities
+UX design involves tasks such as user research, information architecture, interaction design, and usability testing. UI design involves tasks related to visual design, including colour schemes, typography, iconography, and creating a visually appealing and structured interface.
+In summary, while UX and UI are interconnected and collaborate closely, UX design focuses on the overall user experience and usability, while UI design concentrates on the visual and interactive aspects of the interface. Both are crucial for creating successful and user-friendly products.
+UX/UI Designers
+While UX and UI designs have their individual areas of focus, successful digital products often require a seamless integration of both to provide a positive and effective user experience. Based on their similarities and the common skills that designers in these disciplines are required to have, it is common for someone to work as both a UX and UI designer. 
+Fig 4. Pexels (n.d) An effective digital product is the perfect combination between UI and UX design
+While being a UX/UI designer has its advantages, it's important to note that in larger organisations or on more extensive projects, roles may be more specialised. Larger teams may have dedicated UX designers focusing on research and information architecture, while UI designers specialise in visual design. However, the distinction between UX and UI roles can vary from one organisation to another.
+A Graphic Designer - UI or UX?
+Typically, a graphic designer is more likely to be involved in the design and consideration of the user interface (UI) than the user experience (UX). Still, clearly defined iconography, structured boxes and CTA’s can be crucial in creating a cohesive yet enjoyable user experience. 
+
+Consider a website which has oddly coloured buttons and incorrect navigation details or shapes. For example, ‘‘pay now'’ appears in red or arrows on the “next page” button are pointing to the left rather than to the right. This is where you need a graphic designer to create an interface that is not only logical but also associated with the end goal (“pay now” in green, and the arrow pointing right).
+Fig 5. Edited Pixabay image (n.d.) Green ‘Pay Now’ representation
+Key abilities
+A professional graphic designer will be equipped with the knowledge to apply for either a UX or UI based design role. The working knowledge of colour association and its theoretical application, alongside practical abilities such as shape building and logical layout placement within compositions, enables a graphic designer to quickly grasp the basics of both UX and UI design.  A potentially new territory for a graphic designer in UX/UI design may involve elements such as hotspots, hyperlinks, and scrolls. These elements are fundamental to digital user interfaces and user experiences, which you will have likely experienced yourself as a user. Understanding these elements in design is essential for creating intuitive, engaging, and effective digital experiences.
+In the coming lessons you will learn more about interaction design and the principles of effective web design, but here is a brief introduction to some key skills that you need to familiarise yourself with:
+Hot spots
+Hotspots are used to trigger actions, reveal additional information, or navigate to different sections of a website, app, or interactive presentation. They are a way of tracking usage on a webpage and respond to user input, such as clicks or taps. For instance, in an image gallery, hotspots may be used to highlight specific areas of interest, providing additional information or linking to related content when clicked. In a map application, hotspots can be used to mark points of interest or provide directions when tapped.
+Hyperlinks
+Hyperlinks are clickable elements that allow users to navigate between different web pages or sections within a single page. They are essential for enabling seamless navigation and interaction with digital content as they connect related information. Hyperlinks can be on a site to either separate external sources or to link to pages within the same site. Hyperlinks can be given a pop up status or sit within the current window making it easy for the user to navigate back to the previous page/s. For example, hyperlinks are commonly used in navigation menus, text content, and image captions to direct users to relevant pages or external websites. They also play a vital role in e-commerce platforms, allowing users to jump between product categories, view product details, and proceed to checkout.
+Fig 6. Hyperlinks are typically words or phrases that appear blue and underlined
+Scrolling
+Scrolling refers to the vertical or horizontal movement of content within a digital interface. This element allows users to explore content that extends beyond the initial viewport, providing a better, more dynamic experience. Scrolling can be infinite, long, fixed or parallax. Scrollbars are a common UI element used to show additional content and allow users to scroll up or down to view it. Infinite scrolling, where new content is loaded automatically as the user scrolls, is often used in social media feeds and e-commerce platforms to present a continuous stream of content.
+Fig 6. Unsplash (n.d.) Galleries and social media sites are key places where scrolling is necessary

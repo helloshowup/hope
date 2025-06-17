@@ -1,0 +1,546 @@
+# Markdown Repetition Analysis
+
+Total sentence repetitions: 51
+Total valid company examples: 34
+Files with repetitions: 24
+
+## Top Repetition Patterns
+
+### Pattern 1: 1 occurrences
+```
+* Which would better handle unexpected changes in project requirements?
+```
+**Files:** Lesson 2 Step 02_From Linear to Iterative_ Evolution in Complex Design.md
+
+### Pattern 2: 1 occurrences
+```
+Which statement best describes how linear design approaches structure the design process?
+```
+**Files:** Lesson 2 Step 03_From Linear to Iterative_ Evolution in Complex Design.md
+
+### Pattern 3: 1 occurrences
+```
+How does iterative design typically impact the final quality of complex client projects?
+```
+**Files:** Lesson 2 Step 03_From Linear to Iterative_ Evolution in Complex Design.md
+
+### Pattern 4: 1 occurrences
+```
+This self-assessment bridges your theoretical understanding with the practical industry frameworks y...
+```
+**Files:** Lesson 2 Step 03_From Linear to Iterative_ Evolution in Complex Design.md
+
+### Pattern 5: 1 occurrences
+```
+How might you incorporate iterative approaches in your current portfolio projects?
+```
+**Files:** Lesson 2 Step 03_From Linear to Iterative_ Evolution in Complex Design.md
+
+## Repetitions By File
+
+**Lesson 2 Step 28_Evolving the Fashion Campaign Through Stakeholder Feedback.md**: 6 repetition(s)
+- **Line 40:** Similar to `Lesson 2 Step 01_From Linear to Iterative_ Evolution in Complex Design.md` line 41
+  **Current text:**
+  ```
+  How might different stakeholder feedback have improved their approach?
+  ```
+  **Original text:**
+  ```
+  How might an iterative approach have improved your process or outcome?
+  ```
+  Similarity: 58.6%
+- **Line 58:** Similar to `Lesson 2 Step 25_Building a Sustainable Fashion Brand_s Multi-Platform Campaign.md` line 51
+  **Current text:**
+  ```
+  Not all feedback requires implementation.
+  ```
+  **Original text:**
+  ```
+  Not all feedback carries equal weight.
+  ```
+  Similarity: 60.8%
+- **Line 58:** Similar to `Lesson 2 Step 19_Design Version Control and Documentation.md` line 7
+  **Current text:**
+  ```
+  Professional designers must: The trickiest part?
+  ```
+  **Original text:**
+  ```
+  Professional graphic design rarely follows a straight line.
+  ```
+  Similarity: 50.5%
+- *(3 more repetitions not shown)*
+
+**Lesson 2 Step 29_Sustainable Fashion Campaign Toolkit.md**: 5 repetition(s)
+- **Line 7:** Similar to `Lesson 2 Step 06_Advanced Tools for Iterative Design.md` line 5
+  **Current text:**
+  ```
+  Let's explore the documentation tools that will not only streamline your process but also strengthen your portfolio.
+  ```
+  **Original text:**
+  ```
+  Let's explore the contemporary tools that will help you manage this complexity effectively.
+  ```
+  Similarity: 51.2%
+- **Line 11:** Similar to `Lesson 2 Step 18_Design Version Control and Documentation.md` line 100
+  **Current text:**
+  ```
+  These frameworks build directly on techniques you've already encountered.
+  ```
+  **Original text:**
+  ```
+  The file management practices we're establishing build directly upon the financial app templates you've been working with.
+  ```
+  Similarity: 52.3%
+- **Line 30:** Similar to `Lesson 2 Step 28_Evolving the Fashion Campaign Through Stakeholder Feedback.md` line 15
+  **Current text:**
+  ```
+  This led to a redesign emphasising clearer visual sustainability cues.
+  ```
+  **Original text:**
+  ```
+  This led to redesigned infographics that clearly visualised material origins and manufacturing processes.
+  ```
+  Similarity: 56.0%
+- *(2 more repetitions not shown)*
+
+**Lesson 2 Step 03_From Linear to Iterative_ Evolution in Complex Design.md**: 4 repetition(s)
+- **Line 18:** Similar to `Lesson 2 Step 03_From Linear to Iterative_ Evolution in Complex Design.md` line 15
+  **Current text:**
+  ```
+  Which statement best describes how linear design approaches structure the design process?
+  ```
+  **Original text:**
+  ```
+  **Instructions:** Test your understanding of linear and iterative design approaches by answering the following questions.
+  ```
+  Similarity: 50.5%
+- **Line 82:** Similar to `Lesson 2 Step 03_From Linear to Iterative_ Evolution in Complex Design.md` line 66
+  **Current text:**
+  ```
+  How does iterative design typically impact the final quality of complex client projects?
+  ```
+  **Original text:**
+  ```
+  What role does prototyping play in iterative design methodologies that makes it valuable for client projects?
+  ```
+  Similarity: 50.8%
+- **Line 99:** Similar to `Lesson 2 Step 03_From Linear to Iterative_ Evolution in Complex Design.md` line 11
+  **Current text:**
+  ```
+  This self-assessment bridges your theoretical understanding with the practical industry frameworks you'll explore next.
+  ```
+  **Original text:**
+  ```
+  This self-assessment will help you gauge your grasp of these fundamental concepts before we dive into specific industry frameworks that you'll need for your portfolio development.
+  ```
+  Similarity: 51.7%
+- *(1 more repetitions not shown)*
+
+**Lesson 2 Step 24_Digital Tools for Design Feedback.md**: 4 repetition(s)
+- **Line 5:** Similar to `Lesson 2 Step 19_Design Version Control and Documentation.md` line 7
+  **Current text:**
+  ```
+  As you transition from student projects to industry work, you'll need systems that not only improve your designs but also demonstrate your professional approach to potential employers.
+  ```
+  **Original text:**
+  ```
+  Version control systems document this journey, creating a clear record of your design evolution that strengthens your process and demonstrates your professional approach to clients and employers.
+  ```
+  Similarity: 52.8%
+- **Line 51:** Similar to `Lesson 2 Step 23_Digital Tools for Design Feedback.md` line 78
+  **Current text:**
+  ```
+  Which of these templates would have most improved your feedback collection?
+  ```
+  **Original text:**
+  ```
+  Which specific elements would benefit most from user feedback?
+  ```
+  Similarity: 59.9%
+- **Line 51:** Similar to `Lesson 2 Step 04_Industry Frameworks for Complex Design Solutions.md` line 39
+  **Current text:**
+  ```
+  How might implementing structured feedback change your approach to revision cycles?
+  ```
+  **Original text:**
+  ```
+  How might applying Design Thinking have changed your approach?
+  ```
+  Similarity: 55.2%
+- *(1 more repetitions not shown)*
+
+**Lesson 2 Step 05_Industry Frameworks for Complex Design Solutions.md**: 3 repetition(s)
+- **Line 7:** Similar to `Lesson 2 Step 02_From Linear to Iterative_ Evolution in Complex Design.md` line 7
+  **Current text:**
+  ```
+  As you progress through your second year of graphic design studies, you'll need practical ways to apply industry frameworks in your projects.
+  ```
+  **Original text:**
+  ```
+  As you progress in your graphic design career, you'll find that managing stakeholder input becomes increasingly crucial to your success.
+  ```
+  Similarity: 52.0%
+- **Line 13:** Similar to `Lesson 2 Step 04_Industry Frameworks for Complex Design Solutions.md` line 11
+  **Current text:**
+  ```
+  Design Thinking gives you a structured approach to tackle the complex design challenges waiting in your professional career.
+  ```
+  **Original text:**
+  ```
+  Design Thinking offers a structured yet flexible approach to complex problems by prioritising the human experience.
+  ```
+  Similarity: 56.9%
+- **Line 83:** Similar to `Lesson 2 Step 01_From Linear to Iterative_ Evolution in Complex Design.md` line 41
+  **Current text:**
+  ```
+  How might these approaches change your design process going forward?
+  ```
+  **Original text:**
+  ```
+  How might an iterative approach have improved your process or outcome?
+  ```
+  Similarity: 62.3%
+
+**Lesson 2 Step 15_Reimagining a Financial App for Multiple Generations.md**: 3 repetition(s)
+- **Line 7:** Similar to `Lesson 2 Step 08_Systematic Design Problem Analysis.md` line 94
+  **Current text:**
+  ```
+  This practical exploration tackles advanced prototyping techniques through a real-world design challenge.
+  ```
+  **Original text:**
+  ```
+  This will further enhance your professional problem-solving toolkit as you prepare for increasingly complex design challenges.
+  ```
+  Similarity: 50.2%
+- **Line 13:** Similar to `Lesson 2 Step 09_Professional Analysis Tools.md` line 64
+  **Current text:**
+  ```
+  Imagine FinanceFirst Bank has commissioned you to redesign their mobile banking application.
+  ```
+  **Original text:**
+  ```
+  A financial services company approached a design agency to redesign their mobile app, stating that "users aren't completing transactions."
+  ```
+  Similarity: 51.3%
+- **Line 66:** Similar to `Lesson 2 Step 08_Systematic Design Problem Analysis.md` line 83
+  **Current text:**
+  ```
+  Share your approach in our next virtual meetup.
+  ```
+  **Original text:**
+  ```
+  Share your experience in our next virtual meetup.
+  ```
+  Similarity: 87.5%
+
+**Lesson 2 Step 18_Design Version Control and Documentation.md**: 3 repetition(s)
+- **Line 5:** Similar to `Lesson 2 Step 04_Industry Frameworks for Complex Design Solutions.md` line 39
+  **Current text:**
+  ```
+  Have you ever lost track of which design file was your latest version?
+  ```
+  **Original text:**
+  ```
+  Which stage do you typically spend the most time on, and which might deserve more of your attention?
+  ```
+  Similarity: 50.6%
+- **Line 7:** Similar to `Lesson 2 Step 16_Developing Cross-Platform Solutions for Financial Services.md` line 11
+  **Current text:**
+  ```
+  Let's explore practical techniques to document your design evolution professionally.
+  ```
+  **Original text:**
+  ```
+  Let's explore techniques that demonstrate your technical proficiency.
+  ```
+  Similarity: 62.7%
+- **Line 100:** Similar to `Lesson 2 Step 18_Design Version Control and Documentation.md` line 28
+  **Current text:**
+  ```
+  Proper version control ensures your design system remains consistent while evolving.
+  ```
+  **Original text:**
+  ```
+  The foundation of effective version control is a consistent file naming convention.
+  ```
+  Similarity: 50.3%
+
+**Lesson 2 Step 09_Professional Analysis Tools.md**: 2 repetition(s)
+- **Line 71:** Similar to `Lesson 2 Step 02_From Linear to Iterative_ Evolution in Complex Design.md` line 13
+  **Current text:**
+  ```
+  Because they abandon the process halfway through.
+  ```
+  **Original text:**
+  ```
+  That's why I abandoned the linear approach years ago."
+  ```
+  Similarity: 54.4%
+- **Line 100:** Similar to `Lesson 2 Step 09_Professional Analysis Tools.md` line 64
+  **Current text:**
+  ```
+  A local coffee shop called "Daily Grind" approached a design agency with a request to redesign their logo and packaging because sales were declining despite good foot traffic.
+  ```
+  **Original text:**
+  ```
+  A financial services company approached a design agency to redesign their mobile app, stating that "users aren't completing transactions."
+  ```
+  Similarity: 53.0%
+
+**Lesson 2 Step 11_Stakeholder Analysis Methods.md**: 2 repetition(s)
+- **Line 5:** Similar to `Lesson 2 Step 08_Systematic Design Problem Analysis.md` line 67
+  **Current text:**
+  ```
+  Ever noticed how even the simplest design projects can involve a surprising number of people?
+  ```
+  **Original text:**
+  ```
+  Have you noticed how the best design work always seems to have this kind of thinking behind it?
+  ```
+  Similarity: 50.0%
+- **Line 13:** Similar to `Lesson 2 Step 04_Industry Frameworks for Complex Design Solutions.md` line 39
+  **Current text:**
+  ```
+  How might including these overlooked stakeholders have changed your approach?
+  ```
+  **Original text:**
+  ```
+  How might applying Design Thinking have changed your approach?
+  ```
+  Similarity: 67.6%
+
+**Lesson 2 Step 21_Professional Design Collaboration Tools.md**: 2 repetition(s)
+- **Line 5:** Similar to `Lesson 2 Step 19_Design Version Control and Documentation.md` line 13
+  **Current text:**
+  ```
+  Design rarely happens in isolation.
+  ```
+  **Original text:**
+  ```
+  Effective design thrives on iteration.
+  ```
+  Similarity: 52.1%
+- **Line 13:** Similar to `Lesson 2 Step 06_Advanced Tools for Iterative Design.md` line 75
+  **Current text:**
+  ```
+  Shifting from individual to collaborative design means: Figma has transformed collaborative design by enabling real-time teamwork in a shared digital space.
+  ```
+  **Original text:**
+  ```
+  Modern design rarely happens in isolation—these platforms facilitate seamless collaboration: **Figma** has transformed collaborative design by allowing real-time co-editing and commenting.
+  ```
+  Similarity: 56.4%
+
+**Lesson 2 Step 23_Digital Tools for Design Feedback.md**: 2 repetition(s)
+- **Line 50:** Similar to `Lesson 2 Step 11_Stakeholder Analysis Methods.md` line 47
+  **Current text:**
+  ```
+  Including heat map visualisations in your portfolio demonstrates UX awareness that stands out to potential employers.
+  ```
+  **Original text:**
+  ```
+  These make brilliant additions to your portfolio as they demonstrate your professional approach to client management – something employers are always looking for.
+  ```
+  Similarity: 50.2%
+- **Line 88:** Similar to `Lesson 2 Step 02_From Linear to Iterative_ Evolution in Complex Design.md` line 7
+  **Current text:**
+  ```
+  Next, we'll explore specific templates for different types of design feedback that you can immediately apply to your current projects.
+  ```
+  **Original text:**
+  ```
+  Let's explore how different approaches to feedback can dramatically impact your workflow and final outcomes.
+  ```
+  Similarity: 50.4%
+
+**Lesson 2 Step 25_Building a Sustainable Fashion Brand_s Multi-Platform Campaign.md**: 2 repetition(s)
+- **Line 5:** Similar to `Lesson 2 Step 02_From Linear to Iterative_ Evolution in Complex Design.md` line 7
+  **Current text:**
+  ```
+  Getting feedback right can make or break a design project.
+  ```
+  **Original text:**
+  ```
+  Knowing when and how to incorporate feedback can make or break your design projects.
+  ```
+  Similarity: 66.2%
+- **Line 88:** Similar to `Lesson 2 Step 02_From Linear to Iterative_ Evolution in Complex Design.md` line 7
+  **Current text:**
+  ```
+  Think about how you might apply these feedback approaches to your current portfolio projects.
+  ```
+  **Original text:**
+  ```
+  Knowing when and how to incorporate feedback can make or break your design projects.
+  ```
+  Similarity: 50.8%
+
+**Lesson 2 Step 26_Visualizing Feedback Integration for Fashion Brand Success.md**: 2 repetition(s)
+- **Line 11:** Similar to `Lesson 2 Step 25_Building a Sustainable Fashion Brand_s Multi-Platform Campaign.md` line 84
+  **Current text:**
+  ```
+  A visual journey map tells the story of how your sustainable fashion campaign transforms through feedback cycles.
+  ```
+  **Original text:**
+  ```
+  Next, we'll explore visual methods for representing feedback integration, showing how EcoThread's campaign elements transform through each feedback cycle.
+  ```
+  Similarity: 52.4%
+- **Line 63:** Similar to `Lesson 2 Step 23_Digital Tools for Design Feedback.md` line 23
+  **Current text:**
+  ```
+  **Implementation Considerations:** **Real-World Application:** Imagine you're working with a sustainable fashion brand.
+  ```
+  **Original text:**
+  ```
+  When crafting design surveys: **Real-world application:** Imagine you've redesigned a restaurant menu.
+  ```
+  Similarity: 57.9%
+
+**Lesson 2 Step 02_From Linear to Iterative_ Evolution in Complex Design.md**: 1 repetition(s)
+- **Line 86:** Similar to `Lesson 2 Step 02_From Linear to Iterative_ Evolution in Complex Design.md` line 85
+  **Current text:**
+  ```
+  * Which would better handle unexpected changes in project requirements?
+  ```
+  **Original text:**
+  ```
+  * Which would be more efficient in terms of designer time and effort?
+  ```
+  Similarity: 50.0%
+
+**Lesson 2 Step 04_Industry Frameworks for Complex Design Solutions.md**: 1 repetition(s)
+- **Line 89:** Similar to `Lesson 2 Step 04_Industry Frameworks for Complex Design Solutions.md` line 11
+  **Current text:**
+  ```
+  Professional frameworks like Design Thinking, Agile, and Lean UX provide structured approaches to complex design challenges while maintaining creative flexibility.
+  ```
+  **Original text:**
+  ```
+  Design Thinking offers a structured yet flexible approach to complex problems by prioritising the human experience.
+  ```
+  Similarity: 50.4%
+
+**Lesson 2 Step 06_Advanced Tools for Iterative Design.md**: 1 repetition(s)
+- **Line 97:** Similar to `Lesson 2 Step 04_Industry Frameworks for Complex Design Solutions.md` line 79
+  **Current text:**
+  ```
+  By getting to grips with them now, you're developing the technical infrastructure that supports sophisticated design thinking in professional environments.
+  ```
+  **Original text:**
+  ```
+  These frameworks aren't just theoretical concepts but practical tools used daily in professional environments.
+  ```
+  Similarity: 51.3%
+
+**Lesson 2 Step 10_Professional Analysis Tools.md**: 1 repetition(s)
+- **Line 7:** Similar to `Lesson 2 Step 07_Professional Practice_ Case Studies in Complex Design.md` line 7
+  **Current text:**
+  ```
+  Design problems rarely come with neat solutions.
+  ```
+  **Original text:**
+  ```
+  Design projects rarely involve just a client and designer anymore.
+  ```
+  Similarity: 54.4%
+
+**Lesson 2 Step 12_Stakeholder Analysis Methods.md**: 1 repetition(s)
+- **Line 7:** Similar to `Lesson 2 Step 06_Advanced Tools for Iterative Design.md` line 97
+  **Current text:**
+  ```
+  I've seen countless design projects go sideways because of mismanaged stakeholder expectations.
+  ```
+  **Original text:**
+  ```
+  You'll see how IDEO and other leading design firms use these platforms to manage complex, multi-stakeholder projects.
+  ```
+  Similarity: 50.0%
+
+**Lesson 2 Step 13_Business Requirements in Design.md**: 1 repetition(s)
+- **Line 19:** Similar to `Lesson 2 Step 12_Stakeholder Analysis Methods.md` line 113
+  **Current text:**
+  ```
+  A solid design brief is your project roadmap, connecting business goals to design decisions.
+  ```
+  **Original text:**
+  ```
+  The stakeholder mapping skills you're developing now will directly support our next topic: translating business requirements into design specifications.
+  ```
+  Similarity: 50.0%
+
+**Lesson 2 Step 19_Design Version Control and Documentation.md**: 1 repetition(s)
+- **Line 17:** Similar to `Lesson 2 Step 19_Design Version Control and Documentation.md` line 13
+  **Current text:**
+  ```
+  Each iteration builds upon previous work, incorporating feedback and improvements while maintaining a clear record of the design's evolution.
+  ```
+  **Original text:**
+  ```
+  Each cycle produces a new version that builds on previous work while incorporating feedback and new insights.
+  ```
+  Similarity: 56.8%
+
+**Lesson 2 Step 20_Design Version Control and Documentation.md**: 1 repetition(s)
+- **Line 9:** Similar to `Lesson 2 Step 08_Systematic Design Problem Analysis.md` line 37
+  **Current text:**
+  ```
+  Good documentation transforms your messy creative journey into a professional asset that others can understand and appreciate.
+  ```
+  **Original text:**
+  ```
+  Understanding these constraints grounds your creative solutions in practical reality – something clients always appreciate.
+  ```
+  Similarity: 51.4%
+
+**Lesson 2 Step 22_Professional Design Collaboration Tools.md**: 1 repetition(s)
+- **Line 7:** Similar to `Lesson 2 Step 19_Design Version Control and Documentation.md` line 9
+  **Current text:**
+  ```
+  This shift isn't just common—it's essential for tackling the complex projects that define professional practice today.
+  ```
+  **Original text:**
+  ```
+  This structured approach to tracking changes will prepare you for creating the documentation templates that industry professionals rely on daily.
+  ```
+  Similarity: 51.0%
+
+**Lesson 2 Step 27_Measuring Success in Sustainable Fashion Marketing.md**: 1 repetition(s)
+- **Line 11:** Similar to `Lesson 2 Step 25_Building a Sustainable Fashion Brand_s Multi-Platform Campaign.md` line 108
+  **Current text:**
+  ```
+  The metrics that matter for sustainable fashion differ from standard marketing campaigns.
+  ```
+  **Original text:**
+  ```
+  *Best Practices for Sustainable Fashion Branding*.
+  ```
+  Similarity: 53.2%
+
+**Lesson 2 Step 30_Formative Assessment B1_Assignment 1.md**: 1 repetition(s)
+- **Line 83:** Similar to `Lesson 2 Step 27_Measuring Success in Sustainable Fashion Marketing.md` line 84
+  **Current text:**
+  ```
+  These skills are essential for articulating your design decisions and demonstrating your ability to respond effectively to client needs.
+  ```
+  **Original text:**
+  ```
+  These metrics won't just impress clients—they'll guide your design iterations and help you create more effective work.
+  ```
+  Similarity: 50.4%
+
+## Real Company Examples Reused
+
+**Whys**: 2 repetition(s)
+- Found in: Lesson 2 Step 09_Professional Analysis Tools.md
+
+**Linear**: 1 repetition(s)
+- Found in: Lesson 2 Step 03_From Linear to Iterative_ Evolution in Complex Design.md
+
+**Competitors**: 1 repetition(s)
+- Found in: Lesson 2 Step 10_Professional Analysis Tools.md
+
+**Removed**: 1 repetition(s)
+- Found in: Lesson 2 Step 29_Sustainable Fashion Campaign Toolkit.md
+

@@ -1,0 +1,124 @@
+VIDEO SCRIPT TEMPLATE
+Max Word count for entire script: 500 words
+
+DO NOT INCLUDE
+Script Format Don'ts:
+
+* Do not include "SPEAKER:" or narrator indicators
+* Do not add audio/music cues
+* Do not include camera directions
+* Do not add timestamps or duration markers
+* Do not include post-production notes
+* Do not write "CUT TO:" or other transition directions
+* Do not add lower-third text suggestions
+* Do not write "VOICE OVER" or "VO"
+* Do not include animation instructions
+* Do not suggest background music or sound effects
+* Do not write stage directions
+
+Content Don'ts:
+
+* Do not exceed 500 total words
+* Do not include URLs or website references
+* Do not reference specific video platforms
+* Do not mention dates that may date the content
+* Do not reference “this video” or “this tutorial”
+* Do not include calls to action
+* Do not reference other lessons by number
+* Do not include alternative takes or options
+* Do not add personal comments or asides
+
+SCRIPT FORMAT GUIDE
+
+* Write script text as straight narrative without speaker indicators
+* Place all visual notes in \[BRACKETS] on separate lines
+* Mark section breaks with ###
+* Keep total word count under 500 words
+
+VISUAL PLANNING
+(Complete this section before writing script)
+
+Core Demonstrations:
+
+* List 2–3 key concepts you’ll introduce (no full demos)
+* Note minimal setup needed
+
+Supporting Visuals:
+
+* List 2–3 example images or sketches that hint at each concept
+
+Graphics/Diagrams:
+
+* List any simple illustrations (overview diagrams only)
+
+ENGAGEMENT ELEMENTS
+
+Connection Points:
+
+* One nod to previous lesson’s main idea
+* One hint at how today’s concepts link to future topics
+* One real-world scenario where learners might spot these ideas
+
+TECHNICAL NOTES
+
+Terminology Guidelines:
+
+* List 3–5 essential terms (introduce briefly)
+* List 2–3 terms you’ll define later
+
+Accessibility Considerations:
+
+* Note which visuals need a quick verbal intro
+* Identify 1–2 concepts that merit an extra line of explanation
+
+Tool/Platform Variations:
+
+* Mention any differences learners might see on various setups (overview only)
+
+AI-Specific Guidance:
+
+* \[Tone: conversational and welcoming—this is an intro, not a deep dive]
+* \[Complexity: suitable for beginners; keep it high-level]
+* \[Use “you” when speaking to learners, “we” when referencing our community]
+* \[Introduce terms clearly; save detailed definitions for later]
+* \[Avoid overhyped phrases like “revolutionize” or “unlock the secrets”]
+
+SCRIPT STRUCTURE
+
+1. INTRODUCTION (30–45 seconds, \~100 words)
+
+* Hook with a relatable challenge or striking question
+* Briefly connect to prior lesson’s takeaway
+* State the big idea and why it matters
+
+\[### Section break ###]
+
+2. MAIN CONTENT (2 segments, \~150 words each)
+   Segment 1: \[Concept Name]
+
+* Offer a clear, concise definition
+* Show a quick visual hint of the idea
+* Mention one common misconception you’ll cover later
+* Invite learners to notice this concept in their own work
+
+\[### Section break ###]
+
+Segment 2: \[Next Concept Name]
+
+* Transition from Concept 1 with a brief comparison
+* Highlight 2–3 high-level variations or examples
+
+EXAMPLE SNIPPET
+
+Focus isn’t just about clarity—it’s how you guide your viewer’s eye through a scene. In this lesson, we’ll explore two key ideas that shape our visual storytelling: focus placement and depth control. You may recall from our last session how framing sets the stage; today, we’ll see how focus directs attention and mood—without getting into all the technical settings just yet.
+
+\[IMAGE: Split-screen showing a portrait with sharp focus on eyes vs. background]
+
+## WHY FOCUS MATTERS
+
+Imagine you want your viewer to look right at someone’s eyes—that’s where focus placement comes in...
+
+---
+
+These edits shift the emphasis to introducing and teasing concepts, rather than delivering a full procedural breakdown. 
+

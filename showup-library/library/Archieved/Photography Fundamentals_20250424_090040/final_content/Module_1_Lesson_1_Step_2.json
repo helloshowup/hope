@@ -1,0 +1,10 @@
+{
+  "module": "1",
+  "lesson": "1",
+  "step_number": "2",
+  "step_title": "Components of Fitness",
+  "final_content": "Error generating content with Claude API: Claude API error: 400, message='Bad Request', url='https://api.anthropic.com/v1/messages'",
+  "editing_explanation": "No AI patterns detected, no edits needed.",
+  "ai_patterns_detected": 0,
+  "output_path": "output\\Photography Fundamentals_20250424_090040\\1\\2_Components of Fitness.md"
+}

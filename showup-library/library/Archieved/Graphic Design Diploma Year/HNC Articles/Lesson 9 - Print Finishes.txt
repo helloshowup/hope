@@ -1,0 +1,32 @@
+Print Finishes
+When you send off artwork to a professional printer, the process may not be over. After the print job is finished, you might also want to add special effects to your printed product, such as bringing in metallic finishes or cutting your document to give it unusual edges. The printer will be able to create most of these print finishes (also known as post-print effects) in-house, or in some cases, can send your printed items off to a print finish specialist.
+Fig 1. Unsplash (n.d.) Printing
+Either way, it’s important to be up to speed on the variety of post-print effects available and how they can be used. With the right knowledge, you will not only end up with a beautiful final print product but you’ll have a very happy printer!
+Varnishes
+Varnishes are applied to paper for the same reason they’re applied to wood; to give it a smooth finished texture and protect your design. Varnishes seal your printed material and can be added to an entire page without generating too much weight, which is why many high-quality books and magazines will use varnished pages.
+Fig 2. Pexels (n.d.) Magazine covers
+Spot UV varnishes add interesting texture and visual appeal, and they’re a great way to add depth or flow to your design without compromising its message. Varnishing also adds an extra tactile dimension to packaging designs, making it particularly suited to items that will be picked off a shelf and held in the hands.
+Lamination
+Similar to varnish, lamination involves applying a protective layer of coating except that laminate coating is usually made of a type of plastic. It will add strength to your printed design and can at times, also make it water resistant. Because lamination adds a more substantial coating to your design, it results in a heavier print that adds to its tactile feel. For this reason, it’s often used for business cards or books with soft covers. Lamination can be gloss or matte as shown in the examples here.
+Foil stamping
+Foiling refers to the application of metallic or pigmented material using either heat or pressure. It’s a luxurious printing finish, and it goes a long way to adding visual interest and texture to your printed design. Foiling is often used for logos, but it can also be used for text. Make sure to talk to your printer about the best method for stamping, and be prepared to include a vector image of the item you want foil stamped.
+Fig 3. Unsplash (n.d) Example of foil stamping
+Embossing
+Embossing and debossing are similar processes that create a different result. Both processes
+involve making a metal plate and a counter. The plate is mounted on a press and the paper is stamped between the plate and counter. This force of pressure pushes the stock into the plate, creating the impression. Embossing produces a raised impression on your paper stock, while debossing creates a depressed impression.
+Fig 4. Pexels (n.d) A design impressed on leather
+Die-cutting
+Die-cutting involves physically cutting shapes into your paper design. Die-cutting normally involves creating a custom piece (known as a “die”), but your printer might have some standard pieces available for you to choose from. Dies can also be used to score or perforate your designs, letters, or use a larger font or typeface.
+Perforation
+Perforation involves creating small, evenly spaced holes or cuts along the edge of printed materials, allowing them to be easily torn or separated. Perforation can be used for tear-off coupons, tickets, or other interactive elements in printed designs.
+Fig 5. Unsplash (n.d.) Perforated paper
+Specialty inks 
+Specialty inks, such as metallic, fluorescent, or glow-in-the-dark inks, can add visual impact and intrigue to printed materials. These inks offer unique visual effects and can be used to create eye-catching designs that capture attention.
+By incorporating all these print finishes mentioned above into their designs, graphic designers can create visually stunning and tactilely engaging printed materials that leave a lasting impression on their audience.
+Controlling Inks
+Controlling inks in printing involves various techniques and considerations to achieve the desired colours, effects, and print quality. Here are a few techniques that you can consider and apply when working with inks:
+Mixing colours: Inks can be mixed to create specific colours needed for a print job. Printers use formulas to achieve precise colours, often based on the CMYK (cyan, magenta, yellow, black) colour model for process printing.
+Using mediums and extenders: Mediums like thinners can adjust ink viscosity, making it easier to work with or improving the flow of the inks. Extenders, also known as transparent bases, can dilute inks allowing for lighter shades or more transparent effects.
+Adjusting transparency and opacity: Transparency and opacity levels can be adjusted by selecting the appropriate ink type and formulation. Transparent inks are often used for subtle shading or layering effects, while opaque inks provide solid coverage. 
+Fig 6. Pixabay (n.d.) A printer’s CMYK colour model
+To achieve uniform print quality, it is vital to maintain consistency in ink properties. Thankfully, printers carefully measure and mix inks according to predetermined formulas to ensure consistency in colour reproduction. Consistent ink application, ink coverage, and ink drying are also critical for uniformity in print results. Before starting a print job, ensure that you (or the printers you are working with) conduct colour proofs or test prints to confirm the ink colours and print quality. This allows you to make any necessary adjustments before proceeding with full-scale production for a design project. 

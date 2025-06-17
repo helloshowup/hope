@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="en-US">
+<voice name="en-US-AndrewNeural" parameters="temperature=0.35">
+<prosody rate="-5%" pitch="+2%" volume="+10%">
+<p>Welcome.<break time="350ms"/> Today you’ll learn how to perform backward snow angels. <break time="650ms"/> This unique exercise strengthens your upper back and shoulder stabilizers. <break time="650ms"/> Let’s get ready to move with control and good form. <break time="650ms"/></p>
+<p>To begin,<break time="150ms"/> lie face down on a comfortable mat. <break time="650ms"/> Place your legs straight,<break time="150ms"/> feet about hip-width apart. <break time="650ms"/> Rest your arms at your sides,<break time="150ms"/> palms facing down. <break time="650ms"/> Draw your shoulder blades gently together. <break time="650ms"/> Now,<break time="150ms"/> lift your chest just a few inches off the floor. <break time="650ms"/> <emphasis level="moderate">Keep your forehead facing down to protect your neck.</emphasis> <break time="650ms"/> Your gaze should stay toward the mat,<break time="150ms"/> not forward. <break time="650ms"/> Engage your core for stability. <break time="650ms"/></p>
+<p>From here,<break time="150ms"/> start with your hands near your hips. <break time="650ms"/> Slowly sweep your arms outward and upward,<break time="150ms"/> forming a wide arc. <break time="650ms"/> Keep your elbows straight but not locked. <break time="650ms"/> Pause when your arms are overhead,<break time="150ms"/> forming a “Y” shape. <break time="650ms"/> Reverse the motion,<break time="150ms"/> bringing your arms back to your sides. <break time="650ms"/> Throughout, <emphasis level="moderate">keep your chest lifted and forehead down.</emphasis> <break time="650ms"/></p>
+<p>Let’s do ten repetitions together. <break time="650ms"/></p>
+<p><prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">Sweep arms smoothly,<break time="150ms"/> don’t rush the motion.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">Squeeze shoulder blades as arms move up.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Three - <emphasis level="strong">Forehead stays down,<break time="150ms"/> neck relaxed.[/emphasis strong</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Four - <emphasis level="moderate">Keep elbows soft,<break time="150ms"/> not locked.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Five - <emphasis level="moderate">Arms reach overhead,<break time="150ms"/> but don’t force the range.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Six - <emphasis level="moderate">Lower arms with control,<break time="150ms"/> no dropping.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Seven - <emphasis level="moderate">Check that your chest is still gently lifted.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Eight - <emphasis level="moderate">Breath steady,<break time="150ms"/> core supporting you.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Nine - <emphasis level="moderate">Shoulders relaxed,<break time="150ms"/> not up by your ears.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Ten - <emphasis level="strong">Finish with arms at your sides,<break time="150ms"/> forehead down.[/emphasis strong</emphasis> <break time="3000ms"/></prosody></p>
+<p>Quick success check: <break time="650ms"/> Is your forehead pointing down,<break time="150ms"/> not forward? <break time="650ms"/> Is your neck comfortable and free of strain? <break time="650ms"/> If yes,<break time="150ms"/> you’re on track. <break time="650ms"/></p>
+<p>Need a modification? <break time="650ms"/> For less challenge,<break time="150ms"/> keep your chest on the mat and only move your arms. <break time="650ms"/> For more challenge,<break time="150ms"/> hold the lifted chest position for a second each rep. <break time="650ms"/></p>
+<p>Backward snow angels help improve posture and strengthen hard-to-reach back muscles. <break time="650ms"/> Regular practice supports healthy shoulders and upper back mobility. <break time="650ms"/> Nice work today. <break time="650ms"/> Remember: quality is more important than speed. <break time="650ms"/> Practice these a few times a week for best results. <break time="650ms"/></p>
+</prosody>
+</voice>
+</speak>

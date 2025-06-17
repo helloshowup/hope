@@ -1,0 +1,84 @@
+# 5.24 Joint Service Plan
+
+## Introduction
+The Joint Service Plan is a collaborative document created by both the student and parent/guardian to formalize the service learning experience. This plan ensures everyone is on the same page regarding timeline expectations, necessary resources, and safety considerations. By working together to complete this plan, students and parents establish clear communication and shared responsibility for the service learning project.
+
+## Creating Your Joint Service Plan
+
+### Timeline Planning
+Effective service learning requires thoughtful scheduling and time management. When developing the timeline section of your Joint Service Plan, consider both the project requirements and your existing commitments. A well-structured timeline helps prevent last-minute rushes and ensures steady progress throughout the service experience.
+
+* **Start and End Dates**: Determine when your service will begin and when it should conclude.
+* **Milestone Checkpoints**: Identify key points to assess progress (e.g., 25%, 50%, 75% completion).
+* **Weekly Time Commitment**: Decide how many hours per week you'll dedicate to service.
+* **Scheduling Considerations**: Account for other commitments like school assignments, family events, or extracurricular activities.
+
+### Resource Identification
+Successful service projects depend on having the right resources available at the right time. This section of your plan helps identify everything needed to complete your service effectively. Taking time to thoroughly assess resource needs upfront can prevent disruptions later and ensure you're fully prepared for the service experience.
+
+* **Materials and Supplies**: What physical items will you need?
+* **Transportation**: How will you get to and from your service location?
+* **Financial Resources**: Will there be any costs associated with your service?
+* **Support Network**: Who can you turn to for guidance or assistance?
+* **Technology Needs**: What digital tools or access might be required?
+
+### Safety Checklist
+Safety must be a priority for any service learning experience. This section helps identify potential risks and establish protocols to ensure wellbeing throughout the project. By addressing safety considerations proactively, students and parents can focus on the service experience with greater confidence and peace of mind.
+
+* **Location Safety**: Assess the safety of where you'll be performing service.
+* **Adult Supervision**: Determine what level of supervision is appropriate.
+* **Emergency Contacts**: List primary and secondary contacts in case of emergency.
+* **Health Considerations**: Note any relevant health concerns or medications.
+* **Communication Plan**: Establish how and when you'll check in during service activities.
+* **Weather/Environmental Factors**: Plan for potential environmental challenges.
+
+### Finalizing Your Plan
+After completing all sections of the Joint Service Plan, it's important to review everything carefully before implementation begins. This final review process ensures the plan is comprehensive and practical. Taking time to formalize the plan demonstrates commitment to the service project and establishes clear expectations for all involved.
+
+1. Review the document together to ensure nothing has been overlooked
+2. Both student and parent/guardian should sign and date the plan
+3. Keep a copy accessible for reference throughout your service project
+4. Submit a copy to your Excel High School advisor as required
+
+### Reflection Questions
+Reflection is a critical component of service learning that transforms community service into meaningful learning. These questions help students think deeply about their upcoming experience and set intentional goals. Discussing these questions with a parent or guardian can provide valuable perspective and help clarify the purpose behind the service project.
+
+* What skills do you hope to develop through this service experience?
+* How might this service project connect to your academic or career interests?
+* What potential challenges do you anticipate, and how will you address them?
+* How will you measure the success of your service project?
+
+Remember, this plan is a living document. As circumstances change, you may need to revisit and adjust elements of your plan with your parent/guardian's input and approval.
+
+## Sample Joint Service Plan Template
+Below is a template that can be used as a starting point for creating your own Joint Service Plan. This format incorporates all the essential elements discussed above in an organized layout. Feel free to adapt this template to better suit your specific service project needs while ensuring all critical components are addressed.
+
+**Student Name:** _________________  
+**Parent/Guardian Name:** _________________  
+**Service Project Description:** _________________  
+**Start Date:** __________ **End Date:** __________  
+**Weekly Time Commitment:** __________ hours  
+
+**Milestone Checkpoints:**
+1. __________ (Date) - 25% completion
+2. __________ (Date) - 50% completion
+3. __________ (Date) - 75% completion
+
+**Resources Needed:**
+* Materials: __________________
+* Transportation: __________________
+* Financial: __________________
+* Support: __________________
+* Technology: __________________
+
+**Safety Plan:**
+* Location Safety Assessment: __________________
+* Supervision Plan: __________________
+* Emergency Contact 1: __________________ Phone: __________________
+* Emergency Contact 2: __________________ Phone: __________________
+* Health Considerations: __________________
+* Communication Plan: __________________
+
+**Signatures:**
+Student: __________________ Date: __________
+Parent/Guardian: __________________ Date: __________

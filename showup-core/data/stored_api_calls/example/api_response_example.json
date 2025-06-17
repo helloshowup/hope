@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "data": {
+    "id": "sample-123",
+    "name": "Example API Response",
+    "timestamp": "2025-05-22T16:30:00Z"
+  },
+  "metadata": {
+    "module": "example",
+    "version": "1.0.0"
+  }
+}

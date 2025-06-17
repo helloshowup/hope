@@ -1,0 +1,707 @@
+{
+  "course_name": "Photography Fundamentals",
+  "csv_path": "temp\\filtered_csv_20250424_090307.csv",
+  "start_time": "2025-04-24T09:03:07.713085",
+  "status": "started",
+  "processed_rows": [
+    {
+      "module": "1",
+      "lesson": "1",
+      "step_number": "1",
+      "step_title": "Understanding Physical Fitness",
+      "template_type": "Article",
+      "status": "completed",
+      "timestamp": "2025-04-24T09:03:07.722164",
+      "log_entries": [
+        {
+          "timestamp": "2025-04-24 09:03:07",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module 1, Lesson 1, Step 1"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:07",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:07",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:07",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (401 characters)"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:07",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:07",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:07",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:08",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:08",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:08",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:08",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:09",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:09",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:15",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:15",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:15",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 0 AI patterns"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:15",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:15",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:15",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:15",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to output\\Photography Fundamentals_20250424_090307\\1\\1_Understanding Physical Fitness.md"
+        }
+      ],
+      "comparison_explanation": "Error in comparison process: maximum recursion depth exceeded while calling a Python object. Using most structurally complete version as fallback.",
+      "review_summary": "No edit summary provided.",
+      "ai_patterns_detected": 0,
+      "editing_explanation": "No AI patterns detected, no edits needed.",
+      "output_path": "output\\Photography Fundamentals_20250424_090307\\1\\1_Understanding Physical Fitness.md",
+      "completion_timestamp": "2025-04-24T09:03:15.709062"
+    },
+    {
+      "module": "1",
+      "lesson": "1",
+      "step_number": "2",
+      "step_title": "Components of Fitness",
+      "template_type": "Article",
+      "status": "completed",
+      "timestamp": "2025-04-24T09:03:07.729337",
+      "log_entries": [
+        {
+          "timestamp": "2025-04-24 09:03:07",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module 1, Lesson 1, Step 2"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:07",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:07",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:07",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (731 characters)"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:07",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:07",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:15",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:16",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:16",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:16",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:16",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:17",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:17",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:24",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:24",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:24",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 0 AI patterns"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:24",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:24",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:24",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:24",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to output\\Photography Fundamentals_20250424_090307\\1\\2_Components of Fitness.md"
+        }
+      ],
+      "comparison_explanation": "Error in comparison process: maximum recursion depth exceeded while calling a Python object. Using most structurally complete version as fallback.",
+      "review_summary": "No edit summary provided.",
+      "ai_patterns_detected": 0,
+      "editing_explanation": "No AI patterns detected, no edits needed.",
+      "output_path": "output\\Photography Fundamentals_20250424_090307\\1\\2_Components of Fitness.md",
+      "completion_timestamp": "2025-04-24T09:03:24.871173"
+    },
+    {
+      "module": "1",
+      "lesson": "2",
+      "step_number": "1",
+      "step_title": "Exercise Safety at Home",
+      "template_type": "Article",
+      "status": "completed",
+      "timestamp": "2025-04-24T09:03:07.733416",
+      "log_entries": [
+        {
+          "timestamp": "2025-04-24 09:03:07",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module 1, Lesson 2, Step 1"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:07",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:07",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:07",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (811 characters)"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:07",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:07",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:24",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:25",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:25",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:25",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:25",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:26",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:26",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:34",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:34",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:34",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 0 AI patterns"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:34",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:34",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:34",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:34",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to output\\Photography Fundamentals_20250424_090307\\1\\1_Exercise Safety at Home.md"
+        }
+      ],
+      "comparison_explanation": "Error in comparison process: maximum recursion depth exceeded while calling a Python object. Using most structurally complete version as fallback.",
+      "review_summary": "No edit summary provided.",
+      "ai_patterns_detected": 0,
+      "editing_explanation": "No AI patterns detected, no edits needed.",
+      "output_path": "output\\Photography Fundamentals_20250424_090307\\1\\1_Exercise Safety at Home.md",
+      "completion_timestamp": "2025-04-24T09:03:34.076644"
+    },
+    {
+      "module": "1",
+      "lesson": "3",
+      "step_number": "1",
+      "step_title": "Setting SMART Fitness Goals",
+      "template_type": "Article",
+      "status": "completed",
+      "timestamp": "2025-04-24T09:03:07.737434",
+      "log_entries": [
+        {
+          "timestamp": "2025-04-24 09:03:07",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module 1, Lesson 3, Step 1"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:07",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:07",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:07",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (702 characters)"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:07",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:07",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:34",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:35",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:35",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:35",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:35",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:35",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:35",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:42",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:42",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:42",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 0 AI patterns"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:42",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:42",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:42",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:42",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to output\\Photography Fundamentals_20250424_090307\\1\\1_Setting SMART Fitness Goals.md"
+        }
+      ],
+      "comparison_explanation": "Error in comparison process: maximum recursion depth exceeded while calling a Python object. Using most structurally complete version as fallback.",
+      "review_summary": "No edit summary provided.",
+      "ai_patterns_detected": 0,
+      "editing_explanation": "No AI patterns detected, no edits needed.",
+      "output_path": "output\\Photography Fundamentals_20250424_090307\\1\\1_Setting SMART Fitness Goals.md",
+      "completion_timestamp": "2025-04-24T09:03:42.049673"
+    },
+    {
+      "module": "1",
+      "lesson": "4",
+      "step_number": "1",
+      "step_title": "Self-Assessment Techniques",
+      "template_type": "Article",
+      "status": "completed",
+      "timestamp": "2025-04-24T09:03:07.739943",
+      "log_entries": [
+        {
+          "timestamp": "2025-04-24 09:03:07",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module 1, Lesson 4, Step 1"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:07",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:07",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:07",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (389 characters)"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:07",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:07",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:42",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:43",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:43",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:43",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:43",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:44",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:44",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:52",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:52",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:52",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 3 AI patterns"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:52",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:53",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:53",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-04-24 09:03:53",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to output\\Photography Fundamentals_20250424_090307\\1\\1_Self-Assessment Techniques.md"
+        }
+      ],
+      "comparison_explanation": "Error in comparison process: maximum recursion depth exceeded while calling a Python object. Using most structurally complete version as fallback.",
+      "review_summary": "No edit summary provided.",
+      "ai_patterns_detected": 3,
+      "editing_explanation": "Editing failed: maximum recursion depth exceeded while calling a Python object",
+      "output_path": "output\\Photography Fundamentals_20250424_090307\\1\\1_Self-Assessment Techniques.md",
+      "completion_timestamp": "2025-04-24T09:03:53.188913"
+    }
+  ],
+  "log_file": "logs\\simplified_workflow_20250424_090307.log",
+  "phases_run": [
+    "generate",
+    "compare",
+    "review",
+    "finalize"
+  ],
+  "output_dir": "output\\Photography Fundamentals_20250424_090307",
+  "generation_dir": "output\\Photography Fundamentals_20250424_090307\\generation_results",
+  "comparison_dir": "output\\Photography Fundamentals_20250424_090307\\comparison_results",
+  "review_dir": "output\\Photography Fundamentals_20250424_090307\\review_results",
+  "final_dir": "output\\Photography Fundamentals_20250424_090307\\final_content",
+  "phase": "generate",
+  "phase_completion_time": "2025-04-24T09:03:53.192921"
+}

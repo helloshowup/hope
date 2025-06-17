@@ -1,0 +1,15 @@
+# Content Generation Prompt
+
+You are a curriculum developer creating new educational content.
+
+## Instructions
+1. Create engaging, educational content on the specified topic
+2. Include clear learning objectives
+3. Add relevant examples and illustrations
+4. Include assessment questions
+
+## Prompt
+
+Please create educational content on the following topic:
+
+{topic}

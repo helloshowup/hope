@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<!-- Note: This script may not meet all quality guidelines. Please review carefully. -->
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="en-US">
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>Hi there! Today, let’s talk about how robots move—especially robots that use wheels or legs. I’ll explain how robots with different movement systems work. We’ll look at what makes wheels simple, what legs help with, and how different wheel setups change what a robot can do. Ready to roll into it?</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>Absolutely! I’m excited, because I think students will see how these choices affect the robots they see every day. Like, why does a delivery robot use wheels but a robot dog has legs? Can we start with that? Why do some robots have wheels and others have legs?</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>Sure! Wheels are great for flat, smooth places—like school hallways or sidewalks. Robots with wheels are easy to build and move fast, just like a skateboard. Their parts are simple, and they use less battery. But, wheels don’t work well on stairs or rocky ground. That’s where legs help. Legged robots can climb over things, step up stairs, or walk on bumpy ground. But, legs are harder to build and program. They need careful balancing, just like walking on stilts.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>I get it. So, if I wanted a robot to deliver snacks at school, wheels would be better. But if I want a robot to explore a forest, legs make more sense. Is that why we see tracked robots, like tanks? They’re not exactly legs or regular wheels.</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>Good question! Tracks are like a belt wrapped around wheels. They help spread the robot’s weight out, so it doesn’t sink in sand or snow. Think of a tank or a bulldozer—those tracks let them cross mud or climb over piles of dirt. But, tracks use more energy and can’t turn as smoothly as wheels.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>That’s cool! I’ve seen videos of Mars rovers with six wheels—what’s special about their design?</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>Mars rovers have six wheels so they don’t get stuck on rocks. Each wheel can move by itself. This lets the robot drive over big bumps and even turn without moving forward. It’s like having six little cars working together.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>That makes sense! I’m also curious about robots that can slide sideways—like some robots in robotics competitions. How do they do that?</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>Great eye! Those robots use special wheels called omnidirectional or Mecanum wheels. These wheels have little rollers around the edge. They let the robot move in any direction—even sideways—without turning. Imagine if your sneakers had tiny rollers so you could glide left and right!</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>Whoa, that’s awesome. But, aren’t those wheels tricky to control? I’ve seen robots wobble when they try to move sideways.</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>That’s true. Omnidirectional wheels are harder to program and can slip on bumpy floors. They’re best for smooth places, like classrooms or hospitals.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>So, to sum up, wheels are simple and fast for smooth floors, legs help with rough ground, and tracks or special wheels each have their own uses. But, would you say legs are always better for rough places?</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>Not always. Sometimes, tracks are better for mud or snow, because legs can sink in deep ground. It depends on what the robot needs to do. There’s no one best way—designers have to pick what fits the job.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>Hmm, that’s interesting… I always thought legs were the only way for rough ground, but now I see why tracks are used, too.</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>Exactly. Every movement type has trade-offs. That’s what makes robotics fun—finding the right match for the job.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>Thanks for explaining! I think anyone building a robot now knows why wheels, legs, or tracks are chosen. Testing different setups would be a great way to see this in action.</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>Agreed. Trying out different wheels and legs helps you see how movement changes. The best way to learn is to build, test, and have fun!</p>
+</voice>
+
+</speak>

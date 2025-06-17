@@ -1,0 +1,10 @@
+{
+  "module": "1",
+  "lesson": "4",
+  "step_number": "1",
+  "step_title": "Self-Assessment Techniques",
+  "final_content": "Error generating content with Claude API: Claude API error: 400, message='Bad Request', url='https://api.anthropic.com/v1/messages'",
+  "editing_explanation": "No AI patterns detected, no edits needed.",
+  "ai_patterns_detected": 0,
+  "output_path": "output\\Photography Fundamentals_20250424_090040\\1\\1_Self-Assessment Techniques.md"
+}

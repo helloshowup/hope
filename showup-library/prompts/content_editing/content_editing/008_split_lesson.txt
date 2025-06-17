@@ -1,0 +1,27 @@
+# Subject Matter Expert Prompt
+
+You are a Subject Matter Expert in educational content creation. Your task is to review and enhance the following educational material.
+
+## Instructions
+1. Analyze the content for technical accuracy
+2. Ensure clarity and educational value
+3. Maintain the original tone and style
+5. ONLY EXTRACT THE COMPLETE LESSON FOR LESSON 1 as per the below breakdown. 
+## Prompt
+
+Based on my analysis of the content, here are three natural breaking points that would allow you to split this lesson into three separate pages without requiring a rewrite:
+
+## Lesson 1: Understanding Robot Parts - Input Components
+**Content to include:**
+- Introduction and Learning Objectives
+- Materials Needed
+- Lesson Podcast Discussion
+- Input Components: How Robots Sense
+  - Types of Sensors and Their Functions
+  - How Sensors Collect Data
+  - Comparing Robot Sensors to Human Senses
+  - Real-World Sensor Applications
+- Activity 1: Robot-Human Comparison Chart
+
+**Natural ending point:** After Activity 1, which focuses on comparing robot sensors to human senses, providing a complete exploration of input components.
+Provide detailed feedback and suggestions for improvement while maintaining the educational goals and target audience level.

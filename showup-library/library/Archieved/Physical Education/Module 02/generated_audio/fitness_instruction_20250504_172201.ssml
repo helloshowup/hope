@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="en-US">
+<voice name="en-US-AndrewNeural" parameters="temperature=0.35">
+<prosody rate="-5%" pitch="+2%" volume="+10%">
+<p>Welcome to your movement practice.<break time="350ms"/> Today,<break time="150ms"/> we’ll explore four dynamic body shapes: Wide,<break time="150ms"/> Narrow,<break time="150ms"/> Curved,<break time="150ms"/> and Twisted.<break time="350ms"/> This exercise helps improve your body awareness and control. <break time="650ms"/> Let’s get started.</p>
+<p>Begin by finding a clear,<break time="150ms"/> open space. <break time="650ms"/> Stand tall and take a deep breath. <break time="650ms"/> Here’s a quick safety reminder: <emphasis level="strong">Move slowly and stay within your comfortable range of motion.</emphasis> If you feel pain or discomfort,<break time="150ms"/> pause and reset. <break time="650ms"/></p>
+<p>We’ll start by practicing each shape,<break time="150ms"/> holding for five seconds. <break time="650ms"/></p>
+<p>First,<break time="150ms"/> the Wide shape.<break time="350ms"/> Stand with your feet apart,<break time="150ms"/> arms stretched out to each side. <break time="650ms"/> Feel your body expand. <break time="650ms"/></p>
+<p>Now,<break time="150ms"/> Narrow.<break time="350ms"/> Stand tall,<break time="150ms"/> feet together,<break time="150ms"/> arms straight by your sides. <break time="650ms"/> Imagine your body as a single,<break time="150ms"/> vertical line. <break time="650ms"/></p>
+<p>For Curved,<break time="150ms"/> create a C-shape with your body.<break time="350ms"/> You can do this standing or sitting. <break time="650ms"/> Round your spine gently,<break time="150ms"/> forming a smooth curve. <break time="650ms"/></p>
+<p>Twisted shape comes next.<break time="350ms"/> Keep your hips facing forward. <break time="650ms"/> Gently rotate your upper body to the right or left. <emphasis level="moderate">Keep your hips steady</emphasis> <break time="650ms"/></p>
+<p>Let’s check your form.<break time="350ms"/> Can you hold each shape clearly and steadily for five seconds? <break time="650ms"/> If yes,<break time="150ms"/> you’re ready for the next step. <break time="650ms"/></p>
+<p>Now,<break time="150ms"/> set a timer for fifteen seconds. <break time="650ms"/> When the timer starts,<break time="150ms"/> move freely around your space. <break time="650ms"/> When you hear the beep,<break time="150ms"/> freeze in one of the shapes. <break time="650ms"/> Hold it for five seconds. <break time="650ms"/></p>
+<p>Repeat this pattern eight times. <break time="650ms"/> Try to choose each shape at least twice. <break time="650ms"/> After each freeze,<break time="150ms"/> release and move again. <break time="650ms"/></p>
+<p>If you’d like an easier option,<break time="150ms"/> hold each shape for just three seconds. <break time="650ms"/> For a challenge,<break time="150ms"/> move more quickly and switch shapes without pausing between. <break time="650ms"/></p>
+<p>Let’s count through a few repetitions together: <break time="650ms"/></p>
+<p><prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">hold your shape steady</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">engage your core muscles</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Three - <emphasis level="moderate">breathe smoothly</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Four - <emphasis level="moderate">check your alignment</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Five - <emphasis level="moderate">relax your shoulders</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Six - <emphasis level="moderate">focus on balance</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Seven - <emphasis level="moderate">choose a new shape</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Eight - <emphasis level="strong">hold with control and confidence</emphasis> <break time="3000ms"/></prosody></p>
+<p>Next,<break time="150ms"/> create a sequence of three shapes that flow smoothly together. <break time="650ms"/> Practice your sequence until you can perform it three times in a row without stopping. <break time="650ms"/></p>
+<p>For the final step,<break time="150ms"/> draw your sequence on paper or describe it in writing. <break time="650ms"/></p>
+<p>You’ve just completed a full-body coordination and creativity challenge. <break time="650ms"/> Practicing these shapes improves balance,<break time="150ms"/> posture,<break time="150ms"/> and spatial awareness. <break time="650ms"/> Remember,<break time="150ms"/> clear shapes and steady holds are your goal. <break time="650ms"/> Great work—keep exploring new ways to move and express yourself. <break time="650ms"/></p>
+</prosody>
+</voice>
+</speak>

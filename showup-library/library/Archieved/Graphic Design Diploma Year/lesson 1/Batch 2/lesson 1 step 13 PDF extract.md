@@ -1,0 +1,6 @@
+User Feedback Integration
+Beyond standard user feedback methods, cognitive design employs specialised techniques that reveal the thinking behind user behaviors:
+Card sorting with cognitive analysis: Building on the information architecture principles from your HNC studies, advanced card sorting reveals not just how users categorise information, but their underlying cognitive frameworks
+Retrospective cognitive interviews: Unlike traditional think-aloud protocols (which can disrupt natural behavior), retrospective interviews have users review recordings of their own interactions and explain their thinking at key moments
+Predictive error modeling: Rather than just documenting errors after they occur, cognitive analysis can predict where errors are likely based on cognitive principles, enabling proactive design improvements
+[Image: Two-part visualization showing eye-tracking data analysis. Part 1 shows standard heatmap indicating where users looked. Part 2 shows advanced cognitive pattern analysis identifying "ping-ponging" between elements (showing confusion) and "tunnel vision" areas (showing cognitive overload). Caption: "Fig 9: Advanced attention pattern analysis revealing cognitive states that standard eye-tracking misses - confusion patterns (left) versus cognitive overload indicators (right)"]

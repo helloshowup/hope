@@ -1,0 +1,84 @@
+
+    <div class="markdown-content" style="font-family: Arial, sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 0 auto;">
+        <h1>3.19</h1>
+
+<h1>Loops and Conditions in Movement</h1>
+
+<h2>Learning Objectives</h2><p>By the end of this session, you'll be able to:</p>
+<ul>
+<li>Use loops to make robots do the same moves many times</li>
+</ul>
+<ul>
+<li>Explain how "if-then" rules help robots make choices</li>
+</ul>
+<ul>
+<li>Create a step-by-step plan for a robot to move around objects</li>
+</ul>
+<p>&nbsp;</p>
+
+<p>Writing out long sequences of commands can get tedious, especially when there are repeated patterns. This is where loops come in handy. A loop is a programming structure that repeats a set of commands multiple times.</p>
+<p>&nbsp;</p>
+
+<p>Using our square path example, instead of writing out the same commands repeatedly, we could use a loop:</p>
+<pre><code style="background-color:#f6f8fa; padding:2px 4px; border-radius:3px;">Repeat 4 times:
+    move_forward(10)
+    turn_right(90)
+</code></pre>
+<p>&nbsp;</p>
+
+<p>This loop accomplishes the same square path but with much less code. Loops are especially useful for repetitive movements like walking (where leg motions repeat) or for tasks that need to be done multiple times.</p>
+<p>&nbsp;</p>
+
+<p>Conditions add another level of intelligence to robot movement. A condition is a programming structure that makes decisions based on certain criteria, usually written as "if-then" statements:</p>
+<pre><code style="background-color:#f6f8fa; padding:2px 4px; border-radius:3px;">if (obstacle_detected) then
+    turn_right(90)
+else
+    move_forward(5)
+</code></pre>
+<p>&nbsp;</p>
+
+<p>With conditions, robots can adapt their movements based on what's happening around them. This is crucial for creating robots that can navigate real-world environments where unexpected obstacles or situations might arise.</p>
+<p>&nbsp;</p>
+
+<p>By combining basic commands with loops and conditions, we can create surprisingly complex and adaptive movement behaviors - from simple line-following robots to machines that can navigate mazes or avoid obstacles.</p>
+<h2>Connecting Sensors to Movement</h2><p>For robots to move intelligently in the real world, they need to sense their environment and adjust their movements accordingly.</p>
+<h3>Responsive Movement Behaviors</h3><p>Responsive movement means a robot can change what it's doing based on what it senses around it. This is what makes the difference between a robot that blindly follows commands and one that can adapt to its environment.</p>
+<p>&nbsp;</p>
+
+<p>For example, a line-following robot uses light sensors to detect a dark line on a light surface. When the sensor detects it's moving off the line, the robot adjusts its direction to stay on track. This creates a responsive behavior where the robot continuously corrects its path based on sensor input.</p>
+<p>&nbsp;</p>
+
+<p>Another example is a robot vacuum that uses bump sensors to detect walls and furniture. When it bumps into something, it changes direction to avoid the obstacle and continue cleaning. Some advanced models even use distance sensors to slow down before they hit obstacles.</p>
+<p>&nbsp;</p>
+
+<p>These responsive behaviors make robots much more useful in unpredictable environments. Instead of needing perfect instructions for every possible situation, the robot can make decisions on its own based on what it senses.</p>
+<p>&nbsp;</p>
+
+<p>
+        <figure class="table" style="float:left;width:92.41%;" data-font-size="14" data-line-height="20">
+            <table class="ck-table-resized" style="border-style:none;" data-font-size="14" data-line-height="20">
+                <colgroup data-font-size="14" data-line-height="20"><col style="width:13.29%;" data-font-size="14" data-line-height="20"><col style="width:86.71%;" data-font-size="14" data-line-height="20"></colgroup>
+                <tbody data-font-size="14" data-line-height="20">
+                    <tr data-font-size="14" data-line-height="20">
+                        <td style="border-style:none;" data-font-size="14" data-line-height="20">
+                            <figure class="image image_resized" style="width:100%;" data-font-size="14" data-line-height="20">
+                                <img style="aspect-ratio:600/600;" src="https://api.learnstage.com/media-manager/api/access/exceled/default/89309a11-e6ae-4133-97a9-93c735f38be4/content-page/4e85aa67-83db-423a-b7de-53b356164071_removalai_preview.png" width="600" height="600" data-font-size="14" data-line-height="20">
+                            </figure>
+                        </td>
+                        <td style="border-style:none;" data-font-size="14" data-line-height="20">
+                            <h3 data-font-size="16" data-line-height="23">
+                                <span style="color:hsl(359,97%,29%);"><span data-font-size="16" data-line-height="23"><strong data-font-size="16" data-line-height="23">Key Takeaways</strong></span></span>
+                            </h3>
+                            <ul>
+<li>Loops help robots repeat the same commands multiple times, making it easier to program movements like drawing a square without writing the same instructions over and over.</li>
+<li>Conditions (if-then statements) allow robots to make decisions based on what they sense, helping them adapt to their environment instead of just following fixed commands.</li>
+<li>Responsive robots use sensors to adjust their movements in real-time, like following a line or avoiding obstacles, which makes them useful in unpredictable real-world situations.</li>
+</ul>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </figure></p>
+<p>&nbsp;</p>
+    </div>
+    

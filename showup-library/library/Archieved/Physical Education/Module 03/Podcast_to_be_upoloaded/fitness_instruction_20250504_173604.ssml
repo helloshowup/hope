@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="en-US">
+<voice name="en-US-AndrewNeural" parameters="temperature=0.35">
+<prosody rate="-5%" pitch="+2%" volume="+10%">
+<p>Welcome.<break time="350ms"/> Today’s exercise is the Superman Hold. <break time="650ms"/> This move targets your lower back strength and stability. <break time="650ms"/> Let’s set up for safe and effective movement. <break time="650ms"/></p>
+<p>Lie flat on your stomach on a mat. <break time="650ms"/> Stretch your arms straight out in front of you. <break time="650ms"/> Extend your legs behind you,<break time="150ms"/> keeping them close together. <break time="650ms"/> Rest your forehead gently on the mat. <break time="650ms"/> Keep your neck in a neutral position. <break time="650ms"/> Take a moment to settle in. <break time="650ms"/></p>
+<p>Before we begin,<break time="150ms"/> remember: <emphasis level="strong">If you feel pain,<break time="150ms"/> stop the exercise.[/emphasis strong</emphasis> <break time="650ms"/> Focus on slow movement and good form. <break time="650ms"/></p>
+<p>Now,<break time="150ms"/> inhale deeply. <break time="650ms"/> As you exhale,<break time="150ms"/> lift both arms and both legs off the floor. <break time="650ms"/> Raise them just a few inches. <break time="650ms"/> Squeeze your glutes and keep your core tight. <break time="650ms"/> Look straight down to protect your neck. <break time="650ms"/></p>
+<p>Let’s check your form. <break time="650ms"/> Are your arms and legs lifting evenly? <break time="650ms"/> Is your chin tucked slightly so your neck feels long? <break time="650ms"/> Keep breathing steadily. <break time="650ms"/> Hold here. <break time="650ms"/></p>
+<p>Let’s count together for the hold: <break time="650ms"/>
+<prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">Shoulders away from your ears</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">Squeeze your glutes</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Three - <emphasis level="moderate">Keep your neck relaxed</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Four - <emphasis level="moderate">Lift your thighs,<break time="150ms"/> not just your feet</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Five - <emphasis level="moderate">Keep breathing</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Six - <emphasis level="moderate">Arms straight and strong</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Seven - <emphasis level="moderate">Core engaged</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Eight - <emphasis level="moderate">No tension in your jaw</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Nine - <emphasis level="moderate">Steady hold</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Ten - <emphasis level="moderate">Full body activation</emphasis> <break time="3000ms"/></prosody></p>
+<p>Release slowly. <break time="650ms"/> Lower your arms and legs back to the mat. <break time="650ms"/> Rest and breathe. <break time="650ms"/></p>
+<p>If you want something easier,<break time="150ms"/> try alternating arm and leg raises. <break time="650ms"/> Lift your right arm and left leg together,<break time="150ms"/> then switch sides. <break time="650ms"/> Move slowly and with control. <break time="650ms"/></p>
+<p>For more challenge,<break time="150ms"/> add pulses at the top of the hold. <break time="650ms"/> With arms and legs lifted,<break time="150ms"/> pulse up and down for small,<break time="150ms"/> controlled movements. <break time="650ms"/></p>
+<p>Let’s recap. <break time="650ms"/> The Superman Hold strengthens your lower back and improves posture. <break time="650ms"/> It helps protect your spine in daily activities. <break time="650ms"/> Remember to breathe and focus on form. <break time="650ms"/> Good technique is more important than holding longer. <break time="650ms"/> Over time,<break time="150ms"/> these holds can help you feel stronger and more stable. <break time="650ms"/> Great work today. <break time="650ms"/> Take a few deep breaths and enjoy the benefits. <break time="650ms"/></p>
+</prosody>
+</voice>
+</speak>

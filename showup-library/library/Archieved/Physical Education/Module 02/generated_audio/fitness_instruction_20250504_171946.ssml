@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="en-US">
+<voice name="en-US-AndrewNeural" parameters="temperature=0.35">
+<prosody rate="-5%" pitch="+2%" volume="+10%">
+<p>Welcome.<break time="350ms"/> Today’s focus is on the *Standing Toe Touch with Half-Squat*—a movement that improves hamstring flexibility and strengthens your lower body. <break time="650ms"/> This exercise also boosts core stability. <break time="650ms"/> A key safety reminder: move slowly,<break time="150ms"/> and do not force the stretch if you feel pain. <break time="650ms"/></p>
+<p>Begin by standing tall,<break time="150ms"/> feet hip-width apart,<break time="150ms"/> arms relaxed at your sides. <break time="650ms"/> Distribute your weight evenly between both feet. <break time="650ms"/> Draw your shoulders back and keep your neck long. <break time="650ms"/> Take a deep breath. <break time="650ms"/></p>
+<p>Now,<break time="150ms"/> hinge forward at your hips,<break time="150ms"/> lowering your torso toward the floor. <break time="650ms"/> Let your arms hang naturally. <break time="650ms"/> Aim to touch your toes,<break time="150ms"/> but stop if you feel discomfort. <break time="650ms"/> Keep your knees soft,<break time="150ms"/> not locked. <break time="650ms"/> Check your posture: <emphasis level="moderate">Back flat,<break time="150ms"/> chest open,<break time="150ms"/> neck relaxed</emphasis>. <break time="2000ms"/></p>
+<p>Let&#x27;s check your form.<break time="350ms"/> Are your hips moving back rather than rounding your spine? <break time="650ms"/> Good. <break time="650ms"/></p>
+<p>Now,<break time="150ms"/> bend both knees into a half-squat position. <break time="650ms"/> Lower your hips down and back. <break time="650ms"/> Keep your chest lifted,<break time="150ms"/> and make sure your knees stay behind your toes. <break time="650ms"/> Hold your arms in front for balance. <break time="650ms"/></p>
+<p>Ready for repetitions? <break time="650ms"/></p>
+<p><prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">Hinge at the hips; reach toward your toes</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">Bend knees; sink hips into a half-squat</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Three - <emphasis level="moderate">Stand tall,<break time="150ms"/> reset your posture</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Four - <emphasis level="moderate">Keep your back flat as you fold</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Five - <emphasis level="moderate">Knees over ankles in the squat</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Six - <emphasis level="moderate">Press up through your heels to rise</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Seven - <emphasis level="moderate">Lengthen your spine as you fold forward</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Eight - <emphasis level="moderate">Weight even in both feet</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Nine - <emphasis level="moderate">Core gently engaged for stability</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Ten - <emphasis level="strong">Never force the stretch—listen to your body</emphasis> <break time="3000ms"/></prosody></p>
+<p>For a modification: <break time="650ms"/>  
+To make it easier,<break time="150ms"/> bend your knees more as you fold forward. <break time="650ms"/> Only reach as far as feels comfortable. <break time="650ms"/>  
+To make it more challenging,<break time="150ms"/> pause at the bottom of the squat for two seconds before rising. <break time="650ms"/></p>
+<p>Remember—<emphasis level="moderate">Moving slowly and with control protects your back and knees</emphasis>. <break time="650ms"/></p>
+<p>You’ve just completed the Standing Toe Touch with Half-Squat. <break time="650ms"/> This exercise lengthens your hamstrings,<break time="150ms"/> strengthens your legs,<break time="150ms"/> and increases joint mobility. <break time="650ms"/> Practicing regularly can help reduce tightness and improve balance. <break time="650ms"/> Great job taking time to care for your body today. <break time="650ms"/> Finish with a gentle stretch if you like,<break time="150ms"/> and enjoy the benefits of better movement. <break time="650ms"/></p>
+</prosody>
+</voice>
+</speak>

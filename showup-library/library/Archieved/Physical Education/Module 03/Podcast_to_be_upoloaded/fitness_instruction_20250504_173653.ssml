@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="en-US">
+<voice name="en-US-AndrewNeural" parameters="temperature=0.35">
+<prosody rate="-5%" pitch="+2%" volume="+10%">
+<p>Welcome to your dynamic warm-up. <break time="650ms"/> Today,<break time="150ms"/> you&#x27;ll focus on preparing your muscles and joints for movement. <break time="650ms"/> This routine increases circulation and helps reduce injury risk. <break time="650ms"/> Let’s get started.</p>
+<p>First up: arm circles. <break time="650ms"/> This exercise loosens your shoulders and upper back. <break time="650ms"/> Stand tall with your feet shoulder-width apart. <break time="650ms"/> Extend both arms out to your sides,<break time="150ms"/> parallel to the floor. <break time="650ms"/> Keep your elbows straight but not locked. <break time="650ms"/> Make sure your core is engaged and your posture is upright. <break time="650ms"/></p>
+<p>We’ll begin with ten forward circles. <break time="650ms"/></p>
+<p><prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">keep your arms level and steady</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">rotate from your shoulders,<break time="150ms"/> not your elbows</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Three - <emphasis level="moderate">smooth,<break time="150ms"/> controlled motion</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Four - <emphasis level="moderate">breathe naturally as you move</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Five - <emphasis level="moderate">maintain a gentle pace</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Six - <emphasis level="moderate">focus on even circles</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Seven - <emphasis level="moderate">shoulders stay relaxed</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Eight - <emphasis level="moderate">arms straight out</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Nine - <emphasis level="moderate">don’t shrug your shoulders</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Ten - <emphasis level="moderate">finish strong</emphasis> <break time="2000ms"/></prosody></p>
+<p>Now,<break time="150ms"/> reverse direction for backward circles. <break time="650ms"/></p>
+<p><prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">start slow,<break time="150ms"/> feel the movement</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">rotate smoothly</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Three - <emphasis level="moderate">steady breathing</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Four - <emphasis level="moderate">core stays engaged</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Five - <emphasis level="moderate">arms parallel</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Six - <emphasis level="moderate">shoulders down</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Seven - <emphasis level="moderate">gentle pace</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Eight - <emphasis level="moderate">full range of motion</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Nine - <emphasis level="moderate">controlled circles</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Ten - <emphasis level="moderate">relax your neck</emphasis> <break time="2000ms"/></prosody></p>
+<p>Quick check: Your shoulders should feel looser but not strained. <break time="650ms"/> If you feel discomfort,<break time="150ms"/> reduce your range of motion. <break time="650ms"/> Need a challenge? Try making larger circles or increase your speed slightly. <break time="650ms"/></p>
+<p>Let’s move to knee hugs. <break time="650ms"/> Stand tall,<break time="150ms"/> feet hip-width apart. <break time="650ms"/> Lift your right knee and hug it toward your chest. <break time="650ms"/> Alternate legs for ten repetitions each side. <break time="650ms"/></p>
+<p><prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">pull gently,<break time="150ms"/> keep your balance</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">stand tall,<break time="150ms"/> shoulders back</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Three - <emphasis level="moderate">slow,<break time="150ms"/> steady movement</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Four - <emphasis level="moderate">alternate legs smoothly</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Five - <emphasis level="moderate">engage your core</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Six - <emphasis level="strong">don’t yank or twist[/emphasis strong</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Seven - <emphasis level="moderate">relax your shoulders</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Eight - <emphasis level="moderate">steady breathing</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Nine - <emphasis level="moderate">stand tall</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Ten - <emphasis level="moderate">finish with control</emphasis> <break time="2000ms"/></prosody></p>
+<p>Now,<break time="150ms"/> torso twists. <break time="650ms"/> Place your hands on your hips or extend your arms at shoulder height. <break time="650ms"/> Rotate your upper body gently side to side. <break time="650ms"/> Do ten twists to each side. <break time="650ms"/></p>
+<p><prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">keep hips facing forward</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">rotate from your waist</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Three - <emphasis level="moderate">move smoothly</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Four - <emphasis level="moderate">don’t over-rotate</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Five - <emphasis level="moderate">steady pace</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Six - <emphasis level="moderate">breathe out as you twist</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Seven - <emphasis level="moderate">shoulders relaxed</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Eight - <emphasis level="moderate">gentle control</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Nine - <emphasis level="moderate">hips stay steady</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Ten - <emphasis level="moderate">finish with balance</emphasis> <break time="2000ms"/></prosody></p>
+<p>Finally,<break time="150ms"/> jumping jacks. <break time="650ms"/> Start slow,<break time="150ms"/> then increase your speed as you feel ready. <break time="650ms"/> Do ten to fifteen repetitions. <break time="650ms"/></p>
+<p><prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">land softly</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">arms fully overhead</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Three - <emphasis level="moderate">feet together and apart</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Four - <emphasis level="moderate">steady rhythm</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Five - <emphasis level="moderate">breathe naturally</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Six - <emphasis level="moderate">core engaged</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Seven - <emphasis level="moderate">relaxed shoulders</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Eight - <emphasis level="moderate">gentle on your knees</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Nine - <emphasis level="moderate">smooth motion</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Ten - <emphasis level="moderate">finish strong</emphasis> <break time="3000ms"/></prosody></p>
+<p>Great work on your dynamic warm-up. <break time="650ms"/> You’ve increased your heart rate,<break time="150ms"/> mobilized key joints,<break time="150ms"/> and activated your muscles. <break time="650ms"/> Remember,<break time="150ms"/> a good warm-up prepares your body,<break time="150ms"/> reduces injury risk,<break time="150ms"/> and improves your workout quality. <break time="650ms"/> Take a sip of water,<break time="150ms"/> and move on when you’re ready.</p>
+</prosody>
+</voice>
+</speak>

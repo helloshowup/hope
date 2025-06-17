@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="en-US">
+<voice name="en-US-AndrewNeural" parameters="temperature=0.35">
+<prosody rate="-5%" pitch="+2%" volume="+10%">
+<p>Welcome.<break time="350ms"/> Today,<break time="150ms"/> we’ll focus on the classic jumping jack.<break time="350ms"/> This exercise boosts your heart rate and improves coordination. <break time="650ms"/></p>
+<p>Let’s get ready. <break time="650ms"/></p>
+<p>Stand upright. <break time="650ms"/>  
+Feet together. <break time="650ms"/>  
+Arms relaxed by your sides. <break time="650ms"/>  
+Make sure you have enough space—at least four feet in each direction. <break time="650ms"/>  
+Wear shoes if your floor is hard. <break time="650ms"/>  
+Keep water nearby to stay hydrated. <break time="650ms"/>  
+One key safety reminder: <emphasis level="moderate">land softly on the balls of your feet to protect your joints</emphasis>. <break time="650ms"/></p>
+<p>Here’s your starting position: <break time="650ms"/>  
+Stand tall. <break time="650ms"/>  
+Shoulders back. <break time="650ms"/>  
+Look straight ahead. <break time="650ms"/>  
+Feet together. <break time="650ms"/>  
+Hands at your sides. <break time="650ms"/></p>
+<p>Let’s try one slow jumping jack together. <break time="650ms"/>  
+Jump your feet out a little wider than your hips. <break time="650ms"/>  
+At the same time,<break time="150ms"/> lift your arms overhead,<break time="150ms"/> forming a wide arc. <break time="650ms"/>  
+Land softly—knees slightly bent. <break time="650ms"/>  
+Bring your feet back together. <break time="650ms"/>  
+Lower your arms to your sides. <break time="650ms"/></p>
+<p>Success check:  
+You should feel your body getting warmer. <break time="650ms"/>  
+Your breathing may speed up. <break time="650ms"/>  
+If you feel pain or discomfort,<break time="150ms"/> stop and adjust your form. <break time="650ms"/></p>
+<p>Let’s begin a set of 10 repetitions. <break time="650ms"/>  
+Ready? Here we go. <break time="650ms"/></p>
+<p><prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">land softly,<break time="150ms"/> knees bent</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">arms reach overhead,<break time="150ms"/> not forward</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Three - <emphasis level="moderate">keep your core engaged</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Four - <emphasis level="moderate">feet land wider than hips</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Five - <emphasis level="moderate">breathe out as you jump</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Six - <emphasis level="moderate">eyes forward,<break time="150ms"/> chin up</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Seven - <emphasis level="moderate">shoulders relaxed,<break time="150ms"/> not tense</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Eight - <emphasis level="moderate">steady pace,<break time="150ms"/> not too fast</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Nine - <emphasis level="moderate">arms and legs move together</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Ten - <emphasis level="strong">finish strong,<break time="150ms"/> return to start</emphasis> <break time="3000ms"/></prosody></p>
+<p>Need a modification? <break time="650ms"/>  
+For a lower impact version,<break time="150ms"/> step side-to-side instead of jumping. <break time="650ms"/>  
+Lift your arms the same way,<break time="150ms"/> but keep one foot on the ground. <break time="650ms"/>  
+Want more challenge? <break time="650ms"/>  
+Speed up your pace or add a squat between each rep. <break time="650ms"/></p>
+<p>Jumping jacks elevate your heart rate,<break time="150ms"/> improve circulation,<break time="150ms"/> and sharpen mental focus. <break time="650ms"/>  
+Doing a few sets every day can boost your energy and coordination. <break time="650ms"/>  
+You did great. <break time="650ms"/>  
+Remember,<break time="150ms"/> consistency is key. <break time="650ms"/>  
+Take a moment to breathe,<break time="150ms"/> sip water,<break time="150ms"/> and notice how you feel. <break time="650ms"/>  
+When you’re ready,<break time="150ms"/> repeat another set or try a different movement. <break time="650ms"/>  
+Stay active and enjoy the benefits of movement—one step at a time. <break time="650ms"/></p>
+</prosody>
+</voice>
+</speak>

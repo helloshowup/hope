@@ -1,0 +1,37 @@
+Creating a beautiful and workable graphic design is the most critical task for a designer. As you work through the design process, you will produce sketches, technical drawings, concept boards, and 2D or 3D mock-ups. At the end of the design process, you will have a lot of information to present to your client or other stakeholders so you will need a way to communicate your ideas and concepts to the client in a logical manner that thoroughly explains the design proposal. A presentation is an excellent way to do this.
+Fig 1. Example of typography presentation slide
+Fig 2. Example of logo presentation slide
+It could be your first time presenting the finished design scheme to a client or you are pitching a presentation for a job. Perhaps you are presenting this work in person or you are compiling a presentation package to send electronically. Either way, you should combine critical information and design visuals in an informative and compelling manner. This is where the ability to use presentation software applications becomes another vital skill to master as an interior designer. 
+Slide-based presentation software
+The most common method of creating a presentation is to use a slide-based application. This will allow you to build a slide show using text and images. If you are new to the process, this is the easiest and most efficient way to begin making presentations. The slide format provides a structure to organise the information systematically and coherently.
+Microsoft PowerPoint is probably the most common presentation software across all industries and is a good starting point. If you don’t have access to PowerPoint, Google Slides has similar functionality and will allow you to make free online presentations. 
+The following is a list of some available software applications for making slideshow presentations. All are available, either free or with very flexible payment options:
+Google Slides
+PowerPoint
+Canva
+Snappa
+Visme
+Keynote (for Mac users)
+The list is not exhaustive. There are other similar applications that will also allow you to combine images and text in a slideshow format. 
+Fig 3. Canva screenshot (2024) Presentation templates
+Fig 4. Keynote screenshot (2024) Presentation templates
+Animations and transitions in slide-based software
+Slide-based applications allow you to introduce effects and animations as you move between slides or individual elements. For example, text or images can fade in on a mouse click, or you can introduce an effect as you transition between slides. While these can undoubtedly bring interest and movement to your presentation, you should use them sparingly and only to emphasise or enhance specific content. Animations and transitions should never distract from, or interfere with important content.
+Canvas-based presentation software
+There are also canvas-based presentation software options. Rather than creating a linear slideshow where you fill each slide progressively with information, these applications use a single canvas where you move the focus through panning and zooming. Two such applications are:
+Prezi
+Focusky
+Miro
+The advantage of canvas-based presentation software is that it allows you to create more fluid and creative presentations. The disadvantage is that this format relies heavily on movement and animation, unlike slide-based applications. This can make it more difficult for the viewer to organise information logically. It is also more difficult to pause or navigate backwards and forwards. 
+Fig 5. Prezi screenshot (2024) Presentation templates
+What type of presentation software should you use?
+When choosing the presentation software and format, consider the following:
+How will you present?
+In-person on a one-to-one basis?
+In-person in a meeting or office setting?
+In a conference call setting, e.g. via Zoom?
+Attached or shared as an electronic document via email?
+Consider also the output format:
+If you are sending files via email, make sure to use a universal format like PDF, which can be viewed easily on most devices
+If you are presenting in person, make sure that the equipment available will support the presentation format, e.g. if you wish to show a PowerPoint presentation with animations and transitions, you will need access to a machine with PowerPoint installed.
+These considerations will help you decide which application is best for you and for the job at hand. If presentation software applications become an area of interest for you, there are many more possibilities to explore, such as virtual reality tours and immersive augmented reality. However, it is essential to remember that the central focus should always be the design work itself. The presentation application is just a method to communicate this.

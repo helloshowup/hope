@@ -1,0 +1,33 @@
+What is Modular Type?
+Modular type was born from the simplicity of the Bauhaus movement and other experiments in geometric typefaces during the 1920’s and 30’s.
+Fig 1. Developing a modular type
+Modular type is a typographic system or alphabet that involves constructing letters and characters from a limited number of shapes or interchangeable parts (also referred to as modules). These parts or modules can be geometric shapes, lines, or other components that, when combined, form the various elements of a letterform. Each letterform is created by combining the modules and then rotating, flipping or reflecting it to create an entire alphabet. This approach allows for greater consistency in a design and cohesion of the elemental parts of the type.
+Fig 2. Modular type examples
+Because modular type consists of predefined forms and restrictive systems, it is often a quick and approachable method for building letters. But it would be a mistake to assume that this is a restriction on creativity, In fact, building letterforms within the constraints of modular elements can yield new and surprising results.
+Fig 3. More modular type examples
+Concepts of Modular Type
+As a graphic designer, it is important to understand and to consider the following key features and concepts of modular type as they may might impact your own designs:
+Grids
+Modular type often relies on a grid system to guide the arrangement of modular units while creating various letterforms, numbers, and symbols. The grid provides a structured framework that helps maintain consistency in the size, spacing, and alignment of the modules.
+Consistency and Repetition
+The use of modular components promotes consistency and repetition in the design. Since the same modules are used to create different letterforms, there is a cohesive visual language throughout the typographic system.
+Flexibility and Adaptability
+One of the advantages of modular typography is its flexibility. Designers can adapt the modular components to create a wide range of letterforms, allowing for versatility in design applications.
+Modular Typefaces
+Some typefaces are specifically designed with a modular approach of constructing characters from modular units. These typefaces may have a distinct, geometric, or structured appearance.
+Digital and Physical Implementation
+Modular typography can be implemented both digitally and physically. In digital design, modular typography can involve vector-based software to arrange and rearrange modular components. In physical design, graphic designers can use cut paper, modular stencils, or other tangible materials.
+Experimental and Creative
+Modular typography allows for experimentation and creativity in typographic design. Designers can play with different arrangements and combinations of modules to create visually interesting and unique letterforms.
+Variations
+Modular typography can also be used to create variations of the standard letterforms in the English (or other) alphabet, acting like ornamental representations of these letterforms. Variations can be created by breaking letterforms down into modular components and rearranging or modifying those components.
+Educational Tool
+Modular typography is sometimes used as an educational tool to teach the fundamentals of typography and design. It provides a structured and systematic approach to understanding the construction of letterforms.
+An Example of a Modular Typeface
+Godina is a typeface that was inspired by the idea that primary forms can make up an entire alphabet. This typeface was designed by Alberto Molina through a process of deconstructing and constructing shapes in captivating ways. Godina has strong geometric undertones, yet also playful, unusual and unique. Its legibility can be slightly challenging, but Godina is a typeface that stands out and makes a strong first impression. Godina is a perfect choice for logos, editorial designs, and posters.  
+Fig 4. Gordon (2021) Godina modular type
+Final Thoughts
+Modular typography has been used in various design movements, including some elements of the Bauhaus and Swiss design movements. It continues to be a source of inspiration for contemporary designers who are interested in exploring new and innovative approaches to typography.
+Fig 5. Modular type used for basketball posters
+References:
+Gordon, C. (2021) Type Tuesday: Meet Godina, a modular typeface with endless curved forms. https://www.printmag.com/typography/type-tuesday-meet-godina-a-modular-typeface-with-endless-curved-forms/.

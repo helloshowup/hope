@@ -1,0 +1,33 @@
+# DOWNLOADABLE RESOURCES TEMPLATE FOR ANY ONLINE COURSE
+
+## CORE REQUIREMENTS
+
+- Generate one hosting page (100) and places for hyperlinks to the PDF resources
+
+## HOSTING PAGE REQUIREMENTS
+
+\[One paragraph introducing value of resources\]
+
+### Using These Resources
+
+\[One paragraph explaining how/when to use\]
+
+### Available Resources
+
+**PDF 1:** \[Title + one-sentence description\]
+
+### Process Note
+
+\[One paragraph connecting to broader learning\]
+
+**PDF 2:** \[Title + one-sentence description\]
+
+### Process Note
+
+\[One paragraph connecting to broader learning\]
+
+**PDF 3:** \[Title + one-sentence description\]
+
+### Process Note
+
+\[One paragraph connecting to broader learning\]

@@ -1,0 +1,114 @@
+Conducting Research 
+Research is a valuable skill that can take some time to learn. It is about asking the right questions, collecting data and analysing the information you find. Done correctly, research will improve the quality, creativity and efficiency of your design projects. 
+Research doesn’t have to be daunting. It can be as simple as sitting down with a client and talking about what they need from a design or perhaps examining a poster design to explore the elements and principles that make it work (or not work). The key to doing good research is to develop a structured system for raising questions, collecting data about those questions and analysing the results. This way you can be confident about the accuracy and detail of your research findings. 
+Let’s take the example of a client brief. What would you, the designer, need to know about the project? It may be some, or all of the following: 
+Project objectives
+Target audience
+Key messages 
+Brand guidelines
+Budget and timeline
+Technical requirements
+Content and visual assets to be used in the design
+How communications (feedback and revisions) will happen
+Contact details for the team
+Legal or regulatory requirements
+You might decide to raise a set of questions for your client in an email, or meet with them numerous times, working through each issue and asking follow up questions. Next you would reflect on this information, evaluating how you can plan for the project and execute the designs. 
+Research methods
+But research doesn’t stop at the client brief. As a designer you may need to interpret market research in order to understand the target audience for a project. This can include identifying the age, geography, socioeconomic or financial profile of the customer base. You may need to consider their cultural interests, hobbies and lifestyles to find inspiration for your designs. Audience segmentation is a related concept that refers to the way a marketing team might look at a target audience and divide them into subgroups depending on their profiles. For a designer, this will help you strategically tailor a message.
+The client might be able to give you this information but it is useful to be able to do your own research so you can get even more detail and to ‘get into the mindset’ of your target audience. 
+Research also involves exploring different graphic designs to discover what other designers have done in similar situations. This will help you to create innovative designs for your client and not to repeat ideas or create work that might be considered outdated or cliched. 
+Research methods are a way of structuring how you collect, organise and analyse data to make sure that your results include:
+Accurate answer to the questions you have raised 
+Enough information for you to complete your project 
+Choosing an appropriate method for your project is a crucial part of the research process. Using an established method will:
+Improve the trustworthiness of your research findings (this is called the validity of your research)
+Provide you with a road map for undertaking a successful project
+Give the reader of your research findings (your client or other stakeholders) a clear understanding of what you did to collect information plus analysis of the findings
+Create transparency in your research by following an established method while describing the process and the data in detail 
+There is a wide range of methods to choose from, each with a different strategy or approach. Some of these are described in the sections below. The method you choose for your project will depend on many different issues, such as:
+Size of your project e.g. the scope of the questions you are asking.
+Length of time you have to complete the project
+Type and availability of the information (data)
+The quantity of data you will need to investigate your questions and uncover the answers
+Type of research methods that are commonly used in your subject area
+The trustworthiness of the data you collect (e.g. the possibility of error or bias in the information that you collect). But many research methods will include strategies for overcoming or limiting this type of problem
+What is data?
+Data is information. It can be quantitative or qualitative information about people or objects. Data is used to analyse a research question and provide evidence for or against an argument in response to the question. 
+We often think of data in a numerical sense. Some typical examples of data are things like the percentage of people who have a degree in different countries, the number of interior designers in France who run their own companies and the responses of a hundred people to a survey about attitudes towards the role of art and design in promoting sustainability. However, data does not need to be limited to numbers. Interviews, books, magazines and policy documents or even an artist's body of work can all be used as data for a project. 
+The type and volume of data you will collect will depend on issues such as:
+The questions you have
+The data that is available to you
+The usefulness of this data for answering your questions or providing evidence for (or against) a particular argument
+Quantitative vs Qualitative research
+Students often mistake qualitative and quantitative research for differing research methods. Some confuse quantitative or qualitative research as methods in their own right or as a way to group different types of methods together. However, this is not strictly the case. 
+Quantitative research examines data in terms of numbers. For example, the number of visitors to a museum exhibit in June versus October or the ratio of art galleries to local populations in big cities, or perhaps the percentage of the population that say they are interested in art etc. 
+Qualitative research has a narrower focus and is typically interested in answering ‘why’ a particular phenomenon has occurred. It will often involve an in-depth examination of a smaller set of data (e.g. a collection of artwork, interviews with professional designers, an examination of historical documents etc). This type of research is more interested in an interpretation of the meaning people place on the objects/subjects under study. 
+Mixed methods research is simply when a researcher conducts both qualitative and quantitative research as part of their project and most research methods tend to be both. 
+Imagine a student who wants to examine the influence of social media on art & design practice. They undertake a case study using Instagram to investigate their research topic. They could undertake quantitative research by analysing the number of professional graphic designers who use instagram as part of their professional practice. Or they could undertake a qualitative study by conducting in depth interviews with a small number of graphic designers to discover how instagram influences their creative practice.
+Primary v Secondary research
+Another area of confusion for many students is primary and secondary research. Like qualitative and quantitative research, primary and secondary research are not research methods in their own right. Instead, they simply refer to the approach that is taken in order to collect the necessary data.
+Primary research is any strategy where the raw data is collected directly by the researcher. 
+Examples of primary research are:
+a company that undertakes a survey of their customers 
+a scientist that creates an experiment 
+an architect that creates models to replicate a particular design or 
+a student who conducts interviews with a small group of designers 
+Advantages of primary research include:
+Ability to tailor the collected data to your research question
+The most up-to-date information on an issue
+The validity of your research
+Sharing the data you collect with other designers/clients/researchers for future projects
+Disadvantages include:
+Time consuming
+Can be expensive if it includes travel or a heavy use of physical, human and technological resources
+Will need very careful consideration of ethical issues that may arise in the process of data gathering
+Secondary research is any strategy that makes use of data that has been collected by others. The data may still be in a ‘raw’ or unorganised format but the researcher does not need to engage in ‘field work’ or prepare complicated and time consuming strategies for data collection. For example, a student who is interested in examining the working lives of artists makes use of biographical and artistic information collected by other researchers in the past. Advantages include:
+Time saving
+Can collect a larger volume of data than the researcher could access alone
+Cost effective
+Disadvantages include:
+Not tailored to the research question and so must be adapted
+May be difficult to prove the validity of the data. Students must be very careful to use data from reputable sources
+May need prior permission to access and use the information
+Examples of research methods
+Case Studies
+This method involves an in-depth analysis of specific cases relating to a particular subject area. Researchers may consider a single case or compare two or more cases to examine a particular phenomena. There are many different ways to approach a case study and the choice of cases is crucial for this method to be effective. In design,  common examples of ‘cases’ include a particular designer or a specific design. 
+Types of cases can include:
+Typical cases - illustrates an example that is considered normal in the subject area
+Outlier Cases - extreme examples of the subject under study
+Influential cases - examples that had a significant impact on the subject area
+Most Similar - two or more cases that are very alike with the exception of one issue or area that is central to the research question
+Most Different - two or more cases that are completely different from each other with the exception of one issue or area that is central to the research question
+Case studies can be very useful in art & design to examine contextual influences on specific artists, designers and movements. 
+Discourse Analysis 
+This method focuses on analysing different forms of communication. It investigates the many ways people communicate in order to establish, uphold or challenge different theories and norms. Different communication methods include text, speech, audio-visuals, media, art and architecture, fashion, performance, human movement, urban planning etc.
+Discourse analysis can involve:
+Examining the way a specific communication method is used to express an idea or theory
+Comparing the way different methods work together to express an idea
+An examination of semiotics (this is the use of symbols and visuals to express meaning)
+For instance, if a researcher wants to study how the ideas of masculinity and femininity have evolved over time, they could analyse the book covers of genres typically associated with men and women. They would investigate how these cover designs have changed and assess how the images and visuals affect the message conveyed on the covers.
+Thematic Analysis
+Thematic analysis involves systematically identifying recurring themes or patterns within creative works, such as paintings, sculptures, or graphic designs. It helps researchers and artists gain insights into the underlying ideas, emotions, and messages conveyed in their artwork or those of others. This method offers insights into the deeper meanings and cultural context embedded in visual expressions.
+For example, imagine you have been hired by a fashion company to revamp their brand. You start by examining the existing branding materials. A thematic analysis could reveal design elements such as minimalist typography, monochromatic colour schemes, and nature-inspired imagery. This can help you to understand the brand's current visual identity which will guide your future design choices. 
+Practice Based Research
+This method is often used in the arts; typically for anyone who wishes to analyse the processes involved in creating a piece of work. Note that it is different from practice as research where the researcher engages in arts practice solely for the purpose of developing the craft. Practice based research means having a clear research question in mind, taking detailed observations of the processes as they occur and engaging in reflective practice of both the observations and the finished work in order to address the research question. 
+For example, a painter might be interested in exploring the effect of using digital technologies for preparatory work on ideas generation. They could record themselves during drawing sessions, keep a logbook of different environmental factors such as, was the room cold, were they alone, time of day, length of session etc. They would also keep a journal to take note of emotional states, problems with the practice, unexpected benefits of the practice etc. When the work is complete they will then reflect on their observations in order to draw conclusions both from their observations and the finished work. 
+Historical/Biographical Research
+This research method is about collecting evidence in order to interpret an aspect of the past. It can be used in art and design to explore key movements, gain insight into the life of specific people, or to examine the development of specific styles at particular periods of time. Primary sources of data may include buildings or historical artefacts such as clothing, artworks or historical records. Secondary sources would include interpretations from others about the subject in question. These interpretations will involve an understanding of the who, what, where, when and why of a particular topic. They are typically found in books, journals, interviews and videos.  You will then collect and analyse different points of view on the work in order to construct an argument and draw conclusions. 
+Surveys
+Surveys are a classic research method for understanding people’s attitudes towards a wide range of issues. They are often used in marketing and business research, psychology and the social sciences and in a large variety of other disciplines. Surveys can be quantitative or qualitative in nature. Often, you will be able to make use of large surveys that have been compiled by other people and/or agencies. However, you can also create your own surveys by constructing questionnaires, transcribing or coding the answers and analysing the results.  One disadvantage is that you must be very careful in structuring the questionnaire in order to avoid getting biassed results. You must also consider how many participants you will need to get accurate results, how you will share the survey with potential participants and how you will protect their confidentiality.
+Research bias
+Research bias refers to the errors or prejudices that may surface in a research project and can skew outcomes or create errors in interpretation. It can happen when:
+The choice of research method is inappropriate to the study being conducted
+The designer/researcher has prior ideas or beliefs that influence their interpretation of the outcomes or
+The sample of people, designs, numerical information, articles, historical information etc. that you want to analyse are inappropriate for answering the question you have raised 
+For example, let’s say you are testing the effectiveness of different logos on an eco-friendly brand. You decide to survey your friends and family who are already very eco-conscious. The language you use in the survey suggests that you already think an eco-friendly message is positive. There is bias in this study because:
+You have only surveyed people who already like eco-friendly products
+You have created a survey that leads people to answer in a particular way 
+An awareness of bias means that you are more likely to take steps to reduce the chances of producing inaccurate information that will impact the effectiveness of your designs. 
+A note on ethics
+Similar to bias, it is important to pay attention to ethics in your work. Graphic designers have the power to shape perceptions and influence opinions through the messages they convey in their work. It is vitally important to approach any project with integrity, to respect cultural sensitivities, and to strive to be truthful in all communications. Ethical research can involve:
+Refusing to fulfil client’s wishes that may violate ethical standards in the industry
+Giving credit to the original creators of a work and not plagiarising the work of others
+Refrain from promoting harmful stereotypes in your work
+Respecting the privacy and security of all stakeholders in the project and that of your audience.

@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="en-US">
+<voice name="en-US-AndrewNeural" parameters="temperature=0.35">
+<prosody rate="-5%" pitch="+2%" volume="+10%">
+<p>Welcome to your core strengthening session. <break time="650ms"/> Today,<break time="150ms"/> we’ll focus on the plank. <break time="650ms"/> This exercise targets several muscles at once and helps improve posture. <break time="650ms"/></p>
+<p>Let’s get set up. <break time="650ms"/> Start by lying face down on the floor or a mat. <break time="650ms"/> Place your forearms flat on the ground,<break time="150ms"/> elbows directly under your shoulders. <break time="650ms"/> Your feet should be together,<break time="150ms"/> toes tucked under. <break time="650ms"/> Now,<break time="150ms"/> lift your body up,<break time="150ms"/> supporting your weight on your forearms and toes. <break time="650ms"/> Keep your head in line with your spine. <break time="650ms"/> Your gaze should be toward the floor. <break time="650ms"/> Form a straight line from your head down to your heels. <break time="650ms"/></p>
+<p><emphasis level="strong">Do not let your lower back sag or arch upward.</emphasis> <break time="650ms"/> This is the most important safety reminder for the plank. <break time="650ms"/></p>
+<p>Let’s start the hold together. <break time="650ms"/> Take a breath in. <break time="650ms"/> Engage your core. <break time="650ms"/> Squeeze your glutes. <break time="650ms"/> Draw your belly button toward your spine. <break time="650ms"/></p>
+<p>We’ll hold for ten seconds. <break time="650ms"/> I’ll count each second and give you form cues. <break time="650ms"/></p>
+<p><prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">lift your hips just to shoulder height</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">press your forearms gently into the ground</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Three - <emphasis level="moderate">keep your neck relaxed and neutral</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Four - <emphasis level="moderate">legs are straight and strong</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Five - <emphasis level="moderate">shoulders are away from your ears</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Six - <emphasis level="moderate">breathe evenly,<break time="150ms"/> do not hold your breath</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Seven - <emphasis level="moderate">check for a straight line,<break time="150ms"/> head to heels</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Eight - <emphasis level="moderate">squeeze your glutes again</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Nine - <emphasis level="moderate">hold steady,<break time="150ms"/> no movement</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Ten - <emphasis level="strong">maintain perfect form through the finish</emphasis> <break time="3000ms"/></prosody></p>
+<p>Success check: Is your body straight? <break time="650ms"/> If your back is sagging or arching,<break time="150ms"/> reset and try again. <break time="650ms"/></p>
+<p>If you need an easier option,<break time="150ms"/> drop your knees to the ground. <break time="650ms"/> Keep your body straight from your head to your knees. <break time="650ms"/> Still engage your core and glutes. <break time="650ms"/> For more challenge,<break time="150ms"/> try lifting one foot off the ground for a few seconds. <break time="650ms"/></p>
+<p>Remember,<break time="150ms"/> record your time. <break time="650ms"/> Add five seconds to your hold each day as you progress. <break time="650ms"/></p>
+<p>The plank helps stabilize your entire core. <break time="650ms"/> It also supports healthy posture and reduces your risk of injury. <break time="650ms"/> Practicing regularly will strengthen your abs,<break time="150ms"/> lower back,<break time="150ms"/> and shoulders. <break time="650ms"/> Nice work today. <break time="650ms"/> Stay consistent,<break time="150ms"/> focus on form,<break time="150ms"/> and you’ll see great results. <break time="650ms"/></p>
+</prosody>
+</voice>
+</speak>

@@ -1,0 +1,27 @@
+you are making surgical edits. find the diff reports at end of a file and remove it only. it will start with a heading similiar or exact to "## Diff Report: Changes Made" followed bu some text explaining changes made to the lesson plan. remove that ONLY. if there is nothing like a diff report at the end of the lesson, then dont delete or add anything. 
+
+Here is an example of a Diff Report
+
+---
+
+## Diff Report: Changes Made
+
+I addressed the flagged pattern of multiple adverbs appearing too close together in sentences by:
+
+1. Learning Objectives: Changed "Apply proper online networking etiquette in professional communications" to "Apply proper etiquette in professional communications online"
+
+2. Section 2 - Message Elements: No direct changes needed as this was a list format rather than sentence structure
+
+3. Areas for Improvement: Changed "Immediately asks for a significant favor" to "Asks for a significant favor right away"
+
+4. Step-by-Step Process: 
+   - Changed "Select your recipient carefully" to "Select your recipient with care"
+   - Changed "Proofread carefully" to "Review for errors"
+   - Changed "Follow up appropriately" to "Send a brief thank-you"
+
+5. Implementation Best Practices: Changed "Document immediately after each networking attempt" to "Record each attempt soon after making it"
+
+6. Check Your Understanding: Changed "Immediately asking for favors or job opportunities" to "Asking for favors or job opportunities right away"
+
+These changes maintain the original meaning while creating more natural, human-like sentence structures that vary the use of adverbs.
+

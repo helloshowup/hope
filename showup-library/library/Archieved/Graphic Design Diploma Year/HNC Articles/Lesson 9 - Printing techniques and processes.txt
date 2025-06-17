@@ -1,0 +1,160 @@
+Introduction
+In graphic design, there are many different printing techniques and processes used to bring designs to life on physical mediums such as paper, fabrics, or other materials. Each technique offers unique characteristics, advantages, and considerations. 
+In response to the growing demand for printed materials, graphic design and printing became close allies during the industrial revolution of the 19th century but their relationship predates this era.  Originally, printing was primarily done using manual methods such as woodblock printing, movable type printing (invented by Johannes Gutenberg in the mid-15th century), and various forms of relief and intaglio printing. These methods were effective but also extremely labour-intensive, time-consuming, and limited in their capacity for mass production. 
+Fig 1. Pixabay (n.d.) Printing press
+But the industrial revolution significantly accelerated and transformed the processes of graphic design and printing that led to techniques and processes that we know and use today. 
+One example is the use of engraved plates and chemicals to create an image. This opened up enormous possibilities for creative expression and advertising in design. Advancements in technology, such as the development of steam-powered presses and mechanised printing processes, also revolutionised the printing industry which led to the establishment of large-scale printing facilities capable of producing vast amounts of printed materials at a faster pace and lower cost than ever before.
+Based on the printing advances during the industrial revolution and the commercial possibilities that emerged because of it, the job of graphic design became more specialised. This is where designers began to play a more integral role in the creation of printed materials.
+Types of Printing Techniques
+Printing techniques and processes have evolved over centuries, offering various methods to reproduce text, images, and designs on different surfaces, like advertisements, packaging, publications, signage, etc. There are numerous printing techniques that are both historical and still used to this day which fall under roughly five methods of print:
+Relief 
+Intaglio
+Planar/planographic
+Stencil
+Digital
+There are many variations of print that fall under each umbrella, not to mention numerous other innovations in print, but these are some of the most prevalent techniques and processes.
+Relief printing
+Relief printing is a traditional printing technique where the image to be printed is raised from the surface of the printing plate and the negative space has been carved away. This raised image is then inked and brought into contact with the printing substrate, leaving behind an impression of the image. Relief printing includes methods such as: 
+Letterpress
+Woodcut
+Flexography
+Linocut printing.
+Letterpress
+Until the mid-20th century, letterpress printing was commonly used for printing books, newspapers, posters, and other materials. It involves individual metal or wood type pieces that are arranged on a composing stick to form words, phrases and/or sentences. The assembled type is then locked into a chase and inked using a roller. The inked type is pressed onto the printing surface, transferring the ink and creating a raised impression of the text or image.
+Due to its distinctive tactile quality, letterpress printing is still used today but generally for more specialty projects such as fine art prints or wedding invitations.
+Fig 2. Unsplash (n.d.) Letterpress printing
+Woodcut
+Woodcut is the technique of carving an image into a block of wood, leaving the raised portion of the design to be inked. The inked block is then pressed onto paper or another appropriate surface to create a print.
+Fig 3. Pexels (n.d.) Simple example of woodcut printing
+Woodcut printing has been used for centuries, particularly in early book printing and for creating decorative art illustrations. This technique is effective if you are looking to create bold, graphic imagery and has a distinctive texture and linear quality.
+Flexography
+Flexographic printing is a modern form of relief printing that uses flexible rubber or photopolymer printing plates that are wrapped around a rotating cylinder for each colour. Similar to letterpress, the graphics and text for each colour are raised from the surface of the plate, ensuring they are the only areas that are inked. 
+This technique is generally used for printing on flexible surfaces such as paper, cardboard, plastic films, and packaging materials. It is well-suited for high-volume printing applications and is widely used in the packaging industry for items such as labels, flexible packaging, corrugated boxes, and wrappers.
+Linocut
+Linocut printing is a relief printing technique similar to woodcut or block printing, but instead of carving into wood, you carve into a much softer sheet of linoleum. You then apply printing ink on the surface of the linoleum with a roller and then print on your desired surface, such as paper or textiles.  
+Fig 4. Pixabay (n.d.) An example of a lino print
+Intaglio printing
+Intaglio is a traditional printmaking technique that involves inscribing an image into the surface of a plate usually made of copper, zinc or other metals. The incisions are made with sharp hand-tools or by using acid. Ink is then applied to the plate, with the incised areas holding the ink and the rest of the surface wiped clean. You can then create a print by pressing the plate onto the printing surface (e.g. paper) to transfer the ink. There are numerous intaglio methods including 
+Etching
+Engraving
+Drypoint
+Aquatint
+Mezzotint
+Photogravure.
+ 
+Etching
+The process of etching uses acid on a metal plate, usually copper, that is coated with an acid resistant ground. The artist then uses an etching needle to draw or scratch an image through the ground, exposing the metal surface underneath. The plate is then dipped in an acid bath, which eats away at the exposed metal, creating recessed lines or areas. The results will depend on the time it spends in the acid bath and what tools are used to scratch the plate.
+After the desired depth is achieved, the plate is inked, and the surface wiped clean, leaving ink only in the etched grooves. The plate is then pressed onto dampened paper under high pressure, transferring the ink and creating a print with raised lines or areas.
+Fig 5. Unsplash (n.d.) The printed result of etching 
+Engraving
+Engraving is probably the best-known method of printing and is as old as the Greeks, Romans and Etruscans. But it only really made its printmaking debut in the 15th-century in Germany.  
+Engraving involves using controlled pressure and precise movements to cut an image directly into a metal plate using a burin (sharp tool). After engraving, the plate is inked and wiped clean, similar to the etching process. When pressed onto paper, the ink is transferred from the recessed lines, creating a print with crisp, precise lines and fine detail.
+Fig 6. Unsplash (n.d.) Engraving tools
+Drypoint
+Drypoint involves scratching the image directly into a metal plate, usually made of soft copper, using a hard-pointed needle or other sharp tool. Unlike etching and engraving, drypoint does not involve any chemical etching or cutting, which results in a softer, more textured line. Drypoint is characterised by the curl of displaced metal from the cutting, known as burrs. The burrs will hold ink and contribute to the characteristic velvety texture of drypoint prints. Similar to other intaglio techniques, drypoint plates are then inked and wiped clean before printing.
+Aquatint
+Aquatint dates back to the mid-17th century and creates a more subtle tonal range than typical etching techniques. Drops of a fine powdered rosin/resin is applied to a metal plate and then heated. The metal plate is then submerged in an acid bath, which bites into the areas that remain exposed around the melted drops of rosin/resin, creating a textured surface. The length of time it remains in the acid bath will determine how dark the final print will become. This is known as a ‘deeper bite’. Aquatint is often used in combination with other intaglio techniques to create prints with rich tonal variations.
+Fig 7. Unsplash (n.d.) A product of the aquatint process
+Another variation of this technique is called ‘spitbite aquatint’, where strong acid is painted directly onto the aquatint ground on the plate. To control the acid application, saliva or gum can be used to protect certain areas. In the past, people used to coat a clean brush with saliva before dipping it in acid and then brushing onto the ground, hence the term ‘spitbite.’
+Photogravure
+Photogravure is a photographic technique used with aquatint. An aquatint ground is created, then the image is exposed in a darkroom onto a sensitised gravure film or carbon tissue. This image, in turn, is then transferred to a metal plate. The plate is bathed in warm water, causing the unexposed emulsion on the carbon print to be washed away, leaving the image in relief. There are many complex steps to this, but the result is a rich tonal range.
+Mezzotint
+Mezzotint arrived in the 18th and 19th-century and is characterised by the entire metal plate that is marked by fine lines in all directions. This creates a rough textured surface, which you then selectively smooth out in certain areas to create lighter tones, leaving other areas rough to hold more ink for darker tones. It is a very slow and time-consuming process, but the results are very beautiful.
+Fig 8. Unsplash (n.d.) The product of mezzotint
+Planographic printing
+Planar - or planographic printing uses a flat surface as opposed to a raised surface (as with relief printing) or incised surface (as with intaglio printing). Lithography and offset lithography are planographic processes that rely on the science that water and oils are immiscible - meaning they do not mix. 
+Lithographic
+The lithographic print process involves the use of a waxy crayon or  a greasy substance known as ‘ruche.’ This is spread over a metal matrix, made of zinc or aluminium to mask off certain areas before applying water over the whole image. Ink is then applied and only adheres to the waxy crayon areas, not the water saturated parts. The ruche retains ink or pigment and repels water, while the remaining surface area accepts water, producing a clean or blank background.
+Fig 9. Unsplash (n.d.) Spanish Dancer lithograph by Alexandre Lunois
+Offset lithography
+Offset printing is a variation of lithography where the image is transferred from a plate onto a rubber blanket before being pressed onto the printing surface. It starts with the image first being etched or transferred onto a metal plate, typically aluminium, which is then wrapped around a cylinder on the printing press. The plate is inked, and the inked image is transferred onto a rubber blanket cylinder that presses the image onto the printing surface, usually paper. This technique is widely used for high-volume commercial printing, such as magazines, newspapers, books, and packaging.
+Stencil techniques
+Stencil techniques, including screen-printing and pochoir, is one of the more simple forms of printmaking. It simply requires cutting out a design, with the negative space around the image being blocked out and the ink being applied through the openings. Besides its simplicity, stencilling also allows printing on virtually any material surface.
+Screenprinting
+A screenprint, also known as a serigraph or silkscreen, is created using an image exposed onto a photosensitive emulsion. A stencil is then created on a mesh material which gets stretched tightly over a frame. The ink or paint is forced through the mesh with a squeegee, while the negative space is blocked by the cured emulsion. Screenprints can be made on almost any surface and can allow for more opacity of ink, which is ideal for large-scale production.
+Fig 10. Unsplash (n.d.) Screenprinting
+Pochoir
+Pochoir is the direct method for hand-colouring through a stencil. The stencil itself is usually cut from paper, card, metal or plastic. A stencil and stencil-brush is then used to create an entire image or to add colour to a print.
+Fig 11. Pexels (n.d.) basic stencilling
+Digital printing
+Digital printing is a modern, widespread method of printing that involves transferring digital files directly onto a printing surface without the need for traditional printing plates. Digital printing is a technique that offers versatile and cost-effective solutions for printing various materials, with shorter turnaround times and customisable content. Even some analogue printers will use digital printing as test prints or as part of the bigger print process due to its immediacy and convenience.
+ 
+
+
+**
+Graphic Design HN
+Lesson 9 – step 9
+Printing techniques video script
+It was during the industrial revolution of the 19th century, that graphic design and printing first became close allies. 
+Old Historical Retro Vintage Nostalgic Technology Revolution Background, Industrial Stock Footage ft. background & locomotive - Envato Elements 
+Old Printing Press Paper Loop, Industrial Stock Footage ft. old & paper - Envato Elements 
+The use of engraved plates and chemicals to create an image opened up enormous possibilities for creative expression and advertising in design.
+Patterned background textures, Photos - Envato Elements 
+Detail of hand using letterpress machine in book arts workshop, overhead view, Photos - Envato Elements 
+Young mans hands holding letterpress letter in traditional print workshop, Photos - Envato Elements
+Since then, printing processes and techniques have evolved exponentially.
+Book Is Printed On Printing Press, Industrial Stock Footage ft. book & cutting - Envato Elements 
+There are numerous printing techniques that are both historical and still used to this day. 
+These techniques fall under 3 main methods of print. These are relief, INTALIO intaglio and PLAINER planar with many variations falling under each umbrella. Not to mention numerous other innovations in print.
+linocut. manual printing on the machine, Photos - Envato Elements 
+Shoe Making 18 Century Technical Engraving Stock Illustration - Download Image Now - 2015, Copy Space, Denis Diderot - iStock (istockphoto.com) 
+Starwheeled Lithographic Press 1806 Wood Engraving Published In 1876 Stock Illustration - Download Image Now - iStock (istockphoto.com) 
+Relief printing is basically wood print, but it also encompasses any printing process that is created from a surface where the negative space of the image has been carved away and the paper is pressed down onto the inked surface.
+Letterpress Printing Stock Photo - Download Image Now - Printmaking Technique, Graphic Designer, Printing Out - iStock (istockphoto.com) 
+Old Wooden Printing Press Stock Photo - Download Image Now - Printing Press, Pushing, Old - iStock (istockphoto.com) 
+ Linocut is also a well-known relief method as the softer linoleum surface is easier and more malleable to work with
+linocut. rolling paint on a piece of linoleum, Photos - Envato Elements
+linocut. manual printing on the machine, Photos - Envato Elements 
+The intaglio printmaking technique involves cutting an image into the surface of a plate usually made of copper, zinc or other metals. The cutting is made with sharp hand tools or by using acid. Ink is then applied to the plate and the print is created by pressing the paper onto the surface. There are numerous intaglio methods including Engraving, Drypoint, Mezzotint, Etching Aquatint, Spitbite Aquatint and Photogravure. ( on screen)
+Printing US Dollar Bills, Photos - Envato Elements 
+Printing Plate For Making Counterfeit Threeruble Notes Stock Illustration - Download Image Now - iStock (istockphoto.com) 
+Planar -or planographic- printing utilises a flat surface rather than an indented or raised one. 
+Offset printing press working at high speed in a large printing facility, Industrial Stock Footage ft. offset & press - Envato Elements 
+Lithography and offset lithography are planographic processes which rely on the science that water and oils are immiscible - meaning they do not mix.  
+Lab Assistant Shakes Bottle with Oil and Water, Science Stock Footage ft. closeup & assistant - Envato Elements
+The lithographic print process involves the use of a waxy crayon or  a greasy substance known as ruche. This is spread over a metal matrix, made of zinc or aluminium to mask off certain areas before then applying water over the whole image. 
+Ink is then applied and only adheres to the waxy crayon areas, not the water saturated parts. So - the ruche retains ink or pigment and repels water, while the remaining surface area accepts water, producing a clean or blank background.
+Male Lithograph Worker Using A Sponge Stock Photo - Download Image Now - Etching, Monoprint, Lithograph - iStock (istockphoto.com) 
+Close Up Of Female Lithograph Worker Using Rolling Pin Stock Photo - Download Image Now - iStock (istockphoto.com) 
+Couple Lithograph Workers Creating New Pattern At Printing House Stock Photo - Download Image Now - iStock (istockphoto.com)
+Each process involves varying levels of complexity - but here’s an overview of each.
+Engraving is probably the best-known method of printing where a metal plate is cut with a BEU-RIN burin which is pushed to various degrees and angles by skilled crafts people.
+Engraving Hand Tools Stock Photo - Download Image Now - 2015, Close-up, Copper - iStock (istockphoto.com) 
+ Engraving is as old as the Greeks, Romans and Etruscans but only began its printmaking path in 15th century Germany.
+Ancient Roman Lettering Stock Photo - Download Image Now - Stone - Object, Text, Alphabet - iStock (istockphoto.com) 
+Ancient Greek Letters In Stone Stock Photo - Download Image Now - Abstract, Alphabet, Ancient - iStock (istockphoto.com)
+Horatius Cocles Defending The Tiberbridge Against The Etruscans Stock Illustration - Download Image Now - iStock (istockphoto.com) 
+Dry point is characterised by the curl of displaced metal, called the burr, which forms as the 
+When inked, the burr creates a distinctive velvety appearance. This technique is usually done on soft copper plates.
+Engraved Copper Plate Stock Photo - Download Image Now - Art, Copper, Cartography - iStock (istockphoto.com) 
+Mezzotint arrived in the 18th and19th century where the entire metal plate is marked by fine lines in all directions making it rough. It is a very slow and time-consuming process, but the results are very beautiful.
+https://unsplash.com/photos/a-black-and-white-drawing-of-a-group-of-people-mpCmgvuLjtY
+The process of etching uses acid on a metal plate that is coated with an acid resistant ground. The image is scratched through the ground and the plate is dipped in an acid bath. The results will depend on the time it spends in the acid bath and what tools are used to scratch the plate.
+https://unsplash.com/photos/a-painting-of-people-on-a-boat-in-a-body-of-water-JT9YNaP-6o0
+Aquatint dates back to the mid-17th century and creates a more subtle tonal range than typical etching techniques. Drops of powdered rosin – or resin - are heated onto a metal plate; the metal that remains exposed around the melted drops of rosin is bitten in an acid bath. The length of time it remains in the acid bath will determine how dark the final print will become.  This is known as a deeper bite. 
+https://unsplash.com/photos/a-black-and-white-drawing-of-a-cave-fFm2p3z2fbE
+There is also Spitbite Aquatint where strong acid is painted directly onto the aquatint ground on the plate.  To control the acid application, saliva, or gum can be used. Printers used to coat a clean brush with saliva before dipping it in acid and then brushing onto the ground. Hence the term "spitbite."
+PHOTOGRAV- YOUR -Photogravure is a photographic technique used with aquatint. An aquatint ground is created then the image is exposed in a darkroom onto a sensitised gravure film or carbon tissue. This image, in turn, is transferred to the metal plate. The plate is bathed in warm water, causing the unexposed emulsion on the carbon print to be washed away, leaving the image in relief. There are many complex steps to this, but the result is a rich tonal range.
+Then we move on to stencil techniques including screen-printing and POH - CHOIR pochoir.
+Screen Printing Equipment Development Room Professional Industry Detail, Close Up Silkscreen, Industrial Stock Footage ft. business & design - Envato Elements 
+Woman stenciling on art project., Photos - Envato Elements
+In many ways, stencilling is one of the more simple forms of printmaking because it is simply cutting out a design and can be on virtually any material. The negative space around the image is blocked out and the ink is applied through the openings.
+Stencil Technique, People Stock Footage ft. stencil & design - Envato Elements
+A Screenprint also known as a Serigraph or Silkscreen is created using an image exposed onto a photosensitive emulsion. A stencil is created on a mesh material stretched tightly over a frame. The ink or paint is forced through the mesh with a squeegee, while the negative space is blocked by the cured emulsion. Screenprints can be made on almost any surface and can allow for more opacity of ink.
+Screen Printing Manufacturing On T-Shirts 1, Industrial Stock Footage ft. business & industry - Envato Elements
+Screen Printing Manufacturing On T-Shirts 7, Industrial Stock Footage ft. business & industry - Envato Elements
+Pochoir is a direct method for hand colouring through a stencil. The stencil itself is usually cut from paper, card, metal or plastic. A stencil and stencil-brush can be used to create an entire image or to add colour to a print.
+Urban Artist Using Stencil and Spray Paint for Drawing Graffiti on the Wall, City Stock Footage ft. graffiti & artist - Envato Elements
+Woman Hands Painting Wooden Circle Close Up Stock Photo - Download Image Now - Stencil, Paint, Home Decor - iStock (istockphoto.com)
+Other techniques include, monoprint/monotype, lithography, digital print and collagraph. - text on screen
+Not included in article:
+Monoprint and  mono type are methods of printing where no two prints are identical. All or part of a monoprint can be created from a number of approaches including woodblock, a matrix or etched plate for example. 
+A monotype image is painted directly onto a smooth unaltered plate and then transferred to paper in a press. These prints are sometimes hand-coloured after they are printed.
+Digital printing is a widespread everyday method of contemporary printing where the image is digitally stored and sent to a printer where it is produced using pigment-based inks. Some analogue printers will use digital printing as test prints or part of the bigger print process due to its immediacy and convenience.
+Printer At Work, Technology Stock Footage ft. printer & paper - Envato Elements 
+Multiple Printer Cartrigdes, Technology Stock Footage ft. printer & cmyk - Envato Elements
+Not included in article:
+Finally the collagraph . This uses a print matrix using any number of materials. They are then collaged into an image and printed either as a relief print or intaglio. Surfaces may also be textured with acrylic mediums or various materials attached to a plate. 
+A knowledge of different print processes and the type of images they can yield, is a vital tool in the skillset of any accomplished graphic designer.
+ 
+

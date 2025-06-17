@@ -1,0 +1,43 @@
+## Fig 21
+Close-up of a mobile financial app interface showing a transaction component with clear security indicators like a lock icon and color-coded security status.
+Suggested search terms:
+- mobile app
+- transaction interface
+- security indicator
+- lock icon
+- color-coded status
+
+## Fig 22
+Same transaction component adapted for tablet showing expanded information while maintaining security elements.
+Suggested search terms:
+- tablet
+- financial data
+- security elements
+- progressive disclosure
+- expanded information
+
+## Fig 23
+Desktop version of the same component showing comprehensive transaction details with advanced filtering options while maintaining consistent security indicators.
+Suggested search terms:
+- desktop
+- transaction details
+- filtering options
+- security indicators
+- analytical capabilities
+
+## Fig 4
+Designer working on multiple screens showing financial app interfaces at different stages of development - mobile, tablet and desktop versions visible simultaneously.
+Suggested search terms:
+- laptop
+- tablet
+- mobile phone
+- financial app
+- user interface
+
+## Fig 5
+Split-screen showing a financial dashboard with accessibility testing tools applied - one half showing the original design and the other showing the same interface with a color blindness filter applied, highlighting problematic areas in data visualization.
+Suggested search terms:
+- financial dashboard
+- accessibility testing
+- color blindness filter
+- data visualization

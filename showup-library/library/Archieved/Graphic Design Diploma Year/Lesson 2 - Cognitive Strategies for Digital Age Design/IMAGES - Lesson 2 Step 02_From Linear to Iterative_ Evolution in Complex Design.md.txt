@@ -1,0 +1,50 @@
+## Fig 11
+Diagram showing linear design process with sequential boxes connected by one-way arrows, with feedback only appearing at the end.
+Suggested search terms:
+- linear design process
+- sequential boxes
+- one-way arrows
+- feedback at end
+
+## Fig 12
+Diagram showing iterative design process with circular workflow and multiple feedback points throughout, represented by loops returning to earlier stages.
+Suggested search terms:
+- iterative design process
+- circular workflow
+- feedback loops
+- design development
+- design stages
+
+## Fig 31
+Designer presenting early wireframe sketches to a small group of stakeholders in a casual meeting setting.
+Suggested search terms:
+- wireframe sketches
+- presentation meeting
+- stakeholder feedback
+- concept development
+
+## Fig 32
+Designer showing interactive prototype on tablet to the same stakeholders who are pointing at specific elements.
+Suggested search terms:
+- designer
+- tablet
+- stakeholders
+- prototype
+
+## Fig 33
+Designer presenting refined final design with stakeholders showing approval.
+Suggested search terms:
+- designer
+- presentation
+- stakeholders
+- approval
+- final design
+
+## Fig 6
+Designer showing a client a paper wireframe prototype of a website layout while taking notes on feedback. The wireframe should be clearly low-fidelity with pencil sketches.
+Suggested search terms:
+- paper wireframe
+- pencil sketch
+- website layout
+- client meeting
+- designer

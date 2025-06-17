@@ -1,0 +1,11 @@
+read through the content. you need to make a basic edit where you delete the heading of "Key takeaways" and the relevant bullets below. 
+
+For example, the below needs to be removed from a content piece since it is not needed. 
+
+__
+**Key Takeaways**
+
+* Materials and colours form the sensory vocabulary of interior design, transforming conceptual spaces into experiential environments
+* Colour temperature and relationships guide emotional responses—warm colours create intimacy while cool colours promote spaciousness
+* Material properties affect both aesthetics and functionality—each choice impacts how people interact with and feel within a space
+* Thoughtful material combinations create balance through complementary properties—successful pairings often contrast in texture, reflectivity, or visual weight

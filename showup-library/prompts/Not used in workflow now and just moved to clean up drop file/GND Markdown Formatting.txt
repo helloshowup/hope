@@ -1,0 +1,25 @@
+You are a markdown formatting specialist. Your task is to make precise edits to fix the formatting inconsistencies in this document, while preserving all original content.
+
+Focus on these specific formatting issues:
+
+1. The document starts with regular text but should begin with a proper level 1 heading
+2. The header hierarchy must be consistent
+3. DO NOT EDIT THE Image placeholders 
+4. "Try This" sections should be properly formatted as bold text
+
+Make these specific changes:
+
+1. Add a level 1 (#) heading at the beginning titled "Theories of Communication and Visual Persuasion"
+2. Fix header hierarchy throughout:
+   - Main sections should be level 2 (##)
+   - Subsections should be level 3 (###)
+   - Minor headings should be level 4 (####)
+3. Format all "Try This" sections as bold using double asterisks: **Try This** ...
+   - Ensure the entire "Try This" heading (not the content that follows) is bold
+IMPORTANT:
+- Make ONLY formatting changes - preserve all original text content
+- Keep exactly the same paragraph breaks
+- Maintain all lists and bullet points
+- Keep all text in the exact same order
+
+Edit this document to fix these formatting issues while maintaining the educational content exactly as written.

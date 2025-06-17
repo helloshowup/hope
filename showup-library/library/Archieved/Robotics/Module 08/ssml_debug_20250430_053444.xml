@@ -1,0 +1,139 @@
+<?xml version="1.0"?>
+<!-- Note: This script may not meet all quality guidelines. Please review carefully. -->
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="en-US">
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>Hello! Welcome to Module 8. Glad to see you here. Today, let’s do a recap on how programming lets robots follow our instructions. Hopefully, you will recognise some of what we will talk about today!</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>Hey there! I’m excited for our recap. Let’s start by talking about how robots know what to do. Can you explain how programming works as a “bridge” between what people want and what robots actually do?</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>Sure! Programming is like writing a set of instructions for a robot. But you have to be super clear. A robot doesn’t understand words like “sort of” or “almost.” It needs exact steps. Think of it like following a LEGO manual—one piece at a time. If you miss a step, the robot gets confused or stops working.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>That makes sense. So, if I wanted a robot to make a peanut butter and jelly sandwich, I couldn’t just say, “Make me a sandwich.” I’d have to list every single step, right? Like, “Open the jar,” “Pick up the knife,” “Spread the peanut butter,” and so on.</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>Exactly. You’d need to spell out every detail. For example, “Twist the lid counterclockwise,” “Use the knife to scoop one tablespoon,” and so on. Robots can’t guess or fill in missing details like people can. That’s why precision is so important.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>I can see how that could be tricky. Sometimes, even people get confused if instructions aren’t clear. I once told my friend, “Meet me by the big tree,” but there were three big trees! He got totally lost. Robots are like that too, but even more—they need every detail.</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>Right! That’s why programmers use step-by-step instructions. There’s a simple way to think about how robots work. It’s called the Input-Processing-Output model, or IPO for short.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>I’ve heard of that! IPO… Is that kind of like how a vending machine works? You press a button (input), the machine figures out what you want (processing), and then it drops the snack (output)?</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>That’s a perfect example. Let’s break it down:  
+- **Input**: What the robot senses or receives, like a button press or sensor reading.  
+- **Processing**: The robot’s “thinking”—it uses math or logic to decide what to do.  
+- **Output**: What the robot actually does, like moving, lighting up, or making a sound.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>Cool! So, let’s take a robot vacuum. The input could be its bump sensors and maybe a map of your house. The processing is its computer deciding where to go next. Then the output is the vacuum’s wheels moving or its little spinning brush starting up.</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>Yes, that’s a great way to look at it. The sensors are like the robot’s eyes and ears. The processor is its brain. And the motors, lights, or speakers are like its arms, mouth, or feet.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>That helps a lot. I think students would really get the idea if they tried to write out every step for something simple, like making toast. You’d have to say, “Put the bread in the toaster. Press the lever. Wait until the toast pops up. Take the toast out.” No skipping steps.</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>Exactly. That’s what we call an algorithm. It’s just a list of steps to solve a problem or do a job. In programming, algorithms tell the robot exactly what to do, one step at a time.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>Wait—so is an algorithm always just a list of steps? Or does it sometimes have things like “if” or “when” in it?</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>Good question. Algorithms can include “if” statements, loops, and other choices. For example, “If the bread is not toasted, wait. If it is toasted, take it out.” These choices are called control structures.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>So, kind of like when you’re playing a video game. “If you get hit, lose one heart. If you reach the door, go to the next level.” The game is following a set of rules, just like the robot.</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>Yes! Video games use programming just like robots do. They both use variables, too. A variable is a container for information that can change, like your score in a game or the robot’s speed.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>Hmm, so if I wanted my robot to move faster when the floor is clear, I could use a variable like “speed.” The robot would check its sensors to see if there’s anything in the way (input), process that info, and then change its speed (output).</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>That’s the idea. The robot might use a rule like, “If no obstacle detected, set speed to 10.” Or, “If obstacle less than 20 centimeters away, set speed to 0.”</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>I like how that connects to real life. It’s like when you ride your bike. If the road is clear, you go fast. If you see a big puddle, you slow down or stop. The robot just needs those rules written out clearly.</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>Exactly. But remember, robots can’t “see” the puddle unless you give them a way—like a camera or a sensor. Whatever the robot needs to make a decision, you have to provide that input.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>That’s interesting. But—wait, I have a question. Sometimes I see robots in movies that seem to “figure things out” on their own. Is that actually how it works in real life?</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>Not exactly. Real robots only do what they are programmed to do. Even smart robots, like self-driving cars, follow instructions based on what they sense. They don’t guess or make up new rules by themselves. If something happens that isn’t in their program, they might stop, make a mistake, or ask for help.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>Hmm, that makes sense. But what about robots that “learn,” like when a robot vacuum remembers your house? Isn’t that making up new rules?</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>That’s a little different. Those robots use something called machine learning. They still follow rules, but they can update their information by watching what happens again and again. But even then, the learning has limits. The main rules are still programmed by people.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>I get it now. So, even the “smartest” robots still need people to write the basic rules. The more precise and clear the instructions, the better the robot works.</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>Exactly. Precision is always key. Robots can’t guess. That’s why programming is so important.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>Alright. I have one last question—do all robots need complicated programming, or can simple robots work with just a few steps?</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>Even simple robots need clear steps. A line-following robot, for example, might just sense light and dark, then turn left or right. But it still needs a program that tells it exactly what to do when it sees each one.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>So, every robot, simple or complex, follows the same basic idea: Take in input, process it, and give an output. And it’s up to us to make sure the instructions are clear.</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>That’s right. No matter how fancy or simple, robots need clear, step-by-step instructions.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>I think we covered a lot! For anyone learning about robots, remember: programming is just giving super clear directions, like explaining how to make a sandwich to someone who’s never seen one before. The more precise you are, the better your robot will work.</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>And always remember, robots aren’t magic. They’re machines that follow your instructions. By understanding how to give clear steps, and using tools like variables and algorithms, you can make robots do all kinds of useful things. That’s what makes robotics fun to learn!</p>
+</voice>
+
+</speak>

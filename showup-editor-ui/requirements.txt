@@ -1,0 +1,15 @@
+# UI dependencies for showup-editor-ui
+PyQt5>=5.15
+markdown
+pyperclip>=1.9.0
+
+# Core library (editable install)
+-e ../showup-core
+
+# AI and RAG dependencies
+anthropic
+faiss-cpu
+sentence-transformers
+langchain
+tiktoken
+numpy

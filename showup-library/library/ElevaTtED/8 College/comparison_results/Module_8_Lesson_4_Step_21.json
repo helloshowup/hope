@@ -1,0 +1,8 @@
+{
+  "module": "8",
+  "lesson": "4",
+  "step_number": "21",
+  "step_title": "Portfolio Submission",
+  "best_version": "# Portfolio Submission\n\n## Final Submission Portal\n\nCongratulations on reaching the final step of your College & Career Planning journey! This portal allows you to submit your comprehensive portfolio for review.\n\n### Submission Checklist\nBefore uploading your portfolio, ensure you've completed all required components:\n\n- [ ] Personal Statement/Essay\n- [ ] Resume/CV\n- [ ] Academic Records Summary\n- [ ] College Research Documents\n- [ ] Career Exploration Materials\n- [ ] Financial Planning Worksheet\n- [ ] Goals & Timeline Document\n\n### Upload Instructions\n1. Combine all documents into a single PDF file\n2. Click the \"Upload Portfolio\" button below\n3. Complete the brief reflection questions\n4. Submit your work\n\nUpon submission, you'll receive an automated confirmation email outlining the review process. Expect feedback within 5-7 business days from your instructor, who will provide detailed comments and your final assessment.\n\n[UPLOAD PORTFOLIO]",
+  "explanation": "Error in comparison process: maximum recursion depth exceeded while calling a Python object. Using most structurally complete version as fallback."
+}

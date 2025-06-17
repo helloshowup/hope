@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="en-US">
+<voice name="en-US-AndrewNeural" parameters="temperature=0.35">
+<prosody rate="-5%" pitch="+2%" volume="+10%">
+<p>Welcome to the Knock-Down Challenge. <break time="650ms"/> This game builds your throwing accuracy and improves control. <break time="650ms"/> Today,<break time="150ms"/> you’ll practice targeting and knocking over objects set in a pyramid. <break time="650ms"/> Make sure you have enough space and a clear area before you begin. <break time="650ms"/></p>
+<p>Let’s get set up. <break time="650ms"/> Arrange six empty plastic bottles or toilet paper rolls into a pyramid. <break time="650ms"/> Place three on the bottom row,<break time="150ms"/> two in the middle,<break time="150ms"/> and one at the top. <break time="650ms"/> Mark three throwing lines on the floor. <break time="650ms"/> Set them at four,<break time="150ms"/> seven,<break time="150ms"/> and ten feet away. <break time="650ms"/> Place a piece of tape at the closest line.<break time="350ms"/> This will be your starting boundary. <break time="650ms"/></p>
+<p>Safety reminder: Always check the area behind your target for breakable items or tripping hazards. <break time="650ms"/> Never throw objects if someone is near your target zone. <break time="2000ms"/></p>
+<p>Stand behind the four-foot line. <break time="650ms"/> Hold your throwing object—use a soft ball or beanbag for safety. <break time="650ms"/> Feet shoulder-width apart,<break time="150ms"/> knees slightly bent. <break time="650ms"/> Face the pyramid,<break time="150ms"/> arm relaxed at your side. <break time="650ms"/> Keep your eyes on the top bottle. <break time="650ms"/></p>
+<p>Here’s your first throw. <break time="650ms"/> Draw your arm back gently. <break time="650ms"/> Step forward with your opposite foot. <break time="650ms"/> Swing your arm forward,<break time="150ms"/> aiming for the pyramid. <break time="650ms"/> Release the ball smoothly. <break time="650ms"/></p>
+<p>Let’s begin counting your throws. <break time="650ms"/></p>
+<p><prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">focus on a steady,<break time="150ms"/> controlled release</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">watch the pyramid and adjust your aim</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Three - <emphasis level="moderate">check your follow-through is straight</emphasis> <break time="650ms"/></prosody></p>
+<p>Check your progress: Did you knock down any bottles? <break time="650ms"/> If not,<break time="150ms"/> adjust your stance or aim. <break time="650ms"/> Try again,<break time="150ms"/> remembering to <emphasis level="strong">always follow through with your throw</emphasis>. <break time="650ms"/></p>
+<p><prosody rate="-5%" pitch="+10%">Four - <emphasis level="moderate">keep your eyes on the target</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Five - <emphasis level="moderate">release the ball at waist height</emphasis> <break time="650ms"/></prosody></p>
+<p>When you knock down all bottles,<break time="150ms"/> count the total number of throws you used. <break time="650ms"/> Reset the pyramid and challenge yourself to use fewer throws next round. <break time="650ms"/></p>
+<p>Modification: If this feels easy,<break time="150ms"/> step back to the seven-foot line for your next round. <break time="650ms"/> For more challenge,<break time="150ms"/> use a smaller ball or narrow the pyramid. <break time="650ms"/> If you need it easier,<break time="150ms"/> use a lighter ball or move closer. <break time="650ms"/></p>
+<p>Remember,<break time="150ms"/> your goal is to knock down all bottles in three or fewer throws before moving to the next distance. <break time="3000ms"/></p>
+<p>Great work practicing your accuracy and control. <break time="650ms"/> This game helps develop throwing skills,<break time="150ms"/> balance,<break time="150ms"/> and focus. <break time="650ms"/> Each attempt sharpens your coordination and teaches you to adapt. <break time="650ms"/> Record your best scores and try to beat them next time. <break time="650ms"/> Keep challenging yourself with different objects or distances. <break time="650ms"/> Well done for completing the Knock-Down Challenge! <break time="650ms"/></p>
+</prosody>
+</voice>
+</speak>

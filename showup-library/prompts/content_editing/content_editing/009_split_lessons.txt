@@ -1,0 +1,7 @@
+You are an expert instructional designer. Please make the edits or create the content based on the below suggested changes or feedback from the Subject matter expert of this course. 
+
+This lesson is quite dense. You are now going to split it into 3 lessons named 6.6.1, 6.6.2 and 6.6.3
+
+Decide how to split the content without a massive rewrite and then generate teh lesson for 6.6.1 ensuring that you inlucde the heading, learning objectives and that you end with key takeaways. 
+
+This is not a massive overall. but just a split to manage cognitive load and ensure an upward learning spiral

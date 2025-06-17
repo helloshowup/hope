@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="en-US">
+<voice name="en-US-AndrewNeural" parameters="temperature=0.35">
+<prosody rate="-5%" pitch="+2%" volume="+10%">
+<p>Welcome.<break time="350ms"/> Today,<break time="150ms"/> we’ll focus on <emphasis level="moderate">modified push-ups</emphasis>. <break time="650ms"/>  
+This exercise builds upper body strength,<break time="150ms"/> targeting your chest and triceps. <break time="650ms"/>  
+It’s ideal if regular push-ups feel challenging right now. <break time="650ms"/>  
+Let’s get ready and set up your space. <break time="2000ms"/></p>
+<p>Begin by kneeling on a mat or soft surface. <break time="650ms"/>  
+Place your hands slightly wider than shoulder-width apart on the floor. <break time="650ms"/>  
+Walk your knees back so your body forms a straight line from head to knees. <break time="650ms"/>  
+Keep your feet lifted,<break time="150ms"/> ankles crossed if comfortable. <break time="650ms"/>  
+Draw your belly button gently toward your spine. <break time="650ms"/>  
+<emphasis level="moderate">Maintain a straight back and neutral neck</emphasis>. <break time="650ms"/>  
+This protects your lower back and ensures good form. <break time="650ms"/></p>
+<p>Now,<break time="150ms"/> check your setup. <break time="650ms"/>  
+Are your hands in line with your chest,<break time="150ms"/> not your shoulders? <break time="650ms"/>  
+Are your hips neither sagging nor lifted? <break time="650ms"/>  
+If yes,<break time="150ms"/> you’re ready to begin. <break time="2000ms"/></p>
+<p>Let’s do eight repetitions together. <break time="650ms"/>  
+Lower your chest toward the floor,<break time="150ms"/> elbows angling out. <break time="650ms"/></p>
+<p><prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">Back stays straight,<break time="150ms"/> abs engaged</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">Keep your head in line with your spine</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Three - <emphasis level="moderate">Lower with control,<break time="150ms"/> avoid dropping fast</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Four - <emphasis level="moderate">Push up evenly through both hands</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Five - <emphasis level="moderate">Glance down,<break time="150ms"/> not forward</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Six - <emphasis level="moderate">Elbows bend to about 90 degrees</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Seven - <emphasis level="moderate">Shoulders stay away from your ears</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Eight - <emphasis level="moderate">Breathe out as you push up</emphasis> <break time="3000ms"/></prosody></p>
+<p>Pause and check in. <break time="650ms"/>  
+Does your back feel straight and supported? <break time="650ms"/>  
+Are your hands and knees comfortable? <break time="650ms"/>  
+If yes,<break time="150ms"/> you’re using good form. <break time="650ms"/></p>
+<p>For an easier option,<break time="150ms"/> bring your hands a little closer together. <break time="650ms"/>  
+Or,<break time="150ms"/> reduce how far you lower your chest. <break time="650ms"/>  
+For more challenge,<break time="150ms"/> try pausing at the bottom for one second. <break time="650ms"/>  
+You can also work up to twelve repetitions if you feel strong. <break time="650ms"/>  
+<emphasis level="strong">Never let your lower back sag</emphasis>—keep your core active to avoid strain. <break time="650ms"/></p>
+<p>If you can complete fifteen modified push-ups with strong form, <break time="650ms"/>  
+consider progressing to a standard push-up position next session. <break time="650ms"/></p>
+<p>Let’s wrap up. <break time="650ms"/>  
+Modified push-ups help you safely build chest,<break time="150ms"/> arm,<break time="150ms"/> and core strength. <break time="650ms"/>  
+They lower the load on your shoulders and back,<break time="150ms"/> reducing injury risk. <break time="650ms"/>  
+Consistent practice leads to improved muscle tone and push-up confidence. <break time="650ms"/>  
+Remember,<break time="150ms"/> quality matters more than quantity—focus on your form each time. <break time="650ms"/>  
+Great work today. <break time="650ms"/></p>
+</prosody>
+</voice>
+</speak>

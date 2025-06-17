@@ -1,0 +1,101 @@
+# 3.5 Ethical Scenario Walk-through (We do)
+
+## Introduction
+
+Welcome to our guided ethical scenario walk-through! Today, we'll work together to navigate realistic situations where you might be tempted to use AI in ways that could potentially violate academic integrity policies. As technology becomes increasingly integrated into education, understanding how to use AI tools ethically is an essential skill for high school students.
+
+In previous lessons, we explored Excel High School's academic integrity policies and the appropriate uses of AI tools. Now, we'll apply that knowledge to a specific case study that's relevant to your high school experience, making decisions together about the ethical boundaries of using AI feedback in your coursework.
+
+## The Scenario: History Project on Social Media
+
+### Setting the Stage
+
+Your history teacher has assigned a multimedia project where you need to create a mock social media profile for a historical figure from the Civil Rights Movement. The assignment requires you to:
+- Research the historical figure's life, beliefs, and contributions
+- Create 5-7 "posts" that this person might make if they lived today
+- Include at least 3 historical photos or images with proper citations
+- Write a 300-word reflection on what you learned
+
+You've chosen Rosa Parks as your historical figure and have started researching, but you're finding it challenging to capture her voice and perspective in modern social media format. You decide to use an AI tool to help with your assignment.
+
+## Decision Point 1: Initial Research Support
+
+You're considering using ChatGPT to help you understand Rosa Parks' life and perspective better.
+
+**Option A:** Ask ChatGPT: "Create a complete social media profile for Rosa Parks with 7 posts, images, and a reflection paragraph."
+
+**Option B:** Ask ChatGPT: "Can you summarize the key events in Rosa Parks' life and her main contributions to the Civil Rights Movement? I'm trying to understand her perspective better for a school project."
+
+**Let's Analyze Together:**
+
+Option A requests the AI to complete the entire assignment for you. This would be a clear violation of academic integrity as you would be submitting work that isn't your own.
+
+Option B uses AI as a learning tool to help gather information. This is similar to consulting an encyclopedia or asking a tutor for an explanation. You're still responsible for creating the social media posts and reflection yourself.
+
+**The Ethical Choice:** Option B represents an ethical use of AI. It's similar to using any other reference material to better understand your topic.
+
+## Decision Point 2: Developing Your Content
+
+You've done your research and understand Rosa Parks' story, but you're struggling to imagine how she might express herself on social media today.
+
+**Option A:** Ask ChatGPT: "Based on what I know about Rosa Parks' beliefs and activism, can you help me brainstorm some topics she might post about if she were alive today? I'll write the actual posts myself."
+
+**Option B:** Ask ChatGPT: "Write me 5 social media posts in Rosa Parks' voice that I can use directly in my project."
+
+**Let's Analyze Together:**
+
+Option A asks the AI to help you brainstorm potential topics based on your research. You're still developing the final content yourself and using AI as a thought partner.
+
+Option B asks for complete posts that you would directly use without modification. This would mean presenting someone else's ideas as your own.
+
+**The Ethical Choice:** Option A represents ethical use of AI as a brainstorming tool. It's similar to discussing ideas with a classmate or teacher to refine your thinking, but you'll still craft your own content.
+
+## Decision Point 3: Finding and Citing Images
+
+You need to include historical images in your project but are unsure about proper citation.
+
+**Option A:** Find images through your school's approved research databases or the Library of Congress website, then ask ChatGPT: "Can you explain how to properly cite this historical photograph in MLA format? The photo is from the Library of Congress website."
+
+**Option B:** Ask ChatGPT: "Find me 3 images of Rosa Parks that I can use in my project without worrying about copyright."
+
+**Let's Analyze Together:**
+
+Option A involves you finding appropriate images through legitimate sources, then using AI to help you understand the citation format. You're still doing the research work and ensuring proper attribution.
+
+Option B asks the AI to bypass your responsibility for finding and properly citing images, potentially leading to copyright violations or improper attribution.
+
+**The Ethical Choice:** Option A represents ethical use of AI as a citation helper. Using AI to understand formatting requirements is acceptable as long as you're still doing the work of finding appropriate sources.
+
+## Your Turn: Decision Point 4
+
+Now it's your turn to apply what you've learned. Consider this scenario:
+
+You've created your social media posts but are struggling with writing the 300-word reflection on what you learned about Rosa Parks.
+
+**Option A:** Ask ChatGPT: "I've created a social media profile project about Rosa Parks. Can you suggest some reflection questions I could answer to help me think about what I learned from this project?"
+
+**Option B:** Ask ChatGPT: "Write me a 300-word reflection about what I learned from creating a Rosa Parks social media profile for my history class."
+
+**Think About It:** 
+- Which option maintains your academic integrity?
+- How does the ethical option help you learn while still doing your own work?
+- What would you tell a friend who was considering Option B?
+
+## Final Reflection
+
+Through this guided scenario, we've explored how to make ethical decisions about using AI in your academic work. The key principles we've identified include:
+
+1. Use AI to enhance your understanding, not to replace your own thinking
+2. Always acknowledge any assistance you receive, whether from AI or human sources
+3. Ensure that the final work represents your own ideas and understanding
+4. When in doubt, ask your teacher about acceptable uses of AI for specific assignments
+
+Remember that the goal of education is to develop your own skills and understanding. AI tools can be valuable resources when used ethically, but they should support—not replace—your learning process.
+
+### Reflection Questions
+1. What other school projects might you encounter where you'd need to make ethical decisions about using AI?
+2. How would you apply the principles we've discussed today to those situations?
+3. What questions do you still have about using AI ethically in your Excel High School courses?
+
+**Next Steps:** In the next activity, you'll have a chance to practice making these ethical decisions on your own with different scenarios.
+

@@ -1,0 +1,111 @@
+
+<div class="markdown-content" style="color:#333;font-family:Arial, sans-serif;line-height:1.6;margin:0 auto;max-width:800px;">
+    <div class="container" style="margin-left:auto;">
+        <div style="color:#333;font-family:Arial, sans-serif;line-height:1.6;">
+            <style>
+            p {margin-bottom: 2em;}
+            </style>
+            <h1>
+    <span style="color:#920205;">6.10.2 Systematic Testing Methods for Robotics</span>
+</h1>
+<h2>
+    <span style="color:#920205;">Learning Objectives</span>
+</h2>
+<p>
+    <span style="color:#920205;">By the end of this session, you'll be able to:</span>
+</p>
+<ul>
+<li>
+    <span style="color:#920205;">Design a repeatable test protocol for evaluating a specific robot function</span>
+</li>
+<li>
+    <span style="color:#920205;">Create a data collection table to document robot performance results</span>
+</li>
+<li>
+    <span style="color:#920205;">Establish clear performance benchmarks to evaluate robot performance</span>
+</li>
+</ul>
+<h2>Systematic Testing Methods</h2>
+<p>Now that you've built your robot, how do you know if it works as intended? Similar to how athletes train before a big game, robots need testing before deployment. Testing goes beyond checking if your robot works—it reveals how well it performs and identifies areas for improvement. Let's explore how to create tests that provide meaningful insights rather than just a simple "works" or "doesn't work" result.</p>
+<p>This section explores structured approaches to evaluating robot performance against design goals and specifications.</p>
+<h3>Designing Test Protocols</h3>
+<p>A good test protocol resembles a clear recipe for checking if your robot functions correctly. Begin by determining what aspects to test - speed, accuracy, battery life, or other features. For each aspect, develop a specific test case with defined steps.</p>
+<p>For example, if testing a line-following robot, your protocol might include: "Place robot at the starting line. Start timer when robot begins moving. Stop timer when robot completes the entire course. Record time and count how many times the robot lost the line."</p>
+<p>Good test protocols should be repeatable (you can do them multiple times with similar results), measurable (giving you numbers or clear observations), and fair (testing under consistent conditions). Include details about the testing environment too - lighting, surface type, and other factors that might affect performance.</p>
+<h3>Data Collection and Documentation</h3>
+<p>Data transforms observations into actionable information. Design simple tables or charts to record your test results. For example:</p>
+<table>
+<thead>
+<tr>
+<th>Test Run</th>
+<th>Completion Time</th>
+<th>Number of Errors</th>
+<th>Battery Level</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Run 1</td>
+<td>45 seconds</td>
+<td>2</td>
+<td>Full</td>
+</tr>
+<tr>
+<td>Run 2</td>
+<td>48 seconds</td>
+<td>3</td>
+<td>75%</td>
+</tr>
+</tbody>
+</table>
+<p>Don't just write down numbers - also note observations that might explain results: "Robot struggled at the sharp turn near the end" or "Motor seemed to slow down after 2 minutes of operation."</p>
+<p>Photos or videos during testing can be valuable resources. They record details you might otherwise miss and document how your robot performed. Many students benefit from keeping a testing journal with dates, results, and improvement ideas consolidated in one place.</p>
+<h3>Performance Metrics and Benchmarks</h3>
+<p>Performance metrics are the specific measurements used to assess performance. For a delivery robot, metrics might include destination accuracy, package capacity, or battery duration.</p>
+<p>To create meaningful benchmarks (standards for success), consider:</p>
+<ol>
+<li>Minimum requirements: What's the bare minimum your robot must do to be considered functional?</li>
+<li>Target goals: What would make your robot perform well enough for its intended purpose?</li>
+<li>Stretch goals: What would make your robot perform at an exceptional level?</li>
+</ol>
+<p>For example, a line-following robot might have these benchmarks:</p>
+<ul>
+<li>Minimum: Complete the course without leaving the line for more than 3 seconds</li>
+<li>Target: Complete the course in under 1 minute with no more than 2 errors</li>
+<li>Stretch: Complete the course in under 45 seconds with zero errors</li>
+</ul>
+<p>Clear metrics and benchmarks allow you to determine if your robot meets expectations and identify where improvements are needed.</p>
+<div class="stop-reflect-container" style="border:3px dashed #e50200;display:flex;margin:20px 0;padding:0;width:100%;">
+        <div class="stop-reflect-image" style="align-items:center;display:flex;justify-content:center;min-width:100px;padding:10px;width:20%;">
+            <img class="image_resized" style="height:auto;max-width:150px;width:100%;" src="https://api.learnstage.com/media-manager/api/access/exceled/default/lms/courses/1648/Images/stopandreflect.jpg" alt="Stop and Reflect">
+        </div>
+        <div class="stop-reflect-content" style="display:flex;flex-direction:column;justify-content:center;padding:15px;width:80%;">
+            <p><strong>CHECKPOINT:</strong> Consider a test where your robot didn't perform as expected. What did this failure teach you about your design assumptions? Reflect on how this unexpected outcome revealed gaps in your understanding of the problem.</p>
+        </div>
+    </div>
+<figure class="table" style="float:left;width:92.41%;">
+        <table class="ck-table-resized" style="border-style:none;">
+            <colgroup><col style="width:13.29%;"><col style="width:86.71%;"></colgroup>
+            <tbody>
+                <tr>
+                    <td style="border-style:none;">
+                        <figure class="image image_resized" style="width:100%;">
+                            <img style="aspect-ratio:600/600;" src="https://api.learnstage.com/media-manager/api/access/exceled/default/89309a11-e6ae-4133-97a9-93c735f38be4/content-page/4e85aa67-83db-423a-b7de-53b356164071_removalai_preview.png" width="600" height="600">
+                        </figure>
+                    </td>
+                    <td style="border-style:none;">
+                        <h3>
+                            <span style="color:hsl(359,97%,29%);"><strong>Key Takeaways</strong></span>
+                        </h3>
+                        <ul>
+<li>Effective data collection uses organized tables and detailed observations to track performance across multiple test runs, helping identify patterns and improvement areas.</li>
+<li>Setting clear performance benchmarks with minimum requirements, target goals, and stretch goals provides objective standards to evaluate robot performance and guide design improvements.</li>
+</ul>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </figure>
+        </div>
+    </div>
+</div>

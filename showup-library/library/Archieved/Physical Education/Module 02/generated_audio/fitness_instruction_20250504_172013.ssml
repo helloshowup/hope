@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="en-US">
+<voice name="en-US-AndrewNeural" parameters="temperature=0.35">
+<prosody rate="-5%" pitch="+2%" volume="+10%">
+<p>Welcome to today’s exercise session. <break time="650ms"/> We’ll be focusing on the Standing Single-Leg Balance. <break time="650ms"/> This move builds ankle stability and sharpens your balance. <break time="650ms"/> Make sure your area is clear of obstacles,<break time="150ms"/> and keep a sturdy chair or wall nearby for support. <break time="650ms"/></p>
+<p>Let’s get started.<break time="350ms"/> Stand tall with your feet hip-width apart. <break time="650ms"/> Relax your arms by your sides. <break time="650ms"/> Engage your core muscles gently. <break time="650ms"/> Shift your weight onto your left foot. <break time="650ms"/> Lift your right foot off the floor so your knee is bent at a comfortable angle. <break time="650ms"/> Keep your gaze forward and your shoulders relaxed. <break time="650ms"/></p>
+<p>Before we begin counting,<break time="150ms"/> check your posture. <emphasis level="moderate">Stand tall,<break time="150ms"/> core engaged,<break time="150ms"/> gaze forward.</emphasis> <break time="650ms"/> If you feel wobbly,<break time="150ms"/> rest your fingertips lightly on the chair or wall. <break time="650ms"/></p>
+<p>Let’s start the repetitions. <break time="650ms"/></p>
+<p><prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">Lift your right foot and hold steady.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">Keep your hips level and avoid leaning.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Three - <emphasis level="moderate">Stay tall,<break time="150ms"/> shoulders relaxed.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Four - <emphasis level="moderate">Focus on a spot in front of you.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Five - <emphasis level="moderate">Breathe slowly and evenly.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Six - <emphasis level="moderate">Engage your standing leg.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Seven - <emphasis level="moderate">Feel the muscles in your ankle working.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Eight - <emphasis level="moderate">Hold the position,<break time="150ms"/> steady and strong.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Nine - <emphasis level="moderate">If you wobble,<break time="150ms"/> gently reset and continue.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Ten - <emphasis level="strong">Don’t lock your standing knee.[/emphasis strong</emphasis> <break time="3000ms"/></prosody></p>
+<p>Great job.<break time="350ms"/> Now,<break time="150ms"/> place your right foot down and shift to the other side. <break time="650ms"/> Stand tall,<break time="150ms"/> and lift your left foot. <break time="650ms"/> Let’s repeat the sequence on this side. <break time="650ms"/></p>
+<p><prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">Lift your left foot and balance.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">Keep your hips even.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Three - <emphasis level="moderate">Relax your arms and shoulders.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Four - <emphasis level="moderate">Find a steady spot to focus on.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Five - <emphasis level="moderate">Maintain steady breathing.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Six - <emphasis level="moderate">Strong standing leg.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Seven - <emphasis level="moderate">Ankle muscles are working.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Eight - <emphasis level="moderate">Stay tall and steady.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Nine - <emphasis level="moderate">Pause and reset if needed.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Ten - <emphasis level="strong">Keep your knee slightly bent.[/emphasis strong</emphasis> <break time="3000ms"/></prosody></p>
+<p>Let’s check in.<break time="350ms"/> Are you standing tall,<break time="150ms"/> with your core gently engaged? <break time="650ms"/> Are your hips level and your shoulders relaxed? <break time="650ms"/> If you feel ready for a challenge,<break time="150ms"/> try lifting your arms overhead or closing your eyes briefly. <break time="650ms"/> For an easier option,<break time="150ms"/> keep your toes touching the floor as you balance. <break time="650ms"/></p>
+<p>Standing Single-Leg Balance helps strengthen your ankle stabilizers and improves balance. <break time="650ms"/> Practicing both sides equally is important for symmetry and injury prevention. <break time="650ms"/> Keep challenging your body with balance work for better coordination and stronger lower limbs. <break time="650ms"/> Well done on completing this focused balance session! <break time="650ms"/></p>
+</prosody>
+</voice>
+</speak>

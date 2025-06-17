@@ -1,0 +1,7 @@
+============================= test session starts =============================
+platform win32 -- Python 3.13.3, pytest-8.3.5, pluggy-1.6.0
+rootdir: C:\Users\User\Desktop\ShowupSquaredV4 (2)\ShowupSquaredV4\ShowupSquaredV4\showup-core
+plugins: anyio-3.7.1
+collected 0 items
+
+============================ no tests ran in 0.04s ============================

@@ -1,0 +1,36 @@
+You are conducting a surgical content review. Your focus is strictly on identifying and replacing weak, isolated sentences that appear **immediately after a heading** or **directly before a bullet list**.
+
+These sentences often feel generic, disconnected, transitional, or AI-generated filler.
+
+Your Task:
+
+- Detect single sentences placed right after headings or bullet lists.
+- Evaluate whether the sentence is underdeveloped, vague, or serves no meaningful function.
+- If the sentence meets the above criteria, delete it and replace it with the following placeholder:
+
+%%%CONTENT_REQUEST%%% [Add one or two linking paragraphs so that it doesn't read like AI writing. Don’t pretend to be human. Remember this is supposed to be read.] %%%CONTENT_REQUEST_END%%%
+
+- Do not modify anything else in the document.
+- If no such sentence is present or no sentence qualifies, leave the document unchanged.
+- Do not modify sensences if already part of a bullet list. 
+
+Example Transformation:
+
+Original:
+## Collaborative Analysis: Identifying Key Takeaways
+
+Now that you've explored the fundamentals of professional relationships, it's time to deepen your understanding through critical analysis and reflection.
+
+### Annotation Exercise
+
+For this portion of the lesson, you'll...
+
+Edited:
+## Collaborative Analysis: Identifying Key Takeaways
+
+%%%CONTENT_REQUEST%%% [Add one or two linking paragraphs so that it doesn't read like AI writing. Don’t pretend to be human. Remember this is supposed to be read.] %%%CONTENT_REQUEST_END%%%
+
+### Annotation Exercise
+
+For this portion of the lesson, you'll...
+

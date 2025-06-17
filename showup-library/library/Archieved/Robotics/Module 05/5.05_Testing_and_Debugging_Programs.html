@@ -1,0 +1,403 @@
+
+    <div class="markdown-content" style="font-family: Arial, sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 0 auto;">
+        <h1>5.5</h1>
+
+<h1>Testing and Debugging Programs</h1>
+
+<h2>Learning Objectives</h2><p>By the end of this session, you'll be able to:</p>
+<ul>
+<li>Find and fix the three main types of bugs in your code</li>
+</ul>
+<ul>
+<li>Follow the four steps to debug a robot program</li>
+</ul>
+<ul>
+<li>Test your program with normal, edge, and tricky cases</li>
+</ul>
+<h2>Lesson Podcast Discussion: The Art of Systematic Debugging</h2><p>A discussion about how professional programmers approach debugging methodically rather than randomly, with real-world examples of challenging bugs that were solved through systematic approaches.</p>
+<h2>Common Programming Errors</h2><p>When programming robots or any system, errors are inevitable. Understanding the common types of errors helps you identify and fix them more efficiently. There are three main categories of programming errors:</p>
+<h3>Syntax Errors</h3><p>These are spelling and grammar mistakes in your code. Just like a sentence needs proper punctuation and structure in English, programming languages have specific rules for how commands must be written. Examples include:</p>
+<ul>
+<li>Missing brackets or parentheses</li>
+</ul>
+<ul>
+<li>Misspelled commands</li>
+</ul>
+<ul>
+<li>Missing semicolons or other required punctuation</li>
+</ul>
+<p>&nbsp;</p>
+
+<p>The good news is that most programming environments will detect these errors immediately and highlight them for you.</p>
+<p>&nbsp;</p>
+
+<p>Think of syntax errors like trying to build with LEGO blocks that don't quite fit together. The computer sees these mismatched pieces and refuses to run your program until they're fixed properly.</p>
+<h3>Logic Errors</h3><p>Logic errors occur when your code runs without crashing but produces incorrect results. The syntax is correct, but your instructions don't accomplish what you intended. These are often the most challenging errors to find because the program appears to work. Examples include:</p>
+<ul>
+<li>Using the wrong formula in a calculation</li>
+</ul>
+<ul>
+<li>Creating an infinite loop</li>
+</ul>
+<ul>
+<li>Testing conditions in the wrong order</li>
+</ul>
+<p>&nbsp;</p>
+
+<p>In robotics, a common logic error might be telling your robot to turn right when it should turn left, or setting a sensor threshold too high or too low, causing your robot to miss important information.</p>
+<p>&nbsp;</p>
+
+<p>For example, imagine programming a robot to navigate a maze. If you accidentally write code that makes the robot turn 80 degrees instead of 90 degrees at each corner, it might still move through the maze but gradually drift off course and eventually hit a wall.</p>
+<h3>Runtime Errors</h3><p>Runtime errors happen when your program encounters a problem while running. These errors cause your program to crash or stop executing. Examples include:</p>
+<ul>
+<li>Dividing by zero</li>
+</ul>
+<ul>
+<li>Referring to variables that don't exist</li>
+</ul>
+<ul>
+<li>Trying to perform operations on incompatible data types</li>
+</ul>
+<p>&nbsp;</p>
+
+<p>For robots, runtime errors might occur when your program tries to access a sensor that isn't connected or when your robot attempts a movement that's physically impossible.</p>
+<p>&nbsp;</p>
+
+<p>A real-world comparison would be like planning a trip using a map, but then finding the bridge on your route is closed for repairs. Your plan was valid when you made it, but it fails when you try to execute it because of conditions you encounter during runtime.</p>
+<h2>The Debugging Process</h2><p>Debugging is a systematic process, not random guesswork. Following these steps will help you find and fix errors efficiently:</p>
+<h3>Step 1: Reproduce the Problem</h3><p>The first step in fixing any bug is being able to make it happen consistently. Try to identify the specific conditions that cause the error to occur.</p>
+<p>&nbsp;</p>
+
+<p>For example, if your robot only turns incorrectly when approaching a wall at a certain angle, you'll need to recreate that specific scenario to properly debug the issue.</p>
+<p>&nbsp;</p>
+
+<p>This is similar to how mechanics diagnose car problems—they need to hear the strange noise or see the unusual behavior before they can determine what's causing it.</p>
+<h3>Step 2: Identify the Expected vs. Actual Behavior</h3><p>Clearly define what you expected to happen and what actually happened instead. This gap is the essence of your bug.</p>
+<p>&nbsp;</p>
+
+<p>For instance: "I expected the robot to stop when it detected an object 10cm away, but it continues moving until it bumps into the object."</p>
+<p>&nbsp;</p>
+
+<p>According to a study by Cambridge University, programmers who clearly define the expected behavior before attempting fixes resolve bugs up to 30% faster than those who immediately start changing code.</p>
+<h3>Step 3: Locate the Source of the Error</h3><p>Narrow down where in your code the problem might be occurring. For larger programs, you can use techniques like:</p>
+<ul>
+<li>Print statements to show values at different points in your code</li>
+</ul>
+<ul>
+<li>Commenting out sections to see if the error disappears</li>
+</ul>
+<ul>
+<li>Working backwards from where the incorrect behavior appears</li>
+</ul>
+<p>&nbsp;</p>
+
+<p>In robotics programming, it's helpful to check:</p>
+<ul>
+<li>Sensor readings (are they giving accurate values?)</li>
+</ul>
+<ul>
+<li>Motor commands (are they receiving the correct instructions?)</li>
+</ul>
+<ul>
+<li>Decision logic (are your if/then statements evaluating correctly?)</li>
+</ul>
+<p>&nbsp;</p>
+
+<p>This process is like a doctor running different tests to diagnose an illness—you're systematically eliminating possibilities until you find the true cause.</p>
+<h3>Step 4: Fix the Error and Test</h3><p>Make a single, focused change that you believe will fix the issue. Then test your program again to see if the error is resolved. If you make multiple changes at once, you won't know which one actually fixed the problem.</p>
+<p>&nbsp;</p>
+
+<p>Professional software developers follow the "change one thing at a time" rule because it makes tracking the effects of each change much clearer. NASA's robotics teams use this approach when debugging Mars rovers, where each fix must be precise due to the limited communication window.</p>
+<h2>Activity 1: Bug Detective</h2><p><strong>Activity 1: Find the Bugs</strong></p>
+<p>&nbsp;</p>
+
+<p>Review the following simple robot movement program that contains three different types of errors. Identify what type each error is (syntax, logic, or runtime) and how you would fix it:</p>
+<p>&nbsp;</p>
+
+<p>function moveRobot() {
+  forward(10);
+  turn(90)
+  forward(5;
+  if (sensorValue &gt; 50) {
+    backwards(10);
+  }
+  turn(45);
+  while (true) {
+    forward(1);
+  }
+}</p>
+<p>&nbsp;</p>
+
+<p>Try to find all three errors before checking the solution in your course materials!</p>
+<p>&nbsp;</p>
+<hr class="pagebreak" style="page-break-after: always;">
+
+<h2>Testing with Different Scenarios</h2><p>Thorough testing is crucial for creating reliable programs. It's important to test your code with various inputs and situations.</p>
+<h3>Input Testing</h3><p>Always test your program with:</p>
+<ul>
+<li>Normal expected values</li>
+</ul>
+<ul>
+<li>Boundary values (minimum and maximum allowed)</li>
+</ul>
+<ul>
+<li>Invalid inputs (what happens if a user enters text when a number is expected?)</li>
+</ul>
+<p>&nbsp;</p>
+
+<p>For a robot that follows a line, you might test:</p>
+<ul>
+<li>Normal conditions: robot on a clear, dark line against a light background</li>
+</ul>
+<ul>
+<li>Boundary conditions: robot on a faded line or a line with varying thickness</li>
+</ul>
+<ul>
+<li>Invalid conditions: robot on a surface with multiple lines or no line at all</li>
+</ul>
+<p>&nbsp;</p>
+
+<p>In the automotive industry, self-driving car systems undergo millions of hours of testing with different inputs. Engineers create thousands of scenarios, from normal highway driving to rare events like a ball rolling into the street, to ensure the car responds correctly in all situations.</p>
+<h3>Edge Cases</h3><p>Edge cases are unusual but possible scenarios that might cause problems:</p>
+<ul>
+<li>What if a sensor returns zero?</li>
+</ul>
+<ul>
+<li>What if your robot reaches a physical barrier?</li>
+</ul>
+<ul>
+<li>What if the battery is low?</li>
+</ul>
+<p>&nbsp;</p>
+
+<p>For example, if you're programming a robot to navigate a maze, edge cases might include:</p>
+<ul>
+<li>Dead ends that require the robot to turn around completely</li>
+</ul>
+<ul>
+<li>Very narrow passages that might cause sensor confusion</li>
+</ul>
+<ul>
+<li>Highly reflective surfaces that interfere with distance sensors</li>
+</ul>
+<p>&nbsp;</p>
+
+<p>Think of edge case testing like preparing for unusual weather conditions. You might not need a raincoat most days, but when it does rain, you'll be glad you planned for it!</p>
+<h3>Incremental Testing</h3><p>Instead of writing a large program and then testing it all at once:</p>
+<ol>
+<li>Write a small piece of functionality</li>
+</ol>
+<ol>
+<li>Test it thoroughly</li>
+</ol>
+<ol>
+<li>Only when it works correctly, add the next feature</li>
+</ol>
+<ol>
+<li>Repeat</li>
+</ol>
+<p>&nbsp;</p>
+
+<p>This approach makes it much easier to identify where errors occur.</p>
+<p>&nbsp;</p>
+
+<p>For example, when programming a robot to pick up objects:</p>
+<ol>
+<li>First, test just the movement toward the object</li>
+</ol>
+<ol>
+<li>Then, test the gripper mechanism separately</li>
+</ol>
+<ol>
+<li>Next, test the combination of movement and gripping</li>
+</ol>
+<ol>
+<li>Finally, test the complete sequence including returning the object to a designated location</li>
+</ol>
+<p>&nbsp;</p>
+
+<p>This method is similar to how engineers built the first successful robots at companies like Boston Dynamics. They perfected walking before attempting running, and mastered basic navigation before trying complex tasks.</p>
+<p>&nbsp;</p>
+
+<p>
+            <div class="stop-reflect-container" style="border:3px dashed #e50200; margin:20px 0; padding:0; display:flex; width:100%;">
+                <div class="stop-reflect-image" style="width:20%; min-width:100px; display:flex; align-items:center; justify-content:center; padding:10px;">
+                    <img src="https://api.learnstage.com/media-manager/api/access/exceled/default/lms/courses/1647/Images/Untitled%20design.jpg" 
+                         style="width:100%; height:auto; max-width:150px;" alt="Stop and Reflect">
+                </div>
+                <div class="stop-reflect-content" style="display:flex; flex-direction:column; justify-content:center; padding:15px; width:80%;">
+                    <h3 style="color:#000000; margin-top:0;">
+                    </h3><p> Think about a time when you encountered a problem that required systematic troubleshooting (with technology, a game, or anything else). How did breaking down the problem help you solve it more effectively than random attempts?</p>
+                </div>
+            </div></p>
+<h2>Improving Your Programs</h2><p>Debugging isn't just about fixing errors—it's also an opportunity to improve your code.</p>
+<h3>Refactoring for Clarity</h3><p>After fixing bugs, look for ways to make your code clearer and more maintainable:</p>
+<ul>
+<li>Use meaningful variable and function names</li>
+</ul>
+<ul>
+<li>Break long functions into smaller, focused ones</li>
+</ul>
+<ul>
+<li>Add comments explaining complex sections</li>
+</ul>
+<p>&nbsp;</p>
+
+<p>For example, instead of using a variable name like "s1" for a sensor, use "distanceSensor" to make your code easier to understand.</p>
+<p>&nbsp;</p>
+
+<p>This is like organizing your bedroom—when everything has a clear place and label, it's much easier to find what you need later.</p>
+<h3>Performance Optimization</h3><p>Once your program works correctly, you might want to make it run more efficiently:</p>
+<ul>
+<li>Remove unnecessary steps</li>
+</ul>
+<ul>
+<li>Look for repeated code that could be turned into a function</li>
+</ul>
+<ul>
+<li>Consider whether there are more efficient algorithms</li>
+</ul>
+<p>&nbsp;</p>
+
+<p>In robotics, efficient code can save battery power and make your robot respond more quickly to its environment.</p>
+<p>&nbsp;</p>
+
+<p>For instance, the Mars rovers have limited computing power and battery life, so NASA engineers spend considerable time optimizing their code. A more efficient program might allow the rover to travel 10% farther on the same battery charge.</p>
+<h3>Documentation</h3><p>Good documentation helps you and others understand your code later:</p>
+<ul>
+<li>Explain what your program does</li>
+</ul>
+<ul>
+<li>Document any assumptions or limitations</li>
+</ul>
+<ul>
+<li>Note any special cases or considerations</li>
+</ul>
+<p>&nbsp;</p>
+
+<p>For example, document that your line-following robot works best on high-contrast surfaces or that your obstacle-avoidance program expects objects to be at least 5cm tall to be detected reliably.</p>
+<p>&nbsp;</p>
+
+<p>According to software industry studies, programmers spend about 70% of their time reading and understanding code rather than writing new code. Good documentation dramatically reduces this time.</p>
+<h2>Creating a Robotics Test Plan</h2><p>When testing robot programs, it helps to create a simple test plan. Here's an example for a line-following robot:</p>
+<ol>
+<li><strong>Basic Functionality Test</strong></li>
+</ol>
+<ul>
+<li>Does the robot follow a straight line?</li>
+</ul>
+<ul>
+<li>Does it follow a curved line?</li>
+</ul>
+<ol>
+<li><strong>Sensor Test</strong></li>
+</ol>
+<ul>
+<li>Do all sensors detect the line correctly?</li>
+</ul>
+<ul>
+<li>What happens when sensors are partially on/off the line?</li>
+</ul>
+<ol>
+<li><strong>Environmental Test</strong></li>
+</ol>
+<ul>
+<li>Does the program work in different lighting conditions?</li>
+</ul>
+<ul>
+<li>Does it work on different surfaces?</li>
+</ul>
+<ol>
+<li><strong>Edge Case Test</strong></li>
+</ol>
+<ul>
+<li>What happens at intersections?</li>
+</ul>
+<ul>
+<li>What happens if the line ends?</li>
+</ul>
+<ul>
+<li>What happens if the robot loses the line?</li>
+</ul>
+<p>&nbsp;</p>
+
+<p>Having a structured test plan helps ensure your robot will work reliably in real-world conditions, not just in ideal situations.</p>
+<p>&nbsp;</p>
+
+<p>In competitive robotics competitions like FIRST LEGO League, teams that develop and follow thorough test plans consistently outperform teams that test haphazardly. One championship team reported testing their robot in 15 different lighting conditions to ensure it would work properly in the unpredictable competition environment.</p>
+<p>&nbsp;</p>
+
+<p>
+            <div class="stop-reflect-container" style="border:3px dashed #e50200; margin:20px 0; padding:0; display:flex; width:100%;">
+                <div class="stop-reflect-image" style="width:20%; min-width:100px; display:flex; align-items:center; justify-content:center; padding:10px;">
+                    <img src="https://api.learnstage.com/media-manager/api/access/exceled/default/lms/courses/1647/Images/Untitled%20design.jpg" 
+                         style="width:100%; height:auto; max-width:150px;" alt="Stop and Reflect">
+                </div>
+                <div class="stop-reflect-content" style="display:flex; flex-direction:column; justify-content:center; padding:15px; width:80%;">
+                    <h3 style="color:#000000; margin-top:0;">
+                    </h3><p> Consider your debugging process. Do you tend to make random changes hoping the problem will go away, or do you approach debugging systematically? How might adopting a more methodical approach improve your programming experience?</p>
+                </div>
+            </div></p>
+<p>&nbsp;</p>
+
+<p>
+        <!-- Check Your Understanding Section -->
+        <div style="border-bottom-style:solid;border-color:#008000;border-left-style:solid;border-right-style:solid;border-top-style:none;border-width:1px;clear:both;margin-bottom:3em;padding:1em 1em 1.1em;position:relative;">
+            <div style="background-color:#008000;display:block;height:20px;left:-1em;position:relative;top:-1em;width:calc(100% + 2em);">
+                &nbsp;
+            </div>
+            <h2 style="color:#008000;font-size:1.8em;font-weight:500;line-height:1em;margin-bottom:0.2em;margin-top:0;">
+                Check your understanding
+            </h2>
+            <p style="font-family:'Roboto', sans-serif;font-size:0.91em;font-weight:300;line-height:1.6em;">
+                &nbsp;
+            </p>
+            <p>What is the first step in debugging a program that isn't working?</p>
+<p>A. Start over with a new program</p>
+<p>B. Ask someone else to fix it</p>
+<p>C. Identify exactly what's happening versus what should happen</p>
+<p>D. Add more code to fix the problem</p>
+            <p style="font-family:'Roboto', sans-serif;font-size:0.91em;font-weight:300;line-height:1.6em;">
+                Choose your answer and check it below.
+            </p>
+            <div style="display:none;" id="hiddenAnswer0">
+                <p>
+                    <br>
+                    &nbsp;
+                </p>
+                <p>The correct answer is C. Identify exactly what's happening versus what should happen. Effective debugging starts with clearly understanding the problem by identifying the difference between the current behavior and the expected behavior. If you chose a different answer, remember that debugging is about methodical problem-solving rather than blind fixes or starting over. Understanding the problem is always the first step to solving it.</p>
+            </div>
+            <p>
+                <a style="color:#008000;text-decoration:none;" href="#" onclick="document.getElementById('hiddenAnswer0').style.display='block'; return false;"><strong>Click here to show the correct answer</strong></a>
+            </p>
+        </div></p>
+<p>&nbsp;</p>
+
+<p>
+        <figure class="table" style="float:left;width:92.41%;" data-font-size="14" data-line-height="20">
+            <table class="ck-table-resized" style="border-style:none;" data-font-size="14" data-line-height="20">
+                <colgroup data-font-size="14" data-line-height="20"><col style="width:13.29%;" data-font-size="14" data-line-height="20"><col style="width:86.71%;" data-font-size="14" data-line-height="20"></colgroup>
+                <tbody data-font-size="14" data-line-height="20">
+                    <tr data-font-size="14" data-line-height="20">
+                        <td style="border-style:none;" data-font-size="14" data-line-height="20">
+                            <figure class="image image_resized" style="width:100%;" data-font-size="14" data-line-height="20">
+                                <img style="aspect-ratio:600/600;" src="https://api.learnstage.com/media-manager/api/access/exceled/default/89309a11-e6ae-4133-97a9-93c735f38be4/content-page/4e85aa67-83db-423a-b7de-53b356164071_removalai_preview.png" width="600" height="600" data-font-size="14" data-line-height="20">
+                            </figure>
+                        </td>
+                        <td style="border-style:none;" data-font-size="14" data-line-height="20">
+                            <h3 data-font-size="16" data-line-height="23">
+                                <span style="color:hsl(359,97%,29%);"><span data-font-size="16" data-line-height="23"><strong data-font-size="16" data-line-height="23">Key Takeaways</strong></span></span>
+                            </h3>
+                            <ul>
+<li>Debugging is a systematic four-step process: reproduce the problem, identify expected vs. actual behavior, locate the error source, and fix one thing at a time.</li>
+<li>Test your robot programs with different scenarios including normal inputs, edge cases, and incremental testing to create more reliable programs.</li>
+<li>When improving your code, focus on making it clearer with meaningful names, more efficient by removing unnecessary steps, and well-documented so others can understand it.</li>
+</ul>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </figure></p>
+<p>&nbsp;</p>
+    </div>
+    

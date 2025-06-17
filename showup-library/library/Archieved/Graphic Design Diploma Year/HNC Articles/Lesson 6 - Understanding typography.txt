@@ -1,0 +1,50 @@
+What Is Typography?
+Typography is the style or appearance of text. It is written words and the art of working with text. This includes everything from font type and size, to texture and spacing. Typography is one of the most critical and most exciting elements a graphic designer will use.
+Typography is at the heart of every aspect of a business from its style guides to brand messaging, visual design, and marketing copy. It’s the foundation of how we communicate with other human beings.
+Fig 1. Unsplash (n.d.) Type letters
+We are surrounded by typography every day, from the street signs and product labels to the websites we visit and texts we receive from people. Wherever we write someone a note, compile a work document, or create a presentation for educational purposes, we are actively engaged in typography. It would be a challenge not to find moments in a day when one is not engaging with typography in one form or another.
+Imagine being able to influence a user’s emotions or make their experience significantly better because your original typeface made it more apparent or accessible for them. That’s the power of typography!
+Why is Typography important?
+Firstly, typography is essential due to its utilitarian function in graphic design. People need to be able to read the text so it can convey information and ultimately, fulfil its purpose. The type of information might be as simple as wishing someone happy birthday on a card, but it can also be life-saving, like the instructions on a defibrillator. Can you imagine having an emergency on your hands yet struggling to read inaccessible instructions on a device?  
+Like with all creative mediums, there are of course exceptions to this rule such as graffiti typography or the work of graphic designers David Carson and Harriet Goren. These designers broke the conventional rules of typography, distorting text to be almost unreadable to create a grunge style that was popular in the 90s. 
+Fig 2. Pixabay (n.d.) Example of typography used in graffiti
+Regardless of the scenario, text used in graphic design should be fit for purpose. For more artistic creations you can experiment more with text, but when the aim of the text is for practical reasons, clarity and legibility are essential.
+Typography is also important because depending on how and where it is used, it can convey a particular feeling, sentiment, or mood. For graphic designers, this is another crucial point to remember since your choice of typography can make or break a design. It can be the difference between accuracy and inaccuracy in a message. Each font has a different feel and a different story and it is the graphic designer’s responsibility to recognise the differing characteristics of typographies. They must then make suitable and appropriate decisions within the context of the project they’re working on. 
+For example in figure 2, the word ‘Yoga’ is represented by a font that perfectly illustrates the practice of yoga. Each letter is made from the shape of the human body emulating a yoga pose. The movement of the font coupled with the colour and pattern conveys a sense of vitality, health, and emotional well-being, everything that yoga represents. 
+Fig 3. Pixabay (n.d.) Example of suitable font
+How to choose a suitable Typeface for a project
+Many graphic designers spend countless hours deciding on the type of fonts to use for a project; especially if the project doesn’t already have a brand or identity with a prescribed font guide. Spending so much time on fonts is an inefficient approach but there are some helpful things to consider that will help you make a decision with more speed and accuracy.
+Fig 4. Unsplash (n.d.) Considering multiple typefaces
+Types & Styles 
+As a graphic designer, you should first ask yourself whether Sans Serif or Serif fonts will work best in the context of your project. Serif fonts have decorative lines or tapers (aka “tails” or “feet”), while Sans Serif fonts are without these flourishes. The word ‘sans’ translates from French to mean lacking or without. Serif fonts lean towards a more classic feel, whereas Sans Serif fonts look more modern and contemporary.
+Fig 5. Pixabay (n.d.) Example of sans serif font
+Next, you should ask yourself if the project requires a classic or a modern look. In the first instance, if it’s a tried-and-tested product or service that people know, you might need a recognisable font that will evoke feelings of familiarity and authority. For example, when you are designing for a government office or a long standing financial service agency, it goes without saying that a more conservative typography would be suitable. It does not mean however, that these fonts are outdated and unusable; they are classic. A good idea is to list 15-20 fonts that are reliable go-to fonts that you can call upon for your projects. 
+Examples of classic fonts are:
+Helvetica
+Times New Roman
+Gill Sans
+Garamond
+News Gothic
+A ‘new’ and edgy font may be appropriate if you’re working on a project for a startup company or a new product that a client wants to showcase as young, modern and urbane. In this case, you’ll be looking for unique fonts that haven’t been overly used and are relatively unrecognisable. Such fonts are typically available on sites like Fontshare, You Work For Them, Use & Modify, Uncut, and Collectttivo. Google fonts as a great free resource where you can preview and search for whatever style of typeface you need.
+Fig 6. Screenshot of free fonts dashboard on You Work For Them 
+Tip: 
+Limit the number of fonts you use in a design to just two. If you need more contrast, you can experiment with the font size, combining Sans with Sans Serif fonts, or by making certain sections bold or Italics. Three or more fonts within a design, like a menu, magazine article, or book cover, may look overly busy and can distract readers from the content.
+Over To You
+Now it’s your turn to explore the features of effective typography. 
+Look at the poster below. It represents Palisades, a retro action game set in space created for a manual gaming console. 
+Fig 7. Wordpress (n.d.) "Retro Space Typography" by Orange Steeler
+Do you think the typography in the design above (Figure 7) is successful in terms of 
+Legibility
+Ease of consumption
+Conveying the required message/information? 
+Support each of your answers with an explanation of why the typography is successful or not. 
+Head over to the student discussion board and share your thoughts with your fellow students. 
+Image references:
+Source for Figure 1 & 4: Unsplash
+Source for Figures 2, 3 and 5: Pixabay.com
+Source for Figure 6: You Work For Them website
+Source for Figure 7: Wordpress.org/openverse
+References
+Why is typography important in graphic design? (2020) Why Is Typography Important in Graphic Design? Available at: https://www.flux-academy.com/blog/why-is-typography-important-in-graphic-design#:~:text=Typography%20has%20two%20main%20purposes,and%20easy%20on%20the%20eyes.
+ (Accessed: January 5, 2023). 
+Lajeunesse, K. (no date) What Is Typography? Available at: https://thefutur.com/content/what-is-typography (Accessed: January 20, 2023).

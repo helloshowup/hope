@@ -1,0 +1,8 @@
+{
+  "module": "6",
+  "lesson": "20",
+  "step_number": "1",
+  "step_title": "Error-Free Badge",
+  "best_version": "# Error-Free Badge: Proofreading Achievement\n\n## What Is the Error-Free Badge?\n\nThe Error-Free Badge is a recognition of your proofreading skills. After you submit your writing draft, our system will analyze it for common writing errors. If your work contains fewer than three uncorrected errors, you'll earn the Error-Free Badge!\n\n## How It Works:\n\n1. Submit your completed draft\n2. The system analyzes your work for grammar, spelling, punctuation, and other writing errors\n3. If fewer than three uncorrected errors remain, you'll receive the Error-Free Badge\n4. The system will suggest your next focus area for writing improvement\n\nThis badge verifies your ability to identify and correct common writing mistakes before moving forward. It's an important milestone that demonstrates your attention to detail and proofreading skills.\n\nRemember: Careful proofreading is essential for effective communication!",
+  "explanation": "Error in comparison process: maximum recursion depth exceeded while calling a Python object. Using most structurally complete version as fallback."
+}

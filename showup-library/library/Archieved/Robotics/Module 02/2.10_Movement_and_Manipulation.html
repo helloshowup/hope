@@ -1,0 +1,104 @@
+
+    <div class="markdown-content" style="font-family: Arial, sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 0 auto;">
+        <h1>2.10</h1>
+
+<h1>Movement and Manipulation</h1>
+
+<h2>Learning Objectives</h2><p>By the end of this session, you'll be able to:</p>
+<ul>
+<li>Classify different types of motors and actuators based on their movement patterns and applications in robotics</li>
+</ul>
+<ul>
+<li>Compare the functions of various grippers and manipulators in robot design</li>
+</ul>
+<ul>
+<li>Explain how open-loop and closed-loop control systems coordinate robot movements</li>
+</ul>
+<h3>Motors and Actuators</h3><p>Motors and actuators are the "muscles" of robots, allowing them to move and interact with their environment. There are several types that serve different purposes:</p>
+<p>&nbsp;</p>
+
+<p><strong>DC Motors</strong> are common in many robots because they're simple to use and control. They convert electrical energy into rotational movement and are found in everything from toy robots to power tools. DC motors are great for continuous rotation, like spinning wheels on a robot car.</p>
+<p>&nbsp;</p>
+
+<p><strong>Servo Motors</strong> are special motors that can move to precise positions. Unlike regular DC motors that just spin continuously, servo motors can rotate to exact angles – like 45 degrees or 90 degrees – and hold that position. They're perfect for robot arms, steering mechanisms, and camera mounts where precise positioning is important.</p>
+<p>&nbsp;</p>
+
+<p><strong>Stepper Motors</strong> move in small, precise steps (hence the name). They're excellent for applications requiring very accurate movement, like 3D printers or CNC machines. Each electrical pulse moves the motor a tiny, fixed amount, giving incredible precision.</p>
+<p>&nbsp;</p>
+
+<p><strong>Linear Actuators</strong> create straight-line motion instead of rotation. They're used when a robot needs to push, pull, lift, or lower something in a straight line. Door-opening mechanisms and adjustable robot platforms often use linear actuators.</p>
+<p>&nbsp;</p>
+
+<p>The choice of motor depends on what the robot needs to do. A fast-moving robot might use powerful DC motors, while a robot arm that needs to pick up delicate objects would use servo motors for precise control.</p>
+<h3>Grippers and Manipulators</h3><p>Grippers and manipulators are the "hands" of robots, allowing them to interact with objects in their environment:</p>
+<p>&nbsp;</p>
+
+<p><strong>Parallel Grippers</strong> are the simplest and most common type, with two "fingers" that move toward each other to grasp objects. They're like simplified versions of pliers and are used in many industrial robots for picking up parts.</p>
+<p>&nbsp;</p>
+
+<p><strong>Vacuum Grippers</strong> use suction to pick up objects. They're great for handling flat, smooth items like glass panels or circuit boards that might be difficult to grip with mechanical fingers.</p>
+<p>&nbsp;</p>
+
+<p><strong>Soft Grippers</strong> are made from flexible materials that can conform to the shape of objects. They're excellent for handling delicate or irregularly shaped items, like fruits and vegetables in food processing, without causing damage.</p>
+<p>&nbsp;</p>
+
+<p><strong>Multi-fingered Hands</strong> are complex grippers that mimic human hands with multiple fingers and joints. These sophisticated devices can perform dexterous tasks like turning knobs or manipulating small objects.</p>
+<p>&nbsp;</p>
+
+<p>The design of a gripper depends on what objects the robot needs to handle. A robot in an electronics factory might use vacuum grippers for handling circuit boards, while a robot designed to help people might use a soft gripper that's safe for human interaction.</p>
+<h3>Movement Control Systems</h3><p>Movement control systems coordinate the actions of motors and actuators to create smooth, precise robot movements:</p>
+<p>&nbsp;</p>
+
+<p><strong>Open-loop Control</strong> is the simplest approach, where the robot sends commands to its motors without checking if the movement was performed correctly. This works for basic robots in predictable environments, like a toy robot car, but isn't suitable for precision tasks.</p>
+<p>&nbsp;</p>
+
+<p><strong>Closed-loop Control</strong> uses sensors to provide feedback about the robot's actual movement. If a robot arm is supposed to move to a specific position, sensors will check if it actually reached that position correctly. If not, the system makes adjustments automatically. This is like how you might adjust your aim when throwing a ball if you notice you're missing the target.</p>
+<p>&nbsp;</p>
+
+<p><strong>Coordinated Motion Control</strong> manages multiple motors simultaneously to create complex movements. For a robot arm to move smoothly in a straight line, several joints must move in perfect coordination. This requires sophisticated algorithms that calculate the exact speed and position for each motor at every moment.</p>
+<p>&nbsp;</p>
+
+<p>Modern robots often use advanced control techniques like predictive control, which anticipates the robot's movement needs, or adaptive control, which adjusts to changing conditions like different weights or surfaces. These systems help robots move more efficiently and handle unexpected situations better.</p>
+<p>&nbsp;</p>
+
+<p>
+            <div class="stop-reflect-container" style="border:3px dashed #e50200; margin:20px 0; padding:0; display:flex; width:100%;">
+                <div class="stop-reflect-image" style="width:20%; min-width:100px; display:flex; align-items:center; justify-content:center; padding:10px;">
+                    <img src="https://api.learnstage.com/media-manager/api/access/exceled/default/lms/courses/1647/Images/Untitled%20design.jpg" 
+                         style="width:100%; height:auto; max-width:150px;" alt="Stop and Reflect">
+                </div>
+                <div class="stop-reflect-content" style="display:flex; flex-direction:column; justify-content:center; padding:15px; width:80%;">
+                    <h3 style="color:#000000; margin-top:0;">
+                    </h3><p> Consider how robot outputs might need to change when interacting with humans versus manipulating objects. What specific differences would you expect in terms of speed, force, and feedback mechanisms?</p>
+                </div>
+            </div></p>
+<p>&nbsp;</p>
+
+<p>
+        <figure class="table" style="float:left;width:92.41%;" data-font-size="14" data-line-height="20">
+            <table class="ck-table-resized" style="border-style:none;" data-font-size="14" data-line-height="20">
+                <colgroup data-font-size="14" data-line-height="20"><col style="width:13.29%;" data-font-size="14" data-line-height="20"><col style="width:86.71%;" data-font-size="14" data-line-height="20"></colgroup>
+                <tbody data-font-size="14" data-line-height="20">
+                    <tr data-font-size="14" data-line-height="20">
+                        <td style="border-style:none;" data-font-size="14" data-line-height="20">
+                            <figure class="image image_resized" style="width:100%;" data-font-size="14" data-line-height="20">
+                                <img style="aspect-ratio:600/600;" src="https://api.learnstage.com/media-manager/api/access/exceled/default/89309a11-e6ae-4133-97a9-93c735f38be4/content-page/4e85aa67-83db-423a-b7de-53b356164071_removalai_preview.png" width="600" height="600" data-font-size="14" data-line-height="20">
+                            </figure>
+                        </td>
+                        <td style="border-style:none;" data-font-size="14" data-line-height="20">
+                            <h3 data-font-size="16" data-line-height="23">
+                                <span style="color:hsl(359,97%,29%);"><span data-font-size="16" data-line-height="23"><strong data-font-size="16" data-line-height="23">Key Takeaways</strong></span></span>
+                            </h3>
+                            <ul>
+<li>Robots use different motors and actuators as "muscles" - DC motors for continuous spinning, servo motors for exact positions, and linear actuators for straight-line movement.</li>
+<li>Robot "hands" (grippers) come in different types to handle various objects - from simple two-finger grippers to vacuum suction cups and soft flexible grippers that won't damage delicate items.</li>
+<li>Control systems are like a robot's "brain" - simple systems just send commands, while advanced systems use sensors to check if movements were done correctly and make adjustments if needed.</li>
+</ul>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </figure></p>
+<p>&nbsp;</p>
+    </div>
+    

@@ -1,0 +1,8 @@
+{
+  "module": "7",
+  "lesson": "3",
+  "step_number": "5",
+  "step_title": "Digital Footprint Self-Audit",
+  "best_version": "# Digital Footprint Self-Audit\n\n## Introduction\nYour digital footprint is the trail of data you leave behind when using the internet. Taking control of your online presence is essential for protecting your privacy and security.\n\n## Assignment: Digital Safety Self-Audit\n\n### Instructions:\n1. Review the checklist of ten digital safety behaviors below\n2. Implement these safety measures on your devices/accounts\n3. Take a screenshot showing your updated privacy/security settings\n4. Upload your screenshot to complete this assignment\n\n### Digital Safety Checklist:\n1. Password strength and uniqueness check\n2. Two-factor authentication enabled on primary accounts\n3. Social media privacy settings review\n4. Location services settings audit\n5. Browser privacy settings optimization\n6. Search history and cookies management\n7. App permissions review\n8. Email subscription and spam filter check\n9. Cloud storage security review\n10. Personal information visibility check\n\nThis assignment will be automatically marked as complete when you upload your screenshot.",
+  "explanation": "Error in comparison process: maximum recursion depth exceeded while calling a Python object. Using most structurally complete version as fallback."
+}

@@ -1,0 +1,8 @@
+{
+  "module": "10",
+  "lesson": "9",
+  "step_number": "5",
+  "step_title": "Initiative Report Upload",
+  "best_version": "# Initiative Report Upload\n\n## Instructions for Submission\n\n1. **Prepare Your Report**: Create a PDF document that details your kindness initiative, including:\n   - Description of your initiative\n   - Actions taken\n   - People involved\n   - Outcomes observed\n\n2. **Upload Your Report**: Use the submission button below to upload your completed PDF report.\n\n3. **Complete the Impact Survey**: After uploading your report, you'll answer a brief 5-question survey using the Likert scale (Strongly Disagree to Strongly Agree) about the impact of your kindness initiative.\n\n4. **Automatic Grading**: This assignment is graded for completion. Once you've uploaded your report and completed the survey, you'll receive full credit automatically.\n\nThis submission serves as evidence of your mastery in developing and promoting community initiatives that foster kindness.\n\n[UPLOAD REPORT BUTTON]",
+  "explanation": "Error in comparison process: maximum recursion depth exceeded while calling a Python object. Using most structurally complete version as fallback."
+}

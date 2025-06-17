@@ -1,0 +1,410 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css?family=Martel:200,300,400,700,800|Roboto:100,300,400,500" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Markdown to HTML Conversion</title>
+    <style>
+        /* Base styles */
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Roboto', sans-serif;
+            font-size: 18px;
+            color: #454545;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+        }
+        
+        /* Container for content */
+        .container {
+            margin: auto;
+            max-width: 750px;
+            padding-left: 1em;
+            padding-right: 1em;
+            padding-bottom: 4em;
+        }
+        
+        p {
+            line-height: 1.85em;
+            font-weight: 400;
+            letter-spacing: 0.001em;
+            font-size: 0.9em;
+            margin-top: 0;
+            margin-bottom: 1.2em !important;
+            font-family: "Martel", serif;
+        }
+
+        .container p {
+            margin-bottom: 2em;
+        }
+
+        h1, h2, h3, h4, h5, h6 {
+            color: #008000;
+            font-weight: 500;
+            margin-top: 0;
+        }
+        
+        h2 {
+            font-size: 1.8em;
+            line-height: 1em;
+            margin-bottom: 0.2em;
+        }
+        
+        a {
+            color: #008000;
+            text-decoration: none;
+            font-weight: 700;
+        }
+        
+        a:hover {
+            text-decoration: underline;
+        }
+        
+        /* Well styling for Check Your Understanding sections */
+        .well {
+            border: solid 1px #008000;
+            border-top: none;
+            padding: 1em;
+            position: relative;
+            padding-bottom: 1.1em;
+            margin-bottom: 3em;
+            clear: both;
+        }
+        
+        .well:before {
+            content: '';
+            display: block;
+            height: 20px;
+            width: calc(100% + 2.125em);
+            background-color: #008000;
+            position: relative;
+            top: -1em;
+            left: -1.055em;
+        }
+        
+        .well p {
+            font-family: 'Roboto', sans-serif;
+            font-weight: 300;
+            line-height: 1.6em;
+            font-size: 0.91em;
+        }
+        
+        .well p:last-child {
+            margin-bottom: 0;
+        }
+        
+        .well h1:first-child,
+        .well h2:first-child,
+        .well h3:first-child,
+        .well h4:first-child,
+        .well h5:first-child {
+            margin-top: 0;
+        }
+        
+        .well li {
+            font-family: 'Roboto', sans-serif;
+        }
+        
+        .well ol:last-child,
+        .well ul:last-child {
+            margin-bottom: 0;
+        }
+        
+        .well blockquote {
+            font-size: 0.85em;
+            padding: 0.5em 0.5em 0.5em 1em;
+            color: #000000;
+            margin-left: 0.5em;
+        }
+        
+        .well blockquote:before {
+            font-size: 0.5em;
+            font-weight: 500;
+        }
+        
+        @media (min-width: 768px) {
+            p {
+                font-size: 1em;
+            }
+            
+            h2 {
+                font-size: 2.5em;
+            }
+        }
+        
+        /* Stop and Reflect styling */
+        .stop-reflect-container {
+            border: 3px dashed #e50200;
+            margin: 20px 0;
+            padding: 0;
+            display: flex;
+            width: 100%;
+        }
+        
+        .stop-reflect-image {
+            width: 20%;
+            min-width: 100px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 10px;
+        }
+        
+        .stop-reflect-image img {
+            width: 100%;
+            height: auto;
+            max-width: 150px;
+        }
+        
+        .stop-reflect-content {
+            width: 80%;
+            padding: 15px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+        
+        .stop-reflect-content h3 {
+            margin-top: 0;
+            color: #000000;
+        }
+        
+        /* Responsive adjustments for mobile */
+        @media (max-width: 600px) {
+            .stop-reflect-container {
+                flex-direction: column;
+            }
+            
+            .stop-reflect-image {
+                width: 100%;
+                max-width: 150px;
+                margin: 0 auto;
+            }
+            
+            .stop-reflect-content {
+                width: 100%;
+            }
+        }
+        
+        /* Basic element styling */
+        img { 
+            max-width: 100%; 
+            height: auto;
+            display: block;
+            margin: 1em auto;
+        }
+        
+        pre {
+            background-color: #f5f5f5;
+            padding: 1em;
+            border-radius: 5px;
+            overflow-x: auto;
+        }
+        
+        code {
+            background-color: #f5f5f5;
+            padding: 0.2em 0.4em;
+            border-radius: 3px;
+        }
+        
+        blockquote {
+            border-left: 4px solid #ddd;
+            padding-left: 1em;
+            color: #666;
+        }
+        
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            margin: 1em 0;
+        }
+        
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        
+        th {
+            background-color: #f2f2f2;
+        }
+        
+        /* Page break styling */
+        .page-break {
+            page-break-after: always;
+            height: 0;
+            margin: 0;
+            border: 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container" style="margin: auto; max-width: 750px; padding-left: 1em; padding-right: 1em; padding-bottom: 4em;">
+        <h1>2.3</h1>
+<h1>Humans and Robots: System Connections</h1>
+<h2>Learning Objectives</h2>
+<p>By the end of this session, you'll be able to:</p>
+<ul>
+<li>Compare the human body and robot systems using the input-processing-output model</li>
+</ul>
+<ul>
+<li>Distinguish between how human brains and robot processors handle information</li>
+</ul>
+<ul>
+<li>Identify input-processing-output components in everyday technology systems</li>
+</ul>
+<p>By comparing different types of systems, we can better understand how robot systems work and discover interesting similarities and differences. These comparisons help us see that the principles we're learning about robots apply to many other things in our world.</p>
+<h2><strong>Human Body as a System</strong></h2>
+<p>The human body is an amazing system that has many similarities to robot systems. Just like robots, our bodies follow the input-processing-output model:</p>
+<p><strong>Inputs:</strong> Our body gathers information through our senses:</p>
+<ul>
+<li>Eyes detect light and colors (similar to robot cameras)</li>
+</ul>
+<ul>
+<li>Ears detect sounds (like robot microphones)</li>
+</ul>
+<ul>
+<li>Skin feels touch, temperature, and pain (like robot touch and temperature sensors)</li>
+</ul>
+<ul>
+<li>Nose detects smells and tongue detects tastes (some advanced robots have chemical sensors)</li>
+</ul>
+<p><strong>Processing:</strong> Our brain processes all this sensory information:</p>
+<ul>
+<li>It interprets what we see, hear, and feel</li>
+</ul>
+<ul>
+<li>It makes decisions based on this information and our past experiences</li>
+</ul>
+<ul>
+<li>It sends signals to different parts of our body</li>
+</ul>
+<ul>
+<li>It can learn and adapt over time (like robots with artificial intelligence)</li>
+</ul>
+<p><strong>Outputs:</strong> Our body responds through various actions:</p>
+<ul>
+<li>Muscles move our limbs (like robot motors)</li>
+</ul>
+<ul>
+<li>Vocal cords produce speech (like robot speakers)</li>
+</ul>
+<ul>
+<li>Hands can manipulate objects (like robot grippers)</li>
+</ul>
+<ul>
+<li>We can communicate through facial expressions and body language</li>
+</ul>
+<p>The human body even has specialized subsystems, just like complex robots:</p>
+<ul>
+<li>The digestive system processes food for energy (like a robot's power system)</li>
+</ul>
+<ul>
+<li>The circulatory system transports nutrients and oxygen (like a robot's wiring)</li>
+</ul>
+<ul>
+<li>The nervous system carries signals (like a robot's communication network)</li>
+</ul>
+<p>Understanding these parallels helps robot designers create machines that can function effectively in human environments.</p>
+<h3><strong>Brain vs. Robot Processing</strong></h3>
+<p>While both human brains and robot processors make decisions, they work in very different ways:</p>
+<ul>
+<li>Our brains use billions of connected neurons that work together, while most robot processors follow step-by-step instructions</li>
+</ul>
+<ul>
+<li>Human brains can learn naturally from experience, while robots need specific programming to learn</li>
+</ul>
+<ul>
+<li>Our brains can handle many tasks at once without getting confused, but simpler robots often focus on one task at a time</li>
+</ul>
+<ul>
+<li>Human brains use emotions and instincts to help make decisions, while robots typically rely on logical rules</li>
+</ul>
+<p>Recent advances in artificial intelligence are helping robots process information more like humans. For example, some newer robots can:</p>
+<ul>
+<li>Recognize faces and voices they've seen before</li>
+</ul>
+<ul>
+<li>Learn from their mistakes without being reprogrammed</li>
+</ul>
+<ul>
+<li>Adapt to new situations they weren't specifically programmed for</li>
+</ul>
+<ul>
+<li>Work together with other robots to solve problems</li>
+</ul>
+<p>These advances are exciting, but even the smartest robots today still process information very differently than humans do!</p>
+<h2><strong>Everyday Technology Systems</strong></h2>
+<p>Many technologies we use every day are systems that follow the same input-processing-output model as robots:</p>
+<p><strong>Smartphones:</strong></p>
+<ul>
+<li>Inputs: Touchscreen, microphone, camera, various sensors</li>
+</ul>
+<ul>
+<li>Processing: Computer chip running the operating system and apps</li>
+</ul>
+<ul>
+<li>Outputs: Screen display, speaker, vibration motor</li>
+</ul>
+<p><strong>Video Game Consoles:</strong></p>
+<ul>
+<li>Inputs: Controllers, cameras, microphones</li>
+</ul>
+<ul>
+<li>Processing: Computer that runs the game software</li>
+</ul>
+<ul>
+<li>Outputs: TV screen, speakers, controller vibration</li>
+</ul>
+<p><strong>Smart Home Devices:</strong></p>
+<ul>
+<li>Inputs: Microphones, motion sensors, temperature sensors</li>
+</ul>
+<ul>
+<li>Processing: Computer chips that interpret commands and sensor data</li>
+</ul>
+<ul>
+<li>Outputs: Speakers, lights, control signals to other devices</li>
+</ul>
+<p><strong>Cars:</strong></p>
+<ul>
+<li>Inputs: Steering wheel, pedals, various sensors</li>
+</ul>
+<ul>
+<li>Processing: Engine control unit and other computers</li>
+</ul>
+<ul>
+<li>Outputs: Engine power, braking, dashboard displays</li>
+</ul>
+<p>By recognizing these systems in everyday life, we can see that the principles of robotics are all around us, not just in devices we call "robots."</p>
+<h2>Key Takeaways</h2>
+<ul>
+<li>Both humans and robots work using the same pattern: they take in information (input), make decisions (processing), and then respond with actions (output).</li>
+</ul>
+<ul>
+<li>Human brains and robot processors work differently - our brains use connected neurons and emotions, while robots follow programmed instructions and logical rules.</li>
+</ul>
+<ul>
+<li>The input-processing-output model isn't just for robots - it's in everyday technology like smartphones, video games, and cars.</li>
+</ul>
+    </div>
+    
+    <script>
+        // Optional: Add this if you want to reset the answer when clicking again
+        function toggleAnswer(id) {
+            var element = document.getElementById(id);
+            if (element.style.display === "none") {
+                element.style.display = "block";
+            } else {
+                element.style.display = "none";
+            }
+            return false;
+        }
+    </script>
+</body>
+</html>

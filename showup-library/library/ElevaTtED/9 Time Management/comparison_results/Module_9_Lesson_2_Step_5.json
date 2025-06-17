@@ -1,0 +1,8 @@
+{
+  "module": "9",
+  "lesson": "2",
+  "step_number": "5",
+  "step_title": "Stack Demo",
+  "best_version": "# Stack Demo: Dashboard Tour\n\n## Screencast Instructions\nFor this assignment, you'll need to record a **two-minute screencast** touring the Stack application dashboard. Your screencast should:\n\n- Show navigation through the main interface\n- Demonstrate how to create and organize tasks\n- Highlight the calendar integration features\n- Show notification settings\n- Explain one time-management feature in detail\n\nUse a screen recording tool of your choice (Loom, Screencastify, etc.) and upload your video to the submission area.\n\n## Assessment Questions\nAfter watching your own screencast, complete these multiple-choice questions:\n\n1. Which Stack feature allows for setting recurring tasks?\n2. How does Stack integrate with external calendar applications?\n3. What productivity analytics does Stack provide?\n4. Which collaboration features are available in Stack?\n5. How does Stack's priority system work?\n\nYour answers will be auto-graded upon submission.",
+  "explanation": "Error in comparison process: maximum recursion depth exceeded while calling a Python object. Using most structurally complete version as fallback."
+}

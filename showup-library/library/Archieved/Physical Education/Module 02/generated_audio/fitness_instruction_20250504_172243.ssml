@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="en-US">
+<voice name="en-US-AndrewNeural" parameters="temperature=0.35">
+<prosody rate="-5%" pitch="+2%" volume="+10%">
+<p>Welcome to the One-Leg Stand Challenge. <break time="650ms"/> This exercise builds balance and strengthens your stabilizer muscles. <break time="650ms"/> Stand near a wall or sturdy chair for safety. <break time="650ms"/></p>
+<p>Let’s get set up. <break time="650ms"/> Stand tall in a clear space. <break time="650ms"/> Place your feet hip-width apart. <break time="650ms"/> Keep your arms relaxed at your sides. <break time="650ms"/> Shift your weight onto your left foot. <break time="650ms"/> When ready,<break time="150ms"/> gently lift your right foot off the ground. <break time="650ms"/> Raise your arms out to the sides for balance. <break time="650ms"/> Your left knee should be soft,<break time="150ms"/> not locked. <break time="650ms"/> Keep your gaze forward and your chest open. <break time="650ms"/> Make sure your standing foot is planted firmly. <break time="650ms"/> <emphasis level="moderate">Maintain a tall,<break time="150ms"/> upright posture</emphasis>. <break time="650ms"/></p>
+<p>Let’s begin the repetitions. <break time="650ms"/></p>
+<p><prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">core engaged,<break time="150ms"/> shoulders relaxed</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">lifted foot close to your ankle</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Three - <emphasis level="moderate">steady breath,<break time="150ms"/> even weight on standing foot</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Four - <emphasis level="moderate">arms out wide,<break time="150ms"/> eyes focused ahead</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Five - <emphasis level="moderate">avoid leaning to one side</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Six - <emphasis level="strong">stop if you feel dizzy or unsteady</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Seven - <emphasis level="moderate">hold steady,<break time="150ms"/> keep gentle tension in your core</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Eight - <emphasis level="moderate">soft knee,<break time="150ms"/> not locked</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Nine - <emphasis level="moderate">focus on a spot in front of you</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Ten - <emphasis level="moderate">feel the muscles in your foot working</emphasis> <break time="3000ms"/></prosody></p>
+<p>Success check: Are you upright,<break time="150ms"/> steady,<break time="150ms"/> and breathing smoothly? <break time="650ms"/> If you lost balance,<break time="150ms"/> that’s normal. <break time="650ms"/> Try again,<break time="150ms"/> using the wall for support if needed. <break time="650ms"/></p>
+<p>Modification options: For an easier version,<break time="150ms"/> keep your lifted foot touching your ankle. <break time="650ms"/> For a greater challenge,<break time="150ms"/> close your eyes or stand on a folded towel. <break time="650ms"/> These changes will make your muscles work harder to stabilize. <break time="650ms"/></p>
+<p>Now,<break time="150ms"/> switch sides. <break time="650ms"/> Shift your weight to your right foot. <break time="650ms"/> Lift your left foot. <break time="650ms"/> Arms out to the sides. <break time="650ms"/> Start again:</p>
+<p><prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">core engaged,<break time="150ms"/> shoulders relaxed</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">lifted foot close to your ankle</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Three - <emphasis level="moderate">steady breath,<break time="150ms"/> even weight on standing foot</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Four - <emphasis level="moderate">arms out wide,<break time="150ms"/> eyes focused ahead</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Five - <emphasis level="moderate">avoid leaning to one side</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Six - <emphasis level="strong">stop if you feel dizzy or unsteady</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Seven - <emphasis level="moderate">hold steady,<break time="150ms"/> keep gentle tension in your core</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Eight - <emphasis level="moderate">soft knee,<break time="150ms"/> not locked</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Nine - <emphasis level="moderate">focus on a spot in front of you</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Ten - <emphasis level="moderate">feel the muscles in your foot working</emphasis> <break time="3000ms"/></prosody></p>
+<p>Great work completing the One-Leg Stand Challenge. <break time="650ms"/> This exercise helps build balance,<break time="150ms"/> ankle strength,<break time="150ms"/> and body awareness. <break time="650ms"/> Practicing regularly can improve stability and prevent falls. <break time="650ms"/> Remember,<break time="150ms"/> use support if needed and progress slowly. <break time="650ms"/> Celebrate your effort and come back to challenge yourself again soon. <break time="650ms"/></p>
+</prosody>
+</voice>
+</speak>

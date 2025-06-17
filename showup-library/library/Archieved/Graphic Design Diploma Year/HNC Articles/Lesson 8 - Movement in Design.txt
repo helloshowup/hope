@@ -1,0 +1,64 @@
+What Is Movement In Digital Design?
+Movement in digital design refers to the strategic use of animation, transitions, and other dynamic elements to guide user attention, convey information, and create engaging user experiences. Movement can be subtle, such as a fading effect when hovering over a button, or more dramatic, like an animated background that changes over time.
+Fig 1. Pixabay (n.d.) Moving imagery in digital design
+Examples of movements in digital design include
+Transitions: Smooth transitions between different states or screens within an interface, such as sliding panels, fading effects, or animated page transitions.
+Animations: Animated elements that respond to user interactions or automatically play to convey information, such as loading spinners, scrolling effects, or animated illustrations.
+Hover effects: Changes in appearance or behaviour when a user hovers over an interactive element, such as buttons, links, or images.
+Scrolling effects: Parallax scrolling, scroll-triggered animations, or other effects that respond to the user's scrolling behaviour to create depth and visual interest.
+Dynamic content: Content that updates or changes dynamically based on user input, real-time data, or external events, such as live feeds, interactive maps, or animated charts.
+Microinteractions: Small, subtle animations or visual feedback that provide context, guide users, or enhance usability, such as button animations, form validation indicators, or notification badges.
+Applying one or more of these movements in your digital design can serve several purposes. For example, it can be used to indicate actions or changes in state, help draw attention to an important element, help engage a user, or evoke emotions. 
+While movement can enhance the user experience of a particular digital design including a website or app, it is essential to consider performance implications, especially on mobile devices and slower internet connections. Optimising animations for performance, using techniques like CSS animations or hardware acceleration, can ensure a smooth experience across different devices and browsers. 
+How Does Movement in Design Impact The Message?
+Movement plays a significant role in graphic design as it adds dynamism, engages the audience, and enhances the overall visual experience. 
+Capturing attention
+Movement naturally draws the eye and captures attention more effectively than static images. In a world bombarded with visual stimuli, incorporating movement can help a design to stand out amid the noise.
+Conveying emotion
+Movement can evoke emotions and create a deeper connection with the audience. Whether it's through subtle animations or more dynamic transitions, movement can add layers of meaning to a design, helping to convey the intended mood or tone more effectively.
+Enhancing storytelling
+Just as movement is essential in filmmaking to tell a story, it can also be used in graphic design to guide the viewer through a narrative. By strategically incorporating animated elements, designers can lead the audience on a journey, revealing information gradually and building intrigue along the way.
+Adding interactivity
+Movement in graphic design can facilitate interaction and engagement by providing feedback or prompting user actions. Interactive elements such as animated buttons, hover effects, or scroll-triggered animations encourage users to explore further, creating a more immersive experience.
+Changing perception
+By manipulating movement, designers can alter the perception of time, space, and context within a design. For example, a slow-motion effect can convey a sense of serenity or introspection, while a rapid montage of images can evoke a feeling of urgency or excitement. These changes in perception can significantly impact how the message is received and interpreted by the audience.
+Highlighting Key Information
+Movement can be used strategically to emphasise specific elements within a design, such as important messages, calls to action, or brand logos. Whether it's through animated text, pulsating graphics, or eye-catching transitions, movement directs the viewer's attention to the focal points of the design, ensuring that the intended message is communicated clearly and effectively.
+Creating Memorable Experiences
+Ultimately, movement has the power to create memorable experiences that leave a lasting impression on the audience. By combining compelling visuals with dynamic animations, designers can craft designs that not only inform but also entertain and inspire, fostering a deeper connection with the brand or message being communicated.
+Key Principles of Movement In Design
+The principles of moving images in design are fundamental guidelines that designers follow to create effective and visually appealing animations and motion graphics. These principles help designers convey information, guide user attention, and create engaging experiences. 
+Here are some key principles of moving images in design:
+Timing
+Timing refers to the speed and rhythm of movement in a piece of animation. As a designer, it’s crucial to ensure that moving images occur at a pace that feels natural and cohesive with the overall design. There is no set timing that can be applied to all designs. It varies depending on the context and purpose of the animation, with slower movements often used for more relaxed or contemplative experiences and faster movements for communicating urgency or excitement.
+Fig 2. Pixabay (n.d.) The timing between each pose is critical to create realistic movement
+Arcs
+In moving image design, arcs refer to the curved paths that objects or characters follow when they move. This concept is derived from observations of real-world movement, where objects tend to travel along curved trajectories rather than straight lines. Arcs are a fundamental principle of animation and are used to create more natural, fluid, and visually appealing motion.
+Secondary action
+Secondary action or animation refers to the actions that support or emphasise the main action and to add more life to the animation therefore creating a more convincing performance. For example, a character's hair or clothing may sway as they walk, even though the primary action is the walking itself. Or the blinking of a character’s eyes while the main facial expression or character’s monologue is of more importance.
+Fig 3. Pixabay (n.d.) Secondary action seen in the flow of the character’s skirt and hair
+Easing
+Easing in and easing out, also known as acceleration and deceleration, involves adjusting the speed of an animation to create more natural and visually pleasing movement. Instead of moving at a constant speed, elements may start slowly, then accelerate through the middle of the animation, and finally slow down as they reach their destination. Easing helps prevent animations from feeling robotic or abrupt and adds a sense of realism to the movement.
+Hierarchy of Movement
+Similar to visual hierarchy, motion graphics should follow a hierarchy of movement to guide user attention and to emphasise important elements. To make primary actions more engaging, a designer would use larger, more expressive movements. Another term in design that refers to this amplification of aspects, is exaggeration. This technique is commonly used in character animation to convey emotions and personality with smaller, more subtle movements used for secondary elements or background details. By establishing a hierarchy of movement, designers can create more organised and intuitive user experiences.
+Shape distortion
+Designers use squash and stretch to distort or deform an object's shape to convey motion and flexibility. For example, a bouncing ball may squash as it hits the ground and stretches as it rebounds upwards, or a heavy weight falls on a character in an animation and it squashes the body flat. 
+Fig 4. Unsplash (n.d.) Distortion in the length of arms illustration stretch movement
+Smears are exaggerated, elongated shapes that create the illusion of fast movements or motion blur and add more energy to a scene. They create a sense of speed and fluidity in animations, especially during rapid actions. Squash and stretch is different to smears. A smear is used to show quick motion and squash and stretch are used to show expression or bounciness. 
+Fig 5. Pixabay (n.d.) Smears creating the illusion of movement
+Solid drawing
+The principle of solid drawing directly relates to the representation of items within a 3 dimensional plain. The use of weight, balance, gravity, light and shade alongside the use of line, shape and form enables the designer the ability to create the illusion of space and realism. Consistency of application and manipulation of objects within this space is key to creating a well grounded and believable scene.
+Overlap and Follow-Through
+Overlap, or overlapping action, and follow-through refer to the continuation of movement beyond the primary action, adding a sense of fluidity and realism to animations. For example, when a character comes to a stop after walking, their limbs may continue to move slightly before settling into a resting position. Incorporating overlap and follow-through into animations can make them feel more natural and dynamic.
+Anticipation
+Anticipation involves preparing the viewer for upcoming actions by showing a brief preview or movement in the opposite direction. This can be achieved through techniques such as stretching an object before it is animated or showing a brief preview of the next slide in a carousel interface. Anticipation helps users anticipate what will happen next and improves the overall flow of the animation, and helps make actions feel more realistic and understandable.
+Fig 6. Pixabay (n.d.) Anticipation created through character’s pose in mid-air
+Straight ahead and Pose to Pose
+Straight Ahead action involves the animation of each scene from beginning to end. This creates a fluidity to the movement especially if animating an action scene but not if the aim is to create suspense and perfectly maintained proportional poses within the scene.
+Pose to Pose is a technique whereby you create the start key frame and the end key frame but fill in the intervals between at a later date/time. Having specific start and end points enables the designer to increase the drama within the scene by specifically highlighting certain points within it.
+Appeal
+Appeal refers to the overall attractiveness and charm of motion graphics. It encompasses elements such as character design, movement quality, and storytelling, all of which contribute to the animation's appeal to the audience.
+Staging
+Staging in motion graphics design refers to the arrangement and composition of elements within a scene or composition. It involves carefully positioning and organising visual elements such as characters, objects, text, and backgrounds to effectively communicate information, convey meaning, and create visually appealing compositions.
+Fig 7. Pixabay (n.d.) All elements considered to create a pleasing composition
+All of the above mentioned principles are vital to creating compelling and effective animations across various mediums, including film, video games, UI, and advertising. By understanding and applying these principles, animators and designers can create animations that are not only visually appealing but also communicate effectively and evoke emotional responses from the user/audience.

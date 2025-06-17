@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="en-US">
+<voice name="en-US-AndrewNeural" parameters="temperature=0.35">
+<prosody rate="-5%" pitch="+2%" volume="+10%">
+<p>Welcome to your exercise session. <break time="650ms"/>  
+Today,<break time="150ms"/> we’re focusing on the classic <emphasis level="moderate">bodyweight squat</emphasis>. <break time="650ms"/>  
+This move strengthens your legs and glutes. <break time="650ms"/>  
+It’s especially effective for building lower body power. <break time="650ms"/>  
+Remember: <emphasis level="strong">keep your knees tracking over your toes</emphasis> to protect your joints. <break time="650ms"/></p>
+<p>Let’s set up for the squat. <break time="650ms"/>  
+Stand tall with your feet about shoulder-width apart. <break time="650ms"/>  
+Toes point slightly outward. <break time="650ms"/>  
+Keep your arms relaxed at your sides,<break time="150ms"/> or extend them forward for balance. <break time="650ms"/>  
+Draw your shoulder blades back. <break time="650ms"/>  
+Pull your belly button gently toward your spine. <break time="650ms"/>  
+This helps brace your core. <break time="650ms"/>  
+Look straight ahead. <break time="650ms"/>  
+Ready to begin? <break time="650ms"/>  
+Let’s check your starting position: <break time="650ms"/>  
+Feet shoulder-width,<break time="150ms"/> toes slightly out,<break time="150ms"/> chest up,<break time="150ms"/> core tight. <break time="650ms"/>  
+You’re set. <break time="650ms"/></p>
+<p>We’ll do ten repetitions. <break time="650ms"/>  
+Follow my count and cues. <break time="650ms"/></p>
+<p><prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">push your hips back,<break time="150ms"/> as if sitting into a chair</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">keep your chest lifted,<break time="150ms"/> eyes forward</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Three - <emphasis level="moderate">lower until your thighs are parallel to the floor</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Four - <emphasis level="moderate">press through your heels as you stand up</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Five - <emphasis level="moderate">avoid letting your knees fall inward</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Six - <emphasis level="moderate">keep your weight balanced over your mid-foot</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Seven - <emphasis level="moderate">pause briefly at the bottom for control</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Eight - <emphasis level="moderate">squeeze your glutes at the top</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Nine - <emphasis level="moderate">maintain a neutral spine throughout</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Ten - <emphasis level="strong">finish strong,<break time="150ms"/> with perfect form</emphasis> <break time="3000ms"/></prosody></p>
+<p>Quick check-in:  
+Did your knees stay over your toes? <break time="650ms"/>  
+Was your chest up and back straight? <break time="650ms"/>  
+If so,<break time="150ms"/> great job. <break time="650ms"/>  
+If not,<break time="150ms"/> reset and try again. <break time="650ms"/></p>
+<p>Need a modification? <break time="650ms"/>  
+To make it easier,<break time="150ms"/> squat to a sturdy chair. <break time="650ms"/>  
+Tap the seat lightly,<break time="150ms"/> then stand up. <break time="650ms"/>  
+For more challenge,<break time="150ms"/> try a pause at the bottom. <break time="650ms"/>  
+Hold for two seconds before rising. <break time="650ms"/></p>
+<p>Bodyweight squats build strength and stability in your lower body. <break time="650ms"/>  
+They help with everyday movements,<break time="150ms"/> like climbing stairs and lifting. <break time="650ms"/>  
+With proper form,<break time="150ms"/> you reduce injury risk and increase muscle activation. <break time="650ms"/></p>
+<p>That’s your squat session. <break time="650ms"/>  
+Remember,<break time="150ms"/> quality reps matter more than speed. <break time="650ms"/>  
+Squats improve leg strength,<break time="150ms"/> balance,<break time="150ms"/> and core stability. <break time="650ms"/>  
+Take a moment to notice how your body feels. <break time="650ms"/>  
+When you’re ready,<break time="150ms"/> move on to your next exercise or cool down. <break time="650ms"/>  
+Great work completing your squats today. <break time="650ms"/></p>
+</prosody>
+</voice>
+</speak>

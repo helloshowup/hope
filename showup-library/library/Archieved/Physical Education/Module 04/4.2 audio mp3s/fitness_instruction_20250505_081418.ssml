@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="en-US">
+<voice name="en-US-AndrewNeural" parameters="temperature=0.35">
+<prosody rate="-5%" pitch="+2%" volume="+10%">
+<p>Welcome to your arm workout featuring wall push-ups. <break time="650ms"/> This exercise targets both your biceps and triceps,<break time="150ms"/> helping build strength you can use every day. <break time="650ms"/> Remember – avoid locking your elbows to protect your joints. <break time="650ms"/></p>
+<p>Begin by standing an arm’s length away from a sturdy wall. <break time="650ms"/> Keep your feet about shoulder-width apart. <break time="650ms"/> Place your hands flat on the wall at shoulder height,<break time="150ms"/> and keep them shoulder-width apart as well. <break time="650ms"/> Your fingers should point straight up. <break time="650ms"/></p>
+<p>Check your posture. <break time="650ms"/> Stand tall with your body in a straight line from head to heels. <break time="650ms"/> Engage your core muscles gently. <break time="650ms"/> This helps support your back during the movement. <break time="650ms"/></p>
+<p>Let’s start with eight wall push-ups. <break time="650ms"/> Move with control and focus on your form. <break time="650ms"/></p>
+<p><prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">keep your body straight as you bend your elbows</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">lower your chest toward the wall,<break time="150ms"/> elbows stay close to your sides</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Three - <emphasis level="moderate">pause briefly,<break time="150ms"/> then push the wall away</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Four - <emphasis level="moderate">exhale as you straighten your arms</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Five - <emphasis level="strong">do not let your hips sag or lift</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Six - <emphasis level="moderate">maintain a steady pace,<break time="150ms"/> no rushing</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Seven - <emphasis level="moderate">wrists and shoulders remain in line</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Eight - <emphasis level="moderate">finish at the top with arms extended but not locked</emphasis> <break time="3000ms"/></prosody></p>
+<p>Success check: <break time="650ms"/> Is your body still in a straight line? <break time="650ms"/> Are your elbows slightly bent at the top? <break time="650ms"/></p>
+<p>If you want to make this easier,<break time="150ms"/> step a bit closer to the wall. <break time="650ms"/> For a challenge,<break time="150ms"/> move your feet farther back. <break time="650ms"/> This increases the angle and makes your arms work harder. <break time="650ms"/></p>
+<p>Remember,<break time="150ms"/> good form is key. <break time="650ms"/> Focus on smooth,<break time="150ms"/> controlled movements rather than speed. <break time="650ms"/></p>
+<p>Wall push-ups strengthen your arms,<break time="150ms"/> chest,<break time="150ms"/> and shoulders. <break time="650ms"/> They also help improve posture and support daily activities like lifting and carrying. <break time="650ms"/> With regular practice,<break time="150ms"/> you’ll notice better arm strength and stability. <break time="650ms"/></p>
+<p>Great work today. <break time="650ms"/> Taking time to build your biceps and triceps will pay off in many ways. <break time="650ms"/> Keep practicing wall push-ups to see continued progress. <break time="650ms"/> Remember – quality is more important than quantity. <break time="650ms"/> Stay strong,<break time="150ms"/> and enjoy the feeling of accomplishment after every session. <break time="650ms"/></p>
+</prosody>
+</voice>
+</speak>

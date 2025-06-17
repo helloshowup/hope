@@ -1,0 +1,940 @@
+Markdown Repetition Analysis Results
+===================================
+
+Total repetitions found: 87
+Files with repetitions: 29
+
+Summary:
+--------------------------------------------------
+Lesson 2 Step 02_From Linear to Iterative_ Evolution in Complex Design.md: 3 repetition(s)
+Lesson 2 Step 03_From Linear to Iterative_ Evolution in Complex Design.md: 3 repetition(s)
+Lesson 2 Step 04_Industry Frameworks for Complex Design Solutions.md: 1 repetition(s)
+Lesson 2 Step 05_Industry Frameworks for Complex Design Solutions.md: 4 repetition(s)
+Lesson 2 Step 06_Advanced Tools for Iterative Design.md: 3 repetition(s)
+Lesson 2 Step 07_Professional Practice_ Case Studies in Complex Design.md: 2 repetition(s)
+Lesson 2 Step 08_Systematic Design Problem Analysis.md: 3 repetition(s)
+Lesson 2 Step 09_Professional Analysis Tools.md: 3 repetition(s)
+Lesson 2 Step 10_Professional Analysis Tools.md: 2 repetition(s)
+Lesson 2 Step 11_Stakeholder Analysis Methods.md: 3 repetition(s)
+Lesson 2 Step 12_Stakeholder Analysis Methods.md: 3 repetition(s)
+Lesson 2 Step 13_Business Requirements in Design.md: 2 repetition(s)
+Lesson 2 Step 14_Business Requirements in Design.md: 1 repetition(s)
+Lesson 2 Step 15_Reimagining a Financial App for Multiple Generations.md: 3 repetition(s)
+Lesson 2 Step 16_Developing Cross-Platform Solutions for Financial Services.md: 1 repetition(s)
+Lesson 2 Step 17_Financial App Design System Templates.md: 2 repetition(s)
+Lesson 2 Step 18_Design Version Control and Documentation.md: 4 repetition(s)
+Lesson 2 Step 19_Design Version Control and Documentation.md: 3 repetition(s)
+Lesson 2 Step 20_Design Version Control and Documentation.md: 3 repetition(s)
+Lesson 2 Step 21_Professional Design Collaboration Tools.md: 4 repetition(s)
+Lesson 2 Step 22_Professional Design Collaboration Tools.md: 2 repetition(s)
+Lesson 2 Step 23_Digital Tools for Design Feedback.md: 2 repetition(s)
+Lesson 2 Step 24_Digital Tools for Design Feedback.md: 8 repetition(s)
+Lesson 2 Step 25_Building a Sustainable Fashion Brand_s Multi-Platform Campaign.md: 3 repetition(s)
+Lesson 2 Step 26_Visualizing Feedback Integration for Fashion Brand Success.md: 2 repetition(s)
+Lesson 2 Step 27_Measuring Success in Sustainable Fashion Marketing.md: 2 repetition(s)
+Lesson 2 Step 28_Evolving the Fashion Campaign Through Stakeholder Feedback.md: 6 repetition(s)
+Lesson 2 Step 29_Sustainable Fashion Campaign Toolkit.md: 8 repetition(s)
+Lesson 2 Step 30_Formative Assessment B1_Assignment 1.md: 1 repetition(s)
+
+Details by File:
+==================================================
+
+FILE: C:/Users/User/Desktop/ShowupSquaredV4/library/Graphic Design Diploma Year/Lesson 2 - Cognitive Strategies for Digital Age Design\Lesson 2 Step 02_From Linear to Iterative_ Evolution in Complex Design.md
+--------------------------------------------------------------------------------
+
+  Repetition #1
+  Line: 2
+  Text: "module: "Lesson 2 - Cognitive Strategies for Digital Age Design" lesson: "2" step_number: "2" step_title: "From Linear to Iterative: Evolution in Complex Design" template_type: "Article" target_learner: "# HND Graphic Design Learner Profile This learner ultimately seeks to emerge with specialized competencies, professional confidence, and an industry-ready portfolio that demonstrates their technical proficiency and creative capabilities.""
+
+  Similar to content in: Lesson 2 Step 01_From Linear to Iterative_ Evolution in Complex Design.md, Line: 2
+  Original: "module: "Lesson 2 - Cognitive Strategies for Digital Age Design" lesson: "2" step_number: "1" step_title: "From Linear to Iterative: Evolution in Complex Design" template_type: "Video" target_learner: "# HND Graphic Design Learner Profile generation_date: "2025-04-04 04:55:16" Complex design projects rarely follow a straight path."
+  Similarity: 0.61
+  ----------------------------------------------------------------------
+
+  Repetition #2
+  Line: 47
+  Text: "Let's explore how different approaches to feedback can dramatically impact your workflow and final outcomes."
+
+  Similar to content in: Lesson 2 Step 01_From Linear to Iterative_ Evolution in Complex Design.md, Line: 2
+  Original: "Let's explore why iterative approaches offer better solutions for the professional environment you're preparing to enter."
+  Similarity: 0.52
+  ----------------------------------------------------------------------
+
+  Repetition #3
+  Line: 133
+  Text: "* Which would better handle unexpected changes in project requirements?"
+
+  Similar to content in: Lesson 2 Step 02_From Linear to Iterative_ Evolution in Complex Design.md, Line: 132
+  Original: "* Which would be more efficient in terms of designer time and effort?"
+  Similarity: 0.50
+  ----------------------------------------------------------------------
+
+
+FILE: C:/Users/User/Desktop/ShowupSquaredV4/library/Graphic Design Diploma Year/Lesson 2 - Cognitive Strategies for Digital Age Design\Lesson 2 Step 03_From Linear to Iterative_ Evolution in Complex Design.md
+--------------------------------------------------------------------------------
+
+  Repetition #1
+  Line: 65
+  Text: "Which statement best describes how linear design approaches structure the design process?"
+
+  Similar to content in: Lesson 2 Step 03_From Linear to Iterative_ Evolution in Complex Design.md, Line: 62
+  Original: "**Instructions:** Test your understanding of linear and iterative design approaches by answering the following questions."
+  Similarity: 0.50
+  ----------------------------------------------------------------------
+
+  Repetition #2
+  Line: 142
+  Text: "[Image: Professional design team collaborating in a studio environment with visible design artifacts showing iterative process."
+
+  Similar to content in: Lesson 2 Step 02_From Linear to Iterative_ Evolution in Complex Design.md, Line: 114
+  Original: "[Image: Split-screen showing a professional design team's collaborative workspace with physical and digital materials for an ongoing rebranding project."
+  Similarity: 0.54
+  ----------------------------------------------------------------------
+
+  Repetition #3
+  Line: 152
+  Text: "How might you incorporate iterative approaches in your current portfolio projects?"
+
+  Similar to content in: Lesson 2 Step 01_From Linear to Iterative_ Evolution in Complex Design.md, Line: 60
+  Original: "How might an iterative approach have improved your process or outcome?"
+  Similarity: 0.59
+  ----------------------------------------------------------------------
+
+
+FILE: C:/Users/User/Desktop/ShowupSquaredV4/library/Graphic Design Diploma Year/Lesson 2 - Cognitive Strategies for Digital Age Design\Lesson 2 Step 04_Industry Frameworks for Complex Design Solutions.md
+--------------------------------------------------------------------------------
+
+  Repetition #1
+  Line: 47
+  Text: "generation_date: "2025-04-04 05:01:40" The design industry has evolved beyond linear processes to embrace more flexible, iterative approaches."
+
+  Similar to content in: Lesson 2 Step 03_From Linear to Iterative_ Evolution in Complex Design.md, Line: 47
+  Original: "generation_date: "2025-04-04 04:59:33" Design methodologies have evolved dramatically over recent decades."
+  Similarity: 0.55
+  ----------------------------------------------------------------------
+
+
+FILE: C:/Users/User/Desktop/ShowupSquaredV4/library/Graphic Design Diploma Year/Lesson 2 - Cognitive Strategies for Digital Age Design\Lesson 2 Step 05_Industry Frameworks for Complex Design Solutions.md
+--------------------------------------------------------------------------------
+
+  Repetition #1
+  Line: 2
+  Text: "module: "Lesson 2 - Cognitive Strategies for Digital Age Design" lesson: "2" step_number: "5" step_title: "Industry Frameworks for Complex Design Solutions" template_type: "downloadable" target_learner: "# HND Graphic Design Learner Profile This learner ultimately seeks to emerge with specialized competencies, professional confidence, and an industry-ready portfolio that demonstrates their technical proficiency and creative capabilities.""
+
+  Similar to content in: Lesson 2 Step 04_Industry Frameworks for Complex Design Solutions.md, Line: 2
+  Original: "module: "Lesson 2 - Cognitive Strategies for Digital Age Design" lesson: "2" step_number: "4" step_title: "Industry Frameworks for Complex Design Solutions" template_type: "Article" target_learner: "# HND Graphic Design Learner Profile This learner ultimately seeks to emerge with specialized competencies, professional confidence, and an industry-ready portfolio that demonstrates their technical proficiency and creative capabilities.""
+  Similarity: 0.98
+  ----------------------------------------------------------------------
+
+  Repetition #2
+  Line: 47
+  Text: "As you progress through your second year of graphic design studies, you'll need practical ways to apply industry frameworks in your projects."
+
+  Similar to content in: Lesson 2 Step 02_From Linear to Iterative_ Evolution in Complex Design.md, Line: 47
+  Original: "As you progress in your graphic design career, you'll find that managing stakeholder input becomes increasingly crucial to your success."
+  Similarity: 0.52
+  ----------------------------------------------------------------------
+
+  Repetition #3
+  Line: 128
+  Text: "[Image: Side-by-side comparison of initial interface sketch and refined digital prototype with annotations highlighting improvements based on user testing."
+
+  Similar to content in: Lesson 2 Step 04_Industry Frameworks for Complex Design Solutions.md, Line: 118
+  Original: "[Image: Side-by-side comparison of a wireframe prototype and final polished design for a mobile app."
+  Similarity: 0.53
+  ----------------------------------------------------------------------
+
+  Repetition #4
+  Line: 128
+  Text: "How might these approaches change your design process going forward?"
+
+  Similar to content in: Lesson 2 Step 01_From Linear to Iterative_ Evolution in Complex Design.md, Line: 60
+  Original: "How might an iterative approach have improved your process or outcome?"
+  Similarity: 0.62
+  ----------------------------------------------------------------------
+
+
+FILE: C:/Users/User/Desktop/ShowupSquaredV4/library/Graphic Design Diploma Year/Lesson 2 - Cognitive Strategies for Digital Age Design\Lesson 2 Step 06_Advanced Tools for Iterative Design.md
+--------------------------------------------------------------------------------
+
+  Repetition #1
+  Line: 2
+  Text: "module: "Lesson 2 - Cognitive Strategies for Digital Age Design" lesson: "2" step_number: "6" step_title: "Advanced Tools for Iterative Design" template_type: "Article" target_learner: "# HND Graphic Design Learner Profile This learner ultimately seeks to emerge with specialized competencies, professional confidence, and an industry-ready portfolio that demonstrates their technical proficiency and creative capabilities.""
+
+  Similar to content in: Lesson 2 Step 04_Industry Frameworks for Complex Design Solutions.md, Line: 2
+  Original: "module: "Lesson 2 - Cognitive Strategies for Digital Age Design" lesson: "2" step_number: "4" step_title: "Industry Frameworks for Complex Design Solutions" template_type: "Article" target_learner: "# HND Graphic Design Learner Profile This learner ultimately seeks to emerge with specialized competencies, professional confidence, and an industry-ready portfolio that demonstrates their technical proficiency and creative capabilities.""
+  Similarity: 0.92
+  ----------------------------------------------------------------------
+
+  Repetition #2
+  Line: 66
+  Text: "[Image: Screenshot of Zeplin interface showing a mobile app design with automatically generated specifications and CSS code."
+
+  Similar to content in: Lesson 2 Step 06_Advanced Tools for Iterative Design.md, Line: 64
+  Original: "**Zeplin** bridges the gap between designers and developers by automatically generating detailed specifications and style guides from your design files."
+  Similarity: 0.51
+  ----------------------------------------------------------------------
+
+  Repetition #3
+  Line: 144
+  Text: "By getting to grips with them now, you're developing the technical infrastructure that supports sophisticated design thinking in professional environments."
+
+  Similar to content in: Lesson 2 Step 04_Industry Frameworks for Complex Design Solutions.md, Line: 126
+  Original: "These frameworks aren't just theoretical concepts but practical tools used daily in professional environments."
+  Similarity: 0.51
+  ----------------------------------------------------------------------
+
+
+FILE: C:/Users/User/Desktop/ShowupSquaredV4/library/Graphic Design Diploma Year/Lesson 2 - Cognitive Strategies for Digital Age Design\Lesson 2 Step 07_Professional Practice_ Case Studies in Complex Design.md
+--------------------------------------------------------------------------------
+
+  Repetition #1
+  Line: 2
+  Text: "module: "Lesson 2 - Cognitive Strategies for Digital Age Design" lesson: "2" step_number: "7" step_title: "Professional Practice: Case Studies in Complex Design" template_type: "Video" target_learner: "# HND Graphic Design Learner Profile This learner ultimately seeks to emerge with specialized competencies, professional confidence, and an industry-ready portfolio that demonstrates their technical proficiency and creative capabilities.""
+
+  Similar to content in: Lesson 2 Step 01_From Linear to Iterative_ Evolution in Complex Design.md, Line: 2
+  Original: "module: "Lesson 2 - Cognitive Strategies for Digital Age Design" lesson: "2" step_number: "1" step_title: "From Linear to Iterative: Evolution in Complex Design" template_type: "Video" target_learner: "# HND Graphic Design Learner Profile generation_date: "2025-04-04 04:55:16" Complex design projects rarely follow a straight path."
+  Similarity: 0.50
+  ----------------------------------------------------------------------
+
+  Repetition #2
+  Line: 47
+  Text: "generation_date: "2025-04-04 05:07:41" Design projects rarely involve just a client and designer anymore."
+
+  Similar to content in: Lesson 2 Step 03_From Linear to Iterative_ Evolution in Complex Design.md, Line: 47
+  Original: "generation_date: "2025-04-04 04:59:33" Design methodologies have evolved dramatically over recent decades."
+  Similarity: 0.64
+  ----------------------------------------------------------------------
+
+
+FILE: C:/Users/User/Desktop/ShowupSquaredV4/library/Graphic Design Diploma Year/Lesson 2 - Cognitive Strategies for Digital Age Design\Lesson 2 Step 08_Systematic Design Problem Analysis.md
+--------------------------------------------------------------------------------
+
+  Repetition #1
+  Line: 2
+  Text: "module: "Lesson 2 - Cognitive Strategies for Digital Age Design" lesson: "2" step_number: "8" step_title: "Systematic Design Problem Analysis" template_type: "Article" target_learner: "# HND Graphic Design Learner Profile This learner ultimately seeks to emerge with specialized competencies, professional confidence, and an industry-ready portfolio that demonstrates their technical proficiency and creative capabilities.""
+
+  Similar to content in: Lesson 2 Step 04_Industry Frameworks for Complex Design Solutions.md, Line: 2
+  Original: "module: "Lesson 2 - Cognitive Strategies for Digital Age Design" lesson: "2" step_number: "4" step_title: "Industry Frameworks for Complex Design Solutions" template_type: "Article" target_learner: "# HND Graphic Design Learner Profile This learner ultimately seeks to emerge with specialized competencies, professional confidence, and an industry-ready portfolio that demonstrates their technical proficiency and creative capabilities.""
+  Similarity: 0.91
+  ----------------------------------------------------------------------
+
+  Repetition #2
+  Line: 47
+  Text: "generation_date: "2025-04-04 05:09:58" The design world loves a good problem-solving method."
+
+  Similar to content in: Lesson 2 Step 05_Industry Frameworks for Complex Design Solutions.md, Line: 47
+  Original: "generation_date: "2025-04-04 05:03:34" From theory to real-world application—that's the journey we're on now."
+  Similarity: 0.54
+  ----------------------------------------------------------------------
+
+  Repetition #3
+  Line: 110
+  Text: "[Image: Designer's desk showing progression from sketches to wireframes to final UI mockups for a checkout process redesign."
+
+  Similar to content in: Lesson 2 Step 02_From Linear to Iterative_ Evolution in Complex Design.md, Line: 88
+  Original: "[Image: Designer showing rough sketches and digital mockups on tablet to client in casual coffee shop setting."
+  Similarity: 0.54
+  ----------------------------------------------------------------------
+
+
+FILE: C:/Users/User/Desktop/ShowupSquaredV4/library/Graphic Design Diploma Year/Lesson 2 - Cognitive Strategies for Digital Age Design\Lesson 2 Step 09_Professional Analysis Tools.md
+--------------------------------------------------------------------------------
+
+  Repetition #1
+  Line: 2
+  Text: "module: "Lesson 2 - Cognitive Strategies for Digital Age Design" lesson: "2" step_number: "9" step_title: "Professional Analysis Tools" template_type: "Article" target_learner: "# HND Graphic Design Learner Profile This learner ultimately seeks to emerge with specialized competencies, professional confidence, and an industry-ready portfolio that demonstrates their technical proficiency and creative capabilities.""
+
+  Similar to content in: Lesson 2 Step 04_Industry Frameworks for Complex Design Solutions.md, Line: 2
+  Original: "module: "Lesson 2 - Cognitive Strategies for Digital Age Design" lesson: "2" step_number: "4" step_title: "Industry Frameworks for Complex Design Solutions" template_type: "Article" target_learner: "# HND Graphic Design Learner Profile This learner ultimately seeks to emerge with specialized competencies, professional confidence, and an industry-ready portfolio that demonstrates their technical proficiency and creative capabilities.""
+  Similarity: 0.91
+  ----------------------------------------------------------------------
+
+  Repetition #2
+  Line: 47
+  Text: "generation_date: "2025-04-04 05:12:43" Ever noticed how some design solutions look impressive but don't actually solve the client's problem?"
+
+  Similar to content in: Lesson 2 Step 01_From Linear to Iterative_ Evolution in Complex Design.md, Line: 40
+  Original: "**The Disconnection from Users**   When user testing happens too late, you end up with designs that look impressive but don't actually serve their purpose."
+  Similarity: 0.51
+  ----------------------------------------------------------------------
+
+  Repetition #3
+  Line: 147
+  Text: "A local coffee shop called "Daily Grind" approached a design agency with a request to redesign their logo and packaging because sales were declining despite good foot traffic."
+
+  Similar to content in: Lesson 2 Step 09_Professional Analysis Tools.md, Line: 111
+  Original: "A financial services company approached a design agency to redesign their mobile app, stating that "users aren't completing transactions.""
+  Similarity: 0.53
+  ----------------------------------------------------------------------
+
+
+FILE: C:/Users/User/Desktop/ShowupSquaredV4/library/Graphic Design Diploma Year/Lesson 2 - Cognitive Strategies for Digital Age Design\Lesson 2 Step 10_Professional Analysis Tools.md
+--------------------------------------------------------------------------------
+
+  Repetition #1
+  Line: 2
+  Text: "module: "Lesson 2 - Cognitive Strategies for Digital Age Design" lesson: "2" step_number: "10" step_title: "Professional Analysis Tools" template_type: "downloadable" target_learner: "# HND Graphic Design Learner Profile This learner ultimately seeks to emerge with specialized competencies, professional confidence, and an industry-ready portfolio that demonstrates their technical proficiency and creative capabilities.""
+
+  Similar to content in: Lesson 2 Step 04_Industry Frameworks for Complex Design Solutions.md, Line: 2
+  Original: "module: "Lesson 2 - Cognitive Strategies for Digital Age Design" lesson: "2" step_number: "4" step_title: "Industry Frameworks for Complex Design Solutions" template_type: "Article" target_learner: "# HND Graphic Design Learner Profile This learner ultimately seeks to emerge with specialized competencies, professional confidence, and an industry-ready portfolio that demonstrates their technical proficiency and creative capabilities.""
+  Similarity: 0.85
+  ----------------------------------------------------------------------
+
+  Repetition #2
+  Line: 47
+  Text: "generation_date: "2025-04-04 05:15:00" Design problems rarely come with neat solutions."
+
+  Similar to content in: Lesson 2 Step 03_From Linear to Iterative_ Evolution in Complex Design.md, Line: 47
+  Original: "generation_date: "2025-04-04 04:59:33" Design methodologies have evolved dramatically over recent decades."
+  Similarity: 0.60
+  ----------------------------------------------------------------------
+
+
+FILE: C:/Users/User/Desktop/ShowupSquaredV4/library/Graphic Design Diploma Year/Lesson 2 - Cognitive Strategies for Digital Age Design\Lesson 2 Step 11_Stakeholder Analysis Methods.md
+--------------------------------------------------------------------------------
+
+  Repetition #1
+  Line: 2
+  Text: "module: "Lesson 2 - Cognitive Strategies for Digital Age Design" lesson: "2" step_number: "11" step_title: "Stakeholder Analysis Methods" template_type: "Infographic" target_learner: "# HND Graphic Design Learner Profile This learner ultimately seeks to emerge with specialized competencies, professional confidence, and an industry-ready portfolio that demonstrates their technical proficiency and creative capabilities.""
+
+  Similar to content in: Lesson 2 Step 04_Industry Frameworks for Complex Design Solutions.md, Line: 2
+  Original: "module: "Lesson 2 - Cognitive Strategies for Digital Age Design" lesson: "2" step_number: "4" step_title: "Industry Frameworks for Complex Design Solutions" template_type: "Article" target_learner: "# HND Graphic Design Learner Profile This learner ultimately seeks to emerge with specialized competencies, professional confidence, and an industry-ready portfolio that demonstrates their technical proficiency and creative capabilities.""
+  Similarity: 0.85
+  ----------------------------------------------------------------------
+
+  Repetition #2
+  Line: 47
+  Text: "generation_date: "2025-04-04 05:17:03" Ever noticed how even the simplest design projects can involve a surprising number of people?"
+
+  Similar to content in: Lesson 2 Step 02_From Linear to Iterative_ Evolution in Complex Design.md, Line: 47
+  Original: "generation_date: "2025-04-04 04:57:13" Knowing when and how to incorporate feedback can make or break your design projects."
+  Similarity: 0.54
+  ----------------------------------------------------------------------
+
+  Repetition #3
+  Line: 60
+  Text: "How might including these overlooked stakeholders have changed your approach?"
+
+  Similar to content in: Lesson 2 Step 04_Industry Frameworks for Complex Design Solutions.md, Line: 84
+  Original: "How might applying Design Thinking have changed your approach?"
+  Similarity: 0.68
+  ----------------------------------------------------------------------
+
+
+FILE: C:/Users/User/Desktop/ShowupSquaredV4/library/Graphic Design Diploma Year/Lesson 2 - Cognitive Strategies for Digital Age Design\Lesson 2 Step 12_Stakeholder Analysis Methods.md
+--------------------------------------------------------------------------------
+
+  Repetition #1
+  Line: 2
+  Text: "module: "Lesson 2 - Cognitive Strategies for Digital Age Design" lesson: "2" step_number: "12" step_title: "Stakeholder Analysis Methods" template_type: "downloadable" target_learner: "# HND Graphic Design Learner Profile This learner ultimately seeks to emerge with specialized competencies, professional confidence, and an industry-ready portfolio that demonstrates their technical proficiency and creative capabilities.""
+
+  Similar to content in: Lesson 2 Step 04_Industry Frameworks for Complex Design Solutions.md, Line: 2
+  Original: "module: "Lesson 2 - Cognitive Strategies for Digital Age Design" lesson: "2" step_number: "4" step_title: "Industry Frameworks for Complex Design Solutions" template_type: "Article" target_learner: "# HND Graphic Design Learner Profile This learner ultimately seeks to emerge with specialized competencies, professional confidence, and an industry-ready portfolio that demonstrates their technical proficiency and creative capabilities.""
+  Similarity: 0.85
+  ----------------------------------------------------------------------
+
+  Repetition #2
+  Line: 47
+  Text: "generation_date: "2025-04-04 05:19:18" The Power/Interest Grid is a practical tool that's incredibly useful for graphic designers navigating client relationships."
+
+  Similar to content in: Lesson 2 Step 05_Industry Frameworks for Complex Design Solutions.md, Line: 47
+  Original: "generation_date: "2025-04-04 05:03:34" From theory to real-world application—that's the journey we're on now."
+  Similarity: 0.50
+  ----------------------------------------------------------------------
+
+  Repetition #3
+  Line: 47
+  Text: "I've seen countless design projects go sideways because of mismanaged stakeholder expectations."
+
+  Similar to content in: Lesson 2 Step 06_Advanced Tools for Iterative Design.md, Line: 144
+  Original: "You'll see how IDEO and other leading design firms use these platforms to manage complex, multi-stakeholder projects."
+  Similarity: 0.50
+  ----------------------------------------------------------------------
+
+
+FILE: C:/Users/User/Desktop/ShowupSquaredV4/library/Graphic Design Diploma Year/Lesson 2 - Cognitive Strategies for Digital Age Design\Lesson 2 Step 13_Business Requirements in Design.md
+--------------------------------------------------------------------------------
+
+  Repetition #1
+  Line: 2
+  Text: "module: "Lesson 2 - Cognitive Strategies for Digital Age Design" lesson: "2" step_number: "13" step_title: "Business Requirements in Design" template_type: "Article" target_learner: "# HND Graphic Design Learner Profile This learner ultimately seeks to emerge with specialized competencies, professional confidence, and an industry-ready portfolio that demonstrates their technical proficiency and creative capabilities.""
+
+  Similar to content in: Lesson 2 Step 04_Industry Frameworks for Complex Design Solutions.md, Line: 2
+  Original: "module: "Lesson 2 - Cognitive Strategies for Digital Age Design" lesson: "2" step_number: "4" step_title: "Industry Frameworks for Complex Design Solutions" template_type: "Article" target_learner: "# HND Graphic Design Learner Profile This learner ultimately seeks to emerge with specialized competencies, professional confidence, and an industry-ready portfolio that demonstrates their technical proficiency and creative capabilities.""
+  Similarity: 0.92
+  ----------------------------------------------------------------------
+
+  Repetition #2
+  Line: 66
+  Text: "A solid design brief is your project roadmap, connecting business goals to design decisions."
+
+  Similar to content in: Lesson 2 Step 12_Stakeholder Analysis Methods.md, Line: 160
+  Original: "The stakeholder mapping skills you're developing now will directly support our next topic: translating business requirements into design specifications."
+  Similarity: 0.50
+  ----------------------------------------------------------------------
+
+
+FILE: C:/Users/User/Desktop/ShowupSquaredV4/library/Graphic Design Diploma Year/Lesson 2 - Cognitive Strategies for Digital Age Design\Lesson 2 Step 14_Business Requirements in Design.md
+--------------------------------------------------------------------------------
+
+  Repetition #1
+  Line: 2
+  Text: "module: "Lesson 2 - Cognitive Strategies for Digital Age Design" lesson: "2" step_number: "14" step_title: "Business Requirements in Design" template_type: "downloadable" target_learner: "# HND Graphic Design Learner Profile This learner ultimately seeks to emerge with specialized competencies, professional confidence, and an industry-ready portfolio that demonstrates their technical proficiency and creative capabilities.""
+
+  Similar to content in: Lesson 2 Step 04_Industry Frameworks for Complex Design Solutions.md, Line: 2
+  Original: "module: "Lesson 2 - Cognitive Strategies for Digital Age Design" lesson: "2" step_number: "4" step_title: "Industry Frameworks for Complex Design Solutions" template_type: "Article" target_learner: "# HND Graphic Design Learner Profile This learner ultimately seeks to emerge with specialized competencies, professional confidence, and an industry-ready portfolio that demonstrates their technical proficiency and creative capabilities.""
+  Similarity: 0.91
+  ----------------------------------------------------------------------
+
+
+FILE: C:/Users/User/Desktop/ShowupSquaredV4/library/Graphic Design Diploma Year/Lesson 2 - Cognitive Strategies for Digital Age Design\Lesson 2 Step 15_Reimagining a Financial App for Multiple Generations.md
+--------------------------------------------------------------------------------
+
+  Repetition #1
+  Line: 47
+  Text: "generation_date: "2025-04-04 05:26:24" This practical exploration tackles advanced prototyping techniques through a real-world design challenge."
+
+  Similar to content in: Lesson 2 Step 02_From Linear to Iterative_ Evolution in Complex Design.md, Line: 47
+  Original: "generation_date: "2025-04-04 04:57:13" Knowing when and how to incorporate feedback can make or break your design projects."
+  Similarity: 0.50
+  ----------------------------------------------------------------------
+
+  Repetition #2
+  Line: 60
+  Text: "Imagine FinanceFirst Bank has commissioned you to redesign their mobile banking application."
+
+  Similar to content in: Lesson 2 Step 09_Professional Analysis Tools.md, Line: 111
+  Original: "A financial services company approached a design agency to redesign their mobile app, stating that "users aren't completing transactions.""
+  Similarity: 0.51
+  ----------------------------------------------------------------------
+
+  Repetition #3
+  Line: 113
+  Text: "Share your approach in our next virtual meetup."
+
+  Similar to content in: Lesson 2 Step 08_Systematic Design Problem Analysis.md, Line: 130
+  Original: "Share your experience in our next virtual meetup."
+  Similarity: 0.88
+  ----------------------------------------------------------------------
+
+
+FILE: C:/Users/User/Desktop/ShowupSquaredV4/library/Graphic Design Diploma Year/Lesson 2 - Cognitive Strategies for Digital Age Design\Lesson 2 Step 16_Developing Cross-Platform Solutions for Financial Services.md
+--------------------------------------------------------------------------------
+
+  Repetition #1
+  Line: 2
+  Text: "module: "Lesson 2 - Cognitive Strategies for Digital Age Design" lesson: "2" step_number: "16" step_title: "Developing Cross-Platform Solutions for Financial Services" template_type: "Article" target_learner: "# HND Graphic Design Learner Profile This learner ultimately seeks to emerge with specialized competencies, professional confidence, and an industry-ready portfolio that demonstrates their technical proficiency and creative capabilities.""
+
+  Similar to content in: Lesson 2 Step 04_Industry Frameworks for Complex Design Solutions.md, Line: 2
+  Original: "module: "Lesson 2 - Cognitive Strategies for Digital Age Design" lesson: "2" step_number: "4" step_title: "Industry Frameworks for Complex Design Solutions" template_type: "Article" target_learner: "# HND Graphic Design Learner Profile This learner ultimately seeks to emerge with specialized competencies, professional confidence, and an industry-ready portfolio that demonstrates their technical proficiency and creative capabilities.""
+  Similarity: 0.90
+  ----------------------------------------------------------------------
+
+
+FILE: C:/Users/User/Desktop/ShowupSquaredV4/library/Graphic Design Diploma Year/Lesson 2 - Cognitive Strategies for Digital Age Design\Lesson 2 Step 17_Financial App Design System Templates.md
+--------------------------------------------------------------------------------
+
+  Repetition #1
+  Line: 2
+  Text: "module: "Lesson 2 - Cognitive Strategies for Digital Age Design" lesson: "2" step_number: "17" step_title: "Financial App Design System Templates" template_type: "downloadable" target_learner: "# HND Graphic Design Learner Profile This learner ultimately seeks to emerge with specialized competencies, professional confidence, and an industry-ready portfolio that demonstrates their technical proficiency and creative capabilities.""
+
+  Similar to content in: Lesson 2 Step 04_Industry Frameworks for Complex Design Solutions.md, Line: 2
+  Original: "module: "Lesson 2 - Cognitive Strategies for Digital Age Design" lesson: "2" step_number: "4" step_title: "Industry Frameworks for Complex Design Solutions" template_type: "Article" target_learner: "# HND Graphic Design Learner Profile This learner ultimately seeks to emerge with specialized competencies, professional confidence, and an industry-ready portfolio that demonstrates their technical proficiency and creative capabilities.""
+  Similarity: 0.84
+  ----------------------------------------------------------------------
+
+  Repetition #2
+  Line: 47
+  Text: "generation_date: "2025-04-04 05:30:36" Ready to move from theory to practice?"
+
+  Similar to content in: Lesson 2 Step 02_From Linear to Iterative_ Evolution in Complex Design.md, Line: 47
+  Original: "generation_date: "2025-04-04 04:57:13" Knowing when and how to incorporate feedback can make or break your design projects."
+  Similarity: 0.57
+  ----------------------------------------------------------------------
+
+
+FILE: C:/Users/User/Desktop/ShowupSquaredV4/library/Graphic Design Diploma Year/Lesson 2 - Cognitive Strategies for Digital Age Design\Lesson 2 Step 18_Design Version Control and Documentation.md
+--------------------------------------------------------------------------------
+
+  Repetition #1
+  Line: 2
+  Text: "module: "Lesson 2 - Cognitive Strategies for Digital Age Design" lesson: "2" step_number: "18" step_title: "Design Version Control and Documentation" template_type: "Article" target_learner: "# HND Graphic Design Learner Profile This learner ultimately seeks to emerge with specialized competencies, professional confidence, and an industry-ready portfolio that demonstrates their technical proficiency and creative capabilities.""
+
+  Similar to content in: Lesson 2 Step 04_Industry Frameworks for Complex Design Solutions.md, Line: 2
+  Original: "module: "Lesson 2 - Cognitive Strategies for Digital Age Design" lesson: "2" step_number: "4" step_title: "Industry Frameworks for Complex Design Solutions" template_type: "Article" target_learner: "# HND Graphic Design Learner Profile This learner ultimately seeks to emerge with specialized competencies, professional confidence, and an industry-ready portfolio that demonstrates their technical proficiency and creative capabilities.""
+  Similarity: 0.91
+  ----------------------------------------------------------------------
+
+  Repetition #2
+  Line: 47
+  Text: "generation_date: "2025-04-04 05:33:13" Have you ever lost track of which design file was your latest version?"
+
+  Similar to content in: Lesson 2 Step 14_Business Requirements in Design.md, Line: 47
+  Original: "generation_date: "2025-04-04 05:23:55" As a professional designer, your creative work must do more than just look good—it needs to deliver results."
+  Similarity: 0.52
+  ----------------------------------------------------------------------
+
+  Repetition #3
+  Line: 54
+  Text: "Let's explore practical techniques to document your design evolution professionally."
+
+  Similar to content in: Lesson 2 Step 16_Developing Cross-Platform Solutions for Financial Services.md, Line: 58
+  Original: "Let's explore techniques that demonstrate your technical proficiency."
+  Similarity: 0.63
+  ----------------------------------------------------------------------
+
+  Repetition #4
+  Line: 147
+  Text: "Proper version control ensures your design system remains consistent while evolving."
+
+  Similar to content in: Lesson 2 Step 18_Design Version Control and Documentation.md, Line: 75
+  Original: "The foundation of effective version control is a consistent file naming convention."
+  Similarity: 0.50
+  ----------------------------------------------------------------------
+
+
+FILE: C:/Users/User/Desktop/ShowupSquaredV4/library/Graphic Design Diploma Year/Lesson 2 - Cognitive Strategies for Digital Age Design\Lesson 2 Step 19_Design Version Control and Documentation.md
+--------------------------------------------------------------------------------
+
+  Repetition #1
+  Line: 2
+  Text: "module: "Lesson 2 - Cognitive Strategies for Digital Age Design" lesson: "2" step_number: "19" step_title: "Design Version Control and Documentation" template_type: "Infographic" target_learner: "# HND Graphic Design Learner Profile This learner ultimately seeks to emerge with specialized competencies, professional confidence, and an industry-ready portfolio that demonstrates their technical proficiency and creative capabilities.""
+
+  Similar to content in: Lesson 2 Step 04_Industry Frameworks for Complex Design Solutions.md, Line: 2
+  Original: "module: "Lesson 2 - Cognitive Strategies for Digital Age Design" lesson: "2" step_number: "4" step_title: "Industry Frameworks for Complex Design Solutions" template_type: "Article" target_learner: "# HND Graphic Design Learner Profile This learner ultimately seeks to emerge with specialized competencies, professional confidence, and an industry-ready portfolio that demonstrates their technical proficiency and creative capabilities.""
+  Similarity: 0.89
+  ----------------------------------------------------------------------
+
+  Repetition #2
+  Line: 47
+  Text: "generation_date: "2025-04-04 05:35:42" Professional graphic design rarely follows a straight line."
+
+  Similar to content in: Lesson 2 Step 03_From Linear to Iterative_ Evolution in Complex Design.md, Line: 47
+  Original: "generation_date: "2025-04-04 04:59:33" Design methodologies have evolved dramatically over recent decades."
+  Similarity: 0.52
+  ----------------------------------------------------------------------
+
+  Repetition #3
+  Line: 64
+  Text: "Each iteration builds upon previous work, incorporating feedback and improvements while maintaining a clear record of the design's evolution."
+
+  Similar to content in: Lesson 2 Step 19_Design Version Control and Documentation.md, Line: 60
+  Original: "Each cycle produces a new version that builds on previous work while incorporating feedback and new insights."
+  Similarity: 0.57
+  ----------------------------------------------------------------------
+
+
+FILE: C:/Users/User/Desktop/ShowupSquaredV4/library/Graphic Design Diploma Year/Lesson 2 - Cognitive Strategies for Digital Age Design\Lesson 2 Step 20_Design Version Control and Documentation.md
+--------------------------------------------------------------------------------
+
+  Repetition #1
+  Line: 2
+  Text: "module: "Lesson 2 - Cognitive Strategies for Digital Age Design" lesson: "2" step_number: "20" step_title: "Design Version Control and Documentation" template_type: "downloadable" target_learner: "# HND Graphic Design Learner Profile This learner ultimately seeks to emerge with specialized competencies, professional confidence, and an industry-ready portfolio that demonstrates their technical proficiency and creative capabilities.""
+
+  Similar to content in: Lesson 2 Step 04_Industry Frameworks for Complex Design Solutions.md, Line: 2
+  Original: "module: "Lesson 2 - Cognitive Strategies for Digital Age Design" lesson: "2" step_number: "4" step_title: "Industry Frameworks for Complex Design Solutions" template_type: "Article" target_learner: "# HND Graphic Design Learner Profile This learner ultimately seeks to emerge with specialized competencies, professional confidence, and an industry-ready portfolio that demonstrates their technical proficiency and creative capabilities.""
+  Similarity: 0.89
+  ----------------------------------------------------------------------
+
+  Repetition #2
+  Line: 47
+  Text: "generation_date: "2025-04-04 05:37:56" Ever wondered why your tutors keep banging on about documenting your design process?"
+
+  Similar to content in: Lesson 2 Step 02_From Linear to Iterative_ Evolution in Complex Design.md, Line: 47
+  Original: "generation_date: "2025-04-04 04:57:13" Knowing when and how to incorporate feedback can make or break your design projects."
+  Similarity: 0.54
+  ----------------------------------------------------------------------
+
+  Repetition #3
+  Line: 54
+  Text: "Good documentation transforms your messy creative journey into a professional asset that others can understand and appreciate."
+
+  Similar to content in: Lesson 2 Step 08_Systematic Design Problem Analysis.md, Line: 84
+  Original: "Understanding these constraints grounds your creative solutions in practical reality – something clients always appreciate."
+  Similarity: 0.51
+  ----------------------------------------------------------------------
+
+
+FILE: C:/Users/User/Desktop/ShowupSquaredV4/library/Graphic Design Diploma Year/Lesson 2 - Cognitive Strategies for Digital Age Design\Lesson 2 Step 21_Professional Design Collaboration Tools.md
+--------------------------------------------------------------------------------
+
+  Repetition #1
+  Line: 2
+  Text: "module: "Lesson 2 - Cognitive Strategies for Digital Age Design" lesson: "2" step_number: "21" step_title: "Professional Design Collaboration Tools" template_type: "Video" target_learner: "# HND Graphic Design Learner Profile This learner ultimately seeks to emerge with specialized competencies, professional confidence, and an industry-ready portfolio that demonstrates their technical proficiency and creative capabilities.""
+
+  Similar to content in: Lesson 2 Step 01_From Linear to Iterative_ Evolution in Complex Design.md, Line: 2
+  Original: "module: "Lesson 2 - Cognitive Strategies for Digital Age Design" lesson: "2" step_number: "1" step_title: "From Linear to Iterative: Evolution in Complex Design" template_type: "Video" target_learner: "# HND Graphic Design Learner Profile generation_date: "2025-04-04 04:55:16" Complex design projects rarely follow a straight path."
+  Similarity: 0.51
+  ----------------------------------------------------------------------
+
+  Repetition #2
+  Line: 47
+  Text: "generation_date: "2025-04-04 05:40:02" Design rarely happens in isolation."
+
+  Similar to content in: Lesson 2 Step 03_From Linear to Iterative_ Evolution in Complex Design.md, Line: 47
+  Original: "generation_date: "2025-04-04 04:59:33" Design methodologies have evolved dramatically over recent decades."
+  Similarity: 0.56
+  ----------------------------------------------------------------------
+
+  Repetition #3
+  Line: 60
+  Text: "Shifting from individual to collaborative design means: Figma has transformed collaborative design by enabling real-time teamwork in a shared digital space."
+
+  Similar to content in: Lesson 2 Step 06_Advanced Tools for Iterative Design.md, Line: 122
+  Original: "Modern design rarely happens in isolation—these platforms facilitate seamless collaboration: **Figma** has transformed collaborative design by allowing real-time co-editing and commenting."
+  Similarity: 0.56
+  ----------------------------------------------------------------------
+
+  Repetition #4
+  Line: 136
+  Text: "[Image: Side-by-side comparison of individual vs."
+
+  Similar to content in: Lesson 2 Step 04_Industry Frameworks for Complex Design Solutions.md, Line: 118
+  Original: "[Image: Side-by-side comparison of a wireframe prototype and final polished design for a mobile app."
+  Similarity: 0.56
+  ----------------------------------------------------------------------
+
+
+FILE: C:/Users/User/Desktop/ShowupSquaredV4/library/Graphic Design Diploma Year/Lesson 2 - Cognitive Strategies for Digital Age Design\Lesson 2 Step 22_Professional Design Collaboration Tools.md
+--------------------------------------------------------------------------------
+
+  Repetition #1
+  Line: 2
+  Text: "module: "Lesson 2 - Cognitive Strategies for Digital Age Design" lesson: "2" step_number: "22" step_title: "Professional Design Collaboration Tools" template_type: "Article" target_learner: "# HND Graphic Design Learner Profile generation_date: "2025-04-04 05:42:24" Most graphic designers move between working alone and collaborating with teams throughout their careers."
+
+  Similar to content in: Lesson 2 Step 01_From Linear to Iterative_ Evolution in Complex Design.md, Line: 2
+  Original: "module: "Lesson 2 - Cognitive Strategies for Digital Age Design" lesson: "2" step_number: "1" step_title: "From Linear to Iterative: Evolution in Complex Design" template_type: "Video" target_learner: "# HND Graphic Design Learner Profile generation_date: "2025-04-04 04:55:16" Complex design projects rarely follow a straight path."
+  Similarity: 0.58
+  ----------------------------------------------------------------------
+
+  Repetition #2
+  Line: 2
+  Text: "This shift isn't just common—it's essential for tackling the complex projects that define professional practice today."
+
+  Similar to content in: Lesson 2 Step 19_Design Version Control and Documentation.md, Line: 56
+  Original: "This structured approach to tracking changes will prepare you for creating the documentation templates that industry professionals rely on daily."
+  Similarity: 0.51
+  ----------------------------------------------------------------------
+
+
+FILE: C:/Users/User/Desktop/ShowupSquaredV4/library/Graphic Design Diploma Year/Lesson 2 - Cognitive Strategies for Digital Age Design\Lesson 2 Step 23_Digital Tools for Design Feedback.md
+--------------------------------------------------------------------------------
+
+  Repetition #1
+  Line: 2
+  Text: "module: "Lesson 2 - Cognitive Strategies for Digital Age Design" lesson: "2" step_number: "23" step_title: "Digital Tools for Design Feedback" template_type: "Article" target_learner: "# HND Graphic Design Learner Profile generation_date: "2025-04-04 05:44:35" Getting your designs in front of real users is crucial for professional growth."
+
+  Similar to content in: Lesson 2 Step 01_From Linear to Iterative_ Evolution in Complex Design.md, Line: 2
+  Original: "module: "Lesson 2 - Cognitive Strategies for Digital Age Design" lesson: "2" step_number: "1" step_title: "From Linear to Iterative: Evolution in Complex Design" template_type: "Video" target_learner: "# HND Graphic Design Learner Profile generation_date: "2025-04-04 04:55:16" Complex design projects rarely follow a straight path."
+  Similarity: 0.56
+  ----------------------------------------------------------------------
+
+  Repetition #2
+  Line: 60
+  Text: "Including heat map visualisations in your portfolio demonstrates UX awareness that stands out to potential employers."
+
+  Similar to content in: Lesson 2 Step 11_Stakeholder Analysis Methods.md, Line: 94
+  Original: "These make brilliant additions to your portfolio as they demonstrate your professional approach to client management – something employers are always looking for."
+  Similarity: 0.50
+  ----------------------------------------------------------------------
+
+
+FILE: C:/Users/User/Desktop/ShowupSquaredV4/library/Graphic Design Diploma Year/Lesson 2 - Cognitive Strategies for Digital Age Design\Lesson 2 Step 24_Digital Tools for Design Feedback.md
+--------------------------------------------------------------------------------
+
+  Repetition #1
+  Line: 2
+  Text: "module: "Lesson 2 - Cognitive Strategies for Digital Age Design" lesson: "2" step_number: "24" step_title: "Digital Tools for Design Feedback" template_type: "downloadable" target_learner: "# HND Graphic Design Learner Profile This learner ultimately seeks to emerge with specialized competencies, professional confidence, and an industry-ready portfolio that demonstrates their technical proficiency and creative capabilities.""
+
+  Similar to content in: Lesson 2 Step 04_Industry Frameworks for Complex Design Solutions.md, Line: 2
+  Original: "module: "Lesson 2 - Cognitive Strategies for Digital Age Design" lesson: "2" step_number: "4" step_title: "Industry Frameworks for Complex Design Solutions" template_type: "Article" target_learner: "# HND Graphic Design Learner Profile This learner ultimately seeks to emerge with specialized competencies, professional confidence, and an industry-ready portfolio that demonstrates their technical proficiency and creative capabilities.""
+  Similarity: 0.89
+  ----------------------------------------------------------------------
+
+  Repetition #2
+  Line: 47
+  Text: "generation_date: "2025-04-04 05:46:24" Collecting structured feedback is a crucial skill that separates amateur designers from professionals."
+
+  Similar to content in: Lesson 2 Step 02_From Linear to Iterative_ Evolution in Complex Design.md, Line: 47
+  Original: "generation_date: "2025-04-04 04:57:13" Knowing when and how to incorporate feedback can make or break your design projects."
+  Similarity: 0.55
+  ----------------------------------------------------------------------
+
+  Repetition #3
+  Line: 47
+  Text: "As you transition from student projects to industry work, you'll need systems that not only improve your designs but also demonstrate your professional approach to potential employers."
+
+  Similar to content in: Lesson 2 Step 19_Design Version Control and Documentation.md, Line: 47
+  Original: "Version control systems document this journey, creating a clear record of your design evolution that strengthens your process and demonstrates your professional approach to clients and employers."
+  Similarity: 0.53
+  ----------------------------------------------------------------------
+
+  Repetition #4
+  Line: 74
+  Text: "[Image: Split-screen showing a designer observing a user test on the left and analyzing results in a spreadsheet on the right."
+
+  Similar to content in: Lesson 2 Step 02_From Linear to Iterative_ Evolution in Complex Design.md, Line: 114
+  Original: "[Image: Split-screen showing a professional design team's collaborative workspace with physical and digital materials for an ongoing rebranding project."
+  Similarity: 0.50
+  ----------------------------------------------------------------------
+
+  Repetition #5
+  Line: 94
+  Text: "[Image: Three iterations of the same app interface design shown side by side, with visible improvements in typography, layout and visual hierarchy."
+
+  Similar to content in: Lesson 2 Step 23_Digital Tools for Design Feedback.md, Line: 54
+  Original: "[Image: Click tracking visualization showing user interaction with a mobile app interface designed by a student, with highlighted areas showing successful and unsuccessful click attempts."
+  Similarity: 0.51
+  ----------------------------------------------------------------------
+
+  Repetition #6
+  Line: 94
+  Text: "Which of these templates would have most improved your feedback collection?"
+
+  Similar to content in: Lesson 2 Step 23_Digital Tools for Design Feedback.md, Line: 88
+  Original: "Which specific elements would benefit most from user feedback?"
+  Similarity: 0.60
+  ----------------------------------------------------------------------
+
+  Repetition #7
+  Line: 94
+  Text: "How might implementing structured feedback change your approach to revision cycles?"
+
+  Similar to content in: Lesson 2 Step 04_Industry Frameworks for Complex Design Solutions.md, Line: 84
+  Original: "How might applying Design Thinking have changed your approach?"
+  Similarity: 0.55
+  ----------------------------------------------------------------------
+
+  Repetition #8
+  Line: 100
+  Text: "Be prepared to share how the structured approach affected both your design process and final outcome."
+
+  Similar to content in: Lesson 2 Step 01_From Linear to Iterative_ Evolution in Complex Design.md, Line: 60
+  Original: "How might an iterative approach have improved your process or outcome?"
+  Similarity: 0.50
+  ----------------------------------------------------------------------
+
+
+FILE: C:/Users/User/Desktop/ShowupSquaredV4/library/Graphic Design Diploma Year/Lesson 2 - Cognitive Strategies for Digital Age Design\Lesson 2 Step 25_Building a Sustainable Fashion Brand_s Multi-Platform Campaign.md
+--------------------------------------------------------------------------------
+
+  Repetition #1
+  Line: 2
+  Text: "module: "Lesson 2 - Cognitive Strategies for Digital Age Design" lesson: "2" step_number: "25" step_title: "Building a Sustainable Fashion Brand's Multi-Platform Campaign" template_type: "Article" target_learner: "# HND Graphic Design Learner Profile This learner ultimately seeks to emerge with specialized competencies, professional confidence, and an industry-ready portfolio that demonstrates their technical proficiency and creative capabilities.""
+
+  Similar to content in: Lesson 2 Step 04_Industry Frameworks for Complex Design Solutions.md, Line: 2
+  Original: "module: "Lesson 2 - Cognitive Strategies for Digital Age Design" lesson: "2" step_number: "4" step_title: "Industry Frameworks for Complex Design Solutions" template_type: "Article" target_learner: "# HND Graphic Design Learner Profile This learner ultimately seeks to emerge with specialized competencies, professional confidence, and an industry-ready portfolio that demonstrates their technical proficiency and creative capabilities.""
+  Similarity: 0.88
+  ----------------------------------------------------------------------
+
+  Repetition #2
+  Line: 47
+  Text: "generation_date: "2025-04-04 05:48:48" Getting feedback right can make or break a design project."
+
+  Similar to content in: Lesson 2 Step 02_From Linear to Iterative_ Evolution in Complex Design.md, Line: 47
+  Original: "generation_date: "2025-04-04 04:57:13" Knowing when and how to incorporate feedback can make or break your design projects."
+  Similarity: 0.74
+  ----------------------------------------------------------------------
+
+  Repetition #3
+  Line: 135
+  Text: "Think about how you might apply these feedback approaches to your current portfolio projects."
+
+  Similar to content in: Lesson 2 Step 10_Professional Analysis Tools.md, Line: 62
+  Original: "Think about how your thoughts jump from one related idea to another—mind maps capture this natural process."
+  Similarity: 0.50
+  ----------------------------------------------------------------------
+
+
+FILE: C:/Users/User/Desktop/ShowupSquaredV4/library/Graphic Design Diploma Year/Lesson 2 - Cognitive Strategies for Digital Age Design\Lesson 2 Step 26_Visualizing Feedback Integration for Fashion Brand Success.md
+--------------------------------------------------------------------------------
+
+  Repetition #1
+  Line: 2
+  Text: "module: "Lesson 2 - Cognitive Strategies for Digital Age Design" lesson: "2" step_number: "26" step_title: "Visualizing Feedback Integration for Fashion Brand Success" template_type: "Infographic" target_learner: "# HND Graphic Design Learner Profile This learner ultimately seeks to emerge with specialized competencies, professional confidence, and an industry-ready portfolio that demonstrates their technical proficiency and creative capabilities.""
+
+  Similar to content in: Lesson 2 Step 04_Industry Frameworks for Complex Design Solutions.md, Line: 2
+  Original: "module: "Lesson 2 - Cognitive Strategies for Digital Age Design" lesson: "2" step_number: "4" step_title: "Industry Frameworks for Complex Design Solutions" template_type: "Article" target_learner: "# HND Graphic Design Learner Profile This learner ultimately seeks to emerge with specialized competencies, professional confidence, and an industry-ready portfolio that demonstrates their technical proficiency and creative capabilities.""
+  Similarity: 0.87
+  ----------------------------------------------------------------------
+
+  Repetition #2
+  Line: 47
+  Text: "generation_date: "2025-04-04 05:50:49" Fashion campaigns evolve through feedback - but how do we track and show this evolution visually?"
+
+  Similar to content in: Lesson 2 Step 02_From Linear to Iterative_ Evolution in Complex Design.md, Line: 47
+  Original: "generation_date: "2025-04-04 04:57:13" Knowing when and how to incorporate feedback can make or break your design projects."
+  Similarity: 0.52
+  ----------------------------------------------------------------------
+
+
+FILE: C:/Users/User/Desktop/ShowupSquaredV4/library/Graphic Design Diploma Year/Lesson 2 - Cognitive Strategies for Digital Age Design\Lesson 2 Step 27_Measuring Success in Sustainable Fashion Marketing.md
+--------------------------------------------------------------------------------
+
+  Repetition #1
+  Line: 2
+  Text: "module: "Lesson 2 - Cognitive Strategies for Digital Age Design" lesson: "2" step_number: "27" step_title: "Measuring Success in Sustainable Fashion Marketing" template_type: "Article" target_learner: "# HND Graphic Design Learner Profile This learner ultimately seeks to emerge with specialized competencies, professional confidence, and an industry-ready portfolio that demonstrates their technical proficiency and creative capabilities.""
+
+  Similar to content in: Lesson 2 Step 04_Industry Frameworks for Complex Design Solutions.md, Line: 2
+  Original: "module: "Lesson 2 - Cognitive Strategies for Digital Age Design" lesson: "2" step_number: "4" step_title: "Industry Frameworks for Complex Design Solutions" template_type: "Article" target_learner: "# HND Graphic Design Learner Profile This learner ultimately seeks to emerge with specialized competencies, professional confidence, and an industry-ready portfolio that demonstrates their technical proficiency and creative capabilities.""
+  Similarity: 0.89
+  ----------------------------------------------------------------------
+
+  Repetition #2
+  Line: 47
+  Text: "generation_date: "2025-04-04 05:52:52" Gone are the days when designers could rely solely on creative intuition."
+
+  Similar to content in: Lesson 2 Step 03_From Linear to Iterative_ Evolution in Complex Design.md, Line: 47
+  Original: "generation_date: "2025-04-04 04:59:33" Design methodologies have evolved dramatically over recent decades."
+  Similarity: 0.55
+  ----------------------------------------------------------------------
+
+
+FILE: C:/Users/User/Desktop/ShowupSquaredV4/library/Graphic Design Diploma Year/Lesson 2 - Cognitive Strategies for Digital Age Design\Lesson 2 Step 28_Evolving the Fashion Campaign Through Stakeholder Feedback.md
+--------------------------------------------------------------------------------
+
+  Repetition #1
+  Line: 2
+  Text: "module: "Lesson 2 - Cognitive Strategies for Digital Age Design" lesson: "2" step_number: "28" step_title: "Evolving the Fashion Campaign Through Stakeholder Feedback" template_type: "Article" target_learner: "# HND Graphic Design Learner Profile This learner ultimately seeks to emerge with specialized competencies, professional confidence, and an industry-ready portfolio that demonstrates their technical proficiency and creative capabilities.""
+
+  Similar to content in: Lesson 2 Step 04_Industry Frameworks for Complex Design Solutions.md, Line: 2
+  Original: "module: "Lesson 2 - Cognitive Strategies for Digital Age Design" lesson: "2" step_number: "4" step_title: "Industry Frameworks for Complex Design Solutions" template_type: "Article" target_learner: "# HND Graphic Design Learner Profile This learner ultimately seeks to emerge with specialized competencies, professional confidence, and an industry-ready portfolio that demonstrates their technical proficiency and creative capabilities.""
+  Similarity: 0.89
+  ----------------------------------------------------------------------
+
+  Repetition #2
+  Line: 87
+  Text: "How might different stakeholder feedback have improved their approach?"
+
+  Similar to content in: Lesson 2 Step 01_From Linear to Iterative_ Evolution in Complex Design.md, Line: 60
+  Original: "How might an iterative approach have improved your process or outcome?"
+  Similarity: 0.59
+  ----------------------------------------------------------------------
+
+  Repetition #3
+  Line: 105
+  Text: "Not all feedback requires implementation."
+
+  Similar to content in: Lesson 2 Step 25_Building a Sustainable Fashion Brand_s Multi-Platform Campaign.md, Line: 98
+  Original: "Not all feedback carries equal weight."
+  Similarity: 0.61
+  ----------------------------------------------------------------------
+
+  Repetition #4
+  Line: 105
+  Text: "How do you resolve these tensions while maintaining design integrity?"
+
+  Similar to content in: Lesson 2 Step 25_Building a Sustainable Fashion Brand_s Multi-Platform Campaign.md, Line: 69
+  Original: "How would you design a feedback collection method that aligns with sustainability values while gathering meaningful design insights?"
+  Similarity: 0.51
+  ----------------------------------------------------------------------
+
+  Repetition #5
+  Line: 146
+  Text: "The feedback integration skills you're developing now will serve you throughout your career."
+
+  Similar to content in: Lesson 2 Step 20_Design Version Control and Documentation.md, Line: 47
+  Original: "It's not just about ticking boxes—it's about developing habits that will serve you throughout your career."
+  Similarity: 0.63
+  ----------------------------------------------------------------------
+
+  Repetition #6
+  Line: 146
+  Text: "They'll help you create more impactful work and demonstrate your professional maturity to potential employers."
+
+  Similar to content in: Lesson 2 Step 11_Stakeholder Analysis Methods.md, Line: 94
+  Original: "These make brilliant additions to your portfolio as they demonstrate your professional approach to client management – something employers are always looking for."
+  Similarity: 0.52
+  ----------------------------------------------------------------------
+
+
+FILE: C:/Users/User/Desktop/ShowupSquaredV4/library/Graphic Design Diploma Year/Lesson 2 - Cognitive Strategies for Digital Age Design\Lesson 2 Step 29_Sustainable Fashion Campaign Toolkit.md
+--------------------------------------------------------------------------------
+
+  Repetition #1
+  Line: 2
+  Text: "module: "Lesson 2 - Cognitive Strategies for Digital Age Design" lesson: "2" step_number: "29" step_title: "Sustainable Fashion Campaign Toolkit" template_type: "downloadable" target_learner: "# HND Graphic Design Learner Profile This learner ultimately seeks to emerge with specialized competencies, professional confidence, and an industry-ready portfolio that demonstrates their technical proficiency and creative capabilities.""
+
+  Similar to content in: Lesson 2 Step 04_Industry Frameworks for Complex Design Solutions.md, Line: 2
+  Original: "module: "Lesson 2 - Cognitive Strategies for Digital Age Design" lesson: "2" step_number: "4" step_title: "Industry Frameworks for Complex Design Solutions" template_type: "Article" target_learner: "# HND Graphic Design Learner Profile This learner ultimately seeks to emerge with specialized competencies, professional confidence, and an industry-ready portfolio that demonstrates their technical proficiency and creative capabilities.""
+  Similarity: 0.88
+  ----------------------------------------------------------------------
+
+  Repetition #2
+  Line: 47
+  Text: "generation_date: "2025-04-04 05:57:17" Good documentation isn't just busywork—it's what separates professional designers from amateurs."
+
+  Similar to content in: Lesson 2 Step 02_From Linear to Iterative_ Evolution in Complex Design.md, Line: 47
+  Original: "generation_date: "2025-04-04 04:57:13" Knowing when and how to incorporate feedback can make or break your design projects."
+  Similarity: 0.53
+  ----------------------------------------------------------------------
+
+  Repetition #3
+  Line: 47
+  Text: "Let's explore the documentation tools that will not only streamline your process but also strengthen your portfolio."
+
+  Similar to content in: Lesson 2 Step 06_Advanced Tools for Iterative Design.md, Line: 47
+  Original: "Let's explore the contemporary tools that will help you manage this complexity effectively."
+  Similarity: 0.51
+  ----------------------------------------------------------------------
+
+  Repetition #4
+  Line: 58
+  Text: "These frameworks build directly on techniques you've already encountered."
+
+  Similar to content in: Lesson 2 Step 18_Design Version Control and Documentation.md, Line: 147
+  Original: "The file management practices we're establishing build directly upon the financial app templates you've been working with."
+  Similarity: 0.52
+  ----------------------------------------------------------------------
+
+  Repetition #5
+  Line: 75
+  Text: "This led to a redesign emphasising clearer visual sustainability cues."
+
+  Similar to content in: Lesson 2 Step 28_Evolving the Fashion Campaign Through Stakeholder Feedback.md, Line: 62
+  Original: "This led to redesigned infographics that clearly visualised material origins and manufacturing processes."
+  Similarity: 0.56
+  ----------------------------------------------------------------------
+
+  Repetition #6
+  Line: 101
+  Text: "The grid is being used in a virtual team meeting."
+
+  Similar to content in: Lesson 2 Step 08_Systematic Design Problem Analysis.md, Line: 130
+  Original: "Share your experience in our next virtual meetup."
+  Similarity: 0.53
+  ----------------------------------------------------------------------
+
+  Repetition #7
+  Line: 112
+  Text: "[Image: Designer presenting a large timeline-based journey map showing the evolution of a sustainable fashion campaign with actual design samples at each iteration point."
+
+  Similar to content in: Lesson 2 Step 04_Industry Frameworks for Complex Design Solutions.md, Line: 84
+  Original: "[Image: Series of logo iterations showing the evolution of a sustainable brand identity from rough sketches to refined prototypes."
+  Similarity: 0.52
+  ----------------------------------------------------------------------
+
+  Repetition #8
+  Line: 124
+  Text: "Clients and employers want to see not just what you created, but how you think."
+
+  Similar to content in: Lesson 2 Step 28_Evolving the Fashion Campaign Through Stakeholder Feedback.md, Line: 93
+  Original: "It demonstrates your professional process to potential employers—showing not just what you created, but how thoughtfully you developed it."
+  Similarity: 0.54
+  ----------------------------------------------------------------------
+
+
+FILE: C:/Users/User/Desktop/ShowupSquaredV4/library/Graphic Design Diploma Year/Lesson 2 - Cognitive Strategies for Digital Age Design\Lesson 2 Step 30_Formative Assessment B1_Assignment 1.md
+--------------------------------------------------------------------------------
+
+  Repetition #1
+  Line: 127
+  Text: "These skills are essential for articulating your design decisions and demonstrating your ability to respond effectively to client needs."
+
+  Similar to content in: Lesson 2 Step 27_Measuring Success in Sustainable Fashion Marketing.md, Line: 131
+  Original: "These metrics won't just impress clients—they'll guide your design iterations and help you create more effective work."
+  Similarity: 0.50
+  ----------------------------------------------------------------------
+
+

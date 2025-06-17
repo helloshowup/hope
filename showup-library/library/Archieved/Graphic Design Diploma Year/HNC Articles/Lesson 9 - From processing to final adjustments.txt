@@ -1,0 +1,43 @@
+Reviewing the design
+Once you have created your CAD design, it is important to assess its effectiveness against the initial brief. You should have questioned your design ideas at various points during the iterative development stage, but ask yourself the following questions again to assess the success of your design: 
+What is the purpose of the design?
+What were the client's requirements for this design?
+Does the design fulfil every requirement?
+Does the design achieve the goal you intended?
+Does the design effectively communicate the main message?
+Do all the elements and principles of design form a coherent, professional, and aesthetically pleasing composition?
+Fig 4. Pixabay (n.d.) Example of guiding questions to assess design
+These are just some questions that can guide further refinement of your concept before presenting it to the client and/or other stakeholders. Questions should relate to specific aspects of the design and how it satisfies the initial brief, depending on the scope and nature of the project.
+Testing the design
+The objective of the testing stage is to find out whether or not the design satisfies the client's requirements and to make any final amendments. The main aim of the design review stage is not to add anything new, but to obtain constructive feedback on your design. This is typically done by presenting a design to relevant stakeholders, like a client or someone representing a potential user. 
+Getting feedback on your work can be a nerve-wracking experience for any designer but it is a vital step to help you refine your concept and deliver an exceptional product. A word of advice when entering the testing stage is to not be overly set on your concept. Try to leave some room to be flexible since the feedback you receive may involve going back to tweak a few things. Just remember that this is a normal part of any designer’s journey and shouldn’t cause you to doubt your ability as a designer. 
+Since feedback can have a significant impact on the final design, you must get meaningful and specific criticism from your client or user to help you identify areas for improvement. For example, vague comments like “It looks fine” will not help you assess how well the design meets the client’s expectations, nor will it help you make final adjustments. In some cases, the client may be too shy or embarrassed to give their honest opinion or they could use vague phrases to appear agreeable. You don’t want to leave the client unhappy with the final design while you are at a loss on how to proceed. 
+Fig 45. Unsplash (n.d.) Feedback session with client
+To better support the feedback you are getting, you need to:
+Guide the client’s feedback. For example, you can ask them specific questions that prompt detailed answers or help identify the strengths and weaknesses of your design. You can also create a checklist or use a survey with questions that require feedback on particular aspects of the design. 
+Use effective feedback tools. Together with questionnaires or feedback forms, you can also make use of online tools that will help your client to give feedback quickly and easily, like FigJam, Cage, Marker.io, or Bounce. This approach works well if you are not presenting a design in person or sharing it with multiple stakeholders.
+Give enough time for feedback. This simple consideration is surprisingly helpful. Giving clients a few days or a week to give you feedback will allow them to reflect on their initial reactions and to ponder later reactions. This allows them to really think about their feedback with regard to each element of the design. 
+Fig 6. Example of a survey to gain feedback (excerpt)
+Finalising the design 
+After you obtain feedback, it is time to make the necessary modifications related to the areas of improvement identified by the client. The adjustments might range from minor tweaks (e.g. adjusting the brightness of the text colour or increasing the font size by one or two sizes) to more extensive changes (e.g. replacing the imagery and changing the typeface to provoke a different mood/emotion). Regardless of the scope, ensure you are clear on the exact details of the adjustments you need to make to satisfy your client. 
+For example, if the client was unsatisfied with the typeface you used, explore the issue further by asking them specific questions to help you generate a solution. Questions might include:
+What aspect of the font is not to your liking?
+Does the font grab your attention or do you feel it is lacking in visual impact?
+Would you prefer a more modern font style (e.g. Sans Serif)?
+Would you prefer a more traditional font style (e.g. Sans)?
+Is your concern related to the mood or feelings the font provokes?
+Is your concern related to the technical aspects of the font (e.g. size, shapes, colour, placement, etc.)? 
+Once adjustments have been made to your design, you will present it to your client again for as many times it takes until they approve it. 
+Fig 7. Unsplash (n.d.) A happy client is good for business
+When your design finally gets the green light, it is ready for production. It is important at this stage that you refrain from making any more edits, even if the perfectionist in you is itching to make additional tweaks. Depending on the company you work for or your own business, you may be the person who oversees the design production in its various forms (e.g. printed material or online). 
+Fig 8. Final design production
+Or if not, perhaps you will simply export your design in the appropriate file format for your client’s in-house design team to access and use accordingly. Usually, these ready-to-use design file formats will be exported and shared as JPGs, PNGs, or PDFs. 
+Over To You
+Sometimes the best way to become skilful in obtaining feedback is to know how to give effective feedback yourself. Look at the image (Figure 9) representing a poster advertising the release of Matt Ridley’s new book “How Innovation Works” and follow the instructions below:
+Fig 9. Unsplash (n.d.) Poster design
+The design is for a poster that will be placed on a billboard next to a busy highway and at various transport hubs (metro stations and bus stops) in a major city. If you were the client, i.e. the publishing company that is launching the new book, what feedback would you give the graphic designer? Divide your feedback into the following two parts:
+WWW: What went well? (at least 2 strong design aspects)
+EBI: Even better if… (at least 2 areas for improvement)
+   
+Head over to the student discussion forum and share with your fellow students your thoughts on the poster, making a clear distinction between its strengths and weaknesses.
+ 

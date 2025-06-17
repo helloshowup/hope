@@ -1,0 +1,4132 @@
+{
+  "course_name": "Graphic Design Diploma Year",
+  "csv_path": "temp\\filtered_csv_20250404_045321.csv",
+  "start_time": "2025-04-04T04:53:21.560767",
+  "status": "started",
+  "processed_rows": [
+    {
+      "module": "Lesson 2 - Cognitive Strategies for Digital Age Design",
+      "lesson": "2",
+      "step_number": "1",
+      "step_title": "From Linear to Iterative: Evolution in Complex Design",
+      "template_type": "Video",
+      "status": "completed",
+      "timestamp": "2025-04-04T04:53:21.581772",
+      "log_entries": [
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module Lesson 2 - Cognitive Strategies for Digital Age Design, Lesson 2, Step 1"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (489 characters)"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-04-04 04:54:06",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-04-04 04:54:06",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-04-04 04:54:06",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 04:54:06",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-04-04 04:54:34",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-04-04 04:54:34",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-04-04 04:54:52",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-04-04 04:54:52",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-04-04 04:54:52",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 7 AI patterns"
+        },
+        {
+          "timestamp": "2025-04-04 04:54:52",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-04-04 04:55:16",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-04-04 04:55:16",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-04-04 04:55:16",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to output\\Graphic Design Diploma Year_20250404_045321\\Lesson 2 - Cognitive Strategies for Digital Age Design\\2\\1_From Linear to Iterative_ Evolution in Complex Design.md"
+        }
+      ],
+      "comparison_explanation": "No explanation provided.",
+      "review_summary": "No edit summary provided.",
+      "ai_patterns_detected": 7,
+      "editing_explanation": "I've made several key changes to make this content more human-like and appropriate for second-year HND Graphic Design students:\n\n1. Replaced the formulaic \"Welcome to...\" introduction with a more engaging, conversational opening that gets straight to the point\n2. Changed American spellings to British (e.g., \"specialised\" instead of \"specialized\")\n3. Added more varied sentence structures and conversational elements to break the AI pattern\n4. Incorporated more practical, industry-relevant examples that bridge theory and practice\n5. Added personal touches that acknowledge the students' journey and challenges\n6. Ensured the reflection section is properly titled \"Over to You\"\n7. Made the language more direct and less formal while maintaining professionalism\n8. Added some rhetorical questions to engage critical thinking\n9. Removed unnecessary explanations and repetitive elements",
+      "output_path": "output\\Graphic Design Diploma Year_20250404_045321\\Lesson 2 - Cognitive Strategies for Digital Age Design\\2\\1_From Linear to Iterative_ Evolution in Complex Design.md",
+      "completion_timestamp": "2025-04-04T04:55:16.751634"
+    },
+    {
+      "module": "Lesson 2 - Cognitive Strategies for Digital Age Design",
+      "lesson": "2",
+      "step_number": "2",
+      "step_title": "From Linear to Iterative: Evolution in Complex Design",
+      "template_type": "Article",
+      "status": "completed",
+      "timestamp": "2025-04-04T04:53:21.586773",
+      "log_entries": [
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module Lesson 2 - Cognitive Strategies for Digital Age Design, Lesson 2, Step 2"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (937 characters)"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-04-04 04:55:16",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-04-04 04:56:05",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-04-04 04:56:05",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-04-04 04:56:05",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 04:56:05",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-04-04 04:56:32",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-04-04 04:56:32",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-04-04 04:56:49",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-04-04 04:56:49",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-04-04 04:56:49",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 6 AI patterns"
+        },
+        {
+          "timestamp": "2025-04-04 04:56:49",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-04-04 04:57:13",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-04-04 04:57:13",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-04-04 04:57:13",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to output\\Graphic Design Diploma Year_20250404_045321\\Lesson 2 - Cognitive Strategies for Digital Age Design\\2\\2_From Linear to Iterative_ Evolution in Complex Design.md"
+        }
+      ],
+      "comparison_explanation": "No explanation provided.",
+      "review_summary": "No edit summary provided.",
+      "ai_patterns_detected": 6,
+      "editing_explanation": "I've made several key changes to make this content more human-like and better suited for HND Graphic Design students:\n\n1. Replaced the formal, generic introduction with a more direct, conversational opening that gets straight to the point\n2. Added more authentic designer language and industry perspective\n3. Incorporated personal touches and practical examples that reflect real-world design scenarios\n4. Varied sentence structure and flow to create a more natural reading experience\n5. Adjusted American spellings to British (e.g., \"visualize\" \u2192 \"visualise\")\n6. Ensured the reflection section is properly labeled as \"Over to You\"\n7. Made the content more visually scannable with better paragraph breaks\n8. Added more specific, tangible examples that visual learners will connect with\n9. Removed AI-typical phrases like \"ultimately\" and \"foster\"\n10. Created a more conversational tone while maintaining professionalism",
+      "output_path": "output\\Graphic Design Diploma Year_20250404_045321\\Lesson 2 - Cognitive Strategies for Digital Age Design\\2\\2_From Linear to Iterative_ Evolution in Complex Design.md",
+      "completion_timestamp": "2025-04-04T04:57:13.935707"
+    },
+    {
+      "module": "Lesson 2 - Cognitive Strategies for Digital Age Design",
+      "lesson": "2",
+      "step_number": "3",
+      "step_title": "From Linear to Iterative: Evolution in Complex Design",
+      "template_type": "Quiz",
+      "status": "completed",
+      "timestamp": "2025-04-04T04:53:21.589774",
+      "log_entries": [
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module Lesson 2 - Cognitive Strategies for Digital Age Design, Lesson 2, Step 3"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (937 characters)"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-04-04 04:57:13",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-04-04 04:58:11",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-04-04 04:58:11",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-04-04 04:58:11",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 04:58:11",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-04-04 04:58:43",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-04-04 04:58:43",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-04-04 04:59:06",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-04-04 04:59:06",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-04-04 04:59:06",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 4 AI patterns"
+        },
+        {
+          "timestamp": "2025-04-04 04:59:06",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-04-04 04:59:33",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-04-04 04:59:33",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-04-04 04:59:33",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to output\\Graphic Design Diploma Year_20250404_045321\\Lesson 2 - Cognitive Strategies for Digital Age Design\\2\\3_From Linear to Iterative_ Evolution in Complex Design.md"
+        }
+      ],
+      "comparison_explanation": "No explanation provided.",
+      "review_summary": "No edit summary provided.",
+      "ai_patterns_detected": 4,
+      "editing_explanation": "I've made the following key changes to make this content more human-like and appropriate for HND Graphic Design students:\n\n1. Replaced the formulaic \"Welcome to...\" introduction with a more direct, engaging opening that speaks to the students' professional development\n2. Converted American spelling to British (e.g., \"color\" to \"colour\")\n3. Ensured the reflection section is properly titled \"Over to You\"\n4. Varied sentence structures and reduced repetitive phrasing\n5. Made language more conversational while maintaining professionalism\n6. Added more natural transitions between sections\n7. Reduced overly formal academic language in favor of more practical, industry-focused terminology\n8. Maintained the professional tone appropriate for higher education while making it more personable",
+      "output_path": "output\\Graphic Design Diploma Year_20250404_045321\\Lesson 2 - Cognitive Strategies for Digital Age Design\\2\\3_From Linear to Iterative_ Evolution in Complex Design.md",
+      "completion_timestamp": "2025-04-04T04:59:33.984619"
+    },
+    {
+      "module": "Lesson 2 - Cognitive Strategies for Digital Age Design",
+      "lesson": "2",
+      "step_number": "4",
+      "step_title": "Industry Frameworks for Complex Design Solutions",
+      "template_type": "Article",
+      "status": "completed",
+      "timestamp": "2025-04-04T04:53:21.592775",
+      "log_entries": [
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module Lesson 2 - Cognitive Strategies for Digital Age Design, Lesson 2, Step 4"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (850 characters)"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-04-04 04:59:33",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-04-04 05:00:22",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-04-04 05:00:22",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-04-04 05:00:22",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:00:22",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-04-04 05:00:49",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:00:49",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-04-04 05:01:09",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:01:09",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-04-04 05:01:09",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 7 AI patterns"
+        },
+        {
+          "timestamp": "2025-04-04 05:01:09",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-04-04 05:01:40",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:01:40",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-04-04 05:01:40",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to output\\Graphic Design Diploma Year_20250404_045321\\Lesson 2 - Cognitive Strategies for Digital Age Design\\2\\4_Industry Frameworks for Complex Design Solutions.md"
+        }
+      ],
+      "comparison_explanation": "No explanation provided.",
+      "review_summary": "No edit summary provided.",
+      "ai_patterns_detected": 7,
+      "editing_explanation": "No explanation provided.",
+      "output_path": "output\\Graphic Design Diploma Year_20250404_045321\\Lesson 2 - Cognitive Strategies for Digital Age Design\\2\\4_Industry Frameworks for Complex Design Solutions.md",
+      "completion_timestamp": "2025-04-04T05:01:40.089778"
+    },
+    {
+      "module": "Lesson 2 - Cognitive Strategies for Digital Age Design",
+      "lesson": "2",
+      "step_number": "5",
+      "step_title": "Industry Frameworks for Complex Design Solutions",
+      "template_type": "downloadable",
+      "status": "completed",
+      "timestamp": "2025-04-04T04:53:21.596776",
+      "log_entries": [
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module Lesson 2 - Cognitive Strategies for Digital Age Design, Lesson 2, Step 5"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (868 characters)"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:01:40",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-04-04 05:02:24",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-04-04 05:02:24",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-04-04 05:02:24",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:02:24",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-04-04 05:02:48",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:02:48",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-04-04 05:03:05",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:03:05",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-04-04 05:03:05",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 13 AI patterns"
+        },
+        {
+          "timestamp": "2025-04-04 05:03:05",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-04-04 05:03:34",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:03:34",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-04-04 05:03:34",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to output\\Graphic Design Diploma Year_20250404_045321\\Lesson 2 - Cognitive Strategies for Digital Age Design\\2\\5_Industry Frameworks for Complex Design Solutions.md"
+        }
+      ],
+      "comparison_explanation": "No explanation provided.",
+      "review_summary": "No edit summary provided.",
+      "ai_patterns_detected": 13,
+      "editing_explanation": "I've made several key changes to make this content more human-like and appropriate for second-year graphic design students:\n\n1. Replaced the generic \"Welcome to...\" introduction with a more engaging, conversational opening that directly addresses the students' career preparation needs\n2. Varied sentence structures and reduced repetitive patterns common in AI writing\n3. Added more authentic, industry-relevant language while maintaining accessibility\n4. Converted American spelling to British spelling (e.g., \"organised\" instead of \"organized\")\n5. Ensured the reflection section is properly titled \"Over to You\"\n6. Made the content more concise and focused on practical application\n7. Added more specific, relatable examples that connect to portfolio development\n8. Incorporated a more natural flow between sections with varied transitions\n9. Reduced overuse of terms like \"framework,\" \"essential,\" and \"practice\"\n10. Added more specific guidance that addresses the hands-on learning preferences identified in the learner profile",
+      "output_path": "output\\Graphic Design Diploma Year_20250404_045321\\Lesson 2 - Cognitive Strategies for Digital Age Design\\2\\5_Industry Frameworks for Complex Design Solutions.md",
+      "completion_timestamp": "2025-04-04T05:03:34.408265"
+    },
+    {
+      "module": "Lesson 2 - Cognitive Strategies for Digital Age Design",
+      "lesson": "2",
+      "step_number": "6",
+      "step_title": "Advanced Tools for Iterative Design",
+      "template_type": "Article",
+      "status": "completed",
+      "timestamp": "2025-04-04T04:53:21.599777",
+      "log_entries": [
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module Lesson 2 - Cognitive Strategies for Digital Age Design, Lesson 2, Step 6"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (821 characters)"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:03:34",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-04-04 05:04:22",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-04-04 05:04:22",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-04-04 05:04:22",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:04:22",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-04-04 05:04:48",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:04:48",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-04-04 05:05:12",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:05:12",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-04-04 05:05:12",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 19 AI patterns"
+        },
+        {
+          "timestamp": "2025-04-04 05:05:12",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-04-04 05:05:41",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:05:41",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-04-04 05:05:41",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to output\\Graphic Design Diploma Year_20250404_045321\\Lesson 2 - Cognitive Strategies for Digital Age Design\\2\\6_Advanced Tools for Iterative Design.md"
+        }
+      ],
+      "comparison_explanation": "No explanation provided.",
+      "review_summary": "No edit summary provided.",
+      "ai_patterns_detected": 19,
+      "editing_explanation": "No explanation provided.",
+      "output_path": "output\\Graphic Design Diploma Year_20250404_045321\\Lesson 2 - Cognitive Strategies for Digital Age Design\\2\\6_Advanced Tools for Iterative Design.md",
+      "completion_timestamp": "2025-04-04T05:05:41.706734"
+    },
+    {
+      "module": "Lesson 2 - Cognitive Strategies for Digital Age Design",
+      "lesson": "2",
+      "step_number": "7",
+      "step_title": "Professional Practice: Case Studies in Complex Design",
+      "template_type": "Video",
+      "status": "completed",
+      "timestamp": "2025-04-04T04:53:21.603777",
+      "log_entries": [
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module Lesson 2 - Cognitive Strategies for Digital Age Design, Lesson 2, Step 7"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (829 characters)"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:05:41",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-04-04 05:06:31",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-04-04 05:06:31",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-04-04 05:06:31",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:06:31",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-04-04 05:06:59",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:06:59",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-04-04 05:07:17",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:07:17",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-04-04 05:07:17",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 6 AI patterns"
+        },
+        {
+          "timestamp": "2025-04-04 05:07:17",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-04-04 05:07:41",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:07:41",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-04-04 05:07:41",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to output\\Graphic Design Diploma Year_20250404_045321\\Lesson 2 - Cognitive Strategies for Digital Age Design\\2\\7_Professional Practice_ Case Studies in Complex Design.md"
+        }
+      ],
+      "comparison_explanation": "No explanation provided.",
+      "review_summary": "No edit summary provided.",
+      "ai_patterns_detected": 6,
+      "editing_explanation": "I've made several key changes to make this content more human-like and better suited for HND Graphic Design students:\n\n1. Removed the formulaic \"Welcome to...\" introduction and replaced it with a more engaging, conversational opening that gets straight to the point\n2. Converted American spelling to British (e.g., \"visualize\" to \"visualise\")\n3. Added more varied sentence structures and conversational elements\n4. Included the \"Over to You\" heading for the reflection section\n5. Made the language less formal and more direct, with occasional questions to engage the reader\n6. Reduced overuse of terms like \"framework\" and \"crucial\" that were flagged as AI patterns\n7. Added more practical context relevant to graphic design students specifically\n8. Incorporated more natural transitions between sections\n9. Simplified some complex explanations while maintaining professional tone",
+      "output_path": "output\\Graphic Design Diploma Year_20250404_045321\\Lesson 2 - Cognitive Strategies for Digital Age Design\\2\\7_Professional Practice_ Case Studies in Complex Design.md",
+      "completion_timestamp": "2025-04-04T05:07:41.777961"
+    },
+    {
+      "module": "Lesson 2 - Cognitive Strategies for Digital Age Design",
+      "lesson": "2",
+      "step_number": "8",
+      "step_title": "Systematic Design Problem Analysis",
+      "template_type": "Article",
+      "status": "completed",
+      "timestamp": "2025-04-04T04:53:21.606778",
+      "log_entries": [
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module Lesson 2 - Cognitive Strategies for Digital Age Design, Lesson 2, Step 8"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (802 characters)"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:07:41",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-04-04 05:08:33",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-04-04 05:08:33",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-04-04 05:08:33",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:08:33",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-04-04 05:09:01",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:09:01",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-04-04 05:09:26",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:09:26",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-04-04 05:09:26",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 21 AI patterns"
+        },
+        {
+          "timestamp": "2025-04-04 05:09:26",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-04-04 05:09:58",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:09:58",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-04-04 05:09:58",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to output\\Graphic Design Diploma Year_20250404_045321\\Lesson 2 - Cognitive Strategies for Digital Age Design\\2\\8_Systematic Design Problem Analysis.md"
+        }
+      ],
+      "comparison_explanation": "No explanation provided.",
+      "review_summary": "No edit summary provided.",
+      "ai_patterns_detected": 21,
+      "editing_explanation": "I've made the following key changes to make this content more human-like and appropriate for HND Graphic Design students:\n\n1. Replaced the generic \"Welcome to...\" introduction with a more engaging, conversational opening that gets straight to the point\n2. Varied sentence structures to create a more natural flow and rhythm\n3. Changed American spellings to British (color \u2192 colour, etc.)\n4. Added more conversational transitions between sections\n5. Reduced repetitive use of \"framework\" and other AI-typical phrases\n6. Made the examples more concrete and relatable to graphic design students\n7. Ensured the \"Over to You\" heading was properly used for the reflection section\n8. Added some rhetorical questions and conversational elements to engage the reader\n9. Simplified some overly formal language while maintaining professionalism\n10. Created more varied paragraph structures to avoid the AI pattern of uniform paragraphs",
+      "output_path": "output\\Graphic Design Diploma Year_20250404_045321\\Lesson 2 - Cognitive Strategies for Digital Age Design\\2\\8_Systematic Design Problem Analysis.md",
+      "completion_timestamp": "2025-04-04T05:09:58.626077"
+    },
+    {
+      "module": "Lesson 2 - Cognitive Strategies for Digital Age Design",
+      "lesson": "2",
+      "step_number": "9",
+      "step_title": "Professional Analysis Tools",
+      "template_type": "Article",
+      "status": "completed",
+      "timestamp": "2025-04-04T04:53:21.609779",
+      "log_entries": [
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module Lesson 2 - Cognitive Strategies for Digital Age Design, Lesson 2, Step 9"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (677 characters)"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:09:58",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-04-04 05:10:55",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-04-04 05:10:55",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-04-04 05:10:55",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:10:55",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-04-04 05:11:33",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:11:33",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-04-04 05:12:05",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:12:05",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-04-04 05:12:05",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 12 AI patterns"
+        },
+        {
+          "timestamp": "2025-04-04 05:12:05",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-04-04 05:12:43",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:12:43",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-04-04 05:12:43",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to output\\Graphic Design Diploma Year_20250404_045321\\Lesson 2 - Cognitive Strategies for Digital Age Design\\2\\9_Professional Analysis Tools.md"
+        }
+      ],
+      "comparison_explanation": "No explanation provided.",
+      "review_summary": "No edit summary provided.",
+      "ai_patterns_detected": 12,
+      "editing_explanation": "No explanation provided.",
+      "output_path": "output\\Graphic Design Diploma Year_20250404_045321\\Lesson 2 - Cognitive Strategies for Digital Age Design\\2\\9_Professional Analysis Tools.md",
+      "completion_timestamp": "2025-04-04T05:12:43.825859"
+    },
+    {
+      "module": "Lesson 2 - Cognitive Strategies for Digital Age Design",
+      "lesson": "2",
+      "step_number": "10",
+      "step_title": "Professional Analysis Tools",
+      "template_type": "downloadable",
+      "status": "completed",
+      "timestamp": "2025-04-04T04:53:21.612780",
+      "log_entries": [
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module Lesson 2 - Cognitive Strategies for Digital Age Design, Lesson 2, Step 10"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (742 characters)"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:12:43",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-04-04 05:13:37",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-04-04 05:13:37",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-04-04 05:13:37",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:13:37",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-04-04 05:14:09",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:14:09",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-04-04 05:14:31",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:14:31",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-04-04 05:14:31",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 16 AI patterns"
+        },
+        {
+          "timestamp": "2025-04-04 05:14:31",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-04-04 05:15:00",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:15:00",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-04-04 05:15:00",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to output\\Graphic Design Diploma Year_20250404_045321\\Lesson 2 - Cognitive Strategies for Digital Age Design\\2\\10_Professional Analysis Tools.md"
+        }
+      ],
+      "comparison_explanation": "No explanation provided.",
+      "review_summary": "No edit summary provided.",
+      "ai_patterns_detected": 16,
+      "editing_explanation": "I've made several key changes to make this content more human-like and appropriate for HND Graphic Design students:\n\n1. Removed the formulaic \"Introduction\" heading and replaced the generic opening with a more engaging, conversational start\n2. Changed American spellings to British (e.g., \"visualize\" to \"visualise\")\n3. Added more varied sentence structures and conversational transitions\n4. Reduced repetitive use of words like \"powerful\" and \"crucial\"\n5. Made the language less formal while maintaining professionalism\n6. Ensured the reflection section is properly titled \"Over to You\"\n7. Added some rhetorical questions and direct address to engage students\n8. Simplified some complex explanations while maintaining the technical content\n9. Created a more authentic teaching voice that sounds like an experienced design lecturer",
+      "output_path": "output\\Graphic Design Diploma Year_20250404_045321\\Lesson 2 - Cognitive Strategies for Digital Age Design\\2\\10_Professional Analysis Tools.md",
+      "completion_timestamp": "2025-04-04T05:15:00.056615"
+    },
+    {
+      "module": "Lesson 2 - Cognitive Strategies for Digital Age Design",
+      "lesson": "2",
+      "step_number": "11",
+      "step_title": "Stakeholder Analysis Methods",
+      "template_type": "Infographic",
+      "status": "completed",
+      "timestamp": "2025-04-04T04:53:21.616780",
+      "log_entries": [
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module Lesson 2 - Cognitive Strategies for Digital Age Design, Lesson 2, Step 11"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (540 characters)"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:15:00",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-04-04 05:15:44",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-04-04 05:15:44",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-04-04 05:15:44",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:15:44",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-04-04 05:16:13",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:16:13",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-04-04 05:16:33",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:16:33",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-04-04 05:16:33",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 14 AI patterns"
+        },
+        {
+          "timestamp": "2025-04-04 05:16:33",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-04-04 05:17:03",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:17:03",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-04-04 05:17:03",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to output\\Graphic Design Diploma Year_20250404_045321\\Lesson 2 - Cognitive Strategies for Digital Age Design\\2\\11_Stakeholder Analysis Methods.md"
+        }
+      ],
+      "comparison_explanation": "No explanation provided.",
+      "review_summary": "No edit summary provided.",
+      "ai_patterns_detected": 14,
+      "editing_explanation": "I've made several key changes to make this content more human-like and appropriate for second-year HND Graphic Design students:\n\n1. Removed the formal \"Introduction\" heading and replaced the generic opening with a more engaging, conversational hook\n2. Changed American spelling to British (e.g., \"analyse\" instead of \"analyze\", \"colour\" instead of \"color\")\n3. Added more direct, personal language that acknowledges the students' existing knowledge and professional aspirations\n4. Varied sentence structures to create a more natural rhythm and flow\n5. Incorporated more practical, industry-relevant examples that connect to portfolio development\n6. Ensured all reflection sections use the required \"Over to You\" heading\n7. Added some conversational elements and rhetorical questions to engage the reader\n8. Simplified some complex explanations while maintaining professional terminology\n9. Reduced repetitive language and overly formal transitions\n10. Made the content more visually scannable with clearer section breaks",
+      "output_path": "output\\Graphic Design Diploma Year_20250404_045321\\Lesson 2 - Cognitive Strategies for Digital Age Design\\2\\11_Stakeholder Analysis Methods.md",
+      "completion_timestamp": "2025-04-04T05:17:03.066963"
+    },
+    {
+      "module": "Lesson 2 - Cognitive Strategies for Digital Age Design",
+      "lesson": "2",
+      "step_number": "12",
+      "step_title": "Stakeholder Analysis Methods",
+      "template_type": "downloadable",
+      "status": "completed",
+      "timestamp": "2025-04-04T04:53:21.619783",
+      "log_entries": [
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module Lesson 2 - Cognitive Strategies for Digital Age Design, Lesson 2, Step 12"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (921 characters)"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:17:03",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-04-04 05:17:53",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-04-04 05:17:53",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-04-04 05:17:53",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:17:53",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-04-04 05:18:23",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:18:23",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-04-04 05:18:47",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:18:47",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-04-04 05:18:47",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 12 AI patterns"
+        },
+        {
+          "timestamp": "2025-04-04 05:18:47",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-04-04 05:19:18",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:19:18",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-04-04 05:19:18",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to output\\Graphic Design Diploma Year_20250404_045321\\Lesson 2 - Cognitive Strategies for Digital Age Design\\2\\12_Stakeholder Analysis Methods.md"
+        }
+      ],
+      "comparison_explanation": "My optimized version combines the strongest elements from all three generations while specifically addressing the HND Graphic Design learner profile:\n\n1. **Professional career preparation focus**: I emphasized how this framework applies to real-world design careers and client relationships, addressing the learners' key motivation of preparing for professional careers.\n\n2. **Practical application**: I included concrete steps for creating and using the grid, plus a robust \"Over to You\" section that encourages application to their own projects, supporting their hands-on learning style.\n\n3. **Visual learning support**: I maintained the visual diagram reference and structured the content with clear headings and categorized information to support visual learners.\n\n4. **Advanced skill development**: I incorporated professional application and key takeaways sections to bridge theory and practice, helping develop project management and client communication skills identified as development needs.\n\n5. **Self-directed learning**: The interview guide and step-by-step process support independent research and problem-solving abilities.\n\n6. **Industry readiness**: I added a \"Professional Application\" section showing how this tool is used in real design careers, addressing their challenge of building professional confidence.\n\nThe content maintains a clear, conversational tone while providing structured, practical guidance that these second-year design students can immediately apply to their projects.",
+      "review_summary": "No edit summary provided.",
+      "ai_patterns_detected": 12,
+      "editing_explanation": "I've made several changes to make this content more human-like and better suited for HND Graphic Design students:\n\n1. Removed the formal \"Introduction\" heading and replaced the generic opening with a more direct, conversational approach\n2. Converted American spelling to British (e.g., \"visualize\" to \"visualise\")\n3. Reduced overuse of terms like \"framework,\" \"mastering,\" and \"crucial\" that were flagged as AI patterns\n4. Added more practical, industry-relevant examples that connect to real design work\n5. Varied sentence structures to create a more natural flow\n6. Incorporated more conversational elements while maintaining professionalism\n7. Added personal touches that a human educator might include\n8. Ensured the \"Over to You\" reflection section was properly labelled\n9. Made the content more concise in places where it was unnecessarily wordy\n10. Added some design-specific context to make examples more relevant to graphic design students",
+      "output_path": "output\\Graphic Design Diploma Year_20250404_045321\\Lesson 2 - Cognitive Strategies for Digital Age Design\\2\\12_Stakeholder Analysis Methods.md",
+      "completion_timestamp": "2025-04-04T05:19:18.616842"
+    },
+    {
+      "module": "Lesson 2 - Cognitive Strategies for Digital Age Design",
+      "lesson": "2",
+      "step_number": "13",
+      "step_title": "Business Requirements in Design",
+      "template_type": "Article",
+      "status": "completed",
+      "timestamp": "2025-04-04T04:53:21.622784",
+      "log_entries": [
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module Lesson 2 - Cognitive Strategies for Digital Age Design, Lesson 2, Step 13"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (690 characters)"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:19:18",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-04-04 05:20:14",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-04-04 05:20:14",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-04-04 05:20:14",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:20:14",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-04-04 05:20:44",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:20:44",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-04-04 05:21:06",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:21:06",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-04-04 05:21:06",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 13 AI patterns"
+        },
+        {
+          "timestamp": "2025-04-04 05:21:06",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-04-04 05:21:36",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:21:36",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-04-04 05:21:36",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to output\\Graphic Design Diploma Year_20250404_045321\\Lesson 2 - Cognitive Strategies for Digital Age Design\\2\\13_Business Requirements in Design.md"
+        }
+      ],
+      "comparison_explanation": "No explanation provided.",
+      "review_summary": "No edit summary provided.",
+      "ai_patterns_detected": 13,
+      "editing_explanation": "I've made several key changes to make this content more human-like and appropriate for second-year HND Graphic Design students:\n\n1. Removed the formulaic \"Welcome to...\" introduction and replaced it with a more engaging, direct opening that connects to the students' professional aspirations\n2. Changed American spelling to British (color \u2192 colour, etc.)\n3. Added the \"Over to You\" heading for the reflection section as specified\n4. Reduced the overuse of \"comprehensive,\" \"framework,\" and \"ensure\" which were flagged as AI patterns\n5. Added more conversational elements and varied sentence structures\n6. Incorporated more industry-specific language and practical examples relevant to graphic design students\n7. Made the tone more personable while maintaining professionalism\n8. Added some rhetorical questions to engage the reader\n9. Streamlined some explanations to be more direct and practical\n10. Incorporated more design-specific terminology that would resonate with the target learners",
+      "output_path": "output\\Graphic Design Diploma Year_20250404_045321\\Lesson 2 - Cognitive Strategies for Digital Age Design\\2\\13_Business Requirements in Design.md",
+      "completion_timestamp": "2025-04-04T05:21:36.869836"
+    },
+    {
+      "module": "Lesson 2 - Cognitive Strategies for Digital Age Design",
+      "lesson": "2",
+      "step_number": "14",
+      "step_title": "Business Requirements in Design",
+      "template_type": "downloadable",
+      "status": "completed",
+      "timestamp": "2025-04-04T04:53:21.625784",
+      "log_entries": [
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module Lesson 2 - Cognitive Strategies for Digital Age Design, Lesson 2, Step 14"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (1087 characters)"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:21:36",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-04-04 05:22:27",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-04-04 05:22:27",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-04-04 05:22:27",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:22:27",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-04-04 05:23:00",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:23:00",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-04-04 05:23:23",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:23:23",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-04-04 05:23:23",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 13 AI patterns"
+        },
+        {
+          "timestamp": "2025-04-04 05:23:23",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-04-04 05:23:55",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:23:55",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-04-04 05:23:55",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to output\\Graphic Design Diploma Year_20250404_045321\\Lesson 2 - Cognitive Strategies for Digital Age Design\\2\\14_Business Requirements in Design.md"
+        }
+      ],
+      "comparison_explanation": "No explanation provided.",
+      "review_summary": "No edit summary provided.",
+      "ai_patterns_detected": 13,
+      "editing_explanation": "No explanation provided.",
+      "output_path": "output\\Graphic Design Diploma Year_20250404_045321\\Lesson 2 - Cognitive Strategies for Digital Age Design\\2\\14_Business Requirements in Design.md",
+      "completion_timestamp": "2025-04-04T05:23:55.406967"
+    },
+    {
+      "module": "Lesson 2 - Cognitive Strategies for Digital Age Design",
+      "lesson": "2",
+      "step_number": "15",
+      "step_title": "Reimagining a Financial App for Multiple Generations",
+      "template_type": "Video",
+      "status": "completed",
+      "timestamp": "2025-04-04T04:53:21.628785",
+      "log_entries": [
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module Lesson 2 - Cognitive Strategies for Digital Age Design, Lesson 2, Step 15"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (1000 characters)"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:23:55",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-04-04 05:24:51",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-04-04 05:24:51",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-04-04 05:24:51",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:24:51",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-04-04 05:25:23",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:25:23",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-04-04 05:25:48",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:25:48",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-04-04 05:25:48",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 20 AI patterns"
+        },
+        {
+          "timestamp": "2025-04-04 05:25:48",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-04-04 05:26:24",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:26:24",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-04-04 05:26:24",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to output\\Graphic Design Diploma Year_20250404_045321\\Lesson 2 - Cognitive Strategies for Digital Age Design\\2\\15_Reimagining a Financial App for Multiple Generations.md"
+        }
+      ],
+      "comparison_explanation": "No explanation provided.",
+      "review_summary": "No edit summary provided.",
+      "ai_patterns_detected": 20,
+      "editing_explanation": "No explanation provided.",
+      "output_path": "output\\Graphic Design Diploma Year_20250404_045321\\Lesson 2 - Cognitive Strategies for Digital Age Design\\2\\15_Reimagining a Financial App for Multiple Generations.md",
+      "completion_timestamp": "2025-04-04T05:26:24.423234"
+    },
+    {
+      "module": "Lesson 2 - Cognitive Strategies for Digital Age Design",
+      "lesson": "2",
+      "step_number": "16",
+      "step_title": "Developing Cross-Platform Solutions for Financial Services",
+      "template_type": "Article",
+      "status": "completed",
+      "timestamp": "2025-04-04T04:53:21.631785",
+      "log_entries": [
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module Lesson 2 - Cognitive Strategies for Digital Age Design, Lesson 2, Step 16"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (1037 characters)"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:26:24",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-04-04 05:27:12",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-04-04 05:27:12",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-04-04 05:27:12",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:27:12",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-04-04 05:27:44",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:27:44",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-04-04 05:28:04",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:28:04",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-04-04 05:28:04",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 20 AI patterns"
+        },
+        {
+          "timestamp": "2025-04-04 05:28:04",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-04-04 05:28:35",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:28:35",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-04-04 05:28:35",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to output\\Graphic Design Diploma Year_20250404_045321\\Lesson 2 - Cognitive Strategies for Digital Age Design\\2\\16_Developing Cross-Platform Solutions for Financial Services.md"
+        }
+      ],
+      "comparison_explanation": "No explanation provided.",
+      "review_summary": "No edit summary provided.",
+      "ai_patterns_detected": 20,
+      "editing_explanation": "I've made several key changes to make this content more human-like and appropriate for HND Graphic Design students:\n\n1. Removed the \"Welcome to\" introduction and replaced it with a more engaging, direct opening that connects to their professional goals\n2. Converted American spelling to British (color \u2192 colour, behavior \u2192 behaviour, etc.)\n3. Added the \"Over to You\" heading for the reflection section as specified\n4. Varied sentence structures to create a more natural flow\n5. Reduced repetitive use of words like \"essential,\" \"comprehensive,\" and \"ensure\"\n6. Made the language more conversational while maintaining professionalism\n7. Added more practical context that connects to portfolio development\n8. Simplified some complex sentences while preserving technical content\n9. Created stronger transitions between sections\n10. Balanced technical instruction with real-world application to match the hands-on learning preference",
+      "output_path": "output\\Graphic Design Diploma Year_20250404_045321\\Lesson 2 - Cognitive Strategies for Digital Age Design\\2\\16_Developing Cross-Platform Solutions for Financial Services.md",
+      "completion_timestamp": "2025-04-04T05:28:35.730752"
+    },
+    {
+      "module": "Lesson 2 - Cognitive Strategies for Digital Age Design",
+      "lesson": "2",
+      "step_number": "17",
+      "step_title": "Financial App Design System Templates",
+      "template_type": "downloadable",
+      "status": "completed",
+      "timestamp": "2025-04-04T04:53:21.635293",
+      "log_entries": [
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module Lesson 2 - Cognitive Strategies for Digital Age Design, Lesson 2, Step 17"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (1066 characters)"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:28:35",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-04-04 05:29:26",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-04-04 05:29:26",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-04-04 05:29:26",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:29:26",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-04-04 05:29:52",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:29:52",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-04-04 05:30:10",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:30:10",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-04-04 05:30:11",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 10 AI patterns"
+        },
+        {
+          "timestamp": "2025-04-04 05:30:11",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-04-04 05:30:36",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:30:36",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-04-04 05:30:36",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to output\\Graphic Design Diploma Year_20250404_045321\\Lesson 2 - Cognitive Strategies for Digital Age Design\\2\\17_Financial App Design System Templates.md"
+        }
+      ],
+      "comparison_explanation": "My optimized version addresses the HND Graphic Design learner profile by:\n\n1. **Professional relevance**: I emphasized how these templates connect to industry practices and portfolio development, addressing the learners' key motivation of preparing for professional careers.\n\n2. **Visual learning support**: I added placeholders for images that would demonstrate concepts visually, catering to their visual learning preference.\n\n3. **Practical application focus**: I included implementation techniques and real-world applications throughout, bridging theory and practice\u2014a key challenge for these learners.\n\n4. **Technical skill development**: The content focuses on advanced implementation skills (responsive design, accessibility, documentation) that directly address their development needs.\n\n5. **Self-directed learning opportunities**: The \"Over to You\" section encourages independent exploration while providing clear direction.\n\n6. **Portfolio-building connections**: I highlighted how each section offers portfolio opportunities, supporting their motivation to build professional work samples.\n\n7. **Clear structure**: I maintained a consistent format with practical examples, implementation techniques, and professional context for each section.\n\nThe content now better serves second-year graphic design students by connecting theoretical concepts to practical implementation while emphasizing professional portfolio development\u2014directly addressing their career preparation needs.",
+      "review_summary": "No edit summary provided.",
+      "ai_patterns_detected": 10,
+      "editing_explanation": "I've made several changes to make this content more human-like and appropriate for HND Graphic Design students:\n\n1. Removed the formal \"Introduction\" heading and replaced the generic opening with a more engaging, conversational hook\n2. Reduced overly formal academic language while maintaining professional tone\n3. Added more practical, industry-relevant examples and context\n4. Varied sentence structure and length to create a more natural flow\n5. Incorporated more direct address to the reader to create engagement\n6. Changed American spellings to British (colour, organise, etc.)\n7. Ensured the reflection section is properly labeled as \"Over to You\"\n8. Added more specific, tangible examples that connect to portfolio development\n9. Reduced repetitive phrasing and AI-like sentence structures\n10. Made the content more concise while preserving all key information",
+      "output_path": "output\\Graphic Design Diploma Year_20250404_045321\\Lesson 2 - Cognitive Strategies for Digital Age Design\\2\\17_Financial App Design System Templates.md",
+      "completion_timestamp": "2025-04-04T05:30:36.636556"
+    },
+    {
+      "module": "Lesson 2 - Cognitive Strategies for Digital Age Design",
+      "lesson": "2",
+      "step_number": "18",
+      "step_title": "Design Version Control and Documentation",
+      "template_type": "Article",
+      "status": "completed",
+      "timestamp": "2025-04-04T04:53:21.638292",
+      "log_entries": [
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module Lesson 2 - Cognitive Strategies for Digital Age Design, Lesson 2, Step 18"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (905 characters)"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:30:36",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-04-04 05:31:26",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-04-04 05:31:26",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-04-04 05:31:26",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:31:26",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-04-04 05:32:09",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:32:09",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-04-04 05:32:35",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:32:35",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-04-04 05:32:35",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 8 AI patterns"
+        },
+        {
+          "timestamp": "2025-04-04 05:32:35",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-04-04 05:33:13",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:33:13",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-04-04 05:33:13",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to output\\Graphic Design Diploma Year_20250404_045321\\Lesson 2 - Cognitive Strategies for Digital Age Design\\2\\18_Design Version Control and Documentation.md"
+        }
+      ],
+      "comparison_explanation": "No explanation provided.",
+      "review_summary": "No edit summary provided.",
+      "ai_patterns_detected": 8,
+      "editing_explanation": "I've made several changes to make this content more human-like and better suited for HND Graphic Design students:\n\n1. Removed the formal \"Introduction\" heading and replaced the generic opening with a more engaging, conversational hook\n2. Added more natural transitions between sections and varied sentence structures\n3. Changed American spelling to British (color \u2192 colour, etc.)\n4. Made the tone more personal while maintaining professionalism\n5. Added more practical, relatable examples for design students\n6. Ensured the \"Over to You\" heading was properly used for the reflection section\n7. Simplified some overly complex sentences while preserving technical content\n8. Added more direct addressing of the reader to create connection\n9. Incorporated more industry-relevant context that speaks to portfolio development\n10. Balanced theoretical concepts with practical application for these hands-on learners",
+      "output_path": "output\\Graphic Design Diploma Year_20250404_045321\\Lesson 2 - Cognitive Strategies for Digital Age Design\\2\\18_Design Version Control and Documentation.md",
+      "completion_timestamp": "2025-04-04T05:33:13.545525"
+    },
+    {
+      "module": "Lesson 2 - Cognitive Strategies for Digital Age Design",
+      "lesson": "2",
+      "step_number": "19",
+      "step_title": "Design Version Control and Documentation",
+      "template_type": "Infographic",
+      "status": "completed",
+      "timestamp": "2025-04-04T04:53:21.641294",
+      "log_entries": [
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module Lesson 2 - Cognitive Strategies for Digital Age Design, Lesson 2, Step 19"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (901 characters)"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:33:13",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-04-04 05:34:04",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-04-04 05:34:04",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-04-04 05:34:04",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:34:04",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-04-04 05:34:41",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:34:41",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-04-04 05:35:07",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:35:07",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-04-04 05:35:07",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 10 AI patterns"
+        },
+        {
+          "timestamp": "2025-04-04 05:35:07",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-04-04 05:35:42",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:35:42",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-04-04 05:35:42",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to output\\Graphic Design Diploma Year_20250404_045321\\Lesson 2 - Cognitive Strategies for Digital Age Design\\2\\19_Design Version Control and Documentation.md"
+        }
+      ],
+      "comparison_explanation": "No explanation provided.",
+      "review_summary": "No edit summary provided.",
+      "ai_patterns_detected": 10,
+      "editing_explanation": "I've made several key changes to transform this AI-generated content into more human-like writing for HND Graphic Design students:\n\n1. Removed the formal \"Introduction\" heading and replaced the generic opening with a more engaging, conversational hook\n2. Converted American spelling to British (e.g., \"color\" to \"colour\")\n3. Added the required \"Over to You\" heading for the reflection section\n4. Varied sentence structures and reduced repetitive phrasing\n5. Made language more direct and conversational while maintaining professionalism\n6. Simplified complex explanations while preserving technical accuracy\n7. Added more practical context relevant to graphic design students\n8. Incorporated more natural transitions between sections\n9. Reduced AI-like phrases such as \"crucial\" and \"comprehensive\"\n10. Made examples more specific and relatable to portfolio development",
+      "output_path": "output\\Graphic Design Diploma Year_20250404_045321\\Lesson 2 - Cognitive Strategies for Digital Age Design\\2\\19_Design Version Control and Documentation.md",
+      "completion_timestamp": "2025-04-04T05:35:42.373368"
+    },
+    {
+      "module": "Lesson 2 - Cognitive Strategies for Digital Age Design",
+      "lesson": "2",
+      "step_number": "20",
+      "step_title": "Design Version Control and Documentation",
+      "template_type": "downloadable",
+      "status": "completed",
+      "timestamp": "2025-04-04T04:53:21.644295",
+      "log_entries": [
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module Lesson 2 - Cognitive Strategies for Digital Age Design, Lesson 2, Step 20"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (948 characters)"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:35:42",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-04-04 05:36:30",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-04-04 05:36:30",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-04-04 05:36:30",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:36:30",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-04-04 05:36:59",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:36:59",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-04-04 05:37:24",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:37:24",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-04-04 05:37:24",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 6 AI patterns"
+        },
+        {
+          "timestamp": "2025-04-04 05:37:24",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-04-04 05:37:56",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:37:56",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-04-04 05:37:56",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to output\\Graphic Design Diploma Year_20250404_045321\\Lesson 2 - Cognitive Strategies for Digital Age Design\\2\\20_Design Version Control and Documentation.md"
+        }
+      ],
+      "comparison_explanation": "My optimized version combines the strongest elements from all three generations while specifically addressing the HND Graphic Design learner profile:\n\n1. **Professional Focus**: I emphasized industry relevance throughout, addressing the learners' key motivation of preparing for professional careers.\n\n2. **Visual Learning Support**: I included a structured table format for the documentation template, catering to visual learners who benefit from clear organization.\n\n3. **Practical Application**: I enhanced the \"Over to You\" section with specific tasks that build portfolio-ready skills, addressing the need for professional confidence.\n\n4. **Technical Implementation**: I added concrete file naming conventions and organizational strategies to address the learners' need for proper digital workflow practices.\n\n5. **Bridging Theory and Practice**: I connected documentation concepts directly to professional scenarios they'll encounter, helping bridge theory and practice.\n\n6. **Additional Resources**: I added a resources section to support self-directed learning and independent research abilities.\n\nThe final version maintains a conversational yet professional tone, avoids overwhelming with too many facts in sequence, and creates clear connections to both previous and upcoming content. The structure follows a logical progression from concept to implementation, with practical examples throughout.",
+      "review_summary": "No edit summary provided.",
+      "ai_patterns_detected": 6,
+      "editing_explanation": "No explanation provided.",
+      "output_path": "output\\Graphic Design Diploma Year_20250404_045321\\Lesson 2 - Cognitive Strategies for Digital Age Design\\2\\20_Design Version Control and Documentation.md",
+      "completion_timestamp": "2025-04-04T05:37:56.314429"
+    },
+    {
+      "module": "Lesson 2 - Cognitive Strategies for Digital Age Design",
+      "lesson": "2",
+      "step_number": "21",
+      "step_title": "Professional Design Collaboration Tools",
+      "template_type": "Video",
+      "status": "completed",
+      "timestamp": "2025-04-04T04:53:21.648296",
+      "log_entries": [
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module Lesson 2 - Cognitive Strategies for Digital Age Design, Lesson 2, Step 21"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (984 characters)"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:37:56",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-04-04 05:38:43",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-04-04 05:38:43",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-04-04 05:38:43",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:38:43",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-04-04 05:39:11",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:39:11",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-04-04 05:39:33",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:39:33",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-04-04 05:39:33",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 6 AI patterns"
+        },
+        {
+          "timestamp": "2025-04-04 05:39:33",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-04-04 05:40:02",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:40:02",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-04-04 05:40:02",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to output\\Graphic Design Diploma Year_20250404_045321\\Lesson 2 - Cognitive Strategies for Digital Age Design\\2\\21_Professional Design Collaboration Tools.md"
+        }
+      ],
+      "comparison_explanation": "No explanation provided.",
+      "review_summary": "No edit summary provided.",
+      "ai_patterns_detected": 6,
+      "editing_explanation": "No explanation provided.",
+      "output_path": "output\\Graphic Design Diploma Year_20250404_045321\\Lesson 2 - Cognitive Strategies for Digital Age Design\\2\\21_Professional Design Collaboration Tools.md",
+      "completion_timestamp": "2025-04-04T05:40:02.893205"
+    },
+    {
+      "module": "Lesson 2 - Cognitive Strategies for Digital Age Design",
+      "lesson": "2",
+      "step_number": "22",
+      "step_title": "Professional Design Collaboration Tools",
+      "template_type": "Article",
+      "status": "completed",
+      "timestamp": "2025-04-04T04:53:21.651296",
+      "log_entries": [
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module Lesson 2 - Cognitive Strategies for Digital Age Design, Lesson 2, Step 22"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (1232 characters)"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:40:02",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-04-04 05:40:56",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-04-04 05:40:56",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-04-04 05:40:56",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:40:56",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-04-04 05:41:27",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:41:27",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-04-04 05:41:50",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:41:50",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-04-04 05:41:51",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 8 AI patterns"
+        },
+        {
+          "timestamp": "2025-04-04 05:41:51",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-04-04 05:42:24",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:42:24",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-04-04 05:42:24",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to output\\Graphic Design Diploma Year_20250404_045321\\Lesson 2 - Cognitive Strategies for Digital Age Design\\2\\22_Professional Design Collaboration Tools.md"
+        }
+      ],
+      "comparison_explanation": "No explanation provided.",
+      "review_summary": "No edit summary provided.",
+      "ai_patterns_detected": 8,
+      "editing_explanation": "I've made the following key changes to make this content more human-like and appropriate for HND Graphic Design students:\n\n1. Removed the generic \"Introduction\" heading and replaced the formal introduction with a more engaging, conversational opening that addresses the reader directly\n2. Changed American spelling to British (color \u2192 colour, practice \u2192 practise)\n3. Renamed the reflection section to \"Over to You\" as specified\n4. Varied sentence structures to create a more natural flow and avoid AI patterns\n5. Added more concrete examples and relatable scenarios for design students\n6. Reduced overly formal language and academic tone while maintaining professionalism\n7. Incorporated more direct address to the reader to create connection\n8. Removed redundant transitional phrases and self-referential language\n9. Added more practical context that connects to students' existing knowledge\n10. Adjusted the conclusion to be more concise and action-oriented",
+      "output_path": "output\\Graphic Design Diploma Year_20250404_045321\\Lesson 2 - Cognitive Strategies for Digital Age Design\\2\\22_Professional Design Collaboration Tools.md",
+      "completion_timestamp": "2025-04-04T05:42:24.208844"
+    },
+    {
+      "module": "Lesson 2 - Cognitive Strategies for Digital Age Design",
+      "lesson": "2",
+      "step_number": "23",
+      "step_title": "Digital Tools for Design Feedback",
+      "template_type": "Article",
+      "status": "completed",
+      "timestamp": "2025-04-04T04:53:21.654296",
+      "log_entries": [
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module Lesson 2 - Cognitive Strategies for Digital Age Design, Lesson 2, Step 23"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (1069 characters)"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:42:24",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-04-04 05:43:11",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-04-04 05:43:11",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-04-04 05:43:11",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:43:11",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-04-04 05:43:41",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:43:41",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-04-04 05:44:01",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:44:01",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-04-04 05:44:02",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 14 AI patterns"
+        },
+        {
+          "timestamp": "2025-04-04 05:44:02",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-04-04 05:44:35",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:44:35",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-04-04 05:44:35",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to output\\Graphic Design Diploma Year_20250404_045321\\Lesson 2 - Cognitive Strategies for Digital Age Design\\2\\23_Digital Tools for Design Feedback.md"
+        }
+      ],
+      "comparison_explanation": "No explanation provided.",
+      "review_summary": "No edit summary provided.",
+      "ai_patterns_detected": 14,
+      "editing_explanation": "I've made several key changes to make this content more human-like and appropriate for HND Graphic Design students:\n\n1. Removed the generic \"Welcome to...\" introduction and replaced it with a more engaging, practical opening that addresses the students directly\n2. Changed American spellings to British (e.g., \"color\" to \"colour\")\n3. Added the \"Over to You\" heading for the reflection section\n4. Varied sentence structures to create a more natural flow\n5. Reduced overuse of adjectives like \"powerful,\" \"essential,\" and \"robust\"\n6. Added more conversational elements while maintaining professionalism\n7. Incorporated language that acknowledges the students' existing skills and portfolio work\n8. Made the examples more concrete and relatable to graphic design students\n9. Simplified some complex sentences while maintaining the educational value\n10. Removed repetitive phrases and AI-like patterns",
+      "output_path": "output\\Graphic Design Diploma Year_20250404_045321\\Lesson 2 - Cognitive Strategies for Digital Age Design\\2\\23_Digital Tools for Design Feedback.md",
+      "completion_timestamp": "2025-04-04T05:44:35.620831"
+    },
+    {
+      "module": "Lesson 2 - Cognitive Strategies for Digital Age Design",
+      "lesson": "2",
+      "step_number": "24",
+      "step_title": "Digital Tools for Design Feedback",
+      "template_type": "downloadable",
+      "status": "completed",
+      "timestamp": "2025-04-04T04:53:21.657297",
+      "log_entries": [
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module Lesson 2 - Cognitive Strategies for Digital Age Design, Lesson 2, Step 24"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (1411 characters)"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:44:35",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-04-04 05:45:21",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-04-04 05:45:21",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-04-04 05:45:21",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:45:21",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-04-04 05:45:46",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:45:46",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-04-04 05:46:02",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:46:02",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-04-04 05:46:02",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 6 AI patterns"
+        },
+        {
+          "timestamp": "2025-04-04 05:46:02",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-04-04 05:46:24",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:46:24",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-04-04 05:46:24",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to output\\Graphic Design Diploma Year_20250404_045321\\Lesson 2 - Cognitive Strategies for Digital Age Design\\2\\24_Digital Tools for Design Feedback.md"
+        }
+      ],
+      "comparison_explanation": "My optimized version addresses the HND Graphic Design learner needs by:\n\n1. **Focusing on professional application**: I've emphasized how each template connects to industry practices and portfolio development, addressing the learner's key motivation of preparing for professional careers.\n\n2. **Connecting to technical skills**: I've referenced specific design tools (Adobe XD, Figma) and technical standards (WCAG) that bridge their existing knowledge with the advanced mastery they need.\n\n3. **Balancing theory and practice**: Each template includes both the theoretical framework and practical application examples, addressing their challenge of connecting theory to professional contexts.\n\n4. **Building professional confidence**: The content emphasizes how these templates demonstrate professional maturity to potential employers, supporting their need for industry readiness.\n\n5. **Providing clear visual structure**: The template formats are presented in easily scannable code blocks with clear examples that appeal to visual learners.\n\n6. **Including an actionable \"Over to You\" section**: This provides a concrete application task that supports their hands-on learning style while building their portfolio.\n\nI maintained the strongest elements from each version while ensuring the content directly addresses the specific challenges and needs of second-year graphic design students preparing for professional practice.",
+      "review_summary": "No edit summary provided.",
+      "ai_patterns_detected": 6,
+      "editing_explanation": "No explanation provided.",
+      "output_path": "output\\Graphic Design Diploma Year_20250404_045321\\Lesson 2 - Cognitive Strategies for Digital Age Design\\2\\24_Digital Tools for Design Feedback.md",
+      "completion_timestamp": "2025-04-04T05:46:24.198302"
+    },
+    {
+      "module": "Lesson 2 - Cognitive Strategies for Digital Age Design",
+      "lesson": "2",
+      "step_number": "25",
+      "step_title": "Building a Sustainable Fashion Brand's Multi-Platform Campaign",
+      "template_type": "Article",
+      "status": "completed",
+      "timestamp": "2025-04-04T04:53:21.660298",
+      "log_entries": [
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module Lesson 2 - Cognitive Strategies for Digital Age Design, Lesson 2, Step 25"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (1139 characters)"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:46:24",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-04-04 05:47:15",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-04-04 05:47:15",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-04-04 05:47:15",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:47:15",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-04-04 05:47:48",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:47:48",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-04-04 05:48:13",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:48:13",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-04-04 05:48:13",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 12 AI patterns"
+        },
+        {
+          "timestamp": "2025-04-04 05:48:13",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-04-04 05:48:48",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:48:48",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-04-04 05:48:48",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to output\\Graphic Design Diploma Year_20250404_045321\\Lesson 2 - Cognitive Strategies for Digital Age Design\\2\\25_Building a Sustainable Fashion Brand_s Multi-Platform Campaign.md"
+        }
+      ],
+      "comparison_explanation": "No explanation provided.",
+      "review_summary": "No edit summary provided.",
+      "ai_patterns_detected": 12,
+      "editing_explanation": "No explanation provided.",
+      "output_path": "output\\Graphic Design Diploma Year_20250404_045321\\Lesson 2 - Cognitive Strategies for Digital Age Design\\2\\25_Building a Sustainable Fashion Brand_s Multi-Platform Campaign.md",
+      "completion_timestamp": "2025-04-04T05:48:48.128169"
+    },
+    {
+      "module": "Lesson 2 - Cognitive Strategies for Digital Age Design",
+      "lesson": "2",
+      "step_number": "26",
+      "step_title": "Visualizing Feedback Integration for Fashion Brand Success",
+      "template_type": "Infographic",
+      "status": "completed",
+      "timestamp": "2025-04-04T04:53:21.664300",
+      "log_entries": [
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module Lesson 2 - Cognitive Strategies for Digital Age Design, Lesson 2, Step 26"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (1244 characters)"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:48:48",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-04-04 05:49:36",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-04-04 05:49:36",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-04-04 05:49:36",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:49:36",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-04-04 05:50:02",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:50:02",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-04-04 05:50:21",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:50:21",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-04-04 05:50:21",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 7 AI patterns"
+        },
+        {
+          "timestamp": "2025-04-04 05:50:21",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-04-04 05:50:49",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:50:49",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-04-04 05:50:49",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to output\\Graphic Design Diploma Year_20250404_045321\\Lesson 2 - Cognitive Strategies for Digital Age Design\\2\\26_Visualizing Feedback Integration for Fashion Brand Success.md"
+        }
+      ],
+      "comparison_explanation": "No explanation provided.",
+      "review_summary": "No edit summary provided.",
+      "ai_patterns_detected": 7,
+      "editing_explanation": "I've made several key changes to make this content more suitable for HND Graphic Design students:\n\n1. Removed the formal \"Introduction\" heading and replaced the academic-style opening with a more engaging, direct approach that speaks to the students' professional interests\n2. Changed American spellings to British (color \u2192 colour, visualization \u2192 visualisation)\n3. Added more practical, portfolio-relevant examples that connect to their career goals\n4. Incorporated conversational language while maintaining professionalism\n5. Ensured all reflection sections use the \"Over to You\" heading\n6. Added more concrete examples relevant to graphic designers\n7. Varied sentence structure to create a more natural flow\n8. Reduced repetition and overly formal academic language\n9. Made the content more visually-oriented to match the learning preferences of design students",
+      "output_path": "output\\Graphic Design Diploma Year_20250404_045321\\Lesson 2 - Cognitive Strategies for Digital Age Design\\2\\26_Visualizing Feedback Integration for Fashion Brand Success.md",
+      "completion_timestamp": "2025-04-04T05:50:49.210535"
+    },
+    {
+      "module": "Lesson 2 - Cognitive Strategies for Digital Age Design",
+      "lesson": "2",
+      "step_number": "27",
+      "step_title": "Measuring Success in Sustainable Fashion Marketing",
+      "template_type": "Article",
+      "status": "completed",
+      "timestamp": "2025-04-04T04:53:21.667300",
+      "log_entries": [
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module Lesson 2 - Cognitive Strategies for Digital Age Design, Lesson 2, Step 27"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (1270 characters)"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:50:49",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-04-04 05:51:39",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-04-04 05:51:39",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-04-04 05:51:39",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:51:39",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-04-04 05:52:05",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:52:05",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-04-04 05:52:23",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:52:23",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-04-04 05:52:23",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 15 AI patterns"
+        },
+        {
+          "timestamp": "2025-04-04 05:52:23",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-04-04 05:52:52",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:52:52",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-04-04 05:52:52",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to output\\Graphic Design Diploma Year_20250404_045321\\Lesson 2 - Cognitive Strategies for Digital Age Design\\2\\27_Measuring Success in Sustainable Fashion Marketing.md"
+        }
+      ],
+      "comparison_explanation": "No explanation provided.",
+      "review_summary": "No edit summary provided.",
+      "ai_patterns_detected": 15,
+      "editing_explanation": "I've made several key changes to make this content more human-like and appropriate for HND Graphic Design students:\n\n1. Removed the formal \"Introduction\" heading and replaced the academic-sounding introduction with a more engaging, conversational opener that still maintains professionalism\n2. Changed American spelling to British (behavior \u2192 behaviour, color \u2192 colour)\n3. Added more varied sentence structures and reduced repetitive phrasing\n4. Incorporated more direct address to the reader with \"you\" statements that feel less formulaic\n5. Replaced generic AI phrases like \"essential\" and \"crucial\" with more specific, meaningful language\n6. Added more concrete examples relevant to graphic designers specifically\n7. Ensured the \"Over to You\" reflection practice was properly labeled\n8. Reduced the overuse of bullet points and created more flowing text in places\n9. Added some industry-relevant context that shows human expertise rather than just listing facts\n10. Made the conclusion more action-oriented rather than just summarizing",
+      "output_path": "output\\Graphic Design Diploma Year_20250404_045321\\Lesson 2 - Cognitive Strategies for Digital Age Design\\2\\27_Measuring Success in Sustainable Fashion Marketing.md",
+      "completion_timestamp": "2025-04-04T05:52:52.019038"
+    },
+    {
+      "module": "Lesson 2 - Cognitive Strategies for Digital Age Design",
+      "lesson": "2",
+      "step_number": "28",
+      "step_title": "Evolving the Fashion Campaign Through Stakeholder Feedback",
+      "template_type": "Article",
+      "status": "completed",
+      "timestamp": "2025-04-04T04:53:21.671301",
+      "log_entries": [
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module Lesson 2 - Cognitive Strategies for Digital Age Design, Lesson 2, Step 28"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (1118 characters)"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:52:52",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-04-04 05:53:39",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-04-04 05:53:39",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-04-04 05:53:39",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:53:39",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-04-04 05:54:08",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:54:08",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-04-04 05:54:29",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:54:29",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-04-04 05:54:29",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 8 AI patterns"
+        },
+        {
+          "timestamp": "2025-04-04 05:54:29",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-04-04 05:55:00",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:55:00",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-04-04 05:55:00",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to output\\Graphic Design Diploma Year_20250404_045321\\Lesson 2 - Cognitive Strategies for Digital Age Design\\2\\28_Evolving the Fashion Campaign Through Stakeholder Feedback.md"
+        }
+      ],
+      "comparison_explanation": "No explanation provided.",
+      "review_summary": "No edit summary provided.",
+      "ai_patterns_detected": 8,
+      "editing_explanation": "I've made the following key changes to make this content more human-like and appropriate for HND Graphic Design students:\n\n1. Removed the formulaic \"Introduction\" heading and replaced the generic opening with a more engaging, conversational hook that connects directly to the students' professional aspirations\n2. Shifted from an overly formal academic tone to a more balanced professional-conversational style that maintains authority while being more accessible\n3. Added more varied sentence structures and natural transitions between ideas\n4. Incorporated more concrete examples and practical applications that HND students can relate to\n5. Changed American spelling to British spelling (e.g., \"visualization\" to \"visualisation\")\n6. Ensured all reflection sections use the required \"Over to You\" heading\n7. Added more direct connections to portfolio development and professional practice\n8. Reduced repetitive phrasing and overly formal language that's typical of AI writing\n9. Made the content more visually scannable with better paragraph breaks and more varied formatting\n10. Added some rhetorical questions and conversational elements that create a more human teaching voice",
+      "output_path": "output\\Graphic Design Diploma Year_20250404_045321\\Lesson 2 - Cognitive Strategies for Digital Age Design\\2\\28_Evolving the Fashion Campaign Through Stakeholder Feedback.md",
+      "completion_timestamp": "2025-04-04T05:55:00.885235"
+    },
+    {
+      "module": "Lesson 2 - Cognitive Strategies for Digital Age Design",
+      "lesson": "2",
+      "step_number": "29",
+      "step_title": "Sustainable Fashion Campaign Toolkit",
+      "template_type": "downloadable",
+      "status": "completed",
+      "timestamp": "2025-04-04T04:53:21.674301",
+      "log_entries": [
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module Lesson 2 - Cognitive Strategies for Digital Age Design, Lesson 2, Step 29"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (701 characters)"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:55:00",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-04-04 05:55:51",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-04-04 05:55:51",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-04-04 05:55:51",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:55:51",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-04-04 05:56:21",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:56:21",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-04-04 05:56:44",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:56:44",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-04-04 05:56:44",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 12 AI patterns"
+        },
+        {
+          "timestamp": "2025-04-04 05:56:44",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-04-04 05:57:17",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:57:17",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-04-04 05:57:17",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to output\\Graphic Design Diploma Year_20250404_045321\\Lesson 2 - Cognitive Strategies for Digital Age Design\\2\\29_Sustainable Fashion Campaign Toolkit.md"
+        }
+      ],
+      "comparison_explanation": "No explanation provided.",
+      "review_summary": "No edit summary provided.",
+      "ai_patterns_detected": 12,
+      "editing_explanation": "I've made several key changes to make this content more human-like and appropriate for HND Graphic Design students:\n\n1. Removed the formulaic \"Introduction\" heading and replaced the generic introduction with a more engaging, conversational opening that gets straight to the point\n2. Changed American spellings to British (color \u2192 colour, etc.)\n3. Added proper \"Over to You\" reflection sections as specified\n4. Reduced the formality and corporate tone while maintaining professionalism\n5. Varied sentence structures to create a more natural rhythm\n6. Added more concrete examples and practical applications relevant to graphic design students\n7. Incorporated more direct address to engage the reader\n8. Simplified some technical language while maintaining necessary industry terminology\n9. Made the content more concise in places to improve readability\n10. Added more transitional phrases between sections to improve flow",
+      "output_path": "output\\Graphic Design Diploma Year_20250404_045321\\Lesson 2 - Cognitive Strategies for Digital Age Design\\2\\29_Sustainable Fashion Campaign Toolkit.md",
+      "completion_timestamp": "2025-04-04T05:57:17.714431"
+    },
+    {
+      "module": "Lesson 2 - Cognitive Strategies for Digital Age Design",
+      "lesson": "2",
+      "step_number": "30",
+      "step_title": "Formative Assessment B1\nAssignment 1",
+      "template_type": "Formative Assessment",
+      "status": "completed",
+      "timestamp": "2025-04-04T04:53:21.677301",
+      "log_entries": [
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module Lesson 2 - Cognitive Strategies for Digital Age Design, Lesson 2, Step 30"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (557 characters)"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-04-04 04:53:21",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:57:17",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-04-04 05:58:00",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-04-04 05:58:00",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-04-04 05:58:00",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:58:00",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-04-04 05:58:31",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:58:31",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-04-04 05:58:48",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:58:48",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-04-04 05:58:49",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 9 AI patterns"
+        },
+        {
+          "timestamp": "2025-04-04 05:58:49",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-04-04 05:59:13",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-04-04 05:59:13",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-04-04 05:59:13",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to output\\Graphic Design Diploma Year_20250404_045321\\Lesson 2 - Cognitive Strategies for Digital Age Design\\2\\30_Formative Assessment B1_Assignment 1.md"
+        }
+      ],
+      "comparison_explanation": "No explanation provided.",
+      "review_summary": "No edit summary provided.",
+      "ai_patterns_detected": 9,
+      "editing_explanation": "I've made several key changes to make this content more human-like and appropriate for HND Graphic Design students:\n\n1. Removed the generic \"Welcome to\" introduction and replaced it with a more engaging, direct opening that connects to their existing knowledge\n2. Added more conversational elements while maintaining professionalism\n3. Varied sentence structures and reduced repetitive patterns\n4. Incorporated more concrete examples relevant to graphic design students\n5. Changed American spelling to British (e.g., \"prioritize\" to \"prioritise\")\n6. Made sure the reflection section is properly titled \"Over to You\"\n7. Added more practical, industry-focused language that connects to portfolio development\n8. Reduced overly formal academic language in favor of more direct communication\n9. Maintained the professional tone needed for higher education while making it more accessible",
+      "output_path": "output\\Graphic Design Diploma Year_20250404_045321\\Lesson 2 - Cognitive Strategies for Digital Age Design\\2\\30_Formative Assessment B1_Assignment 1.md",
+      "completion_timestamp": "2025-04-04T05:59:13.732135"
+    }
+  ],
+  "log_file": "logs\\simplified_workflow_20250404_045321.log",
+  "phases_run": [
+    "generate",
+    "compare",
+    "review",
+    "finalize"
+  ],
+  "output_dir": "output\\Graphic Design Diploma Year_20250404_045321",
+  "generation_dir": "output\\Graphic Design Diploma Year_20250404_045321\\generation_results",
+  "comparison_dir": "output\\Graphic Design Diploma Year_20250404_045321\\comparison_results",
+  "review_dir": "output\\Graphic Design Diploma Year_20250404_045321\\review_results",
+  "final_dir": "output\\Graphic Design Diploma Year_20250404_045321\\final_content",
+  "phase": "review",
+  "phase_completion_time": "2025-04-04T05:59:13.772144"
+}

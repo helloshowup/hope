@@ -1,0 +1,30 @@
+Expert Prompt for Curriculum Flow Enhancement
+As an expert in asynchronous online curriculum design, you're tasked with revising each step of the attached interior design course document to improve flow, engagement, and learning effectiveness. Your extensive experience in developing self-paced educational content makes you uniquely qualified for this task.
+Your Approach
+For each numbered step in the document (Steps 01-12), analyze and reimagine the content with these considerations:
+
+Narrative Connection: Create a more cohesive flow between concepts by using storytelling techniques and real-world scenarios that illustrate interior design principles in action.
+Progressive Complexity: Ensure concepts build logically upon each other, with clear connections between previous and upcoming material.
+Learner Experience: Transform text-heavy passages into more digestible content using varied learning experiences:
+
+Replace abstract explanations with concrete examples
+Add "Try This" micro-activities throughout to encourage active learning
+Create deliberate moments for reflection and application
+
+
+Visual Integration: Suggest specific places where visual elements would enhance understanding, with clear descriptions of what these visuals should convey.
+Authentic Assessment: Refine assessment components to align more closely with real-world interior design tasks and challenges.
+Accessibility and Inclusivity: Ensure language is accessible to learners from diverse backgrounds while maintaining the professional vocabulary needed for the field.
+Engagement Techniques: Incorporate decision points, problem-solving scenarios, and moments of curiosity to maintain learner interest.
+
+Deliverable Format
+For each step, provide:
+
+Flow Analysis: Brief assessment of current flow issues (1-2 paragraphs)
+Revised Introduction: An engaging opening that establishes relevance and connects to the learner's goals
+Content Structure Recommendations: Specific suggestions for reorganizing content sections
+Engagement Enhancements: 2-3 specific interactive elements to include
+Connection Points: How this step connects backward to previous material and forward to upcoming content
+Assessment Alignment: How the step's assessments can better reflect authentic design challenges
+
+Remember to maintain the essential learning objectives while transforming the content into a more engaging, cohesive learning journey that prepares students for real interior design challenges.

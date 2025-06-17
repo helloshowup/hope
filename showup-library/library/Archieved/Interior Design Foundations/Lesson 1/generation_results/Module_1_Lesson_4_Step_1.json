@@ -1,0 +1,16 @@
+{
+  "module": "1",
+  "lesson": "4",
+  "step_number": "1",
+  "step_title": "Basic Design Tools Introduction",
+  "generations": [
+    "Error generating content with Claude API: Claude API error: 400, message='Bad Request', url='https://api.anthropic.com/v1/messages'",
+    "Error generating content with Claude API: Claude API error: 400, message='Bad Request', url='https://api.anthropic.com/v1/messages'",
+    "Error generating content with Claude API: Claude API error: 400, message='Bad Request', url='https://api.anthropic.com/v1/messages'"
+  ],
+  "extracted_generations": [
+    "Error generating content with Claude API: Claude API error: 400, message='Bad Request', url='https://api.anthropic.com/v1/messages'",
+    "Error generating content with Claude API: Claude API error: 400, message='Bad Request', url='https://api.anthropic.com/v1/messages'",
+    "Error generating content with Claude API: Claude API error: 400, message='Bad Request', url='https://api.anthropic.com/v1/messages'"
+  ]
+}

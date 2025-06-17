@@ -1,0 +1,84 @@
+Unit 5: Studio Photography (Pearson Unit 66)
+
+
+Studio Lighting and Modifiers
+
+Studio photography is that which is conducted indoors, in a managed environment and setting where the photographer has complete control over all aspects of a photographic shoot. A studio can be a dedicated photographic studio or premises, with many hired to other photographers and videographers. Equally, a studio setup can be applied in one’s home, a client’s house or any other indoor location.
+The size of the studio will determine the variety of work that can be conducted therein. A photography studio, no matter how well-equipped, will typically start as a relatively empty space or room. Some backdrop fittings and most infinity walls are fixed structures and features. Depending on the shoot and its requirements, a studio photographer will introduce relevant backdrops and a lighting setup, together with props, costumes, and anything else that is required.
+	
+Studio photography is therefore distinct from location photography, since a studio photographer can control every aspect of a photo shoot, from lighting to the weather. 
+A studio, control aside, can be limiting in terms of backgrounds, can be costly even when hired, and means that the subject (if working with humans or animals) have to travel to the photographer, which may be an issue. Creative set design and builds are often required to include scenery in studio photography. 
+Strobe Lighting
+Strobe lighting or light from a stroboscopic lamp, is that which is produced by a device that is used to produce regular flashes of daylight balanced light. Strobes, ‘studio strobes’ or ‘monolights’, are essentially powerful flashes. The power of strobe lighting can range from 100 watts to 1,000 watts and more. 
+Strobe lights are physically larger and are powered by AC power, as distinct from AA batteries, which means that you have to plug them into a power socket or use a large battery pack if they are being used on location. On location, strobe lighting has the ability to overpower natural, ambient light, which allows photographers to create dynamic effects.
+
+Speedlights, or ‘flash guns’, the portable flash units that can be used off-camera on your camera’s hotshoe, are not as powerful as studio strobes, which are much brighter and produce incredibly short bursts of light.
+Speedlights also have a much slower recycling time than strobes, so when using speedlights, you may have to wait a fraction more than a second or even multiple seconds between flashes.
+The very short burst of light from strobes and their power recycling capabilities mean that they can be used for high-speed photography, but can also capture quick, subtle movements and changes of expression in portraiture. 
+Given this difference around power output, strobe lighting can also cover a greater distance. 
+Placing a diffusing lighting modifier, e.g., a softbox or umbrella, in front of any flash unit reduces the light output on the subject matter, and this is something that is not potentially problematic, relative to speedlights. The output power of strobes also means that a photographer can use smaller aperture values. Larger modifiers that produce a larger, softer light source can be used with strobe lights.
+Although it is not a significant issue when shooting in RAW, since adjustments can easily be made, speedlights can often produce inconsistencies in the recording of colour temperature.
+One of the most significant advantages of strobe lighting is that they typically feature a ‘modelling light/lamp’. A modelling light is that which is a constant light, that does not impact on the flash exposure, and allows the photographer to see how the actual flash light will appear on the subject matter. This can limit or negate the need for test shots by not having to fire a flash to evaluate how a photograph will appear before creating it.
+A range of accessories are available to facilitate strobe lighting control as well as create different patterns, moods, and colours. Strobes can be triggered by cables, sync chords, remote radio transmitters/receivers, optical sensors, etc., and many include through the less (TTL) exposure capabilities. 
+Health & safety should be always be considered, regardless of location and shoot type. This includes the safety and well-being of the photographer and anyone else on-site. Strobe lights, which are mounted on light stands, are large and heavy. In addition, strobe lights get very hot. Many strobe heads, that part that houses the flash tube in protective glass lights, will have a bare bulb when its cover/reflector is removed, in order to attach or change a modifier or change a bulb, etc. Care should be taken because of the heat that is generated, and natural acids on fingertips can reduce a bulb’s lifespan.
+Through AC power, studio strobes utilise a lot of electrical current, so they should be powered off before disconnecting (or connecting) their power cables. Electrical charges build up in a strobe’s power pack and can arc and seek to ground itself (potentially through the photographer or assistant, in theory!) if it is not properly disconnected. Many studio strobe lights are arc-proof, but it is advised to proceed with a cautious best-practice approach nonetheless. 
+Modelling Lamp
+In addition to the flash tube, which houses the actual source of a strobe light, there is a second light or lamp called a modelling light or lamp. This light is designed to allow for a preview of the flash light that a strobe will emit on the subject. It is not as bright as that from the flash itself, typically in the region of 100–250 watts, and with a tungsten colour balance.
+Aside from its lower power, and the strobe flash being so quick and intense, the modelling light, in most circumstances, can remain illuminated while working with strobes. In general, when working with strobe lighting, the camera’s ISO is low, e.g., 100, and its shutter speed is high, e.g., 1/125, so the impact of the tungsten modelling light does not record on the digital sensor. There are exceptions to this, of course, depending on the type of shoot, the images being created, and the respective settings required. 
+Lighting modifiers
+Lighting modifiers are attachments used with lights that control the direction, focus, and the quality of light. Lighting modifiers, of which there are many, can be used on a variety of light sources, whether speedlights or strobe lighting, etc. Each modifier produces its own features, shape, type of shadow, and light.
+Modifiers are often called shapers or ‘light shapers’, since this is what they do.
+
+Different modifiers can be used on separate flash units, e.g., softbox on one flash and an umbrella on another. Both will produce two different qualities of light. While both modifiers soften and disperse light, the softbox produces a softer light, while the umbrella can produce slightly more contrast. 
+Some lighting modifiers are not fixed to a flash but positioned close to the subject, handheld, or on a stand, etc.
+ 
+Some of the more commonly lighting modifiers include: 
+Barn Doors 
+Barn doors are black, metallic flaps that can be opened or closed to varying degrees, and these control the width of the beam of the flash. They also keep light off the camera lens, which helps in preventing lens flare. 
+Beauty Dish 
+Beauty dishes are lighting modifiers that are large, flat reflectors, with a shield or deflector in front of the light’s flash tube. This deflector redirects light back into the white or silver dish, which bounces back onto the subject. A white surface will produce slightly less specular highlights on the subject’s face.
+Positioned close to the camera, a beauty dish can virtually eliminate shadows on a subject’s face, resulting in a more commercial look. Beauty dishes create a small round catchlight in a subject’s eyes, and while the quality of light is softer than that of a parabolic reflector (oval-shaped metal reflectors that house a light that is directed out ward in an even, controlled manner), it is harder than that of a softbox.
+Beauty dishes are very effective on youthful subjects with good skin, or head and shoulder portraits that highlight hair and makeup. The lighting pattern that is produced can make skin imperfections more prominent on subjects if they have wrinkles and/or blemishes. Beauty dishes can be used with a grid attached to its front to control light spill.
+Flag
+A flag is a device used in lighting to block light, create and position shadows, or prevent lens flare when placed between the camera and light source. Flags or flagging can be thought of as creating ‘negative fill’. Flags are typically available in solid, net, and silk materials, the latter adding a further diffusing characteristic. Solid flags can simply block light from areas of a scene, often for creative lighting effects as much as for practical purposes.
+Net flags can reduce ‘hotspots’, which are areas of an image that are significantly brighter than others, and in which highlights are overexposed or ‘blown out’ (or ‘clipped’, as per a Histogram). 
+Light-blocking cards that can be supported on a stand and positioned between a light source and subject to selectively block light from portions of the scene are also called ‘Gobos’. 
+Grid Spots 
+Grid spots are honeycomb-shaped grids, typically metallic lighting modifiers that prevent light from spreading out, and they produce a narrow core of hard light that quickly falls off with very little light spill. This affords a greater degree of control in placing the light in a specific and relatively small area.
+Grid spots are often used to produce one-light, dramatic portraits. Grid spots can create an effective graduation from highlight to shadow because the light naturally feathers at its edge. If used as a sole key front light in a studio set up, the light will trail off dramatically.
+Grids or ‘honeycombs’ can be placed in front of a variety of light modifiers, such as softboxes or umbrellas.
+Open Reflector
+An open reflector is a basic dish that accompanies most strobe lights. It has a silver interior and controls the direction of the light by forcing the entire light forward. Without it, the light would dissipate and spread wider. 
+	
+Parabolics 
+Parabolics, or parabolic reflectors, are metal dishes of varying sizes and materials, which are used to direct light from a bare flash bulb. As a result, they produce hard lighting, brightest in the centre and less intense at the edges. They look similar to umbrellas and are able to cast light a long distance due to their parabolic shape.
+Feathering the light (adjusting so as to use the softer edge) can create a softer effect when using parabolics.
+ 
+In early and now classic Hollywood photography, everything was lit with parabolics with polished silver interiors, and these provided the light intensity required to work with slow film speeds. Contemporary parabolics are made with brushed silver or textured surfaces that assist with diffusing light. Parabolics are commonly used to focus light into umbrellas. 
+Reflectors
+While a reflector is not an accessory that is attached to the front of a light source, it does modify light. Reflectors do not emit their own light, but rather reflects light from other sources, whether natural or flash. Lightweight and relatively inexpensive, they are also indispensable for many types of photography due to their effect. 
+In portraiture, for example, a reflector, properly placed, can pick up some of the main (key) light and wrap it around onto the shadow side of the face. This reveals and opens up detail even in even the deepest shadows. 
+Reflectors come in a range of sizes and colour variations, e.g., white, silver, or gold, which can affect colour temperature and light quality. They can be used with flash setups or where natural ambient light is the only light source. 
+Scrim
+Scrims are panels that are used to diffuse light (often sunlight) and can be set in windows, used on stands, or positioned in front of a light source. As light passes through a scrim, it is scattered and dispersed, which makes it softer, producing less contrast on a subject. In essence, scrims work in a similar way to that of a softbox diffuser.
+In a studio setting, portable scrims can be set between the subject and a strobe light. There are many ways of making one’s own scrim, e.g., a white shower curtain, and commercially available scrims can be purchased in a variety of sizes.
+Scrims are also referred to as ‘diffusion flats’.
+Snoots 
+Snoots are cone-shaped lighting modifiers that that narrow the light to a thin beam and are often used for small edge lights from behind the subject. Snoots create a strong light that is also often used to highlight a specific feature in still-life photography, for example, and as an portrait effect light.
+Positioned above a subject and angled downwards produces a ‘hair light’ in portraiture, i.e., it creates a controlled area of highlight in a subject’s hair to separate it from a background. 
+Softboxes
+Softboxes are collapsible, typically rectangular fabric boxes that range in size from 18 to 80 inches and larger. When attached to a flash unit, it is housed inside the back of the softbox, with the light passing from the flash head and through a translucent front panel to diffuse the light and then out through a front nylon panel. Softboxes are ideal for portraiture, since this diffusion creates soft lighting. 
+The sides of a softbox are black on the outside and white on the inside, which gathers and diffuses more light.
+The rigid, straight outer sides of softboxes also afford good edge control and ‘feathering’. Feathering with a softbox refers to only using the edge of it to light the subject and can produce more creative shots with more interesting shadows.
+A softbox can be positioned behind a subject or positioned in front or at the side to create a rimlight effect. Rectangular or square softboxes can also be used to create graduated lighting on a background by placing it high on a boom stand or arm and angling it down at the background.
+Along with coming in a variety of sizes, softboxes can also be octagonal or round. An octagonal shape wraps light more evenly around the face, creating a softer light and less contrast when using Rembrandt lighting, for example. 
+For even more controlled focus of light, fabric or rubber-like grids are also available to place at the front of softboxes and striplights.
+Softboxes are also popular in portraiture, as the rectangular or square catchlights that they create appear window-like and more ‘natural’ looking. 
+In light theory, a large softbox does not cover a large area and a small softbox does not cover a small area. They both cover the same areas, with the difference being, a large softbox gives a slightly softer light and a small softbox gives a slightly harder light. 
+Umbrellas
+For many, because of cost and portability, umbrellas are, for many new photographers, the first light modifier which they use. As with other lighting modifiers, e.g., softboxes and beauty dishes, etc., umbrellas come in various sizes.
+There are two common types of photographic umbrellas, and most common are those with a black exterior and a white or silver interior. When using this type, the concave side of the umbrella faces the subject. The light is fired into the umbrella’s reflective surface and the light bounces back toward the subject.
+Because umbrellas are relatively large, this produces a soft light. A silver-lined umbrella produces light that is a little harder in quality than that from a white umbrella. 
+The second type of umbrella is made with a translucent fabric and used in the opposite position, i.e., with the curved convex side positioned towards the subject. With this type of light, the flash unit is directed into the umbrella and shines through the translucent fabric and onto the subject. This produces a soft light that is very similar to that of a softbox.
+Umbrellas can be effective for general portraits and groups of backgrounds because they spread light to a greater degree (and lack edge control) compared to other modifiers, such as softboxes.
+It is a worthwhile exercise to review every photograph you encounter with a view to determining the shape, size, and position of a light source and the type of shadow or lighting pattern that the source has produced. 

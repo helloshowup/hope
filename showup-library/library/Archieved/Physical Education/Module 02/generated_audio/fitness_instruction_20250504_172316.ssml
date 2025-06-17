@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="en-US">
+<voice name="en-US-AndrewNeural" parameters="temperature=0.35">
+<prosody rate="-5%" pitch="+2%" volume="+10%">
+<p>Welcome to your Statue Poses balance practice. <break time="650ms"/>  
+Find a clear space where you can see your shadow or use a mirror. <break time="650ms"/>  
+This activity builds stability and body awareness through held poses. <break time="650ms"/></p>
+<p>Let’s begin. <break time="650ms"/>  
+Balance work improves coordination and strengthens your core muscles. <break time="650ms"/>  
+One <emphasis level="strong">key safety reminder</emphasis>: If you feel unsteady,<break time="150ms"/> stand near a wall for support. <break time="650ms"/></p>
+<p>Start by standing tall,<break time="150ms"/> feet hip-width apart. <break time="650ms"/>  
+Relax your shoulders and let your arms rest by your sides. <break time="650ms"/>  
+Take a deep breath in. <break time="650ms"/>  
+Exhale slowly. <break time="650ms"/>  
+Now,<break time="150ms"/> select your first pose. <break time="650ms"/></p>
+<p>Begin with the classic tree pose. <break time="650ms"/>  
+Shift your weight to your left foot. <break time="650ms"/>  
+Lift your right foot and place it on your left shin or thigh. <break time="650ms"/>  
+Bring your hands together in front of your chest. <break time="650ms"/>  
+Keep your gaze fixed on a steady point. <break time="650ms"/></p>
+<p>Hold this position for ten seconds as we count. <break time="650ms"/></p>
+<p><prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">Press your standing foot firmly into the ground</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">Engage your core gently to stay upright</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Three - <emphasis level="moderate">Relax your shoulders away from your ears</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Four - <emphasis level="moderate">Breathe evenly and deeply</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Five - <emphasis level="moderate">Keep your gaze steady</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Six - <emphasis level="moderate">Check that your hips are level</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Seven - <emphasis level="moderate">Keep your lifted foot active</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Eight - <emphasis level="moderate">Maintain slow,<break time="150ms"/> calm breathing</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Nine - <emphasis level="moderate">Notice if your body wobbles</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Ten - <emphasis level="moderate">Hold steady for one more breath</emphasis> <break time="3000ms"/></prosody></p>
+<p>Success check: Are you balanced and breathing comfortably? <break time="650ms"/>  
+If you lost your balance,<break time="150ms"/> try a lower foot position or use a wall for support. <break time="650ms"/></p>
+<p>Now,<break time="150ms"/> choose your second pose. <break time="650ms"/>  
+Stand on both feet. <break time="650ms"/>  
+Rise onto your tiptoes. <break time="650ms"/>  
+Reach your arms overhead. <break time="650ms"/>  
+Fingers extended. <break time="650ms"/>  
+Hold this position for ten seconds. <break time="650ms"/></p>
+<p><prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">Press evenly through the balls of your feet</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">Lengthen your spine upward</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Three - <emphasis level="moderate">Keep your arms straight and strong</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Four - <emphasis level="moderate">Draw your belly in gently</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Five - <emphasis level="moderate">Balance your weight between both feet</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Six - <emphasis level="moderate">Relax your jaw and neck</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Seven - <emphasis level="moderate">Keep breathing steadily</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Eight - <emphasis level="moderate">Focus on a spot ahead</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Nine - <emphasis level="moderate">Lift through your fingertips</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Ten - <emphasis level="moderate">Hold for one last breath</emphasis> <break time="3000ms"/></prosody></p>
+<p>If you want a challenge,<break time="150ms"/> close your eyes during this pose. <break time="650ms"/>  
+If you need support,<break time="150ms"/> lower your heels halfway or use a wall lightly. <break time="650ms"/></p>
+<p>Now,<break time="150ms"/> select your third pose. <break time="650ms"/>  
+Try a “T” position. <break time="650ms"/>  
+Stand on your left leg. <break time="650ms"/>  
+Extend your right leg behind you. <break time="650ms"/>  
+Lean forward slightly,<break time="150ms"/> arms reaching out to the sides. <break time="650ms"/>  
+Hold for ten seconds. <break time="650ms"/></p>
+<p><prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">Keep your standing leg strong</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">Reach your arms wide like wings</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Three - <emphasis level="moderate">Keep your back straight</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Four - <emphasis level="moderate">Lift your chest gently</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Five - <emphasis level="moderate">Point your back toes</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Six - <emphasis level="moderate">Steady your breath</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Seven - <emphasis level="moderate">Look at a spot on the floor</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Eight - <emphasis level="moderate">Feel your body’s balance</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Nine - <emphasis level="moderate">Hold your focus</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Ten - <emphasis level="moderate">Finish strong for one more breath</emphasis> <break time="3000ms"/></prosody></p>
+<p>You’ve completed your three statue poses. <break time="650ms"/>  
+Practicing these holds trains balance,<break time="150ms"/> focus,<break time="150ms"/> and core strength. <break time="650ms"/>  
+Remember,<break time="150ms"/> you can use easier poses or wall support as needed. <break time="650ms"/>  
+With regular practice,<break time="150ms"/> you’ll notice better stability and body control. <break time="650ms"/>  
+Great work on building your balance and awareness today. <break time="650ms"/></p>
+</prosody>
+</voice>
+</speak>

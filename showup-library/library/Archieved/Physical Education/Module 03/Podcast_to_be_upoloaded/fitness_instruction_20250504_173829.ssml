@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="en-US">
+<voice name="en-US-AndrewNeural" parameters="temperature=0.35">
+<prosody rate="-5%" pitch="+2%" volume="+10%">
+<p>Welcome to your guided exercise session. <break time="650ms"/> Today,<break time="150ms"/> we’ll perform the “Jog in Place with Heel Kicks.” <break time="650ms"/> This movement targets your hamstrings and improves cardiovascular endurance. <break time="650ms"/> Remember,<break time="150ms"/> keep your space clear to avoid tripping. <break time="650ms"/></p>
+<p>Stand tall,<break time="150ms"/> feet hip-width apart. <break time="650ms"/> Arms relaxed by your sides. <break time="650ms"/> Engage your core for balance. <break time="650ms"/> Look straight ahead and relax your shoulders. <break time="650ms"/></p>
+<p>To begin,<break time="150ms"/> start jogging in place. <break time="650ms"/> Each time your foot leaves the ground,<break time="150ms"/> bring your heel up toward your buttocks. <break time="650ms"/> Alternate legs with every step. <break time="650ms"/> Swing your arms naturally to help with rhythm. <break time="650ms"/> Keep your chest lifted and land softly on the balls of your feet. <break time="2000ms"/></p>
+<p>Let’s get started with the first set of ten repetitions. <break time="650ms"/> Ready?</p>
+<p><prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">bring your right heel up toward your glute</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">left heel up,<break time="150ms"/> maintain a gentle jog</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Three - <emphasis level="moderate">keep your core engaged</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Four - <emphasis level="moderate">land softly to protect your joints</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Five - <emphasis level="strong">keep your back straight</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Six - <emphasis level="moderate">drive your elbows back with each arm swing</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Seven - <emphasis level="moderate">lift your heels high each step</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Eight - <emphasis level="moderate">breathe evenly and steadily</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Nine - <emphasis level="moderate">relax your neck and jaw</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Ten - <emphasis level="strong">check your balance,<break time="150ms"/> reset if needed</emphasis> <break time="3000ms"/></prosody></p>
+<p>Success check: Are your heels rising toward your glutes? <break time="650ms"/> Is your core still engaged? <break time="650ms"/> If you feel off-balance,<break time="150ms"/> slow your pace and refocus. <break time="650ms"/></p>
+<p>For an easier option,<break time="150ms"/> slow the movement to a march. <break time="650ms"/> Lift your heel deliberately with each step. <break time="650ms"/> Focus on strong muscle activation rather than speed. <break time="650ms"/></p>
+<p>To make it more challenging,<break time="150ms"/> speed up your jog. <break time="650ms"/> Add forward punches with each arm as your heel lifts. <break time="650ms"/> This will raise your heart rate and engage your upper body. <break time="650ms"/></p>
+<p>Let’s continue for another round of ten. <break time="650ms"/></p>
+<p><prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">lift your right heel,<break time="150ms"/> punch forward</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">left heel up,<break time="150ms"/> alternate arms</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Three - <emphasis level="moderate">maintain your posture</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Four - <emphasis level="moderate">keep your movements controlled</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Five - <emphasis level="strong">stay light on your feet</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Six - <emphasis level="moderate">drive your elbows,<break time="150ms"/> keep your core engaged</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Seven - <emphasis level="moderate">breathe in rhythm with your steps</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Eight - <emphasis level="moderate">lift those heels high</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Nine - <emphasis level="moderate">relax your face and shoulders</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Ten - <emphasis level="strong">finish strong,<break time="150ms"/> heels up</emphasis> <break time="3000ms"/></prosody></p>
+<p>Great work. <break time="650ms"/> Jog in place with heel kicks activates your hamstrings and boosts cardiovascular fitness. <break time="650ms"/> It helps improve coordination and dynamic balance. <break time="650ms"/> Remember,<break time="150ms"/> you can adjust speed or arm movement to match your needs. <break time="650ms"/> Consistency with this exercise will build lower body strength and enhance endurance. <break time="650ms"/> Well done—take a moment to recover and notice your progress.</p>
+</prosody>
+</voice>
+</speak>

@@ -1,0 +1,108 @@
+<div class="markdown-content" style="color:#333;font-family:Arial, sans-serif;line-height:1.6;margin:0 auto;max-width:800px;">
+
+<div style='font-family: Arial, sans-serif; font-size: 24px; font-weight: bold; margin-bottom: 20px;'>6.8.1 Designing Robot Solutions: Understanding the Basics</div>
+<div class="container" style="margin-left:auto;">
+  <div style="font-family: Arial, sans-serif; line-height: 1.6; color: #333;">
+    <style>
+    p {margin-bottom: 2em;}
+    </style>
+    <h1 style="color: #920205;">6.8.1 Designing Robot Solutions: Understanding the Basics</h1>
+<h2 style="color: #920205;">Learning Objectives</h2>
+<p style="color: #920205;">By the end of this session, you'll be able to:</p>
+<ul>
+<li><span style="color: #920205;">Explain how robots work using the Input-Processing-Output (IPO) model</span></li>
+<li><span style="color: #920205;">Translate general robot requirements into specific technical specifications</span></li>
+<li><span style="color: #920205;">Identify appropriate design parameters and constraints for a robot solution</span></li>
+</ul>
+<h2>The Input-Processing-Output (IPO) Method: How Robots Work</h2>
+<p>Think about how you use your senses every day. Your eyes and ears take in information, your brain figures out what it means, and then your body responds. Robots work in a similar way!</p>
+<p>This three-step pattern helps us understand and build robots:</p>
+<ol>
+<li><strong>Input</strong> - Robots use sensors to "see" and "feel" the world around them</li>
+<li><strong>Processing</strong> - The robot's brain (a computer chip) makes decisions based on sensor information</li>
+<li><strong>Output</strong> - Motors and other parts move or respond based on those decisions</li>
+</ol>
+<p>Dividing robot design into these three parts simplifies problem-solving. During the design process, consider: "What does it need to sense? How should it think about that information? How should it respond?"</p>
+<p>This approach ensures your robot includes just what's necessary to solve the intended problem - nothing more, nothing less!</p>
+<p>For example, a weather station robot that monitors school garden conditions applies this model effectively:</p>
+<ul>
+<li>Input: Temperature sensors, humidity sensors, and light sensors gather environmental data</li>
+<li>Processing: A microcontroller analyzes the readings to determine if conditions are too dry, too wet, or just right</li>
+<li>Output: The robot activates water pumps, opens shade covers, or sends alerts to student caretakers</li>
+</ul>
+<h2>From Problem to Design Specifications</h2>
+<h3>Translating Requirements into Specifications</h3>
+<p>The design process begins with transforming general ideas into specific technical details. If the goal is creating a robot to help elderly people retrieve items from the floor, you'll need to determine what the robot must do. How heavy are the items? How will the robot identify what to pick up? What's an appropriate movement speed?</p>
+<p>This transformation resembles converting a wish list into a shopping list. Rather than stating "I want a robot that helps people," specify "I need a robot that can detect objects on the floor, pick up items weighing up to 2 pounds, and hand them safely to a person." Such details guide component selection and program design for your robot.</p>
+<p>To organize your ideas, consider creating a simple design documentation table like this:</p>
+<table>
+<thead>
+<tr>
+<th>General Requirement</th>
+<th>Specific Specification</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>"Help people pick up items"</td>
+<td>Detect and lift objects up to 2 pounds</td>
+</tr>
+<tr>
+<td>"Be safe to use"</td>
+<td>Move at maximum speed of 1 foot per second</td>
+</tr>
+<tr>
+<td>"Work when needed"</td>
+<td>Battery lasts at least 3 hours</td>
+</tr>
+</tbody>
+</table>
+<h3>Setting Design Parameters</h3>
+<p><strong>Design parameters</strong> are the measurable goals that your robot needs to meet. Think of them as game rules - they define what success looks like. For a delivery robot, parameters might include:
+- Maximum speed: 3 miles per hour
+- Battery life: at least 4 hours
+- Weight capacity: up to 10 pounds
+- Navigation accuracy: within 6 inches of target</p>
+<p>Clear parameters allow for testing whether your robot meets requirements. These specifications guide component selection. If carrying 10 pounds is necessary, motors must be strong enough for that weight. If 4 hours of battery life is required, power consumption calculations will determine the appropriate battery size.</p>
+<h3>Creating Design Constraints</h3>
+<p><strong>Constraints</strong> are the limitations you must work within. These might include:
+- Budget: available funding
+- Size: maximum dimensions
+- Weight: upper weight limit
+- Time: project deadline
+- Available materials: accessible components</p>
+<p>For instance, a robot designed for school hallways must be compact enough to navigate without impeding student traffic. With a $200 budget, affordable components become essential. Identifying these constraints early prevents designing something impractical for real-world use.</p>
+<p>Constraints often drive innovation! When Mars rover designers faced strict weight limits, they developed ingenious solutions for lightweight yet durable components. Boundaries frequently inspire creative approaches that might otherwise remain undiscovered.</p>
+<div class="stop-reflect-container" style="border:3px dashed #e50200;display:flex;margin:20px 0;padding:0;width:100%;">
+        <div class="stop-reflect-image" style="align-items:center;display:flex;justify-content:center;min-width:100px;padding:10px;width:20%;">
+            <img class="image_resized" style="height:auto;max-width:150px;width:100%;" src="https://api.learnstage.com/media-manager/api/access/exceled/default/lms/courses/1648/Images/stopandreflect.jpg" alt="Stop and Reflect">
+        </div>
+        <div class="stop-reflect-content" style="display:flex;flex-direction:column;justify-content:center;padding:15px;width:80%;">
+            <p><strong>CHECKPOINT:</strong> Consider a robot you might design to solve a real-world problem. What types of information would this robot need to gather from its environment, and what sensors would be most appropriate for collecting this data?</p>
+        </div>
+    </div>
+<figure class="table" style="float:left;width:92.41%;">
+        <table class="ck-table-resized" style="border-style:none;">
+            <colgroup><col style="width:13.29%;"><col style="width:86.71%;"></colgroup>
+            <tbody>
+                <tr>
+                    <td style="border-style:none;">
+                        <figure class="image image_resized" style="width:100%;">
+                            <img style="aspect-ratio:600/600;" src="https://api.learnstage.com/media-manager/api/access/exceled/default/89309a11-e6ae-4133-97a9-93c735f38be4/content-page/4e85aa67-83db-423a-b7de-53b356164071_removalai_preview.png" width="600" height="600">
+                        </figure>
+                    </td>
+                    <td style="border-style:none;">
+                        <h3>
+                            <span style="color:hsl(359,97%,29%);"><strong>Key Takeaways</strong></span>
+                        </h3>
+                        <ul>
+<li>Effective robot design requires translating general requirements into specific technical specifications that define what the robot needs to do and how it should perform.</li>
+<li>Design parameters and constraints provide measurable goals and limitations that guide component selection, testing procedures, and creative problem-solving during the robot development process.</li>
+</ul>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </figure>
+  </div>
+</div>

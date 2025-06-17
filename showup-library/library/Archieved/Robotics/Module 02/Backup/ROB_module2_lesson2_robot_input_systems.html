@@ -1,0 +1,456 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css?family=Martel:200,300,400,700,800|Roboto:100,300,400,500" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Markdown to HTML Conversion</title>
+    <style>
+        /* Base styles */
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Roboto', sans-serif;
+            font-size: 18px;
+            color: #454545;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+        }
+        
+        /* Container for content */
+        .container {
+            margin: auto;
+            max-width: 750px;
+            padding-left: 1em;
+            padding-right: 1em;
+            padding-bottom: 4em;
+        }
+        
+        p {
+            line-height: 1.85em;
+            font-weight: 400;
+            letter-spacing: 0.001em;
+            font-size: 0.9em;
+            margin-top: 0;
+            margin-bottom: 1.2em !important;
+            font-family: "Martel", serif;
+        }
+
+        .container p {
+            margin-bottom: 2em;
+        }
+
+        h1, h2, h3, h4, h5, h6 {
+            color: #008000;
+            font-weight: 500;
+            margin-top: 0;
+        }
+        
+        h2 {
+            font-size: 1.8em;
+            line-height: 1em;
+            margin-bottom: 0.2em;
+        }
+        
+        a {
+            color: #008000;
+            text-decoration: none;
+            font-weight: 700;
+        }
+        
+        a:hover {
+            text-decoration: underline;
+        }
+        
+        /* Well styling for Check Your Understanding sections */
+        .well {
+            border: solid 1px #008000;
+            border-top: none;
+            padding: 1em;
+            position: relative;
+            padding-bottom: 1.1em;
+            margin-bottom: 3em;
+            clear: both;
+        }
+        
+        .well:before {
+            content: '';
+            display: block;
+            height: 20px;
+            width: calc(100% + 2.125em);
+            background-color: #008000;
+            position: relative;
+            top: -1em;
+            left: -1.055em;
+        }
+        
+        .well p {
+            font-family: 'Roboto', sans-serif;
+            font-weight: 300;
+            line-height: 1.6em;
+            font-size: 0.91em;
+        }
+        
+        .well p:last-child {
+            margin-bottom: 0;
+        }
+        
+        .well h1:first-child,
+        .well h2:first-child,
+        .well h3:first-child,
+        .well h4:first-child,
+        .well h5:first-child {
+            margin-top: 0;
+        }
+        
+        .well li {
+            font-family: 'Roboto', sans-serif;
+        }
+        
+        .well ol:last-child,
+        .well ul:last-child {
+            margin-bottom: 0;
+        }
+        
+        .well blockquote {
+            font-size: 0.85em;
+            padding: 0.5em 0.5em 0.5em 1em;
+            color: #000000;
+            margin-left: 0.5em;
+        }
+        
+        .well blockquote:before {
+            font-size: 0.5em;
+            font-weight: 500;
+        }
+        
+        @media (min-width: 768px) {
+            p {
+                font-size: 1em;
+            }
+            
+            h2 {
+                font-size: 2.5em;
+            }
+        }
+        
+        /* Stop and Reflect styling */
+        .stop-reflect-container {
+            border: 3px dashed #e50200;
+            margin: 20px 0;
+            padding: 0;
+            display: flex;
+            width: 100%;
+        }
+        
+        .stop-reflect-image {
+            width: 20%;
+            min-width: 100px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 10px;
+        }
+        
+        .stop-reflect-image img {
+            width: 100%;
+            height: auto;
+            max-width: 150px;
+        }
+        
+        .stop-reflect-content {
+            width: 80%;
+            padding: 15px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+        
+        .stop-reflect-content h3 {
+            margin-top: 0;
+            color: #000000;
+        }
+        
+        /* Responsive adjustments for mobile */
+        @media (max-width: 600px) {
+            .stop-reflect-container {
+                flex-direction: column;
+            }
+            
+            .stop-reflect-image {
+                width: 100%;
+                max-width: 150px;
+                margin: 0 auto;
+            }
+            
+            .stop-reflect-content {
+                width: 100%;
+            }
+        }
+        
+        /* Basic element styling */
+        img { 
+            max-width: 100%; 
+            height: auto;
+            display: block;
+            margin: 1em auto;
+        }
+        
+        pre {
+            background-color: #f5f5f5;
+            padding: 1em;
+            border-radius: 5px;
+            overflow-x: auto;
+        }
+        
+        code {
+            background-color: #f5f5f5;
+            padding: 0.2em 0.4em;
+            border-radius: 3px;
+        }
+        
+        blockquote {
+            border-left: 4px solid #ddd;
+            padding-left: 1em;
+            color: #666;
+        }
+        
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            margin: 1em 0;
+        }
+        
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        
+        th {
+            background-color: #f2f2f2;
+        }
+        
+        /* Page break styling */
+        .page-break {
+            page-break-after: always;
+            height: 0;
+            margin: 0;
+            border: 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container" style="margin: auto; max-width: 750px; padding-left: 1em; padding-right: 1em; padding-bottom: 4em;">
+        <h1>Admin</h1>
+<p>Module 2
+Lesson 2
+Lesson Title: Robot Input Systems</p>
+<h1>Template</h1>
+<p>[start of lesson]</p>
+<h1>2.2</h1>
+<h1><strong>Robot Input Systems</strong></h1>
+<h2>Learning Objectives</h2>
+<p>By the end of this session, you'll be able to:</p>
+<ul>
+<li>Identify different types of input devices used in robotics</li>
+</ul>
+<ul>
+<li>Explain how various sensors gather specific types of data</li>
+</ul>
+<ul>
+<li>Select appropriate input devices for specific robot applications</li>
+</ul>
+<h3>Lesson Podcast Discussion: <strong>Understanding Robot Senses</strong></h3>
+<p>Robots need ways to "sense" the world around them, just like we use our eyes, ears, and sense of touch. But robot senses work differently than human senses! While we might see colors and shapes, robots might use cameras that can see in the dark or sensors that detect things we can't, like magnetic fields or gases in the air. Some robots have "whiskers" that help them feel their way around, while others use sound waves to "see" objects in their path. In this lesson, we'll explore how robots use different sensors to understand their environment and make decisions based on what they detect.</p>
+<h2><strong>Introduction to Robot Inputs</strong></h2>
+<h3><strong>The Role of Input in Robot Systems</strong></h3>
+<p>Input devices are like a robot's eyes, ears, and sense of touch. They collect information from the world around the robot and send it to the robot's "brain" (its processor). Without inputs, a robot would be completely blind to its surroundings! </p>
+<p>Think about how you navigate a dark room - you move slowly, reach out with your hands, and listen carefully. Similarly, robots need ways to gather information before they can make decisions or take actions. Input devices are the first step in the robot's "think-act" cycle, providing the raw data that everything else depends on.</p>
+<p>For example, a remote-controlled toy car only needs simple inputs - it detects signals from the remote control telling it to move forward, backward, or turn. But an autonomous toy robot needs more advanced sensors to navigate on its own, like sensors that detect walls or edges of tables so it doesn't fall off!</p>
+<h3><strong>Why Robots Need Environmental Information</strong></h3>
+<p>Imagine trying to build a tower with blocks while blindfolded. It would be nearly impossible! Robots face the same challenge - they need information about their surroundings to function properly.</p>
+<p>Environmental information helps robots:</p>
+<ul>
+<li>Avoid obstacles and prevent crashes</li>
+</ul>
+<ul>
+<li>Find and interact with objects</li>
+</ul>
+<ul>
+<li>Respond to commands or changes</li>
+</ul>
+<ul>
+<li>Work safely around people</li>
+</ul>
+<ul>
+<li>Navigate from one place to another</li>
+</ul>
+<p>For example, a robot vacuum needs to detect walls and furniture to clean efficiently without getting stuck. A factory robot needs to sense exactly where parts are positioned to assemble them correctly. The better a robot can sense its environment, the more useful and autonomous it can be.</p>
+<h3><strong>The Sensor Revolution</strong></h3>
+<p>Robot sensors have come a long way in recent years! Not too long ago, robots could only detect very simple things like whether they bumped into a wall. Today's sensors are smaller, cheaper, more accurate, and much more powerful.</p>
+<p>Modern smartphones contain dozens of sensors - accelerometers that detect movement, light sensors that adjust screen brightness, and even barometers that measure air pressure. These same technologies have revolutionized robotics. Robots can now see in 3D, hear and respond to voice commands, and detect tiny changes in their environment.</p>
+<p>This sensor revolution has made possible many robots we now take for granted - from self-driving cars that use radar and cameras to "see" the road, to drones that can stabilize themselves in windy conditions using motion sensors. As sensors continue to improve, robots will become even more aware of their surroundings and better at interacting with our world.</p>
+<div class="page-break" style="page-break-after:always;">
+    <span style="display:none;">&nbsp;</span>
+</div>
+<h2><strong>Activity 1: Sensor Scavenger Hunt</strong></h2>
+<p>Look around your home, classroom, or workplace to identify and classify different input devices in technology and everyday objects. Create a catalog of at least five different sensors you find, noting what each one detects (light, touch, sound, etc.), how it functions, and how similar technology might be used in robotics applications.</p>
+<h2><strong>Types of Input Devices</strong></h2>
+<h3><strong>Contact Sensors (Touch, Pressure, Buttons)</strong></h3>
+<p>Contact sensors detect physical touch or pressure - they're the robot equivalent of our sense of touch. The simplest type is a button or switch that is either pressed (on) or not pressed (off). More advanced touch sensors can detect different levels of pressure or touches in specific locations.</p>
+<p>Bumper sensors are common on robot vacuums - when the robot bumps into something, the sensor triggers and tells the robot to change direction. Some robots have "whiskers" (thin wires that bend when they touch objects) or pressure-sensitive "skin" that can feel when something is touching them.</p>
+<p>These sensors are important for safety (detecting collisions) and for allowing robots to interact with objects. For example, a robotic gripper needs pressure sensors to know if it's gripping too hard (which might crush an object) or too softly (which might drop it).</p>
+<h3><strong>Environmental Sensors (Light, Temperature, Sound)</strong></h3>
+<p>Environmental sensors detect conditions in the world around the robot. These include:</p>
+<ul>
+<li>Light sensors that detect brightness levels, helping robots distinguish between light and dark areas or follow light sources</li>
+</ul>
+<ul>
+<li>Temperature sensors that measure heat, allowing robots to avoid hot objects or monitor conditions</li>
+</ul>
+<ul>
+<li>Sound sensors (microphones) that detect noises, voices, or specific audio patterns</li>
+</ul>
+<ul>
+<li>Humidity sensors that measure moisture in the air</li>
+</ul>
+<ul>
+<li>Gas sensors that can detect specific chemicals or air quality</li>
+</ul>
+<p>Light sensors are used in many everyday devices you're familiar with. Your phone uses a light sensor to automatically adjust screen brightness when you go from indoors to outdoors. Automatic lights in hallways use motion and light sensors to turn on when someone walks by and it's dark. Robots use these same light sensors to "see" their environment and respond to changing conditions.</p>
+<p>For example, a greenhouse robot might use temperature and humidity sensors to monitor plants and decide when they need water. A home assistant robot uses microphones to hear voice commands. Some rescue robots use heat sensors to find people trapped in rubble after disasters.</p>
+<div class="page-break" style="page-break-after:always;">
+    <span style="display:none;">&nbsp;</span>
+</div>
+<h3><strong>Imaging Systems (Cameras, Infrared, Ultrasonic)</strong></h3>
+<p>Imaging systems help robots "see" their environment in different ways:</p>
+<p>Cameras work similarly to our eyes, capturing visual images that the robot can analyze to identify objects, colors, movements, or people. Many robots use computer vision (special software that understands images) to make sense of what they "see."</p>
+<p>Infrared sensors detect heat signatures and can "see" in the dark, helping robots identify warm objects like people or animals. Night vision security robots often use infrared cameras.</p>
+<p>Ultrasonic sensors work like a bat's echolocation - they send out sound waves that humans can't hear, then measure how long it takes for the sound to bounce back. This tells the robot how far away objects are. Many robot vacuums and self-driving cars use ultrasonic sensors to detect obstacles.</p>
+<p>Lidar (Light Detection and Ranging) uses laser beams to create detailed 3D maps of the environment. Self-driving cars use lidar to create a precise model of the road, other vehicles, and pedestrians around them.</p>
+<div class="stop-reflect-container" style="border:3px dashed #e50200; margin:20px 0; padding:0; display:flex; width:100%;">
+    <div class="stop-reflect-image" style="width:20%; min-width:100px; display:flex; align-items:center; justify-content:center; padding:10px;">
+        <img src="https://api.learnstage.com/media-manager/api/access/exceled/default/lms/courses/1647/Images/Untitled%20design.jpg" 
+             style="width:100%; height:auto; max-width:150px;" alt="Stop and Reflect">
+    </div>
+    <div class="stop-reflect-content" style="width:80%; padding:15px; display:flex; flex-direction:column; justify-content:center;">
+        <h3 style="margin-top:0; color:#000000;">Stop and Reflect</h3>
+        <h2>Stop and reflect</h2>
+<p><strong>CHECKPOINT:</strong> If you were designing a robot to help someone with limited mobility, what input sensors would be most important and why? Consider how these sensors would help the robot understand the person's needs and navigate their environment safely.</p>
+    </div>
+</div>
+<h2><strong>Sensor Applications</strong></h2>
+<h3><strong>Sensors in Everyday Robots</strong></h3>
+<p>You probably encounter robots with sensors every day without realizing it! Robot vacuum cleaners use a combination of bumper sensors (to detect walls), cliff sensors (to avoid falling down stairs), optical sensors (to track movement), and sometimes cameras (to map your home). </p>
+<p>Smart thermostats use temperature and motion sensors to learn when people are home and adjust heating or cooling accordingly. Modern cars have dozens of sensors that control everything from automatic windshield wipers (rain sensors) to parking assistance (proximity sensors).</p>
+<p>Even toys like remote-controlled cars have sensors that detect the signals from the remote control. The more advanced the robot, the more sensors it typically uses to understand its environment.</p>
+<h3><strong>Specialized Sensors for Specific Tasks</strong></h3>
+<p>Different jobs require different senses! Robots designed for specific tasks often have specialized sensors:</p>
+<ul>
+<li>Agricultural robots use soil moisture sensors to determine when plants need water</li>
+</ul>
+<ul>
+<li>Medical robots might use highly sensitive force sensors to perform delicate procedures</li>
+</ul>
+<ul>
+<li>Underwater robots use pressure sensors to monitor their depth and sonar to navigate</li>
+</ul>
+<ul>
+<li>Factory inspection robots use high-resolution cameras to spot tiny defects in products</li>
+</ul>
+<ul>
+<li>Weather monitoring robots use barometers, anemometers (wind speed), and other atmospheric sensors</li>
+</ul>
+<p>The sensors a robot needs depend entirely on its purpose. A robot designed to sort recycling needs color and material sensors to tell different types of items apart. A robot designed to work in a hazardous environment might need radiation or toxic gas sensors to keep itself (and humans) safe.</p>
+<div class="page-break" style="page-break-after:always;">
+    <span style="display:none;">&nbsp;</span>
+</div>
+<h3><strong>Multi-Sensor Systems and Integration</strong></h3>
+<p>Most robots don't rely on just one sensor - they combine information from multiple sensors to get a complete picture of their environment. This is called "sensor fusion" and it helps robots make better decisions.</p>
+<p>For example, a self-driving car uses:</p>
+<ul>
+<li>Cameras to see lane markings and traffic lights</li>
+</ul>
+<ul>
+<li>Radar to detect other vehicles in bad weather</li>
+</ul>
+<ul>
+<li>Lidar to create precise 3D maps of surroundings</li>
+</ul>
+<ul>
+<li>Ultrasonic sensors for close-range obstacle detection</li>
+</ul>
+<ul>
+<li>GPS to know its location on a map</li>
+</ul>
+<p>By combining all this information, the car can navigate safely even if one sensor is limited (like cameras in heavy fog).</p>
+<p>Robots also need to prioritize sensor information. If a robot's temperature sensor detects overheating, that might override other tasks the robot was doing. Just like you would stop whatever you're doing if you touched something hot!</p>
+<h3><strong>Sensor Calibration and Maintenance</strong></h3>
+<p>Just like you might need glasses to see clearly, robot sensors sometimes need adjustments to work properly. This is called calibration. For example, a robot's distance sensors might need to be calibrated to accurately measure how far away objects are.</p>
+<p>Sensors can also get dirty or damaged, which affects how well they work. Imagine trying to see through a smudged pair of glasses! Robot designers need to think about how to protect sensors and make them easy to clean or replace. For example, a robot that works outdoors might need special covers to protect its camera lenses from rain or dust.</p>
+<!-- Check Your Understanding Section -->
+<div style="border: solid 1px #008000; border-top: none; padding: 1em; position: relative; padding-bottom: 1.1em; margin-bottom: 3em; clear: both;">
+    <div style="display: block; height: 20px; width: calc(100% + 2em); background-color: #008000; position: relative; top: -1em; left: -1em;"></div>
+    <h2 style="color: #008000; font-weight: 500; margin-top: 0; font-size: 1.8em; line-height: 1em; margin-bottom: 0.2em;">Check your understanding</h2>
+    <p style="font-family: 'Roboto', sans-serif; font-weight: 300; line-height: 1.6em; font-size: 0.91em;"><p>A robot needs to navigate safely around a room without bumping into objects. Which sensor would be MOST appropriate for this task?</p>
+<p>A. Temperature sensor</p>
+<p>B. Light sensor</p>
+<p>C. Proximity sensor</p>
+<p>D. Sound sensor</p></p>
+    <p style="margin-left: 40px">
+A. Temperature sensor<br>
+C. Proximity sensor<br>
+</p>
+
+    <p style="font-family: 'Roboto', sans-serif; font-weight: 300; line-height: 1.6em; font-size: 0.91em;">Choose your answer and check it below.</p>
+    <div style="display: none;" id="hiddenAnswer0">
+        <br><p>The correct answer is <span style="color: #008000;">C.</span> Proximity sensor. A proximity sensor is specifically designed to detect objects in the robot's path by measuring distance. This would allow the robot to detect obstacles before making contact with them. Temperature sensors measure heat, light sensors detect brightness levels, and sound sensors detect audio—none of which would reliably prevent collisions with objects.</p>
+    </div>
+    <a href="#" onclick="document.getElementById('hiddenAnswer0').style.display='block'; return false;" style="color: #008000; text-decoration: none; font-weight: 700;">Click here to show the correct answer</a>
+</div>
+<h2><strong>Activity 2: Robot Designer Challenge</strong></h2>
+<p>Design the input system for a robot with a specific purpose (e.g., classroom helper robot, environmental monitoring robot). Create a diagram or list of the sensors your robot would need and justify your selections based on the robot's function, environment, and interactions. Consider what information your robot needs to collect and how the sensors will work together as an integrated system.</p>
+<div class="stop-reflect-container" style="border:3px dashed #e50200; margin:20px 0; padding:0; display:flex; width:100%;">
+    <div class="stop-reflect-image" style="width:20%; min-width:100px; display:flex; align-items:center; justify-content:center; padding:10px;">
+        <img src="https://api.learnstage.com/media-manager/api/access/exceled/default/lms/courses/1647/Images/Untitled%20design.jpg" 
+             style="width:100%; height:auto; max-width:150px;" alt="Stop and Reflect">
+    </div>
+    <div class="stop-reflect-content" style="width:80%; padding:15px; display:flex; flex-direction:column; justify-content:center;">
+        <h3 style="margin-top:0; color:#000000;">Stop and Reflect</h3>
+        <h2>Stop and reflect</h2>
+<p><strong>CHECKPOINT:</strong> How do the input needs of a factory robot differ from those of a social companion robot? Think about the different environments, tasks, and interactions each type of robot would encounter and how this affects their sensor requirements.</p>
+    </div>
+</div>
+<h2><strong>Key Takeaways</strong></h2>
+<ul>
+<li>Input devices serve as a robot's 'senses,' allowing it to gather information about its environment</li>
+</ul>
+<ul>
+<li>Different sensors are specialized to detect specific types of information (touch, light, sound, distance, etc.)</li>
+</ul>
+<ul>
+<li>The selection of input devices directly impacts what a robot can perceive and how it can interact with its environment
+[End of Lesson]</li>
+</ul>
+<p><strong>This lesson could be followed by this game:</strong>
+Exploration Game - Sensor Mystery Box: A game where students interact with hidden sensors inside boxes and must identify what type of sensor it is based on how it responds to different stimuli. For example, a light sensor might trigger an LED when illuminated, and students must determine what kind of sensor causes the reaction.</p>
+    </div>
+    
+    <script>
+        // Optional: Add this if you want to reset the answer when clicking again
+        function toggleAnswer(id) {
+            var element = document.getElementById(id);
+            if (element.style.display === "none") {
+                element.style.display = "block";
+            } else {
+                element.style.display = "none";
+            }
+            return false;
+        }
+    </script>
+</body>
+</html>

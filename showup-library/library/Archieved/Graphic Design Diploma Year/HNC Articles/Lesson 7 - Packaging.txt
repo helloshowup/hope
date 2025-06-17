@@ -1,0 +1,68 @@
+Types of Packaging
+Based on the type of product, industry, and specific requirements, packaging designs vary widely. The choice of packaging depends on factors such as the nature of the product, marketing considerations, regulatory requirements, and environmental concerns. Some types of packaging are specifically designed to protect the product within whilst other types exist to simply add to the marketing appeal of the product or to facilitate stacking/transport.
+Fig 1. Pixabay (n.d.) Rough sketch of box packaging
+A graphic designer must have knowledge of the different types of packaging and materials available. This is crucial for several reasons, including the following:
+It allows you to create designs that seamlessly integrate with the physical characteristics and the constraints of the packaging material
+Different printing techniques are suitable or unsuitable for different packaging materials
+Understanding the properties of packaging will help you create graphics that align with the packaging's shape, size, and functionality
+Well-designed package design enhances the overall consumer experience
+Here are the main types of packaging:
+Primary Packaging
+Primary packaging, also referred to as sales or consumption packaging, is a type of packaging designed to be appropriate for direct contact with the product itself. Its purpose is to keep the product(s) in prime condition from the moment it’s packaged to the moment it’s removed. Examples of primary packaging include bottles, cans, blister packs, pouches, and jars.
+Fig 2. Pexels (n.d.) Primary packaging example
+Secondary Packaging
+Secondary packaging is a second layer of packaging used to group and protect primary packages for storage, transportation, and display. This type of packaging serves branding and logistical purposes, and protects the product units. Examples include the sealed cardboard box you receive goods in after an online purchase, as well as shrink wrap, and other types of paperboard cartons such as over-the-counter tablets.
+Fig 3. Unsplash (n.d.) Secondary packaging example
+Tertiary Packaging
+Tertiary packaging is the third level of packaging and is used to protect the primary and secondary packaging as well as the product(s) itself during handling, storage, and transportation. It is rare that consumers would see tertiary packaging as it is usually removed by retailers before products are displayed for sale. Examples of tertiary packaging include pallets, stretch wrap, and shipping boxes.
+Additional Packaging
+It is essential for a designer to know the purpose of primary, secondary and tertiary packaging so they can create appropriate designs for them.There are however, additional types of packaging that a designer may come across in their practice:
+Aseptic Packaging: Designed to keep contents sterile and prevent contamination, e.g. packaging for beverage, liquid foods, and pharmaceutical products.
+Child-Resistant Packaging: Packaging designed to reduce the risk of children accessing harmful substances like medications and harmful household products.
+Vacuum Packaging: Involves removing air from the package to extend the shelf life of products, like perishable foods.
+Flexible Packaging: Packaging that uses materials like plastic, film, and foil to create lightweight, versatile packaging, e.g. pouches, bags, and wrappers.
+Rigid Packaging: Packaging made from materials like plastic, glass, or metal to provide robust protection, e.g. glass jars, metal cans, and plastic containers.
+Biodegradable Packaging: Environmentally friendly packaging that can break down naturally over time, like bioplastics or compostable materials.
+Smart Packaging: Incorporates technology to provide additional features such as RFID tags, QR codes, or sensors to monitor product conditions.
+Luxury Packaging: Aesthetically pleasing and high quality packaging designed to enhance the perceived value of premium products.
+Bulk Packaging: Large containers designed for transporting and storing products in bulk quantities.
+Tamper-Evident Packaging: Packaging designed to show visible signs of tampering, providing consumers with assurance of product integrity.
+Packaging Materials
+Paperboard packaging
+Paperboard is thick paper, commonly used for packaging such as boxes, cartons, and other containers. Paperboard is a versatile material and can be scored, folded, curved, and customised in various ways. It is often used in secondary packaging and provides a sturdy and printable surface, perfect for adding brand-enhancing graphics.
+Corrugated packaging
+Corrugated packaging is made from corrugated cardboard. “Corrugated” refers to material that is composed of three sheets of containerboard - a fluted inner layer between two flat outer layers. The two sheets on the outside are flat liners and the sheet in the middle has a rippled shape. Corrugated packaging is widely used for shipping boxes, cartons, and packaging materials due to its strength and durability, with its structure providing the perfect cushioning and protection for the packaged items.
+Fig 4. Unsplash (n.d.) Corrugated cardboard packaging
+Plastic
+Plastic packaging involves the use of various types of plastic materials for packaging applications, popular due to the materials’ flexibility, strength, lightweight nature, stability, ease of sterilisation, and ability to protect products from moisture and contaminants. Common plastic packaging includes bottles, containers, bags, and films.
+Fig 5. Unsplash (n.d.) Plastic bag
+Rigid
+Rigid packaging refers to packaging materials that are strong, sturdy, and inflexible, such as glass bottles, metal cans, and certain types of plastic containers. Rigid packaging is often used for products that require a higher level of protection and is typically heavier and more expensive than alternative packaging options.
+Crates and Pallets
+Crates and pallets are types of tertiary packaging used for bulk handling and transportation.
+Pallets are flat structures with both a top and bottom deck used for stacking and moving goods.
+Crates are rigid boxes often made of wood or plastic, used for containing and protecting goods during shipping.
+Shrink Wrap
+Shrink wrap, or shrink film, is a plastic film that, when heated, shrinks tightly over a product or container. Shrink wrap is generally used for bundling products together, like a 6-pack of water bottles. It is also used for securing items on pallets and providing tamper-evident seals.
+Vacuum Packaging
+Vacuum packaging involves removing the air from a package to create a vacuum seal. This method is often used to extend the shelf life of perishable foods by reducing the presence of oxygen, slowing down the deterioration process. It predates the use of gases as a means of food preservation.
+Shock Mount Packaging
+Shock mount packaging is designed to protect fragile or sensitive items from shocks and impacts during transportation. It often involves the use of cushioning materials like foam or air-filled packaging to absorb and distribute shocks.
+Fig 6. Unsplash (n.d) Shock absorbing packaging
+Material Manipulation
+Packaging material manipulation refers to the various ways in which packaging materials are handled, processed, and utilised to create packaging for products. Manipulating packaging materials involves different processes and techniques to ensure the effective and efficient packaging of goods and can include the application of barcodes, signs, inscriptions etc.
+Here are a few examples of packaging material manipulation.
+Printing and Branding
+Printing product information, labels, and branding on packaging materials is an example of material manipulation. These elements are key elements that a graphic designer will be required to consider during the packaging design process. A designer also needs to understand packaging materials and different printing techniques (e.g. flexography, lithography, or digital printing) and how they will impact the outcome once applied to the material. It is this knowledge that will inform the designer on the most appropriate course of action.
+
+A designer should offer advice on the packaging branding based on the suppliers budget and on the usage of the packaging itself. If the packaging needs to stack somehow, which side will be visible, could be used to highlight the brand and what necessary information should also be visible? This may include weight, dimensions, content, fragility, manufacture date, best before date, barcode etc.
+Fig 7. Unsplash (n.d.) Printed branding on box
+Cutting and Shaping
+Another form of manipulation can be seen in the need for packaging materials to be cut and shaped into the desired forms and sizes to serve their purpose. This involves using cutting machines, die-cutting, or other shaping processes, and it is therefore necessary to include cutting and shaping guidelines in the packaging design.
+Folding and Creasing
+Another way to manipulate packaging materials is by folding materials into specific shapes or configurations. This is where the packaging design will need to be created and prepared as “nets” for printing, showing creases for easy folding and assembly. A net is a way of representing the final package as a flat, two-dimensional shape that can then be scored, folded and attached together to make a three-dimensional package, e.g. a box or carton. As a packaging designer, you will need to provide the necessary assembly information for the packaging including instructions on where to fold, cut and where to print.
+A designer will need to consider the impact of the folding and any interconnecting aspects of the packaging that may affect the final look and functionality of the packaging.  
+Fig 8. Pixabay (n.d.) Example of a net
+Assembly
+The final assembly is another form of packaging material manipulation. This process involves combining different components, such as boxes, labels, inserts, and protective elements, to form a complete and functional packaging solution - all of which should be considered during the design process.
+Fig 9. Unsplash (n.d.) Assembly includes adding labels to a package 

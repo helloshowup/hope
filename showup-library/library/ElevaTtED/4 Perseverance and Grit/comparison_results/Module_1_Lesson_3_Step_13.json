@@ -1,0 +1,8 @@
+{
+  "module": "1",
+  "lesson": "3",
+  "step_number": "13",
+  "step_title": "Mini-Case Analysis",
+  "best_version": "# Mini-Case Analysis: Overcoming Setbacks\n\n## Scenario\nJaime was excited about joining the school basketball team but didn't make the final cut after tryouts. The coach mentioned Jaime needed to improve ball-handling skills and defensive footwork. Jaime feels embarrassed and is considering giving up basketball altogether.\n\n## What would be the most effective mindset shift for Jaime?\n\nA) \"I'm just not athletic enough for basketball. I should find something else I'm naturally good at.\"\nB) \"The coach was unfair. I played better than some people who made the team.\"\nC) \"This feedback shows exactly what I need to practice. I can work on these skills and try again next season.\"\nD) \"I'll just focus on a different sport where I don't need those specific skills.\"\n\n## Feedback\nThe optimal answer is C. This response demonstrates a growth mindset by viewing the setback as information rather than failure. Jaime recognizes that skills can be developed through dedicated practice, embraces the coach's feedback as a roadmap for improvement, and maintains persistence toward the goal. This mindset shift transforms disappointment into an opportunity for growth.",
+  "explanation": "Error in comparison process: maximum recursion depth exceeded while calling a Python object. Using most structurally complete version as fallback."
+}

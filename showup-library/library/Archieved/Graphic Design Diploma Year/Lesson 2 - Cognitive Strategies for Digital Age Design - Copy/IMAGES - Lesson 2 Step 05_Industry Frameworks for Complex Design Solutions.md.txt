@@ -1,0 +1,19 @@
+## Fig 21
+Close-up of a completed empathy map with clearly labeled quadrants (Says, Thinks, Does, Feels) filled with handwritten notes and observations from user research.
+Suggested search terms:
+- Error generating content with Claude API: Claude API error: 400 Client Error: Bad Request for url: https://api.anthropic.com/v1/messages
+
+## Fig 22
+Designer presenting a refined "How Might We" problem statement on a whiteboard to team members who are actively engaging with the presented information.
+Suggested search terms:
+- Error generating content with Claude API: Claude API error: 400 Client Error: Bad Request for url: https://api.anthropic.com/v1/messages
+
+## Fig 3
+Design professionals collaborating around a table with framework templates visible, using sticky notes to organize ideas while referencing project materials.
+Suggested search terms:
+- Error generating content with Claude API: Claude API error: 400 Client Error: Bad Request for url: https://api.anthropic.com/v1/messages
+
+## Fig 4
+Designer using a physical or digital Kanban board with color-coded task cards organized in columns (To Do, In Progress, Review, Complete), with visible priority markers and deadline indicators.
+Suggested search terms:
+- Error generating content with Claude API: Claude API error: 400 Client Error: Bad Request for url: https://api.anthropic.com/v1/messages

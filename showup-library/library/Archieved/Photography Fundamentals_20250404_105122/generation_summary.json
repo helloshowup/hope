@@ -1,0 +1,2623 @@
+{
+  "course_name": "Photography Fundamentals",
+  "csv_path": "temp\\filtered_csv_20250404_105122.csv",
+  "start_time": "2025-04-04T10:51:22.195655",
+  "status": "started",
+  "processed_rows": [
+    {
+      "module": "Lesson 3 - Expanding Your Graphic Design Toolkit",
+      "lesson": "3",
+      "step_number": "1",
+      "step_title": "Foundations of Advanced Visual Language Systems; with images",
+      "template_type": "Article",
+      "status": "completed",
+      "timestamp": "2025-04-04T10:51:22.210659",
+      "log_entries": [
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module Lesson 3 - Expanding Your Graphic Design Toolkit, Lesson 3, Step 1"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (850 characters)"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-04-04 10:52:34",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-04-04 10:52:34",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-04-04 10:52:34",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 10:52:34",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-04-04 10:53:20",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-04-04 10:53:20",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-04-04 10:53:56",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-04-04 10:53:56",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-04-04 10:53:56",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 31 AI patterns"
+        },
+        {
+          "timestamp": "2025-04-04 10:53:56",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-04-04 10:54:37",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-04-04 10:54:37",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-04-04 10:54:37",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to output\\Photography Fundamentals_20250404_105122\\Lesson 3 - Expanding Your Graphic Design Toolkit\\3\\1_Foundations of Advanced Visual Language Systems_ with images.md"
+        }
+      ],
+      "comparison_explanation": "No explanation provided.",
+      "review_summary": "No edit summary provided.",
+      "ai_patterns_detected": 31,
+      "editing_explanation": "No explanation provided.",
+      "output_path": "output\\Photography Fundamentals_20250404_105122\\Lesson 3 - Expanding Your Graphic Design Toolkit\\3\\1_Foundations of Advanced Visual Language Systems_ with images.md",
+      "completion_timestamp": "2025-04-04T10:54:37.205337"
+    },
+    {
+      "module": "Lesson 3 - Expanding Your Graphic Design Toolkit",
+      "lesson": "3",
+      "step_number": "2",
+      "step_title": "Foundations of Advanced Visual Language Systems",
+      "template_type": "downloadable",
+      "status": "completed",
+      "timestamp": "2025-04-04T10:51:22.226664",
+      "log_entries": [
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module Lesson 3 - Expanding Your Graphic Design Toolkit, Lesson 3, Step 2"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (2328 characters)"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-04-04 10:54:37",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-04-04 10:55:51",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-04-04 10:55:51",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-04-04 10:55:51",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 10:55:51",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-04-04 10:56:27",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-04-04 10:56:27",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-04-04 10:56:54",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-04-04 10:56:54",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-04-04 10:56:54",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 19 AI patterns"
+        },
+        {
+          "timestamp": "2025-04-04 10:56:54",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-04-04 10:57:31",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-04-04 10:57:31",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-04-04 10:57:31",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to output\\Photography Fundamentals_20250404_105122\\Lesson 3 - Expanding Your Graphic Design Toolkit\\3\\2_Foundations of Advanced Visual Language Systems.md"
+        }
+      ],
+      "comparison_explanation": "No explanation provided.",
+      "review_summary": "No edit summary provided.",
+      "ai_patterns_detected": 19,
+      "editing_explanation": "No explanation provided.",
+      "output_path": "output\\Photography Fundamentals_20250404_105122\\Lesson 3 - Expanding Your Graphic Design Toolkit\\3\\2_Foundations of Advanced Visual Language Systems.md",
+      "completion_timestamp": "2025-04-04T10:57:31.076698"
+    },
+    {
+      "module": "Lesson 3 - Expanding Your Graphic Design Toolkit",
+      "lesson": "3",
+      "step_number": "3",
+      "step_title": "Decoding Global Brand Systems",
+      "template_type": "Video",
+      "status": "completed",
+      "timestamp": "2025-04-04T10:51:22.229665",
+      "log_entries": [
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module Lesson 3 - Expanding Your Graphic Design Toolkit, Lesson 3, Step 3"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (1428 characters)"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-04-04 10:57:31",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-04-04 10:58:37",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-04-04 10:58:37",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-04-04 10:58:37",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 10:58:37",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-04-04 10:59:10",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-04-04 10:59:10",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-04-04 10:59:36",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-04-04 10:59:36",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-04-04 10:59:36",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 18 AI patterns"
+        },
+        {
+          "timestamp": "2025-04-04 10:59:36",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-04-04 11:00:10",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:00:10",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-04-04 11:00:10",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to output\\Photography Fundamentals_20250404_105122\\Lesson 3 - Expanding Your Graphic Design Toolkit\\3\\3_Decoding Global Brand Systems.md"
+        }
+      ],
+      "comparison_explanation": "No explanation provided.",
+      "review_summary": "No edit summary provided.",
+      "ai_patterns_detected": 18,
+      "editing_explanation": "I've made several key changes to make this content more human-like and appropriate for second-year HND graphic design students:\n\n1. Removed the formal \"Introduction\" heading and replaced the generic opening with a more engaging, conversational hook\n2. Replaced all instances of \"essential\" with more natural alternatives\n3. Changed American spelling to British (color \u2192 colour, analyze \u2192 analyse, etc.)\n4. Added \"Over to You\" headings for reflection sections\n5. Reduced overly formal academic language in favor of more direct, practical guidance\n6. Varied sentence structures to create a more natural rhythm\n7. Removed redundant phrases and simplified complex sentences\n8. Added more practical, portfolio-focused language that connects directly to students' career goals\n9. Maintained professional tone while making it more conversational and accessible\n10. Removed phrases like \"navigate the complex interplay\" that sound distinctly AI-generated",
+      "output_path": "output\\Photography Fundamentals_20250404_105122\\Lesson 3 - Expanding Your Graphic Design Toolkit\\3\\3_Decoding Global Brand Systems.md",
+      "completion_timestamp": "2025-04-04T11:00:10.752159"
+    },
+    {
+      "module": "Lesson 3 - Expanding Your Graphic Design Toolkit",
+      "lesson": "3",
+      "step_number": "4",
+      "step_title": "Decoding Global Brand Systems",
+      "template_type": "Article",
+      "status": "completed",
+      "timestamp": "2025-04-04T10:51:22.233666",
+      "log_entries": [
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module Lesson 3 - Expanding Your Graphic Design Toolkit, Lesson 3, Step 4"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (1240 characters)"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:00:10",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-04-04 11:01:23",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-04-04 11:01:23",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-04-04 11:01:23",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:01:23",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-04-04 11:02:05",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:02:05",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-04-04 11:02:38",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:02:38",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-04-04 11:02:38",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 25 AI patterns"
+        },
+        {
+          "timestamp": "2025-04-04 11:02:38",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-04-04 11:03:19",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:03:19",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-04-04 11:03:19",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to output\\Photography Fundamentals_20250404_105122\\Lesson 3 - Expanding Your Graphic Design Toolkit\\3\\4_Decoding Global Brand Systems.md"
+        }
+      ],
+      "comparison_explanation": "My optimized version combines the strongest elements from all three generations while specifically addressing the HND Graphic Design learner profile:\n\n1. **Tailored to learner needs**: I focused on the professional application of brand systems knowledge, directly addressing the learners' motivation to prepare for careers and build portfolios. I included specific career-relevant advice and portfolio preparation tips.\n\n2. **Practical application**: I added \"Over to You\" sections that encourage hands-on application and portfolio development, addressing the learners' hands-on learning style and need for practical exercises.\n\n3. **Visual learning support**: I maintained clear examples from major brands (Nike, Apple, Google) that students can easily reference visually, supporting their visual learning preference.\n\n4. **Professional relevance**: I explicitly connected theoretical concepts to workplace expectations and portfolio development, addressing the key challenge of \"bridging theory and practice in a professional context.\"\n\n5. **Structure improvements**: I maintained a clear structure with defined sections, added a summary and assessment preparation section to help students connect the content to their coursework requirements.\n\n6. **Technical skill development**: I emphasized how understanding brand systems connects to technical implementation skills they need to develop (responsive design, digital workflow, file management).\n\nThis version provides a more comprehensive, professionally-focused learning experience that directly addresses the specific needs and challenges of second-year HND Graphic Design students preparing for industry.",
+      "review_summary": "No edit summary provided.",
+      "ai_patterns_detected": 25,
+      "editing_explanation": "I've made several key changes to make this content more human-like and appropriate for second-year HND Graphic Design students:\n\n1. Removed the generic \"Introduction\" heading and replaced the formulaic opening with a more engaging, direct start that gets to the point\n2. Replaced all instances of \"essential\" with more natural alternatives like \"important,\" \"valuable,\" and \"necessary\"\n3. Changed American spelling to British (color \u2192 colour, analyze \u2192 analyse)\n4. Added \"Over to You\" headings for reflection sections that were missing them\n5. Varied sentence structures to avoid the repetitive AI pattern of starting with similar phrases\n6. Made language less formal and more conversational while maintaining professionalism\n7. Reduced some of the overly detailed explanations that felt like AI padding\n8. Added more direct connections to portfolio development and professional practice\n9. Removed some redundant phrases and AI-like superlatives (\"most powerful,\" \"comprehensive\")\n10. Created more natural transitions between sections",
+      "output_path": "output\\Photography Fundamentals_20250404_105122\\Lesson 3 - Expanding Your Graphic Design Toolkit\\3\\4_Decoding Global Brand Systems.md",
+      "completion_timestamp": "2025-04-04T11:03:19.171427"
+    },
+    {
+      "module": "Lesson 3 - Expanding Your Graphic Design Toolkit",
+      "lesson": "3",
+      "step_number": "5",
+      "step_title": "Visual Hierarchy Across Platforms",
+      "template_type": "Article",
+      "status": "completed",
+      "timestamp": "2025-04-04T10:51:22.236666",
+      "log_entries": [
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module Lesson 3 - Expanding Your Graphic Design Toolkit, Lesson 3, Step 5"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (1030 characters)"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:03:19",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-04-04 11:04:36",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-04-04 11:04:36",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-04-04 11:04:36",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:04:36",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-04-04 11:05:16",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:05:16",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-04-04 11:05:51",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:05:51",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-04-04 11:05:51",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 10 AI patterns"
+        },
+        {
+          "timestamp": "2025-04-04 11:05:51",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-04-04 11:06:33",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:06:33",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-04-04 11:06:33",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to output\\Photography Fundamentals_20250404_105122\\Lesson 3 - Expanding Your Graphic Design Toolkit\\3\\5_Visual Hierarchy Across Platforms.md"
+        }
+      ],
+      "comparison_explanation": "My optimized version combines the strongest elements from all three generations while specifically addressing the needs of HND Graphic Design students:\n\n1. **Practical professional application**: I added specific professional application examples under each platform section to bridge theory and practice\u2014addressing a key challenge for these students.\n\n2. **Visual learning support**: I included placeholders for visual examples that would support these visual learners.\n\n3. **Industry-ready content**: I emphasized portfolio development and professional considerations throughout to support their career preparation goals.\n\n4. **Technical specificity**: I included more specific technical implementation details (like using em/rem instead of pixels) to build their advanced mastery of industry tools.\n\n5. **Structured learning resources**: I added comprehensive sections for Key Terms, Additional Resources, and References to support their self-directed learning.\n\n6. **\"Over to You\" section**: I maintained this interactive element to encourage application and community building through virtual meetups.\n\n7. **Balanced complexity**: The content assumes their basic understanding from year one while introducing advanced concepts appropriate for second-year students.\n\nThe final version maintains a conversational, accessible tone while providing the technical depth these students need as they prepare to enter the professional graphic design industry.",
+      "review_summary": "No edit summary provided.",
+      "ai_patterns_detected": 10,
+      "editing_explanation": "I've made several changes to make this content more human-like and appropriate for second-year HND graphic design students:\n\n1. Replaced the generic \"Welcome to...\" introduction with a more engaging, direct opening that establishes relevance\n2. Converted American spelling to British (colour, centre, etc.)\n3. Removed the word \"essential\" throughout and replaced with more natural alternatives\n4. Added more conversational elements while maintaining professionalism\n5. Varied sentence structures to create a more natural flow\n6. Added the \"Over to You\" heading for the reflection section\n7. Made examples more concrete and relatable to students building portfolios\n8. Simplified some complex sentences while maintaining the advanced content appropriate for second-year students\n9. Added more practical context relevant to emerging professionals\n10. Created smoother transitions between sections",
+      "output_path": "output\\Photography Fundamentals_20250404_105122\\Lesson 3 - Expanding Your Graphic Design Toolkit\\3\\5_Visual Hierarchy Across Platforms.md",
+      "completion_timestamp": "2025-04-04T11:06:33.703054"
+    },
+    {
+      "module": "Lesson 3 - Expanding Your Graphic Design Toolkit",
+      "lesson": "3",
+      "step_number": "6",
+      "step_title": "Visual Hierarchy Across Platforms",
+      "template_type": "Infographic",
+      "status": "completed",
+      "timestamp": "2025-04-04T10:51:22.240173",
+      "log_entries": [
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module Lesson 3 - Expanding Your Graphic Design Toolkit, Lesson 3, Step 6"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (1302 characters)"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:06:33",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-04-04 11:07:46",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-04-04 11:07:46",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-04-04 11:07:46",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:07:46",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-04-04 11:08:28",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:08:28",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-04-04 11:09:01",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:09:01",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-04-04 11:09:01",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 16 AI patterns"
+        },
+        {
+          "timestamp": "2025-04-04 11:09:01",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-04-04 11:09:46",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:09:46",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-04-04 11:09:46",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to output\\Photography Fundamentals_20250404_105122\\Lesson 3 - Expanding Your Graphic Design Toolkit\\3\\6_Visual Hierarchy Across Platforms.md"
+        }
+      ],
+      "comparison_explanation": "No explanation provided.",
+      "review_summary": "No edit summary provided.",
+      "ai_patterns_detected": 16,
+      "editing_explanation": "I've made several key changes to make this text more human-like and appropriate for HND Graphic Design students:\n\n1. Removed the generic \"Introduction\" heading and replaced the formal introduction with a more engaging, conversational opening that gets straight to the point\n2. Changed American spellings to British (color\u2192colour, behavior\u2192behaviour, etc.)\n3. Replaced all instances of \"essential\" with more natural alternatives like \"important,\" \"valuable,\" and \"key\"\n4. Added the \"Over to You\" heading for the reflection section\n5. Varied sentence structures to sound less formulaic and more natural\n6. Reduced some of the overly formal academic language while maintaining professional tone\n7. Made the content more direct and practical, focusing on application rather than theory\n8. Adjusted some phrasing to better connect with visual learners who are preparing for professional practice",
+      "output_path": "output\\Photography Fundamentals_20250404_105122\\Lesson 3 - Expanding Your Graphic Design Toolkit\\3\\6_Visual Hierarchy Across Platforms.md",
+      "completion_timestamp": "2025-04-04T11:09:46.280064"
+    },
+    {
+      "module": "Lesson 3 - Expanding Your Graphic Design Toolkit",
+      "lesson": "3",
+      "step_number": "7",
+      "step_title": "Visual Hierarchy Across Platforms",
+      "template_type": "downloadable",
+      "status": "completed",
+      "timestamp": "2025-04-04T10:51:22.244173",
+      "log_entries": [
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module Lesson 3 - Expanding Your Graphic Design Toolkit, Lesson 3, Step 7"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (885 characters)"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:09:46",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-04-04 11:10:59",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-04-04 11:10:59",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-04-04 11:10:59",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:10:59",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-04-04 11:11:29",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:11:29",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-04-04 11:11:56",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:11:56",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-04-04 11:11:56",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 10 AI patterns"
+        },
+        {
+          "timestamp": "2025-04-04 11:11:56",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-04-04 11:12:34",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:12:34",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-04-04 11:12:34",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to output\\Photography Fundamentals_20250404_105122\\Lesson 3 - Expanding Your Graphic Design Toolkit\\3\\7_Visual Hierarchy Across Platforms.md"
+        }
+      ],
+      "comparison_explanation": "No explanation provided.",
+      "review_summary": "No edit summary provided.",
+      "ai_patterns_detected": 10,
+      "editing_explanation": "I've made several key changes to make this text more human-like and appropriate for second-year HND graphic design students:\n\n1. Removed the formulaic \"Introduction\" heading and replaced the generic opening with a more engaging, direct approach\n2. Replaced all instances of \"essential\" with more natural alternatives\n3. Changed American spellings to British (e.g., \"optimisation\" instead of \"optimization\")\n4. Added the \"Over to You\" heading for the reflection section\n5. Varied sentence structures to create a more natural flow\n6. Reduced some of the overly formal language while maintaining professionalism\n7. Made the content more conversational while keeping it educational\n8. Maintained the practical examples and frameworks that align with hands-on learning preferences\n9. Ensured the content remains focused on portfolio development and professional application",
+      "output_path": "output\\Photography Fundamentals_20250404_105122\\Lesson 3 - Expanding Your Graphic Design Toolkit\\3\\7_Visual Hierarchy Across Platforms.md",
+      "completion_timestamp": "2025-04-04T11:12:34.160804"
+    },
+    {
+      "module": "Lesson 3 - Expanding Your Graphic Design Toolkit",
+      "lesson": "3",
+      "step_number": "8",
+      "step_title": "Building Effective Visual Stories",
+      "template_type": "Video",
+      "status": "completed",
+      "timestamp": "2025-04-04T10:51:22.247175",
+      "log_entries": [
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module Lesson 3 - Expanding Your Graphic Design Toolkit, Lesson 3, Step 8"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (1048 characters)"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:12:34",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-04-04 11:13:46",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-04-04 11:13:46",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-04-04 11:13:46",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:13:46",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-04-04 11:14:29",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:14:29",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-04-04 11:15:00",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:15:00",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-04-04 11:15:01",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 24 AI patterns"
+        },
+        {
+          "timestamp": "2025-04-04 11:15:01",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-04-04 11:15:42",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:15:42",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-04-04 11:15:42",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to output\\Photography Fundamentals_20250404_105122\\Lesson 3 - Expanding Your Graphic Design Toolkit\\3\\8_Building Effective Visual Stories.md"
+        }
+      ],
+      "comparison_explanation": "No explanation provided.",
+      "review_summary": "No edit summary provided.",
+      "ai_patterns_detected": 24,
+      "editing_explanation": "No explanation provided.",
+      "output_path": "output\\Photography Fundamentals_20250404_105122\\Lesson 3 - Expanding Your Graphic Design Toolkit\\3\\8_Building Effective Visual Stories.md",
+      "completion_timestamp": "2025-04-04T11:15:42.176379"
+    },
+    {
+      "module": "Lesson 3 - Expanding Your Graphic Design Toolkit",
+      "lesson": "3",
+      "step_number": "9",
+      "step_title": "Building Effective Visual Stories",
+      "template_type": "Article",
+      "status": "completed",
+      "timestamp": "2025-04-04T10:51:22.250176",
+      "log_entries": [
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module Lesson 3 - Expanding Your Graphic Design Toolkit, Lesson 3, Step 9"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (1001 characters)"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:15:42",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-04-04 11:16:58",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-04-04 11:16:58",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-04-04 11:16:58",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:16:58",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-04-04 11:17:42",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:17:42",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-04-04 11:18:17",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:18:17",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-04-04 11:18:17",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 26 AI patterns"
+        },
+        {
+          "timestamp": "2025-04-04 11:18:17",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-04-04 11:18:58",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:18:58",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-04-04 11:18:58",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to output\\Photography Fundamentals_20250404_105122\\Lesson 3 - Expanding Your Graphic Design Toolkit\\3\\9_Building Effective Visual Stories.md"
+        }
+      ],
+      "comparison_explanation": "No explanation provided.",
+      "review_summary": "No edit summary provided.",
+      "ai_patterns_detected": 26,
+      "editing_explanation": "No explanation provided.",
+      "output_path": "output\\Photography Fundamentals_20250404_105122\\Lesson 3 - Expanding Your Graphic Design Toolkit\\3\\9_Building Effective Visual Stories.md",
+      "completion_timestamp": "2025-04-04T11:18:58.425742"
+    },
+    {
+      "module": "Lesson 3 - Expanding Your Graphic Design Toolkit",
+      "lesson": "3",
+      "step_number": "10",
+      "step_title": "Building Effective Visual Stories",
+      "template_type": "Quiz",
+      "status": "completed",
+      "timestamp": "2025-04-04T10:51:22.254177",
+      "log_entries": [
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module Lesson 3 - Expanding Your Graphic Design Toolkit, Lesson 3, Step 10"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (1021 characters)"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:18:58",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-04-04 11:20:11",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-04-04 11:20:11",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-04-04 11:20:11",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:20:11",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-04-04 11:20:50",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:20:50",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-04-04 11:21:21",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:21:21",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-04-04 11:21:21",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 20 AI patterns"
+        },
+        {
+          "timestamp": "2025-04-04 11:21:21",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-04-04 11:22:01",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:22:01",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-04-04 11:22:01",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to output\\Photography Fundamentals_20250404_105122\\Lesson 3 - Expanding Your Graphic Design Toolkit\\3\\10_Building Effective Visual Stories.md"
+        }
+      ],
+      "comparison_explanation": "No explanation provided.",
+      "review_summary": "No edit summary provided.",
+      "ai_patterns_detected": 20,
+      "editing_explanation": "No explanation provided.",
+      "output_path": "output\\Photography Fundamentals_20250404_105122\\Lesson 3 - Expanding Your Graphic Design Toolkit\\3\\10_Building Effective Visual Stories.md",
+      "completion_timestamp": "2025-04-04T11:22:01.072737"
+    },
+    {
+      "module": "Lesson 3 - Expanding Your Graphic Design Toolkit",
+      "lesson": "3",
+      "step_number": "11",
+      "step_title": "Rebrand Impact Analysis",
+      "template_type": "Article",
+      "status": "completed",
+      "timestamp": "2025-04-04T10:51:22.257177",
+      "log_entries": [
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module Lesson 3 - Expanding Your Graphic Design Toolkit, Lesson 3, Step 11"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (1096 characters)"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:22:01",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-04-04 11:23:12",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-04-04 11:23:12",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-04-04 11:23:12",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:23:12",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-04-04 11:23:50",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:23:50",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-04-04 11:24:16",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:24:16",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-04-04 11:24:16",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 13 AI patterns"
+        },
+        {
+          "timestamp": "2025-04-04 11:24:16",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-04-04 11:24:50",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:24:50",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-04-04 11:24:50",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to output\\Photography Fundamentals_20250404_105122\\Lesson 3 - Expanding Your Graphic Design Toolkit\\3\\11_Rebrand Impact Analysis.md"
+        }
+      ],
+      "comparison_explanation": "No explanation provided.",
+      "review_summary": "No edit summary provided.",
+      "ai_patterns_detected": 13,
+      "editing_explanation": "No explanation provided.",
+      "output_path": "output\\Photography Fundamentals_20250404_105122\\Lesson 3 - Expanding Your Graphic Design Toolkit\\3\\11_Rebrand Impact Analysis.md",
+      "completion_timestamp": "2025-04-04T11:24:50.983559"
+    },
+    {
+      "module": "Lesson 3 - Expanding Your Graphic Design Toolkit",
+      "lesson": "3",
+      "step_number": "12",
+      "step_title": "Rebrand Impact Analysis Resource\n",
+      "template_type": "downloadable",
+      "status": "completed",
+      "timestamp": "2025-04-04T10:51:22.260178",
+      "log_entries": [
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module Lesson 3 - Expanding Your Graphic Design Toolkit, Lesson 3, Step 12"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (1222 characters)"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:24:50",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-04-04 11:26:02",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-04-04 11:26:02",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-04-04 11:26:02",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:26:02",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-04-04 11:26:42",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:26:42",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-04-04 11:27:13",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:27:13",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-04-04 11:27:13",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 21 AI patterns"
+        },
+        {
+          "timestamp": "2025-04-04 11:27:13",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-04-04 11:27:50",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:27:50",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-04-04 11:27:50",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to output\\Photography Fundamentals_20250404_105122\\Lesson 3 - Expanding Your Graphic Design Toolkit\\3\\12_Rebrand Impact Analysis Resource_.md"
+        }
+      ],
+      "comparison_explanation": "My optimized version combines the strongest elements from all three generations while specifically addressing the HND Graphic Design learner profile:\n\n1. **Visual Learning Focus**: I added visual examples, workshop activities, and technical considerations to support these visual learners who depend on high-quality demonstrations.\n\n2. **Professional Portfolio Development**: I emphasized practical application for portfolio building throughout, addressing their key motivation of preparing for professional careers.\n\n3. **Technical Implementation**: I included specific technical considerations and implementation frameworks to develop their needed skills in technical implementation.\n\n4. **Hands-on Learning**: I incorporated downloadable resources, practical exercises, and real-world examples to support their hands-on learning style.\n\n5. **Structure and Accessibility**: I maintained a clear structure with visual breaks, bullet points, and highlighted sections to make the content accessible for both in-person and online learning.\n\n6. **Industry Relevance**: I included real-world examples (Mastercard, Airbnb) and professional terminology to bridge theory and practice.\n\n7. **Self-Directed Learning**: I added the \"Over to You\" section with specific activities that support their self-directed learning abilities.\n\nThe final version maintains a professional but accessible tone, includes visual learning elements, and focuses on practical application\u2014all key needs for this learner group.",
+      "review_summary": "No edit summary provided.",
+      "ai_patterns_detected": 21,
+      "editing_explanation": "I've made several key changes to make this content more human-like and appropriate for HND Graphic Design students:\n\n1. Removed the formal \"Introduction\" heading and replaced the generic welcome with a more engaging, direct opening that gets straight to the point\n2. Replaced all instances of \"essential\" with more natural alternatives\n3. Changed American spellings to British (behavior\u2192behaviour, color\u2192colour)\n4. Added \"Over to You\" heading for the reflection section\n5. Made language more conversational while maintaining professionalism\n6. Varied sentence structures to create a more natural flow\n7. Added more direct addressing of the reader to create connection\n8. Simplified some complex sentences while preserving technical terminology\n9. Reduced repetitive framework language that's typical of AI writing\n10. Added more concrete examples and practical applications\n11. Made transitions between sections more natural",
+      "output_path": "output\\Photography Fundamentals_20250404_105122\\Lesson 3 - Expanding Your Graphic Design Toolkit\\3\\12_Rebrand Impact Analysis Resource_.md",
+      "completion_timestamp": "2025-04-04T11:27:50.462718"
+    },
+    {
+      "module": "Lesson 3 - Expanding Your Graphic Design Toolkit",
+      "lesson": "3",
+      "step_number": "13",
+      "step_title": "Creating Signature Graphic Elements; with images",
+      "template_type": "Article",
+      "status": "completed",
+      "timestamp": "2025-04-04T10:51:22.264179",
+      "log_entries": [
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module Lesson 3 - Expanding Your Graphic Design Toolkit, Lesson 3, Step 13"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (984 characters)"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:27:50",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-04-04 11:29:03",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-04-04 11:29:03",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-04-04 11:29:03",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:29:03",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-04-04 11:29:49",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:29:49",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-04-04 11:30:28",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:30:28",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-04-04 11:30:28",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 27 AI patterns"
+        },
+        {
+          "timestamp": "2025-04-04 11:30:28",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-04-04 11:31:14",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:31:14",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-04-04 11:31:14",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to output\\Photography Fundamentals_20250404_105122\\Lesson 3 - Expanding Your Graphic Design Toolkit\\3\\13_Creating Signature Graphic Elements_ with images.md"
+        }
+      ],
+      "comparison_explanation": "My version combines the strongest elements from all three generations while specifically addressing the needs of second-year HND Graphic Design students preparing for professional careers.\n\nKey improvements:\n1. **Professional context emphasis**: I consistently framed concepts in terms of professional practice and portfolio development, addressing the learner's key motivation of preparing for careers in graphic design.\n\n2. **Technical implementation focus**: I emphasized the technical aspects of grid systems, scalability, and cross-platform adaptation that these students need to master according to their development needs.\n\n3. **Visual learning support**: I maintained strong visual examples (Twitter bird, Nike swoosh, Airbnb B\u00e9lo) that support the visual learning preference of the target audience.\n\n4. **Practical application**: I incorporated the \"Over to You\" sections that encourage hands-on application, supporting the learners' preference for practical exercises.\n\n5. **Bridge to next content**: I maintained a clear connection to both the previous content (rebrand impact analysis) and the upcoming content (detailed grid systems), creating a coherent learning journey.\n\n6. **Industry relevance**: I emphasized real-world applications and industry standards throughout, addressing the learners' need to bridge theory and practice in a professional context.\n\nThe content maintains an accessible but professionally-oriented tone appropriate for second-year students who have basic foundations but need more advanced technical implementation skills to become industry-ready.",
+      "review_summary": "No edit summary provided.",
+      "ai_patterns_detected": 27,
+      "editing_explanation": "No explanation provided.",
+      "output_path": "output\\Photography Fundamentals_20250404_105122\\Lesson 3 - Expanding Your Graphic Design Toolkit\\3\\13_Creating Signature Graphic Elements_ with images.md",
+      "completion_timestamp": "2025-04-04T11:31:14.743436"
+    },
+    {
+      "module": "Lesson 3 - Expanding Your Graphic Design Toolkit",
+      "lesson": "3",
+      "step_number": "14",
+      "step_title": "Creating Signature Graphic Elements",
+      "template_type": "Infographic",
+      "status": "completed",
+      "timestamp": "2025-04-04T10:51:22.267179",
+      "log_entries": [
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module Lesson 3 - Expanding Your Graphic Design Toolkit, Lesson 3, Step 14"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (1257 characters)"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:31:14",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-04-04 11:32:29",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-04-04 11:32:29",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-04-04 11:32:29",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:32:29",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-04-04 11:33:06",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:33:06",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-04-04 11:33:34",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:33:34",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-04-04 11:33:34",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 17 AI patterns"
+        },
+        {
+          "timestamp": "2025-04-04 11:33:34",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-04-04 11:34:10",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:34:10",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-04-04 11:34:10",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to output\\Photography Fundamentals_20250404_105122\\Lesson 3 - Expanding Your Graphic Design Toolkit\\3\\14_Creating Signature Graphic Elements.md"
+        }
+      ],
+      "comparison_explanation": "No explanation provided.",
+      "review_summary": "No edit summary provided.",
+      "ai_patterns_detected": 17,
+      "editing_explanation": "No explanation provided.",
+      "output_path": "output\\Photography Fundamentals_20250404_105122\\Lesson 3 - Expanding Your Graphic Design Toolkit\\3\\14_Creating Signature Graphic Elements.md",
+      "completion_timestamp": "2025-04-04T11:34:10.559898"
+    },
+    {
+      "module": "Lesson 3 - Expanding Your Graphic Design Toolkit",
+      "lesson": "3",
+      "step_number": "15",
+      "step_title": "Creating Signature Graphic Elements",
+      "template_type": "downloadable",
+      "status": "completed",
+      "timestamp": "2025-04-04T10:51:22.271181",
+      "log_entries": [
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module Lesson 3 - Expanding Your Graphic Design Toolkit, Lesson 3, Step 15"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (914 characters)"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:34:10",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-04-04 11:35:23",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-04-04 11:35:23",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-04-04 11:35:23",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:35:23",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-04-04 11:36:03",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:36:03",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-04-04 11:36:35",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:36:35",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-04-04 11:36:35",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 18 AI patterns"
+        },
+        {
+          "timestamp": "2025-04-04 11:36:35",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-04-04 11:37:18",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:37:18",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-04-04 11:37:18",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to output\\Photography Fundamentals_20250404_105122\\Lesson 3 - Expanding Your Graphic Design Toolkit\\3\\15_Creating Signature Graphic Elements.md"
+        }
+      ],
+      "comparison_explanation": "My optimized version addresses the HND Graphic Design learner profile by:\n\n1. **Professional focus**: I emphasized industry relevance throughout, connecting concepts to workplace expectations and portfolio development\u2014addressing their key motivation of preparing for professional careers.\n\n2. **Technical specificity**: I included concrete measurements, file formats, and industry-standard practices (like 8px increments and Delta-E measurements) to build the advanced technical knowledge these second-year students need.\n\n3. **Visual learning support**: I enhanced descriptions of visual elements and included specific image descriptions that would help these visual learners understand concepts.\n\n4. **Practical application**: I incorporated the \"Over to You\" sections from Version 2 to support their self-directed learning style and encourage independent research.\n\n5. **Bridging theory and practice**: I consistently connected theoretical concepts to practical implementation, addressing their key challenge of applying theory in professional contexts.\n\n6. **Building confidence**: I addressed common misconceptions and included troubleshooting guidance to help build their professional confidence.\n\nI combined the strongest elements from each version:\n- From Version 1: The clear structure and misconception addressing\n- From Version 2: The \"Over to You\" sections and professional terminology\n- From Version 3: The practical implementation details and connection to future learning\n\nI also improved the content by adding specific industry-standard measurements and file formats, enhancing descriptions of visual elements, and consistently connecting concepts to portfolio development and job market requirements.",
+      "review_summary": "No edit summary provided.",
+      "ai_patterns_detected": 18,
+      "editing_explanation": "I've made several key changes to make this content more human-like and appropriate for HND Graphic Design students:\n\n1. Removed the formulaic \"Introduction\" heading and replaced the generic opening with a more engaging, direct start\n2. Converted American spelling to British (color \u2192 colour)\n3. Replaced all instances of \"essential\" with more natural alternatives\n4. Ensured all reflection sections use \"Over to You\" headings\n5. Reduced overuse of words like \"comprehensive,\" \"ensure,\" and \"crucial\"\n6. Added more varied sentence structures and conversational elements\n7. Incorporated more practical examples relevant to portfolio development\n8. Made language less formal while maintaining professionalism\n9. Added more direct connections to industry practice and portfolio development\n10. Simplified some complex explanations while maintaining technical accuracy",
+      "output_path": "output\\Photography Fundamentals_20250404_105122\\Lesson 3 - Expanding Your Graphic Design Toolkit\\3\\15_Creating Signature Graphic Elements.md",
+      "completion_timestamp": "2025-04-04T11:37:18.379545"
+    },
+    {
+      "module": "Lesson 3 - Expanding Your Graphic Design Toolkit",
+      "lesson": "3",
+      "step_number": "16",
+      "step_title": "Using Color and Design to Shape Atmosphere",
+      "template_type": "Video",
+      "status": "completed",
+      "timestamp": "2025-04-04T10:51:22.274181",
+      "log_entries": [
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module Lesson 3 - Expanding Your Graphic Design Toolkit, Lesson 3, Step 16"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (1105 characters)"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:37:18",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-04-04 11:38:39",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-04-04 11:38:39",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-04-04 11:38:39",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:38:39",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-04-04 11:39:20",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:39:20",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-04-04 11:39:51",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:39:51",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-04-04 11:39:51",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 24 AI patterns"
+        },
+        {
+          "timestamp": "2025-04-04 11:39:51",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-04-04 11:40:28",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:40:28",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-04-04 11:40:28",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to output\\Photography Fundamentals_20250404_105122\\Lesson 3 - Expanding Your Graphic Design Toolkit\\3\\16_Using Color and Design to Shape Atmosphere.md"
+        }
+      ],
+      "comparison_explanation": "No explanation provided.",
+      "review_summary": "No edit summary provided.",
+      "ai_patterns_detected": 24,
+      "editing_explanation": "No explanation provided.",
+      "output_path": "output\\Photography Fundamentals_20250404_105122\\Lesson 3 - Expanding Your Graphic Design Toolkit\\3\\16_Using Color and Design to Shape Atmosphere.md",
+      "completion_timestamp": "2025-04-04T11:40:28.757092"
+    },
+    {
+      "module": "Lesson 3 - Expanding Your Graphic Design Toolkit",
+      "lesson": "3",
+      "step_number": "17",
+      "step_title": "Using Color and Design to Shape Atmosphere",
+      "template_type": "Article",
+      "status": "completed",
+      "timestamp": "2025-04-04T10:51:22.277182",
+      "log_entries": [
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module Lesson 3 - Expanding Your Graphic Design Toolkit, Lesson 3, Step 17"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (953 characters)"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:40:28",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-04-04 11:41:42",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-04-04 11:41:42",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-04-04 11:41:42",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:41:42",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-04-04 11:42:26",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:42:26",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-04-04 11:43:02",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:43:02",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-04-04 11:43:02",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 31 AI patterns"
+        },
+        {
+          "timestamp": "2025-04-04 11:43:02",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-04-04 11:43:46",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:43:46",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-04-04 11:43:46",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to output\\Photography Fundamentals_20250404_105122\\Lesson 3 - Expanding Your Graphic Design Toolkit\\3\\17_Using Color and Design to Shape Atmosphere.md"
+        }
+      ],
+      "comparison_explanation": "No explanation provided.",
+      "review_summary": "No edit summary provided.",
+      "ai_patterns_detected": 31,
+      "editing_explanation": "No explanation provided.",
+      "output_path": "output\\Photography Fundamentals_20250404_105122\\Lesson 3 - Expanding Your Graphic Design Toolkit\\3\\17_Using Color and Design to Shape Atmosphere.md",
+      "completion_timestamp": "2025-04-04T11:43:46.712777"
+    },
+    {
+      "module": "Lesson 3 - Expanding Your Graphic Design Toolkit",
+      "lesson": "3",
+      "step_number": "18",
+      "step_title": "Using Color and Design to Shape Atmosphere",
+      "template_type": "downloadable",
+      "status": "completed",
+      "timestamp": "2025-04-04T10:51:22.281183",
+      "log_entries": [
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module Lesson 3 - Expanding Your Graphic Design Toolkit, Lesson 3, Step 18"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (1238 characters)"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:43:46",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-04-04 11:45:08",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-04-04 11:45:08",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-04-04 11:45:08",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:45:08",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-04-04 11:45:50",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:45:50",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-04-04 11:46:21",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:46:21",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-04-04 11:46:21",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 24 AI patterns"
+        },
+        {
+          "timestamp": "2025-04-04 11:46:21",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-04-04 11:47:02",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:47:02",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-04-04 11:47:02",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to output\\Photography Fundamentals_20250404_105122\\Lesson 3 - Expanding Your Graphic Design Toolkit\\3\\18_Using Color and Design to Shape Atmosphere.md"
+        }
+      ],
+      "comparison_explanation": "No explanation provided.",
+      "review_summary": "No edit summary provided.",
+      "ai_patterns_detected": 24,
+      "editing_explanation": "No explanation provided.",
+      "output_path": "output\\Photography Fundamentals_20250404_105122\\Lesson 3 - Expanding Your Graphic Design Toolkit\\3\\18_Using Color and Design to Shape Atmosphere.md",
+      "completion_timestamp": "2025-04-04T11:47:02.485463"
+    },
+    {
+      "module": "Lesson 3 - Expanding Your Graphic Design Toolkit",
+      "lesson": "3",
+      "step_number": "19",
+      "step_title": "Adapting Visual Systems for New Technologies",
+      "template_type": "Video",
+      "status": "completed",
+      "timestamp": "2025-04-04T10:51:22.285184",
+      "log_entries": [
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module Lesson 3 - Expanding Your Graphic Design Toolkit, Lesson 3, Step 19"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (1116 characters)"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-04-04 10:51:22",
+          "step": "Load Template",
+          "status": "completed",
+          "message": "Template loaded successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:47:02",
+          "step": "Generate Content",
+          "status": "started",
+          "message": "Generating three content versions"
+        },
+        {
+          "timestamp": "2025-04-04 11:48:18",
+          "step": "Generate Content",
+          "status": "completed",
+          "message": "Generated 3 content versions"
+        },
+        {
+          "timestamp": "2025-04-04 11:48:18",
+          "step": "Extract Content",
+          "status": "started",
+          "message": "Extracting educational content from generations"
+        },
+        {
+          "timestamp": "2025-04-04 11:48:18",
+          "step": "Extract Content",
+          "status": "completed",
+          "message": "Educational content extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:48:18",
+          "step": "Compare and Combine",
+          "status": "started",
+          "message": "Comparing and combining content versions"
+        },
+        {
+          "timestamp": "2025-04-04 11:49:07",
+          "step": "Compare and Combine",
+          "status": "completed",
+          "message": "Content versions compared and combined successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:49:07",
+          "step": "Review Content",
+          "status": "started",
+          "message": "Reviewing content for target learner"
+        },
+        {
+          "timestamp": "2025-04-04 11:49:43",
+          "step": "Review Content",
+          "status": "completed",
+          "message": "Content reviewed successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:49:43",
+          "step": "Detect AI Patterns",
+          "status": "started",
+          "message": "Detecting AI patterns in content"
+        },
+        {
+          "timestamp": "2025-04-04 11:49:43",
+          "step": "Detect AI Patterns",
+          "status": "completed",
+          "message": "Detected 8 AI patterns"
+        },
+        {
+          "timestamp": "2025-04-04 11:49:43",
+          "step": "Edit Content",
+          "status": "started",
+          "message": "Editing content to make it more human-like"
+        },
+        {
+          "timestamp": "2025-04-04 11:50:27",
+          "step": "Edit Content",
+          "status": "completed",
+          "message": "Content edited successfully"
+        },
+        {
+          "timestamp": "2025-04-04 11:50:27",
+          "step": "Save Output",
+          "status": "started",
+          "message": "Saving content as markdown"
+        },
+        {
+          "timestamp": "2025-04-04 11:50:27",
+          "step": "Save Output",
+          "status": "completed",
+          "message": "Content saved to output\\Photography Fundamentals_20250404_105122\\Lesson 3 - Expanding Your Graphic Design Toolkit\\3\\19_Adapting Visual Systems for New Technologies.md"
+        }
+      ],
+      "comparison_explanation": "No explanation provided.",
+      "review_summary": "No edit summary provided.",
+      "ai_patterns_detected": 8,
+      "editing_explanation": "I've made several key changes to make this content more human-like and appropriate for HND Graphic Design students:\n\n1. Removed the formulaic \"Introduction\" heading and restructured the opening to be more engaging yet professional\n2. Converted American spelling to British (color \u2192 colour, etc.)\n3. Replaced all instances of \"essential\" with more natural alternatives\n4. Added the \"Over to You\" heading for the reflection practice\n5. Made language less formal and more conversational while maintaining professionalism\n6. Varied sentence structures to create a more natural flow\n7. Added more practical context relevant to graphic design students\n8. Simplified some complex explanations while maintaining technical depth\n9. Incorporated more direct connections to professional applications\n10. Reduced repetitive phrasing and AI-like language patterns",
+      "output_path": "output\\Photography Fundamentals_20250404_105122\\Lesson 3 - Expanding Your Graphic Design Toolkit\\3\\19_Adapting Visual Systems for New Technologies.md",
+      "completion_timestamp": "2025-04-04T11:50:27.840908"
+    }
+  ],
+  "log_file": "logs\\simplified_workflow_20250404_105122.log",
+  "phases_run": [
+    "generate",
+    "compare",
+    "review",
+    "finalize"
+  ],
+  "output_dir": "output\\Photography Fundamentals_20250404_105122",
+  "generation_dir": "output\\Photography Fundamentals_20250404_105122\\generation_results",
+  "comparison_dir": "output\\Photography Fundamentals_20250404_105122\\comparison_results",
+  "review_dir": "output\\Photography Fundamentals_20250404_105122\\review_results",
+  "final_dir": "output\\Photography Fundamentals_20250404_105122\\final_content"
+}

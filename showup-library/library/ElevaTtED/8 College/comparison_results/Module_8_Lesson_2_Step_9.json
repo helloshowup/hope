@@ -1,0 +1,8 @@
+{
+  "module": "8",
+  "lesson": "2",
+  "step_number": "9",
+  "step_title": "Compare-and-Contrast Table",
+  "best_version": "# Career Path Comparison Worksheet\n\n## Instructions\nThis interactive worksheet will help you analyze and compare two potential career paths or college majors you're considering. For each path, you'll evaluate the pros, cons, and overall fit with your personal goals and interests.\n\n1. Select two career paths or college majors you're interested in exploring\n2. Complete the table below, ranking each aspect on a scale of 1-5 (5 being highest)\n3. Add specific notes to explain your rankings\n4. Your responses will automatically save in our learning management system\n\n## Comparison Table\n\n| Criteria | Career/Major Option 1: ____________ | Career/Major Option 2: ____________ |\n|----------|-----------------------------------|-----------------------------------|\n| Salary Potential (1-5) |  |  |\n| Job Growth Outlook (1-5) |  |  |\n| Work-Life Balance (1-5) |  |  |\n| Required Education (1-5) |  |  |\n| Personal Interest Level (1-5) |  |  |\n| Alignment with Skills (1-5) |  |  |\n| Overall Fit (1-5) |  |  |\n| Key Pros |  |  |\n| Key Cons |  |  |\n\n## Reflection Questions\n1. Which option appears to be a better fit based on your analysis?\n2. What additional information might you need before making a final decision?",
+  "explanation": "Error in comparison process: maximum recursion depth exceeded while calling a Python object. Using most structurally complete version as fallback."
+}

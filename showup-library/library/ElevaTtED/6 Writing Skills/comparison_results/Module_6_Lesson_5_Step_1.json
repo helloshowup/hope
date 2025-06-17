@@ -1,0 +1,8 @@
+{
+  "module": "6",
+  "lesson": "5",
+  "step_number": "1",
+  "step_title": "Process Snapshot",
+  "best_version": "# Process Snapshot\n\nThe writing process is evaluated through our automated system that provides immediate feedback on your work. Here's how it works:\n\n1. **Rubric Assessment**: The system checks your:\n   - Brainstorming notes (thoroughness and relevance)\n   - Initial draft (structure and content)\n   - Revision comments (thoughtfulness and application)\n\n2. **Automated Grading**: Your submission receives an instant score based on how well you've demonstrated each step of the writing process.\n\n3. **Achievement Recognition**: When you score 80% or higher, you'll automatically unlock a Writing Process Badge in your student profile.\n\nThis snapshot ensures you're mastering the complete writing cycle: brainstorming ideas, creating drafts, making meaningful revisions, and finalizing your work.\n\nRemember: The focus is on your process, not just the final product!",
+  "explanation": "Error in comparison process: maximum recursion depth exceeded while calling a Python object. Using most structurally complete version as fallback."
+}

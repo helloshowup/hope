@@ -1,0 +1,39 @@
+Project management in graphic design involves coordinating and overseeing design projects to ensure they are completed efficiently, effectively, and within budget. Time management, asset management, and resource management are essential components of project management in graphic design, each playing a crucial role in the successful execution of design projects. 
+Here's how project management principles apply to each of these areas:
+Time Management
+Fig 1. Unsplash (n.d.) Time management
+The following components form the cornerstones of effective time management and are usually the responsibility of the project manager:
+Scheduling: Project managers should create detailed project schedules that outline the timeline, milestones, and deadlines for each phase of the project you are involved in. Schedules include tasks/actions, timelines, dependencies, and allocated resources (e.g. budget, time, tools, etc.), enabling team members to plan their work effectively and track progress.
+Milestones: Milestones are significant points or achievements in a project timeline that mark key stages of your team’s progress. Project managers should set specific milestones for design projects, for instance, completion of initial concept development, client reviews and feedback, and final outcome delivery. Milestones provide clear markers or goal posts for progress and help keep the project on track towards its ultimate aim.
+Deadlines: Deadlines are critical dates by which specific tasks or deliverables must be completed. Project managers should establish clear deadlines for design projects in advance. Deadlines will, typically, be influenced on client requirements, project scope, and resource availability. It is best to communicate deadlines in advance to team members and stakeholders, along with monitoring progress towards meeting deadlines, and taking proactive measures to address any delays or issues that may arise.
+Task prioritisation: Another key responsibility of project managers is to prioritise tasks based on urgency, importance, and dependencies, ensuring that critical tasks are completed on time and that project milestones are met. Project managers should identify the best course of action and allocate the necessary resources accordingly to minimise delays and optimise project timelines.
+Time tracking: Using time tracking tools or software, project managers should constantly monitor and track the time spent by all the team members on tasks/actions. This helps in evaluating project progress, identifying bottlenecks, and making adjustments to ensure that project deadlines are met.
+Asset Management
+Fig 2. Unsplash (n.d.) File management
+The following aspects form part of asset management and are usually the responsibility of the project manager:
+File organisation: It is the task of the project manager to establish a system for organising and managing design assets/files, including images, graphics, fonts, and project files. Project managers should ensure that such assets are stored in a centralised location, with clear naming conventions and folder structures, making it easy for team members to access and share design assets as needed.
+Version control: Project managers hold the responsibility of implementing version control systems to manage revisions and updates to design files and assets. Version control ensures that team members are working with the most up-to-date files, it minimises the risk of errors or inconsistencies, and facilitates collaboration across distributed teams. Version control can be as simple as being cognisant of an assigned file name by using, for example, a numerical code to indicate the version number.
+Asset tracking: It’s also the job of the project manager to track the usage and licensing of design assets, ensuring compliance with copyright laws and licensing agreements. They maintain an inventory of licensed assets, track usage rights, and renew licences as needed to avoid legal issues and ensure continuity of asset availability.
+Resource Management
+Fig 3. Unsplash (n.d.) Budget management
+The following elements constitute resource management and are usually the responsibility of the project manager:
+Human resources: Project managers must allocate human resources, like other graphic designers, illustrators, web designers, etc. and other team members to project tasks. To do this, project managers must consider the individuals’ skills, expertise, and availability to ensure their abilities and competencies match the requirements for the task. In this way, project managers ensure that team members are effectively utilised, avoiding overloading or under-utilising resources, and adjust resource allocation as needed to meet project requirements.
+Equipment and tools: It is the task of project managers to ensure that design teams have access to the necessary equipment, tools, and design software to effectively complete their work and the project. They should be able to coordinate equipment procurement, maintenance on the equipment tools, and any necessary upgrades. This will ensure that teams have access to the latest technology and resources required to produce the best possible design outcomes.
+Budget management: Project managers also oversee project budgets, allocating financial resources for design tools, software licences, printing costs, and other project expenses. They should track project costs, monitor spending, and make adjustments as needed to stay within budgetary constraints while maximising the value and quality of project deliverables.
+Effective project management meetings
+Fig 4. Pexels (n.d.) Meetings
+Tip 1
+Prior to any team meeting, make the purpose of the meeting clear. This can be done typically, through a shared agenda or other forms of communication. If possible, map out steps needed to achieve objectives of the meeting or the project that is up for discussion. It is also important to identify any resources needed in the meeting to facilitate, for example, any necessary decision-making related to the project.
+Tip 2
+Always start meetings on time and do not reward any latecomers, especially if you are the project manager. It is important that you set clear expectations for procedures, including punctuality, as well as other decision-making processes. 
+Tip 3
+Besides starting meetings on time, you should also ensure to keep to the time of the meeting. Encourage communication from other team members and/or stakeholders, but keep to the main points (agenda), act as an anchor to bring discussions back if someone’s diverting, and regularly keep your eye on the clock. 
+Tip 4
+Before wrapping up, briefly summarise what has been agreed upon and the group’s progress. Do this both verbally and in writing to maintain accurate records of what has been discussed and decided. Also, remember to set a time/date for your group’s next meeting if it is not a regularly scheduled time slot. 
+Assign roles
+To help with the above points, it is best to assign roles to members of the group:
+Coordinator: Keeps the process focused and moving. Encourage full participation. Leads reviews/summarises
+Timekeeper: Monitors the clock. Assigns time to each task. Gets agreement on re-allocation of time. Ensures meetings end on time
+Minuter: Records key information. Clarifies/illuminates  progress. Distributes meeting notes/ action points
+Gatekeeper: Manages interruptions and disruptive behaviour e.g. a team member not contributing, monopolising the debate, or making irrelevant comments. Liaises with the outside.
+ 

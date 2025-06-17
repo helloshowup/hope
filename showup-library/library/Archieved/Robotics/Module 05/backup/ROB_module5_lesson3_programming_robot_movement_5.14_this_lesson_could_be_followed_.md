@@ -1,0 +1,3 @@
+# 5.14
+**This lesson could be followed by this game:**
+Sequencer game: "Path Programmer" - Students are shown a maze with a start and end point. They must arrange movement commands (forward, backward, left, right) in the correct sequence to navigate the robot through the maze. As levels increase, the maze complexity increases, requiring more precise sequencing and the use of compound movements or repeated patterns to solve efficiently.

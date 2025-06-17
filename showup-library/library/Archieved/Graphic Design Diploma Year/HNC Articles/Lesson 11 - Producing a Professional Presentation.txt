@@ -1,0 +1,55 @@
+Completing a design is only half the battle. More often than not, you will be expected to deliver a professional presentation of the design to a client, stakeholder or even colleagues. 
+Consider the ’who, what, where, and how’
+Design presentations will vary but the key is to first identify the following: 
+Delivery platform (online or in-person)
+Purpose of the presentation (to inform, pitch ideas, share final designs, etc.) 
+Specific audience (e.g. clients, stakeholders, or colleagues)
+Identifying these areas will help you to make appropriate decisions on how to create the presentation, especially with regard to format, length and elements to include, etc. For example, if you need to deliver a graphic design concept to a client, the presentation will need to include the project brief details and the final 2D mockups or 3D models, at a minimum. If instead, the designs are to be delivered to prominent stakeholders in a big organisation, they will be more interested in the quantifiable figures and information that accompanies the designs. There may also be a case where you wish to create a presentation that showcases your portfolio in an interview? This will mean adding development work to show your technical skills. Perhaps you will be required to present a plan to a room full of colleagues who need to be brought up to speed on a particular project? This will require a presentation with more project management content rather than visuals. 
+Fig 1. Unsplash (n.d.) The nature of your presentation will inform its design
+Whatever the purpose, it is essential to create design presentations that are both professional and engaging.
+What medium should you use to create your presentation?
+While physical design sketches, models, and portfolios were once very effective, this form of presenting a concept is no longer the go-to approach. Instead, there is an array of digital presentation software that you should consider which will allow you to present designs with more ease, flexibility, and professional flair. Even if you are, for example, delivering a design concept for print media, a tangible design prototype should still accompany a digital presentation. 
+Fig 2. Pexels (n.d.) Digital presentations are the most common form of sharing designs with others
+Choosing software to create your design presentation is generally a personal choice, largely depending on the following: 
+App features like animation and effects
+Selection of available templates and themes
+Ease of use
+Collaboration tools
+Supported file types (pdf, .xps, .mp4, .wmv, .jpg, .png, .gif, etc.)
+Fig 3. Unsplash (n.d.) Software like Slidebean has various templates to choose from
+But sometimes it simply comes down to the software your employer insists upon, or what you can afford. Here are some failsafe options:
+PowerPoint
+Slides
+Prezi
+Keynote
+Visme
+Canva  
+What should you include in a presentation?
+What you include in your presentation will depend on the project's scope and the design brief's specifications. In general, the standard delivery of a graphic design for a client, should include the following:
+Cover slide: Typically includes your own business or employer details (e.g. company name and logo, social media links, etc.)
+Contents page: Lists the information contained in your presentation
+Introduction: Briefly describes the project and client requirements
+Overview:  Summarises your design process, from initial brief analysis and research to ideation, testing, and concept refinement
+Final design: The final graphic design, rendered as 2D visuals (e.g. logo, poster, user interface, shop signage, etc.) or as 3D models (e.g. packaging design).
+Final statement: Justifies the design by briefly explaining how it satisfies the brief
+A resource slide: if applicable
+Note: the above are examples of the most common information included in a graphic design presentation. You must look at each project's specific requirements and outcomes and have all of the information the client will need to see.
+Also, remember that the presentation's primary focus should be to introduce all vital design elements to the client with clarity and in a logical order. Refer to the design brief and ensure that all outcomes are addressed for the client in the presentation.
+Fig 4. Different slides should follow a specific style to ensure a cohesive presentation
+Tips for creating a good design presentation
+Ideally, the main body of the presentation should have a strong visual focus that gives the client a clear project overview. This can be combined with smaller amounts of text.
+Do's and don'ts
+Do consider your client’s brand identity when deciding on an appropriate presentation style (e.g. fonts, colour, icons, background, etc.)
+Do consider the essential information points to be covered
+Do present the information logically. Think of it as telling a story and ensure you bring the audience along with you
+Do introduce engaging and relevant visuals with each new screen or slide
+Do accompany these with text pertinent to your audience
+Do keep text to a minimum and condense information to short points and sentences
+Do use bullet points, graphs, diagrams, and timelines
+Do balance the distribution of information evenly throughout the presentation to set up a rhythm and keep the audience's attention. For example, if using a slide presentation, each slide should convey approximately the same amount of information
+Do finish on a strong visual that you feel captures the essence of the design project proposal. This is particularly important in a live presentation setting where it may remain on screen during a questions and answers session
+Don't introduce subject matter or ideas outside the scope of the design brief
+Don't repeat visual content (if possible)
+If you feel that the audience or client will need access to say legal or project management documentation that is not included in the presentation, the following options work well: 
+If you are sending it via email, add the documents as an appendix to the presentation 
+In a live presentation setting, print hard copies to distribute but ensure you do so at the end of the presentation. The goal is to prevent them from stealing focus from the main topics of your presentation

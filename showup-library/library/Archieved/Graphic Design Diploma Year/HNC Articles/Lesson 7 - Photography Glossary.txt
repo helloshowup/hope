@@ -1,0 +1,48 @@
+How do Graphic Designers use photography
+A graphic designer will generally work along side a photographer when set a design project or brief. It is not therefor mandatory that a Graphic Designer knows all detailed aspects of photography but a general understanding of the core principles and methods can be greatly beneficial. 
+Think of it as if you owned a restaurant but you had no idea how to cook or what tasted good. Would you be able to describe to the Head Chef what you wanted to be on the menu?
+A Graphic Designer may be asked to brief a photographer on the project so an understanding of the following terms and techniques would help when outlining the key objectives.
+Glossary of Photography terms and techniques
+●Camera operation (e.g., aperture, shutter speed, ISO, focus, depth of field).
+Aperture is the ‘hole’ or an ‘opening’ in which light travels through to the camera.
+Shutter Speed is how fast the shutter of the camera opens/closes. So essentially how long the shutter remains open for.
+ISO - this term refers to the sensitivity of the camera’s image sensor to light. Essentially it determines how bright or dark the image you take is. You should only increase the ISO to make your image more light if you are unable to brighten the photo using shutter speed or aperture. For example, if the subject matter is ‘moving’ so you cannot have a longer shutter speed as the image would become blurred. ISO increase can cause a grain or ‘noise’ to your images though, so a trade off (balance) may be necessary between ISO, Aperture and Shutter Speed.
+●Lighting (e.g., light meter, natural, enhanced, artificial, colour temperature, white balance, histogram).
+Light meters
+These devices essentially measure how much light there is at any given spot. By using them a photographer is able to ensure the image will have the correct exposure and, as such, capture the perfect image tone.
+Natural Light
+This is light that comes from natural sources (moon or sunlight).
+Enhanced of artificial light
+This is utilised when there is a limited amount of natural light or the natural light is insufficient (after measuring the light levels in the shot with a light meter). 
+This covers everything from flashes and strobes to soft boxes and umbrellas.
+Colour temperature
+The temperature of a photograph varies depending on the light levels and the light source. Light sources are measured in Kelvin which is a measure for temperature and can vary from:
+-   Warm white at around 3000K (Kelvin): to
+Bright daylight at 5000K.
+The higher the temperature (unit of Kelvin) the colder or bluer the light will appear to our eyes and the lower the Kelvin will generally create a red or orange glow.
+●Light modification (e.g., gel, filter, soft box).
+The temperature of light can be manipulated by using gels, filters or soft boxes.
+Gels
+A colour gel can be placed in front of the emitting light course to eliminate light that passes through it. For example, if you place a blue gel in front of a warm light, blue light emitted will be allowed to pass through but all other light emitted in the spectrum will be filtered out.
+Filters
+A filter can be used when taking a photograph (or applied in post production) to, for example, increase contrast and brightness or a filter can also be applied to introduce a texture, tone or effect to the photograph.
+●Lenses.
+A camera will (generally) contain a series of concave and convex lenses which work together to bend and refract light that enters through into the camera.
+Lenses have different focal lengths or ‘magnification’ and are measured in millimetres (mm). The higher the magnification in mm, the longer the focal length and the lower the magnification in mm, the shorter to focal length.
+●Stabilisation.
+A camera will need to be stable in order to produce a sharp and non blurry photograph. Stabilisation can be improved by using hardware such as a tripod, an optical stabiliser or a 3 dimensional gimbal.
+●Storage.
+Traditional (analog) methods in photography utilised film based cameras. Film media is best stored in a dark, cool and low humidity environment. And a traditional film based camera is best stored in a similar environment within a padded case.
+Modern Digital Single Lens Reflex camera’s store their images onto a storage device and are generally much easier to store and maintain. That said, the camera itself is still subject to knocks and drops so is best stored in a padded case. 
+●Darkroom (e.g., chemicals, enlarger, exposure, developing, drying).
+Analogue photography methods require a darkroom in order to process the images from the original film cassette. A dark room will usually be only lit by red light so that when exposing the film and photographic paper don’t become over exposed and ruin the photographs.
+●Editing techniques (e.g., image manipulation, filters, enhancement, RAW).
+Post production photography editing techniques include (but are not limited to):
+Cropping and resizing/framing
+The addition of effect or filters
+Retouching/Sharpening
+Exposure adjustment
+Colour correction/manipulation
+RAW images
+The RAW image file format is utilised by photographers to capture every detail they see within their viewfinder. A RAW image file is uncompressed and contains the most amount of detail out of any of the raster based image files. 
+RAW files are unedited and can often appear ‘flat’ before post production editing/processing.

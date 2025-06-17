@@ -1,0 +1,459 @@
+
+    <div class="markdown-content" style="font-family: Arial, sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 0 auto;">
+        <h1>7.10</h1>
+
+<h1>Building, Testing, and Improving Designs</h1>
+
+<h2>Learning Objectives</h2><p>By the end of this session, you'll be able to:</p>
+<ul>
+<li>Build a robot by using a step-by-step plan</li>
+</ul>
+<ul>
+<li>Test your robot to find what works and what needs fixing</li>
+</ul>
+<ul>
+<li>Make your robot better based on test results</li>
+</ul>
+<h2>Lesson Podcast Discussion: Systematic Testing Approaches for Robotics</h2><p>Systematic testing is like being a robot detective! When engineers build robots, they don't just hope they work - they create step-by-step tests to see exactly how well their robots perform. These tests give them real numbers and observations instead of just guesses. For example, if you're building a robot that follows lines, you might test how fast it can go before it loses the line, or how well it handles sharp turns versus gentle curves. By collecting this information carefully, engineers can pinpoint exactly what needs to be fixed or improved. It's like having a map that shows you exactly where to dig for treasure, instead of just randomly digging holes all over the beach!</p>
+<h2>Implementation Techniques</h2><p>Let's explore how to actually bring your robot designs to life. Think of this as the exciting moment when your drawings and ideas start to become real. Whether you're building a virtual robot on your computer or constructing one with actual parts, having a clear process to follow makes everything easier and more fun.</p>
+<p>&nbsp;</p>
+
+<p>This section covers the foundational approaches to turning robot designs into functional prototypes, whether in virtual or physical environments.</p>
+<h3>Build Planning and Preparation</h3><p>Before you start building your robot, proper planning saves time and prevents frustration. First, gather all your materials and components in one place and check that nothing is missing. Make a list of tools you'll need, from basic screwdrivers to specialized items like wire strippers. </p>
+<p>&nbsp;</p>
+
+<p>Set up your workspace with good lighting and enough room to spread out. Many builders find it helpful to use small containers to organize tiny parts like screws or sensors. This prevents the dreaded "where did that tiny screw go?" problem!</p>
+<p>&nbsp;</p>
+
+<p>Finally, review your design plans and create a step-by-step build sequence. Think about which parts need to be assembled first - usually the main structure or chassis comes before adding motors, and electronics typically go in last to avoid damage during construction.</p>
+<h3>Assembly Procedures and Best Practices</h3><p>When assembling your robot, patience is your best friend! Start by following your build sequence and don't rush. For mechanical parts, make sure connections are secure but not overtightened, which can strip screws or crack plastic parts. </p>
+<p>&nbsp;</p>
+
+<p>When working with electronics, be extra careful with wiring. Color-code your wires if possible (red for power, black for ground) and use labels or a simple diagram to keep track of connections. Always double-check electrical connections before powering up your robot to avoid short circuits.</p>
+<p>&nbsp;</p>
+
+<p>Take photos as you build - these can be incredibly helpful if you need to disassemble something later. And remember, it's normal to make adjustments as you go. Sometimes what looks good on paper needs small changes when built in real life.</p>
+<h3>Virtual vs. Physical Implementation Considerations</h3><p>Building robots virtually (in simulation) and physically each have their own advantages. Virtual robots let you test ideas quickly without spending money on parts. Programs like Tinkercad Circuits or virtual robot simulators let you experiment freely and make mistakes without breaking anything. They're perfect for testing basic concepts or when physical materials aren't available.</p>
+<p>&nbsp;</p>
+
+<p>Physical robots, however, give you hands-on experience with real-world challenges like friction, battery limitations, and sensor accuracy that simulations might simplify. They also provide the satisfaction of creating something you can actually touch and show to others.</p>
+<p>&nbsp;</p>
+
+<p>For example, a weather station robot might work perfectly in a simulation where sensors always give perfect readings. But in the real world, rain might interfere with sensors or wind might affect stability. The Mars rover teams at NASA use both approaches - they test extensively in virtual environments first, then build physical prototypes to discover real-world challenges before the final rover is sent to Mars.</p>
+<p>&nbsp;</p>
+
+<p>If possible, a combined approach works best: test your initial ideas in simulation to work out major problems, then build physically with more confidence. Remember that a robot that works perfectly in simulation might still face unexpected challenges in the real world!</p>
+<h2>Systematic Testing Methods</h2><p>Now that you've built your robot, how do you know if it actually works the way you intended? Just like athletes need to practice before a big game, robots need to be tested before they're put to work. Testing isn't just about seeing if your robot functions—it's about understanding exactly how well it performs and where it might need improvements. Let's explore how to set up tests that give you useful information rather than just a simple "works" or "doesn't work" result.</p>
+<p>&nbsp;</p>
+
+<p>This section explores structured approaches to evaluating robot performance against design goals and specifications.</p>
+<h3>Designing Test Protocols</h3><p>Creating good test protocols is like writing a recipe that anyone could follow to check if your robot works properly. Start by identifying exactly what you want to test - is it speed, accuracy, battery life, or something else? For each aspect, create a specific test case with clear steps.</p>
+<p>&nbsp;</p>
+
+<p>For example, if testing a line-following robot, your protocol might include: "Place robot at the starting line. Start timer when robot begins moving. Stop timer when robot completes the entire course. Record time and count how many times the robot lost the line."</p>
+<p>&nbsp;</p>
+
+<p>Good test protocols should be repeatable (you can do them multiple times with similar results), measurable (giving you numbers or clear observations), and fair (testing under consistent conditions). Include details about the testing environment too - lighting, surface type, and other factors that might affect performance.</p>
+<h3>Data Collection and Documentation</h3><p>Collecting data is how we turn observations into useful information. Create simple tables or charts to record your test results. For example:</p>
+<p>&nbsp;</p>
+
+<p><table>
+<thead>
+<tr>
+<th>Test Run</th>
+<th>Completion Time</th>
+<th>Number of Errors</th>
+<th>Battery Level</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Run 1</td>
+<td>45 seconds</td>
+<td>2</td>
+<td>Full</td>
+</tr>
+<tr>
+<td>Run 2</td>
+<td>48 seconds</td>
+<td>3</td>
+<td>75%</td>
+</tr>
+</tbody>
+</table></p>
+<p>&nbsp;</p>
+
+<p>Don't just write down numbers - also note observations that might explain results: "Robot struggled at the sharp turn near the end" or "Motor seemed to slow down after 2 minutes of operation."</p>
+<p>&nbsp;</p>
+
+<p>Taking photos or videos during testing can be extremely helpful. They capture details you might miss and provide evidence of how your robot performed. Many students find it helpful to keep a testing journal with dates, results, and ideas for improvements all in one place.</p>
+<h3>Performance Metrics and Benchmarks</h3><p>Performance metrics are the specific measurements we use to evaluate success. For a delivery robot, metrics might include how accurately it reaches destinations, how many packages it can carry, or how long its battery lasts.</p>
+<p>&nbsp;</p>
+
+<p>To create meaningful benchmarks (standards for success), consider:</p>
+<ol>
+<li>Minimum requirements: What's the bare minimum your robot must do to be considered functional?</li>
+</ol>
+<ol>
+<li>Target goals: What would make your robot perform well enough for its intended purpose?</li>
+</ol>
+<ol>
+<li>Stretch goals: What would make your robot perform exceptionally well?</li>
+</ol>
+<p>&nbsp;</p>
+
+<p>For example, a line-following robot might have these benchmarks:</p>
+<ul>
+<li>Minimum: Complete the course without leaving the line for more than 3 seconds</li>
+</ul>
+<ul>
+<li>Target: Complete the course in under 1 minute with no more than 2 errors</li>
+</ul>
+<ul>
+<li>Stretch: Complete the course in under 45 seconds with zero errors</li>
+</ul>
+<p>&nbsp;</p>
+
+<p>Having clear metrics and benchmarks helps you objectively determine if your robot is meeting expectations and where improvements are needed.</p>
+<p>&nbsp;</p>
+
+<p>
+            <div class="stop-reflect-container" style="border:3px dashed #e50200; margin:20px 0; padding:0; display:flex; width:100%;">
+                <div class="stop-reflect-image" style="width:20%; min-width:100px; display:flex; align-items:center; justify-content:center; padding:10px;">
+                    <img src="https://api.learnstage.com/media-manager/api/access/exceled/default/lms/courses/1647/Images/Untitled%20design.jpg" 
+                         style="width:100%; height:auto; max-width:150px;" alt="Stop and Reflect">
+                </div>
+                <div class="stop-reflect-content" style="display:flex; flex-direction:column; justify-content:center; padding:15px; width:80%;">
+                    <h3 style="color:#000000; margin-top:0;">
+                    </h3><p> Consider a test where your robot didn't perform as expected. What did this failure teach you about your design assumptions? Reflect on how this unexpected outcome revealed gaps in your understanding of the problem.</p>
+                </div>
+            </div></p>
+<h2>Problem Analysis and Troubleshooting</h2><p>Even the best robot designs rarely work perfectly on the first try. When your robot doesn't perform as expected, it's not a failure—it's an opportunity to learn! Troubleshooting is a normal and valuable part of the engineering process that helps you understand your robot more deeply. Let's look at how to approach problems systematically rather than through random guesswork or frustration.</p>
+<p>&nbsp;</p>
+
+<p>This section covers methodical approaches to identifying and resolving issues discovered during robot testing.</p>
+<h3>Identifying Failure Points</h3><p>When your robot isn't working correctly, finding exactly where the problem lies is the first step to fixing it. Start by breaking down your robot into systems: mechanical (structure, moving parts), electrical (power, wiring), and programming (code, logic).</p>
+<p>&nbsp;</p>
+
+<p>Test each system separately when possible. For mechanical issues, check if parts move freely, if anything is loose, or if components are aligned properly. For electrical problems, verify connections are secure, batteries are charged, and no wires are damaged. For programming issues, try running simplified versions of your code to isolate which parts work and which don't.</p>
+<p>&nbsp;</p>
+
+<p>A helpful technique is the "half-split" method: if you're not sure which of ten components has a problem, test in the middle (component #5). If that works, the problem is in components #6-10. If it doesn't, the problem is in components #1-5. Keep dividing the suspicious area in half until you find the exact failure point.</p>
+<p>&nbsp;</p>
+
+<p>Remember to check the obvious things first! Many "complex" problems turn out to be simple issues like a loose wire, low battery, or a sensor that's been bumped out of position.</p>
+<h3>Root Cause Analysis</h3><p>Finding the root cause means looking beyond the obvious symptom to discover why the problem happened in the first place. For example, if your robot keeps veering to the left, the symptom is the turning, but the root cause could be:</p>
+<ul>
+<li>Uneven wheel sizes</li>
+</ul>
+<ul>
+<li>More friction on one side</li>
+</ul>
+<ul>
+<li>Unbalanced weight distribution</li>
+</ul>
+<ul>
+<li>A programming error in the steering calculations</li>
+</ul>
+<ul>
+<li>A motor that's weaker on one side</li>
+</ul>
+<p>&nbsp;</p>
+
+<p>A useful technique is the "Five Whys" method. Start with the problem and keep asking "why" until you reach the fundamental cause. For example:</p>
+<ol>
+<li>Why is the robot veering left? Because the right wheel is turning faster.</li>
+</ol>
+<ol>
+<li>Why is the right wheel turning faster? Because the left wheel has more resistance.</li>
+</ol>
+<ol>
+<li>Why does the left wheel have more resistance? Because the wheel isn't aligned properly.</li>
+</ol>
+<ol>
+<li>Why isn't the wheel aligned? Because the mounting bracket is bent.</li>
+</ol>
+<ol>
+<li>Why is the bracket bent? Because the material is too thin for the robot's weight.</li>
+</ol>
+<p>&nbsp;</p>
+
+<p>Now you know you need a stronger bracket, not just a programming fix that compensates for the turning!</p>
+<h3>Systematic Debugging Approaches</h3><p>When solving robot problems, working methodically saves time and frustration. Think of yourself as a detective gathering clues rather than making random guesses about what might be wrong.</p>
+<p>&nbsp;</p>
+
+<p>For mechanical debugging:</p>
+<ul>
+<li>Isolate moving parts and test them individually</li>
+</ul>
+<ul>
+<li>Look for interference between components</li>
+</ul>
+<ul>
+<li>Check for loose or overtightened connections</li>
+</ul>
+<ul>
+<li>Verify that parts are properly aligned</li>
+</ul>
+<p>&nbsp;</p>
+
+<p>For electrical debugging:</p>
+<ul>
+<li>Test power sources first (batteries, connections)</li>
+</ul>
+<ul>
+<li>Use a multimeter if available to check voltages</li>
+</ul>
+<ul>
+<li>Verify that all connections are secure</li>
+</ul>
+<ul>
+<li>Look for shorts or damaged wires</li>
+</ul>
+<p>&nbsp;</p>
+
+<p>For programming debugging:</p>
+<ul>
+<li>Add "debug prints" to show values at different points in your code</li>
+</ul>
+<ul>
+<li>Comment out sections to see if problems disappear</li>
+</ul>
+<ul>
+<li>Test simple commands to verify basic functionality</li>
+</ul>
+<ul>
+<li>Check sensor readings to ensure they're providing accurate data</li>
+</ul>
+<p>&nbsp;</p>
+
+<p>Document everything you try and the results you observe. This prevents you from trying the same unsuccessful fix twice and helps you spot patterns that might reveal the underlying problem.</p>
+<h2>Design Iteration Principles</h2><p>After testing your robot and identifying problems, the next exciting step is making improvements. This isn't about starting over—it's about refining what you've already built. The best engineers know that great designs rarely happen on the first try. Instead, they evolve through a series of thoughtful adjustments based on real-world testing. Let's explore how to make your robot better through careful iteration.</p>
+<p>&nbsp;</p>
+
+<p>Now that we've identified problems through testing, let's look at how to make improvements in a systematic way.</p>
+<h3>Making Targeted Improvements</h3><p>Making targeted improvements means changing specific parts of your design based on what your tests revealed, rather than starting over completely. Think of it as precision surgery instead of demolishing and rebuilding a house!</p>
+<p>&nbsp;</p>
+
+<p>Start by connecting each problem directly to a specific improvement. For example:</p>
+<ul>
+<li>If tests show your robot is too slow, you might upgrade motors or reduce weight</li>
+</ul>
+<ul>
+<li>If battery life is too short, you might add a larger battery or optimize power usage in your code</li>
+</ul>
+<ul>
+<li>If sensors are giving inconsistent readings, you might reposition them or add shielding from interference</li>
+</ul>
+<p>&nbsp;</p>
+
+<p>Make one change at a time whenever possible. This way, you'll know exactly which change fixed (or didn't fix) each problem. If you change five things at once and the robot improves, you won't know which change made the difference!</p>
+<p>&nbsp;</p>
+
+<p>Keep your original design goals in mind when making improvements. Sometimes fixing one problem might create trade-offs with other aspects of performance. For example, adding a bigger battery might improve run time but also make your robot heavier and slower.</p>
+<h3>Prioritizing Changes</h3><p>Not all improvements are equally important or equally easy to implement. Prioritizing helps you focus your time and resources effectively.</p>
+<p>&nbsp;</p>
+
+<p>A helpful tool is the impact/effort matrix - a simple chart with four sections:</p>
+<ol>
+<li>High impact, low effort: Do these first! (Quick wins)</li>
+</ol>
+<ol>
+<li>High impact, high effort: Plan these carefully (Major projects)</li>
+</ol>
+<ol>
+<li>Low impact, low effort: Do if you have time (Easy fixes)</li>
+</ol>
+<ol>
+<li>Low impact, high effort: Avoid these (Not worth it)</li>
+</ol>
+<p>&nbsp;</p>
+
+<p>For example, if your garden-monitoring robot keeps getting stuck in mud:</p>
+<ul>
+<li>High impact, low effort: Adding wider wheels (quick win)</li>
+</ul>
+<ul>
+<li>High impact, high effort: Redesigning the entire movement system (major project)</li>
+</ul>
+<ul>
+<li>Low impact, low effort: Making the robot more colorful (easy but not helpful)</li>
+</ul>
+<ul>
+<li>Low impact, high effort: Building a completely new robot (not worth it)</li>
+</ul>
+<p>&nbsp;</p>
+
+<p>Also consider dependencies between changes. Some improvements might need to happen in a specific order. For example, you might need to strengthen your robot's structure before adding heavier components.</p>
+<p>&nbsp;</p>
+
+<p>Finally, focus on fixing critical flaws before making optional enhancements. If your robot can't complete its basic task, making it look cooler or adding extra features should wait until the fundamental functionality works properly.</p>
+<h3>Documenting Design Evolution</h3><p>Keeping track of how your design changes over time is incredibly valuable. Create a design log that records:</p>
+<ul>
+<li>What version of the design you're working on (v1, v2, etc.)</li>
+</ul>
+<ul>
+<li>What specific changes you made in each version</li>
+</ul>
+<ul>
+<li>Why you made those changes (which problems they address)</li>
+</ul>
+<ul>
+<li>How the changes affected performance (with test results)</li>
+</ul>
+<ul>
+<li>Any unexpected consequences of the changes</li>
+</ul>
+<p>&nbsp;</p>
+
+<p>Include photos or diagrams of each version if possible. This visual record makes it easier to see how your design has evolved and might help you identify patterns or issues.</p>
+<p>&nbsp;</p>
+
+<p>Good documentation also helps if you need to "roll back" to a previous version because a change didn't work as expected. Instead of trying to remember how things were before, you'll have clear records to guide you.</p>
+<h1>Activity 2: Iteration Documentation</h1><p>Document improvements between at least two versions of your robot design using before/after comparisons. Create a table or chart that clearly shows what specific aspects were changed, why those changes were made based on test data, and how each change impacted performance. Include visual documentation if possible.</p>
+<h2>Verification and Validation</h2><p>As you near the completion of your robot project, it's important to step back and thoroughly evaluate whether your creation truly meets its intended purpose. This final evaluation phase isn't just about checking off requirements—it's about ensuring your robot will actually work reliably in the real world. Let's explore how to confirm that your robot not only meets technical specifications but also performs effectively in the environments where it will actually be used.</p>
+<p>&nbsp;</p>
+
+<p>This section covers methods for confirming that the improved design meets requirements and performs as expected in realistic conditions.</p>
+<h3>Confirming Requirements Are Met</h3><p>Verification is the process of checking that your robot meets all the specific requirements you established at the beginning of your project. Think of it as going through a checklist to make sure nothing has been forgotten.</p>
+<p>&nbsp;</p>
+
+<p>Start by reviewing your original design requirements. For each requirement, create a specific test that will verify whether it's been met. For example:</p>
+<ul>
+<li>If a requirement was "robot must be able to navigate around obstacles," your verification test might involve placing objects in the robot's path and confirming it successfully avoids them.</li>
+</ul>
+<ul>
+<li>If a requirement was "robot must operate for at least 30 minutes on a single charge," your verification would involve timing a complete run cycle.</li>
+</ul>
+<p>&nbsp;</p>
+
+<p>Create a simple verification table with columns for each requirement, the test method, and whether it passed or failed. This gives you a clear picture of which requirements have been satisfied and which still need work.</p>
+<p>&nbsp;</p>
+
+<p>Remember that verification is objective - a requirement is either met or it isn't. This helps you make clear decisions about whether your robot is ready for real-world use.</p>
+<h3>Validating Real-World Performance</h3><p>Validation goes beyond checking specific requirements to evaluate how well your robot performs its intended function in realistic conditions. While verification asks "Did we build the robot right?", validation asks "Did we build the right robot?"</p>
+<p>&nbsp;</p>
+
+<p>To validate your robot, test it in environments that closely match where it will actually be used. For example:</p>
+<ul>
+<li>If you've built a line-following robot for a competition, practice on courses similar to the competition track</li>
+</ul>
+<ul>
+<li>If you've built a robot to help around the house, test it in actual rooms with real furniture and obstacles</li>
+</ul>
+<p>&nbsp;</p>
+
+<p>Validation often reveals unexpected challenges that didn't show up in controlled testing. Maybe your robot works perfectly on smooth surfaces but struggles on carpet, or works well in bright light but gets confused in shadows.</p>
+<p>&nbsp;</p>
+
+<p>Collect feedback from potential users if possible. If others will be operating your robot, have them try it out and share their experiences. Their perspective might reveal usability issues you hadn't considered.</p>
+<h3>Final Design Documentation</h3><p>Comprehensive documentation of your final design serves multiple purposes: it helps others understand your work, allows you to recreate your robot if needed, and provides a foundation for future improvements.</p>
+<p>&nbsp;</p>
+
+<p>Your final documentation should include:</p>
+<ol>
+<li>Design overview: A high-level description of what your robot does and how it works</li>
+</ol>
+<ol>
+<li>Detailed specifications: Dimensions, weight, materials, components used</li>
+</ol>
+<ol>
+<li>Assembly instructions: Step-by-step guide with diagrams or photos</li>
+</ol>
+<ol>
+<li>Code documentation: Well-commented code with explanations of key functions</li>
+</ol>
+<ol>
+<li>Performance data: Results from your final tests showing how well the robot performs</li>
+</ol>
+<ol>
+<li>Design history: Brief summary of major changes made during development</li>
+</ol>
+<ol>
+<li>Known limitations: Honest assessment of any remaining issues or constraints</li>
+</ol>
+<ol>
+<li>Future improvements: Ideas for how the design could be enhanced further</li>
+</ol>
+<p>&nbsp;</p>
+
+<p>Make your documentation clear enough that someone with similar skills could understand and potentially recreate your robot. Use simple language, include plenty of visuals, and organize information logically.</p>
+<p>&nbsp;</p>
+
+<p>Remember that good documentation is valuable even after your project is complete - it might help you or others build on your work in the future!</p>
+<p>&nbsp;</p>
+
+<p>
+            <div class="stop-reflect-container" style="border:3px dashed #e50200; margin:20px 0; padding:0; display:flex; width:100%;">
+                <div class="stop-reflect-image" style="width:20%; min-width:100px; display:flex; align-items:center; justify-content:center; padding:10px;">
+                    <img src="https://api.learnstage.com/media-manager/api/access/exceled/default/lms/courses/1647/Images/Untitled%20design.jpg" 
+                         style="width:100%; height:auto; max-width:150px;" alt="Stop and Reflect">
+                </div>
+                <div class="stop-reflect-content" style="display:flex; flex-direction:column; justify-content:center; padding:15px; width:80%;">
+                    <h3 style="color:#000000; margin-top:0;">
+                    </h3><p> How did your understanding of the problem change through the testing and improvement process? Consider how your perception of what makes an effective solution evolved based on empirical evidence rather than initial assumptions.</p>
+                </div>
+            </div></p>
+<p>&nbsp;</p>
+
+<p>
+        <!-- Check Your Understanding Section -->
+        <div style="border-bottom-style:solid;border-color:#008000;border-left-style:solid;border-right-style:solid;border-top-style:none;border-width:1px;clear:both;margin-bottom:3em;padding:1em 1em 1.1em;position:relative;">
+            <div style="background-color:#008000;display:block;height:20px;left:-1em;position:relative;top:-1em;width:calc(100% + 2em);">
+                &nbsp;
+            </div>
+            <h2 style="color:#008000;font-size:1.8em;font-weight:500;line-height:1em;margin-bottom:0.2em;margin-top:0;">
+                Check your understanding
+            </h2>
+            <p style="font-family:'Roboto', sans-serif;font-size:0.91em;font-weight:300;line-height:1.6em;">
+                &nbsp;
+            </p>
+            <p>Which approach to design improvement is most effective after initial testing?</p>
+<p>A. Completely redesigning the robot from scratch based on test results</p>
+<p>B. Making multiple major changes simultaneously to address all issues at once</p>
+<p>C. Making targeted, incremental changes based on specific test data, then retesting</p>
+<p>D. Focusing only on the programming aspects since mechanical issues are too difficult to fix</p>
+            <p style="font-family:'Roboto', sans-serif;font-size:0.91em;font-weight:300;line-height:1.6em;">
+                Choose your answer and check it below.
+            </p>
+            <div style="display:none;" id="hiddenAnswer0">
+                <p>
+                    <br>
+                    &nbsp;
+                </p>
+                <p>The correct answer is C. Making targeted, incremental changes based on specific test data, then retesting. The most effective approach to design improvement is to make specific, data-driven changes that address identified issues one at a time, followed by retesting. This methodical approach allows you to clearly see the impact of each change and avoids introducing new problems through overly broad modifications. If you chose a different answer, remember that incremental improvement allows for better tracking of cause and effect relationships between changes and performance.</p>
+            </div>
+            <p>
+                <a style="color:#008000;text-decoration:none;" href="#" onclick="document.getElementById('hiddenAnswer0').style.display='block'; return false;"><strong>Click here to show the correct answer</strong></a>
+            </p>
+        </div></p>
+<p>&nbsp;</p>
+
+<p>
+        <figure class="table" style="float:left;width:92.41%;" data-font-size="14" data-line-height="20">
+            <table class="ck-table-resized" style="border-style:none;" data-font-size="14" data-line-height="20">
+                <colgroup data-font-size="14" data-line-height="20"><col style="width:13.29%;" data-font-size="14" data-line-height="20"><col style="width:86.71%;" data-font-size="14" data-line-height="20"></colgroup>
+                <tbody data-font-size="14" data-line-height="20">
+                    <tr data-font-size="14" data-line-height="20">
+                        <td style="border-style:none;" data-font-size="14" data-line-height="20">
+                            <figure class="image image_resized" style="width:100%;" data-font-size="14" data-line-height="20">
+                                <img style="aspect-ratio:600/600;" src="https://api.learnstage.com/media-manager/api/access/exceled/default/89309a11-e6ae-4133-97a9-93c735f38be4/content-page/4e85aa67-83db-423a-b7de-53b356164071_removalai_preview.png" width="600" height="600" data-font-size="14" data-line-height="20">
+                            </figure>
+                        </td>
+                        <td style="border-style:none;" data-font-size="14" data-line-height="20">
+                            <h3 data-font-size="16" data-line-height="23">
+                                <span style="color:hsl(359,97%,29%);"><span data-font-size="16" data-line-height="23"><strong data-font-size="16" data-line-height="23">Key Takeaways</strong></span></span>
+                            </h3>
+                            <ul>
+<li>Building robots requires careful planning, organized assembly, and testing in both virtual and real environments to find what works best.</li>
+<li>When testing robots, collect specific data and measurements to pinpoint exactly what needs fixing instead of just guessing what's wrong.</li>
+<li>Making one small improvement at a time and testing after each change helps you create a better robot than trying to fix everything at once.</li>
+</ul>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </figure></p>
+<p>&nbsp;</p>
+    </div>
+    

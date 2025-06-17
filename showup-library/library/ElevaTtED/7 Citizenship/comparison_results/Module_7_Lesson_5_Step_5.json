@@ -1,0 +1,8 @@
+{
+  "module": "7",
+  "lesson": "5",
+  "step_number": "5",
+  "step_title": "Mastery Self-Report Gate",
+  "best_version": "# Mastery Self-Report Gate\n\n## Instructions for Submission\n\nTo complete this assessment, you will need to:\n\n1. Take a screenshot of your civic competencies dashboard showing your current progress\n2. Write a 100-word reflection addressing:\n   - Key areas of growth in your civic competencies\n   - Specific feedback you've implemented\n   - How this feedback has improved your understanding\n\n## Submission Rubric\n\n| Criteria | Points | Description |\n|----------|--------|-------------|\n| Dashboard Screenshot | 5 | Clear, complete image of your dashboard |\n| Reflection Completeness | 5 | Addresses all required elements within word count |\n| Depth of Insight | 10 | Demonstrates thoughtful analysis of feedback implementation |\n| Application Evidence | 5 | Shows concrete examples of how feedback was applied |\n\nThis gate ensures you've not only received feedback but have meaningfully applied it to develop your civic competencies before proceeding.",
+  "explanation": "Error in comparison process: maximum recursion depth exceeded while calling a Python object. Using most structurally complete version as fallback."
+}

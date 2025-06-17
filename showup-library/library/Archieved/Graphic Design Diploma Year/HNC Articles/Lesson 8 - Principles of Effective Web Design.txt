@@ -1,0 +1,286 @@
+Principles of Effective Web Design
+Excerpt from
+http://shortiedesigns.com/2014/03/10-top-principles-effective-web-design/
+Usability and the utility, not the visual design, determine the success or failure of a web-site.
+According to Krug’s first law of usability, the web-page should be obvious and self-explanatory. When you’re creating a site, your job is to get rid of the question marks.
+Users appreciate quality and credibility.
+Content is more important than the design which supports it.
+Users don’t read, they scan.
+Web users are impatient and insist on instant gratification.
+Users follow their intuition.
+Users usually just guess.
+Users want to have control.
+PURPOSE
+COMMUNICATION
+TYPEFACES
+COLOURS
+IMAGES
+NAVIGATION
+GRID BASED LAYOUTS
+“F” PATTERN DESIGN
+LOAD TIME
+MOBILE FRIENDLY
+PURPOSE
+Good web design always caters to the needs of the user. Are your web visitors looking for information, entertainment, some type of interaction, or to transact with your business? Each page of your website needs to have a clear purpose, and to fulfill a specific need for your website users in the most effective way possible.
+Have a clear call to action
++-	C	A1rbnb. lee.IUSJ  hnps://WWW.airbnb.com/?al=43720035&c=A..TC%3Dayhw8a5ec9%26G_MT%3De%26G_C R%3D59519016503%26G_N%3Dg%26G_K%3Dair%20b%26b%26G_P%3D%26G_D%3Dc&gclid=CjwKEAjwp 56wBRDThOS23vqGzmESJABjNaj9T*R
+Hosting opens up a world of opportunity
+Earn money sharing your extra space with travellers.
+See What You Can Earn
+COMMUNICATION
+People on the web tend to want information quickly, so it is important to communicate clearly, and make your information easy to read and digest. Some effective tactics to include in your web design include: organising information using headlines and subheadlines, using bullet points instead of long windy sentences, and cutting  the waffle.
+Forms
+In every project when you are going to offer your visitors some service or tool, try to keep your user requirements minimal. Forms should only ask the necessary.
+Information should be grouped.
+Effective writing
+Use short and concise phrases (come to the point as quickly as possible)
+Use scannable layout (categorize the content, use multiple heading levels
+Use visual elements and bulleted lists which break the flow of uniform text blocks) use plain and objective language
+HUGE	- 
+What we do.
+\Ve create expenences that transform brands. grow busmesses and make people's lives better.
+home
+headlines
+Wednesday
+13 January 2016
+Now
+s·c
+17,00  20,00  HOO  02,00
+3•c	2°c	2°c	2°C
+Q;,	�	�	Q;,
+Dublin	o,
+America divided Obarna regrets era of 'rancour' in State of the Union address
+1,260
+Swedish PM reveals 'great anger' over
+FIFA	.:
+Fifa Suspended secretary general
+Poland EU investigates government's controversial new laws
+"'·		
+Cameroon Female suicide bombers kill at least 1O in mosque attad<
+Ebola Epidemic to be declared over as Llberia expects all-clear
+5
+Canada Campaigners demand debate on contrnversial anti-terror law
+reports of sex attacks
+Denmark proposal Refugees to
+give up valuables
+Jerome Valcke fired
+'The right thing for me to do' UK cabinet minister comes out as gay
+Turkey Three Russians held after Istanbul attad<
+Looking for Oropbox.com? Click here
+v Dropbox Sales	X
+c Adrien: Hi there, how are you hoping to use Dropbox Business?
+Join the 150,000 businesses using Dropbox Business	._
+c Start typing to chat...
+TYPEFACES
+In general, Sans Serif fonts such as Arial and Verdana are easier to read online (Sans Serif fonts are contemporary looking fonts without decorative finishes).
+The ideal font size for reading easily online is 16px and stick to a maximum of 3 typefaces in a maximum of 3 point sizes to keep your design streamlined.
+Serif fonts or a combination of fonts can increase the aesthetic appeal of your site. Also they are becoming more legible because screen resolutions are improving.
+Fonts should be considered when designing a concept. Usually you wouldn’t use more than 3 types of fonts.
+SHORTIEOESIGNS
+Go  gle Fonts	More scripls  About  Analytics  New to Google Fonts?
+708 font families shown	Word	Senternce	Paragraph	Poster
+Preview Tex!:  Grlllnpy wi,zards make toxic brew for the evil ,..	l!!!!!I ""	Si,ze:  28 J)X	Sorting:  Popularity
+Filters:
+All categories
+Thickness
+Slant
+Width
+Script: Latin
+01
+From celebrated documentarian Asif Kapadia. AMY is a powerful documentary exploring the triumphant career and tragic life of singer Amy Winehouse.
+THE FORECASTER
+= MENU	January  2016	The interactive extension  of the documentary  film  I DOW	+3.93%	Q. SEARCH
+Did World War III Start on the Precise Day of the ECM?
+Sunday, Octobef 4th, 2015 / WorldEvents / Share
+Martin Armstrong on his biog about 2015.75 and one particular political decision: "Russia began bombing CIA-trained rebels in Syria precisely on the day of the turn in the Economic Confidence Model. As CNN pointed out, the bombing continues. Now, hundreds of Iranian troops have arrived in Syria to join a major ground offensive in support of President Bashar al-Assad's government.
+Clearly, the civil war in Sy1ia is escalating. We will see this unfold as a proxy war directly between U.S. and Russia with China supporting the Russian side in this game. This conflict is turning regional and global in scope by drawing in the world powers all because the U.S. war machine thinks this is a game. [...] TI1is should be of great concern because historically, whatever unfolds on tl1e precise day of the ECM, becomes an important event." Read the whole article on Martin Armstrongs Biog.
+Is Martin Armstrong's Debt Crisis Upon Us?
+Friday, October 2nd, 2015 / Martin Armstrong's F.. / Share
+Michael McKenna checks on Martin Armstrongs 2015.75 prediction for tradingfloor.com: "It is in this sense that finance belongs to tl1e most antique class ofhun1an activities, and it would follow, then, that analysts whose data stores and models extend fmthest into the past might have an advantage in extracting future events from past beha,iours and the patterns tl1at have contained them.
+"You can always find someone who is calling for a crisis around the corner", says Saxo Bank bond trader Michael Boye; [...]. More specifically, howe,·er, Boye does state tl1at he agrees in principle witl1 Anustrong's debt crisis thesis. "What we have done since the financial crisis", he says, "is move all the debt problems from the balance sheets of individuals, banks, and corporations onto governments on the fiscal side, while massive central bank liquidity injections have kept the system afloat in the monetary side". Read the whole article at tradingf)oor.com.
+How to use The Forecaster Interactive
+Discover the Truth about The Forecaster
+The Euro crisis. out of control government Clebt. popping real estate bubble, milltary conflicts - anel one man who preelicteel It all. The documentary The Forecaster tells the story of
+Martin Armstrong. whose preelictiOns in the 1980s shook entire economies. When he refused to manipulate the markets, Armstrong became the subject of an unpreceelenteel miscarriage of Justiee.
+The Forecaster Interactive is the online companiOn to the movie. With exclusive vieleos. interviews, original documents, anel curated news artieles, you can Clive into the workl of Martin Armstrong. Is he a con man or a genius? Using the evielence anel source materials in the timeline. you can check Armstrong's statements anel Cleciele for yourself. Are his forecasts right? Use the menu to Jump to key moments in the film anel the filters to search for specific informatiOn anel explanatiOns.
+Cliek here to view the introductory vieleo.
+Au io	f-ea	nes	The J ur	Sh p	,., CART	X
+Sign up and win A2 Wireless, Bluetooth speaker
+We'll draw a winner at random The compet1t1on ends on February 4 2016 at 1000CET
+SIGN UP
+COLOURS
+A well thought out colour palette can go a long way to enhance the user experience. Complementary colours create balance and harmony. Using contrasting colours for the text and background will make reading easier on the eye.
+Vibrant colours create emotion and should be used sparingly (e.g. for buttons and call to actions). Last but not least, white space/ negative space is very effective at giving your website a modern and uncluttered look.
+Is this legible?
+Is this legible?Is this legible? Is this legible? Is this legible?Is this legible? Is this legible? Is this legible?Is this legible? Is this legible? Is this legible? Is this legible?
+MEO  HOLM MARCHER & CO.
+Nikon
+Kentuck fried Chicken	f 	a 
+PROMOTIONS	CHICKEN	SANDWICHES	MEALS	$5 FILL UPS	SIDES	CLASSICS	DESSERTS	DRINKS	SAUCES
+IMAGES
+A picture can speak a thousand words, and choosing the right images for your website can help with brand positioning and connecting with your target audience. If you don’t have high quality professional photos on hand, consider purchasing stock photos to lift the look of your website.
+Also consider using infographics, videos and graphics as these can be much more effective at communicating than even the most well written piece of text.
+ACADEMY AWARD WINNING PRODUCERS OFARGO
+MAYTHEBEST CAMPAIGN WIN.
+OUR BRAND IS
+CRISIS
+HOMf
+CAST &CRfW STORY PARTNfRS TUMBlR
+- 	f	
+R  Ulllll!EliCl■IIC  .
+WATCHTRAIIH
+llW[S[llll RlffRUC[S
+© 2015Warner Bros. Ent Al Ri;Jhts Reserved MPAA / Film Ratings/ ParentalGuide
+legal Privacy Paicy/TermsOfUse/AdChcices
+ROLL
+TED Watch	Discover	Attend	Participate	About	Search...	Q	Log in	Sign up
+Share this idea
+00000	101, 538 views
+Share this talk and
+I track your influence!
+Fa.o:'oook Twitt r	Email	Emced	Mor:
+We've invested so much in police departments as protectors that we have forgotten what it means to serve our communities, says Baltimore Police officer Lt. Colonel Melvin Russell. It's led to coldness and callousness, and it's dehumanized the police force. After taking over as district commander
+NAVIGATION
+Navigation is about how easy it is for people to take action and move around your website. Some tactics for effective navigation include a logical page hierarchy, using bread crumbs, designing clickable buttons, and following the ‘three click rule’ which means users will be able to find the information they are looking for within three clicks.
+Primary navigation options are typically deployed in a horizontal  menu  bar  along  the  top  of  the  site.
+Footer navigation is found at the bottom of a page. Because of mobile design navigation is being explored more.
+When styling navigation ensure that it is intuitive. If it is unconventional test it.
+Wed, Jan 13, 2016
+SUBSCRIBE	.,
+THE IRISH TIMES	:,6 5•c
+      
+NEWS	SPORT	BUSINESS	OPINION	LIFE &STYLE	CULTURE	MORE 0 VIDEO (@ PODCASTS J JOBS
+Election 2016 I Ireland	World I Politics I Crime & Law I Social Affairs	Health I Education	All News T
+Latest News
+Irish Cancer Society partially reverses funding cut
+23mins
+Nicky Byrne hOpes to enel dismal Irish Eurovision run
+26mins
+'Making A Murderer' convict files new appeal
+28mins
+MH370 search finds 19th century shipwreck deep in ocean
+31mins
+Woman's car stolen at knife-point after giving man a lift
+Crime & Law I 13:59
+Denis O'Brien named after losing appeal on tax case
+Crime&Law I 11:13
+Mother saw man being shot in face outside creche, inquest told
+36mins
+Most Read
+Man in his twenties
+arrested after large-scale
+Case concerns Revenue		
+finding that O'Brien tax
+Garda operation to intercept car in Co Cork
+return 15years ago was insufficient particularly in
+,,_,_6:_.., 6- ----• -...-.- -& C--6 •-•---. -• -.---
+1 Gordon D'Arcy: Impressive Andy Farrell can help Munster stop the rot
+Close
+Home
+Chapters
+Gallipoli Map
+The Archive
+;;1;,,mt1.
+EPISODE 2
+FOR THE LOVE OF CHICKEN
+Inspired by the story of Abimael Montano-Gutierrez
+<	>
+BONUS CONTENT
+t.'l •	SHARE HD EARii
+PlayAll	0	0	0	0	0	0	follow+
+GRID BASED LAYOUTS
+Placing content randomly on your web page can end up with a haphazard appearance that is messy. Grid based layouts arrange content into sections, columns and boxes that line up and feel balanced, which leads to a better looking website design.
+_  SECTIONS	Q. SEARCH
+U.S.  INTERNATIOM	1 _t
+Wednesday,.lanuary 13, 2016	Ioday's Paper
+llltr
+9"F  S. & P. 500 +0.08% t
+Wortd  U.S.  Pol ics  N.Y.  Business  Opinion  Tech  Scienoe  Health  Sports  Arts
+Style  Food  Travel  Magazine  T
+agazine  Real Estate A L
+Obama Offers Hopeful Vision While Noting Nation's Fears
+By JULIEHIR.sCHFELDDAVIS and
+MICHAEL D, SHEAR
+In his last State of the nion address, Pr,esident Obama
+The Opini, n Pages
+President Obama's Call to Amer.ica's Better Nature
+BfTIIBEDITORL-UBOARD
+The speech attempted to lift Americans ahove the miasma of a brutal presidential campaign to reflect on the nation's achievements and resilien-ce.
+soughuo paint a hopeful portrait. But h,e acknowleclg,ed that many Americans felt shut out of a political and economic system th,eyview as rigg,ed.
+"708 Comments
+""· Otiama deivered his- fin:al St:ate of the Union :address.
+Doug M 15fTl>o New Yoll: Tunes
+-( ► lofB
+DP-ED I ERYCE COVERT
+When the State of the Union Is Strong, but Doesn't Feel Like It Is
+How th,e president's economic me.ssag,e contrasts with what
+Friedman: The Age of Protest
+Edsall: The Republlcan Party's 50-State Solution
+Op-!Ed: Where Police Viotence Encounters Mental Illness
+Op-!Ed: Teach Your Teaooers
+· Read the Speedh
+	 2016 candidates ar,e saying.
+NEWS ANALYSIS
+Well
+Op-Ed: Brazil's Digital
+MO E IN POLITICS
+Amid Would-Be S11oc.essors, Obama Points to Successes
+Highlighil:s: bsue by Issue
+Michelte Obama Wears Optilrnism for All to See
+Iran Quickly
+Releases U.S.
+v.nytime,.rnm/page /business/index.htm
+Speech ls One Half of Nation's Political Split Screen
+By PETER BAKER
+President Obama has been trying to counter the glass-is-half­ empty conversation coming from Jtepublicans.
+·■◄ Watch·: Analysis of the Speech
+Your Wed11esday Briefing
+lly .WEEL HASSAN 5:44 AM ET
+Her,e's what you n,eed to know
+1y.
+Kristof: My fake on the State of the Union Address
+7m
+Backlash.
+Join us on Facebook »
+Tre awards for des gn creat1v1ry and irnovat or on the lnterret	Are you a IT'el'T'ber' Register I  Login
+AWiNiNARDS®
+Site of The Day	Category
+HOME
+Graphic design
+WINNERS
+Colar
+NOMINEES
+Country
+SHOP	JOBS	BLOG	ABOLT LS	SUBMIT YOUR SITE	Q.
+□
+Graphic design websites
+3EST WE3SITES EXAMPL S o: O SIGNS WIT!- G=l.APHIC DESIGN
+168 =l.esults 'or 'Graphic design websites'
+	
+Assos
+3y AQuest from Italy w tn 7.03
+Cryptaris Mission
+3y Mccann WorldGroup from U.5.A. w th 7.54
+Digital
+We're an award-winning digital agency based in Soho. We ork with brands serious about their digital futures. We're their partners for the journey.
+our services/
+COCKTAIL B AR	RESTAURANT
+bright and ai� first floor dining room is a really comfortabl . . .. . to relax and enjoy lunch m dinnm and a glass m two at fine wine_ We use locally sourced seasonal P-roduce where P.Ossible combin.ed .witn
+restaurant witn an
+MEN US	EVENT  SPA CE	GARDEN
+ABOUT
+MENUS
+A LA CAR TE	PRE  THEAT RE
+LUN CH	I	G ROUP
+WINE
+Book Online
+52-55 Drury St, Dublin 2 reservations@drurybuildings.com
+“F” PATTERN DESIGN
+Eye tracking studies have identified that people scan computer screens in an “F” pattern. Most of what people see is in the top and left of the screen and the right side of the screen is rarely seen. Rather than trying to force the viewer’s visual flow, effectively designed websites will work with a reader’s natural behaviour and display information in order of importance (left to right, and top to bottom).
+Headhne	Sheu d B
+LOAD TIME
+Nobody likes a website that takes ages to load. Tips to make page load times more effective include optimising image size and scale, combining code into a central CSS or JS file (this reduces HTTP requests) and minify HTML, CSS, JS (compressed to speed up their load time).
+MOBILE FRIENDLY
+It is now commonplace to access websites from multiple devices with multiple screen sizes, so it is important to consider if your website is mobile friendly. If your website is not mobile friendly, you can either rebuild it in a responsive layout (this means your website will adjust to different screen widths) or you can build a dedicated mobile site (a separate website optimised specifically for mobile users).
+Test your concept
+According to Steve Krug, testing one user is 100% better than testing none and testing one user early in the project is better than testing 50 near the end. After you’ve worked on a site for few weeks, you can’t observe it from a fresh perspective anymore.

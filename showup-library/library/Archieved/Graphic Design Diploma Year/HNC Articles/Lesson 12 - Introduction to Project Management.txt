@@ -1,0 +1,66 @@
+What is a project?
+When we talk about a ‘project’, it generally refers to a unique set of activities that must deliver an outcome that is finite and bounded. A project has various characteristics including being non-routine or a once-off creative process with defined start and end dates, often intending to bring about something novel while bringing together people who are not used to working together and/or being risky.
+Project design happens prior to commencing with the project activities. It’s an essential, early phase process that involves identifying the key features, structure, criteria for success, and major deliverables of the project. Then a plan is set up to achieve these goals.
+Fig 1. Pixabay (n.d.) Project management
+The project manager
+One of the key stakeholders in any project is the Project Manager (PM). This person is responsible for leading the project effort from inception to its successful completion. A PM's role is essential to the success of the project so they need to be strong leaders who are able to negotiate, solve problems, motivate their team, communicate effectively, and be able to influence and persuade others.
+Why do projects fail?
+Projects don’t always go as planned. Sometimes you get really excited about a particular design project and you start off well by doing your homework, coming up with a solid plan, and getting a strong team together. You hit the ground running, and it’s smooth sailing for a few days or even weeks…until it’s not. Hurdles can come unexpectedly and before you know it, suddenly your team is not meeting deadlines, your deliverables fall short of a client’s expectations, you are running over budget, or your supervisor is not satisfied with your progress.
+Fig 2. Unsplash (n.d.) A project that derails needs a thorough review
+If this happens, it is time to review the project and reflect on what caused the issues. Typically, a project fails based on one or more of the following:  
+Poor communication
+Insufficient resource planning
+Unrealistic schedule
+Poor project requirements
+Lack of stakeholder buy-in
+Undefined project closure criteria
+Unrealistic budgets
+Insufficient/no risk planning
+Lack of change control process
+Why do projects succeed?
+Just as projects have the potential to fail or experience some challenges, they can also be hugely successful. With just a few checks and measures, even a novice project manager can lead a successful design project. 
+Fig 3. Unsplash (n.d.) Team success
+Here are a few essential elements to fail proof your design projects: 
+Have a detailed project management plan
+Provide stakeholder support
+Employ customer/user engagement (empathy)
+Have a clearly defined project scope 
+Have clearly defined project goals/objectives
+Include metrics for controlling the project
+Plan for more time
+Communicate effectively with all stakeholders throughout the project 
+Incorporate feedback throughout the process
+Project management planning
+Take the following steps to ensure that your design projects are well managed.
+Step 1 
+Define the project:
+What needs to be done to complete the project?
+Define the boundaries of the project.
+Identify goals, objectives and key deliverables.
+Detail all risks and assumptions.
+Project management and processes - who is responsible?
+Agree everything upfront.
+Step 2
+List each task/action that you and/or your team members need to complete from the initiation phase to delivery to completion. Decide how granular to make each task and clearly assign roles and responsibilities.
+Step 3 
+Allocate each resource you need for each task and action.
+Step 4
+Estimate and allocate time (hours or days) and costs for each task and action.
+Step 5
+Assess potential risks to the project i.e. unplanned events like a team member dropping out of the project because of illness. Reduce the risks by estimating the likelihood and seriousness of the various hypothetical scenarios and identify ways to either prevent or overcome issues should they occur.
+Step 6
+Monitor the project’s speed and progress at key points in the design process. Fill in achieved tasks on the project management plan so you can accurately gauge the progress of your team in terms of time and budget.
+Step 7
+Your project plan may need adjusting in order to reach the project goals. Any plan can be altered, but the projected objectives cannot change. Consider, for example, whether you should:
+Change end date?
+Increase the budget?
+Get more people?
+Reduce quality?
+Reduce features?
+Fig 4. Freepik (n.d.) Gantt chart example
+Other project management plan considerations:
+Your project management plan is best produced in a table format/Gantt chart document
+Organise and group the tasks where possible under defined headings
+Tasks can be further split into smaller tasks under one heading
+Include a brief description of the task
+Provide a key to indicate the progress of the project

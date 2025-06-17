@@ -1,0 +1,270 @@
+{
+  "course_name": "Physical Education Course",
+  "csv_path": "temp\\filtered_csv_20250424_085149.csv",
+  "start_time": "2025-04-24T08:51:49.446136",
+  "status": "completed",
+  "processed_rows": [
+    {
+      "module": "1",
+      "lesson": "1",
+      "step_number": "1",
+      "step_title": "Understanding Physical Fitness",
+      "template_type": "Article",
+      "status": "error",
+      "timestamp": "2025-04-24T08:51:49.465996",
+      "log_entries": [
+        {
+          "timestamp": "2025-04-24 08:51:49",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module 1, Lesson 1, Step 1"
+        },
+        {
+          "timestamp": "2025-04-24 08:51:49",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-24 08:51:49",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-04-24 08:51:49",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (401 characters)"
+        },
+        {
+          "timestamp": "2025-04-24 08:51:49",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-04-24 08:51:50",
+          "step": "Error",
+          "status": "error",
+          "message": "maximum recursion depth exceeded while calling a Python object"
+        }
+      ],
+      "error": "maximum recursion depth exceeded while calling a Python object",
+      "completion_timestamp": "2025-04-24T08:51:50.121322"
+    },
+    {
+      "module": "1",
+      "lesson": "1",
+      "step_number": "2",
+      "step_title": "Components of Fitness",
+      "template_type": "Article",
+      "status": "error",
+      "timestamp": "2025-04-24T08:51:50.121322",
+      "log_entries": [
+        {
+          "timestamp": "2025-04-24 08:51:50",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module 1, Lesson 1, Step 2"
+        },
+        {
+          "timestamp": "2025-04-24 08:51:50",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-24 08:51:50",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-04-24 08:51:50",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (731 characters)"
+        },
+        {
+          "timestamp": "2025-04-24 08:51:50",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-04-24 08:51:50",
+          "step": "Error",
+          "status": "error",
+          "message": "maximum recursion depth exceeded while calling a Python object"
+        }
+      ],
+      "error": "maximum recursion depth exceeded while calling a Python object",
+      "completion_timestamp": "2025-04-24T08:51:50.749605"
+    },
+    {
+      "module": "1",
+      "lesson": "2",
+      "step_number": "1",
+      "step_title": "Exercise Safety at Home",
+      "template_type": "Article",
+      "status": "error",
+      "timestamp": "2025-04-24T08:51:50.750605",
+      "log_entries": [
+        {
+          "timestamp": "2025-04-24 08:51:50",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module 1, Lesson 2, Step 1"
+        },
+        {
+          "timestamp": "2025-04-24 08:51:50",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-24 08:51:50",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-04-24 08:51:50",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (811 characters)"
+        },
+        {
+          "timestamp": "2025-04-24 08:51:50",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-04-24 08:51:51",
+          "step": "Error",
+          "status": "error",
+          "message": "maximum recursion depth exceeded while calling a Python object"
+        }
+      ],
+      "error": "maximum recursion depth exceeded while calling a Python object",
+      "completion_timestamp": "2025-04-24T08:51:51.383321"
+    },
+    {
+      "module": "1",
+      "lesson": "3",
+      "step_number": "1",
+      "step_title": "Setting SMART Fitness Goals",
+      "template_type": "Article",
+      "status": "error",
+      "timestamp": "2025-04-24T08:51:51.383321",
+      "log_entries": [
+        {
+          "timestamp": "2025-04-24 08:51:51",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module 1, Lesson 3, Step 1"
+        },
+        {
+          "timestamp": "2025-04-24 08:51:51",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-24 08:51:51",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-04-24 08:51:51",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (702 characters)"
+        },
+        {
+          "timestamp": "2025-04-24 08:51:51",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-04-24 08:51:52",
+          "step": "Error",
+          "status": "error",
+          "message": "maximum recursion depth exceeded while calling a Python object"
+        }
+      ],
+      "error": "maximum recursion depth exceeded while calling a Python object",
+      "completion_timestamp": "2025-04-24T08:51:52.014069"
+    },
+    {
+      "module": "1",
+      "lesson": "4",
+      "step_number": "1",
+      "step_title": "Self-Assessment Techniques",
+      "template_type": "Article",
+      "status": "error",
+      "timestamp": "2025-04-24T08:51:52.014069",
+      "log_entries": [
+        {
+          "timestamp": "2025-04-24 08:51:52",
+          "step": "Extract Variables",
+          "status": "started",
+          "message": "Extracting variables for Module 1, Lesson 4, Step 1"
+        },
+        {
+          "timestamp": "2025-04-24 08:51:52",
+          "step": "Extract Variables",
+          "status": "completed",
+          "message": "Variables extracted successfully"
+        },
+        {
+          "timestamp": "2025-04-24 08:51:52",
+          "step": "Build Context",
+          "status": "started",
+          "message": "Building context from adjacent steps"
+        },
+        {
+          "timestamp": "2025-04-24 08:51:52",
+          "step": "Build Context",
+          "status": "completed",
+          "message": "Context built successfully (389 characters)"
+        },
+        {
+          "timestamp": "2025-04-24 08:51:52",
+          "step": "Load Template",
+          "status": "started",
+          "message": "Loading content generation template"
+        },
+        {
+          "timestamp": "2025-04-24 08:51:52",
+          "step": "Error",
+          "status": "error",
+          "message": "maximum recursion depth exceeded while calling a Python object"
+        }
+      ],
+      "error": "maximum recursion depth exceeded while calling a Python object",
+      "completion_timestamp": "2025-04-24T08:51:52.648661"
+    }
+  ],
+  "log_file": "logs\\simplified_workflow_20250424_085149.log",
+  "phases_run": [
+    "generate",
+    "compare",
+    "review",
+    "finalize"
+  ],
+  "output_dir": "output\\Physical Education Course_20250424_085149",
+  "generation_dir": "output\\Physical Education Course_20250424_085149\\generation_results",
+  "comparison_dir": "output\\Physical Education Course_20250424_085149\\comparison_results",
+  "review_dir": "output\\Physical Education Course_20250424_085149\\review_results",
+  "final_dir": "output\\Physical Education Course_20250424_085149\\final_content",
+  "workflow_log": "output\\Physical Education Course_20250424_085149\\workflow_log.md",
+  "end_time": "2025-04-24T08:51:52.650663",
+  "success_count": 0,
+  "error_count": 5,
+  "phases_completed": []
+}

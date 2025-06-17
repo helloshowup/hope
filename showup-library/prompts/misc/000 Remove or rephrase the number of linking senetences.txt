@@ -1,0 +1,27 @@
+"Please review this content for sentences at the beginning of paragraphs that act as strong linking mechanisms to previous ideas. This includes not only explicit linking phrases like 'Furthermore,' 'However,' etc., but also sentences that begin with a phrase or clause that directly refers back to or builds upon a topic, concept, or statement made in the preceding paragraph.
+
+Look for sentences that start with structures such as:
+
+Participial phrases: (e.g., 'Building on our previous discussion of...', 'Considering the findings of...', 'Having explored...')
+Prepositional phrases indicating connection: (e.g., 'In light of...', 'With regard to...', 'Following our analysis of...')
+Adverbial clauses of reason or time (when they clearly refer back): (e.g., 'Because we have established...', 'Now that we understand...')
+Other introductory phrases that explicitly connect to the prior content.
+Count the number of paragraphs where the first sentence utilizes such a structure to strongly link to the previous paragraph. Identify the paragraphs where this linking feels overly explicit or repetitive, potentially making the writing sound less natural.
+
+For the most problematic paragraphs (aim for suggesting edits to approximately 40%), please suggest alternative ways to start the paragraph that achieve a more human-like flow without sacrificing clarity or good writing.
+
+Consider these edit suggestions:
+
+Vary sentence structure: Instead of starting with the linking phrase/clause, try embedding the connection later in the first sentence or in the second sentence.
+Subtle integration: Weave the connection to the previous idea more implicitly into the paragraph's opening.
+Focus on the topic first: Start with a sentence that directly introduces the new aspect of the topic being discussed and then subtly connect it to what came before.
+Use a transitional sentence at the end of the previous paragraph: Sometimes, a smoother transition can be achieved by adding a sentence to the end of the preceding paragraph that sets up the next one, allowing the new paragraph to start more directly.
+Remember, the goal is to create a natural reading experience. The connections between paragraphs should be clear, but the linking shouldn't feel forced or overly formulaic."
+
+Key changes in this definition:
+
+It explicitly mentions sentences that begin with phrases or clauses that link back.
+It provides examples of grammatical structures like participial phrases, prepositional phrases, and adverbial clauses that often serve this linking function.
+It reinforces the idea of looking for overly explicit or repetitive linking.
+It adds a suggestion to consider transitional sentences at the end of the previous paragraph.
+This revised instruction should help the AI identify the type of sentence structure you provided as an example. Remember to adjust the percentage of paragraphs for suggested edits based on your specific needs.

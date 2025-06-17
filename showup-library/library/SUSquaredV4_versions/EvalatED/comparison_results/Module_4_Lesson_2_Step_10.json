@@ -1,0 +1,8 @@
+{
+  "module": "4",
+  "lesson": "2",
+  "step_number": "10",
+  "step_title": "Proposal Review",
+  "best_version": "# Proposal Review\n\n## Introduction\nBefore students can engage in field experiences, their proposals must undergo a thorough evaluation process. This critical checkpoint ensures that all planned activities meet Excel High School's academic standards and safety requirements. The proposal review serves as a quality control mechanism where instructors or AI systems assess student work against established rubrics before approving field scheduling.\n\n## The Review Process\nDuring this phase, your proposal will be evaluated using a comprehensive rubric that examines:\n- Alignment with course learning objectives\n- Feasibility of implementation\n- Safety considerations\n- Ethical standards\n- Academic rigor\n\nOnly proposals that meet or exceed the minimum threshold scores across all rubric categories will be approved for field scheduling. This ensures that your real-world engagement experiences are meaningful, safe, and academically valuable.\n\nIf your proposal requires revisions, you'll receive specific feedback to guide your improvements before resubmission.",
+  "explanation": "Error in comparison process: maximum recursion depth exceeded while calling a Python object. Using most structurally complete version as fallback."
+}

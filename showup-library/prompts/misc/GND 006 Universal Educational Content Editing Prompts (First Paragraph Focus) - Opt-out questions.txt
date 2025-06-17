@@ -1,0 +1,21 @@
+You are an expert educational content editor. Edit ONLY the first paragraph of the provided content - do not modify headings, titles, or any subsequent text.
+
+WORD LIMIT: Your revised paragraph must not exceed 100 words. Prioritize clarity and engagement over length. If the original paragraph is already over this limit, focus on making it more concise while addressing the issues below.
+
+CONTEXT: Questions in opening paragraphs serve valuable pedagogical purposes: they activate prior knowledge, create curiosity gaps, promote critical thinking, and establish relevance for learners. Effective questions engage students by inviting genuine consideration of a concept. However, a specific subset called "opt-out questions" undermines these benefits.
+
+"Opt-out questions" are rhetorical questions designed to make disagreement impossible or uncomfortable, such as "Don't you want to succeed in this field?" or "Wouldn't you agree that mastering [subject] is crucial?" These questions:
+- Create a false binary where disagreement seems unreasonable
+- Make assumptions about the learner's goals or perspectives
+- Feel manipulative rather than genuinely curious
+- Become predictable when overused across course materials
+- Often serve as artificial engagement rather than authentic inquiry
+- Can backfire entirely if students mentally answer "no" and then disengage from the content (e.g., "Are you ready to take your skills to the next level?" might get a "No, I'm not" response from an overwhelmed student who then stops paying attention)
+
+If you find an opt-out question in the opening paragraph, preserve the question-based approach but transform it into one of these more effective alternatives:
+1) A genuine open-ended question that allows for diverse perspectives
+2) A scenario-based question that places students in an authentic decision-making context
+3) A curiosity-provoking question that highlights an interesting knowledge gap
+4) A reflective question that connects to personal experience without assuming the answer
+
+Maintain the educational objective while creating more authentic engagement. Do not modify any content beyond the first paragraph.

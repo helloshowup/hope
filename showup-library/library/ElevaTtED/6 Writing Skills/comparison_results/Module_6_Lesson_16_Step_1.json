@@ -1,0 +1,8 @@
+{
+  "module": "6",
+  "lesson": "16",
+  "step_number": "1",
+  "step_title": "Avoiding Common Errors\u2014\u201cI do\u201d",
+  "best_version": "# Avoiding Common Errors\u2014\"I Do\"\n\n## Panel 1: Punctuation Basics\nPunctuation marks are essential road signs for your readers. Here are the most common errors to avoid:\n\n* **Comma Splices**: Don't join two complete sentences with only a comma.\n  * \u274c I finished my homework, I went to bed.\n  * \u2713 I finished my homework, and I went to bed.\n\n* **Apostrophes**: Use for possession or contractions, not plurals.\n  * \u274c The student's were learning.\n  * \u2713 The students were learning.\n\n## Panel 2: Subject-Verb Agreement\nSubjects and verbs must agree in number (singular/plural):\n\n* **Singular subjects** take singular verbs:\n  * \u2713 The student works hard.\n  \n* **Plural subjects** take plural verbs:\n  * \u2713 The students work hard.\n  \n* Watch for subjects separated from verbs:\n  * \u274c The list of items are on the desk.\n  * \u2713 The list of items is on the desk.\n\n## Panel 3: Eliminating Wordiness\nClear writing is concise writing:\n\n* **Remove redundancies**:\n  * \u274c We arrived at 8:00 AM in the morning.\n  * \u2713 We arrived at 8:00 AM.\n\n* **Replace phrases with single words**:\n  * \u274c Due to the fact that I was late...\n  * \u2713 Because I was late...\n\n* **Eliminate empty modifiers**:\n  * \u274c This assignment is really very important.\n  * \u2713 This assignment is important.\n\n[Download this guide as a PDF for offline reference](https://excelhs.org/resources/writing-guide)",
+  "explanation": "Error in comparison process: maximum recursion depth exceeded while calling a Python object. Using most structurally complete version as fallback."
+}

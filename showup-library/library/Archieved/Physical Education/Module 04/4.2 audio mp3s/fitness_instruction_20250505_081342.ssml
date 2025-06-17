@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="en-US">
+<voice name="en-US-AndrewNeural" parameters="temperature=0.35">
+<prosody rate="-5%" pitch="+2%" volume="+10%">
+<p>Welcome to your focused lower body session.<break time="350ms"/> Today,<break time="150ms"/> you’ll be performing lunges. <break time="650ms"/> Lunges are excellent for building leg strength and stability. <break time="650ms"/> They also improve balance and coordination through controlled movement. <break time="650ms"/> Before we begin,<break time="150ms"/> make sure you have enough space around you. <break time="650ms"/> Wear supportive shoes and keep water nearby. <break time="650ms"/></p>
+<p>Let’s get started with the lunges. <break time="650ms"/> Here’s your starting position. <break time="650ms"/> Stand tall,<break time="150ms"/> with your feet hip-width apart. <break time="650ms"/> Relax your arms by your sides. <break time="650ms"/> Roll your shoulders back and look forward. <break time="650ms"/> Place your hands on your hips for support,<break time="150ms"/> or let them hang naturally. <break time="650ms"/> Engage your core muscles. <break time="650ms"/> This will help you maintain stability. <break time="650ms"/></p>
+<p>Now,<break time="150ms"/> step forward with your right foot. <break time="650ms"/> Take a comfortable stride—about two feet ahead. <break time="650ms"/> Lower your body by bending both knees. <break time="650ms"/> <emphasis level="moderate">Front knee directly above your ankle.</emphasis> <break time="650ms"/> <emphasis level="moderate">Back knee hovers just above the floor.</emphasis> <break time="650ms"/> Keep your torso upright and your back straight. <break time="650ms"/> Do not let your front knee move past your toes. <break time="650ms"/></p>
+<p>Push through your right heel to return to standing. <break time="650ms"/> Step your right foot back to the starting position. <break time="650ms"/></p>
+<p>Let’s begin the repetitions. <break time="650ms"/></p>
+<p><prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">Check that your knee is stacked over your ankle.</emphasis> <break time="650ms"/></prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">Keep your torso upright.</emphasis> <break time="650ms"/></prosody>
+<prosody rate="-5%" pitch="+10%">Three - <emphasis level="moderate">Lower both knees to about ninety degrees.</emphasis> <break time="650ms"/></prosody>
+<prosody rate="-5%" pitch="+10%">Four - <emphasis level="strong">Do not let your front knee go past your toes.[/emphasis strong</emphasis> <break time="650ms"/></prosody>
+<prosody rate="-5%" pitch="+10%">Five - <emphasis level="moderate">Push through your front heel as you stand.</emphasis> <break time="650ms"/> </prosody>
+<prosody rate="-5%" pitch="+10%">Six - <emphasis level="moderate">Alternate legs with each repetition.</emphasis> <break time="650ms"/> </prosody>
+<prosody rate="-5%" pitch="+10%">Seven - <emphasis level="moderate">Maintain balance and controlled movement.</emphasis> <break time="650ms"/> </prosody>
+<prosody rate="-5%" pitch="+10%">Eight - <emphasis level="moderate">Keep your core engaged and your shoulders back.</emphasis> <break time="3000ms"/></prosody></p>
+<p>Let’s check your form. <break time="650ms"/> Are you keeping your torso upright? <break time="650ms"/> Are both knees forming ninety-degree angles at the bottom? <break time="650ms"/> <emphasis level="moderate">Front knee should stay aligned over your ankle.</emphasis> <break time="650ms"/></p>
+<p>If you feel unsteady,<break time="150ms"/> that’s okay. <break time="650ms"/> For extra balance,<break time="150ms"/> hold onto a sturdy chair or wall. <break time="650ms"/> You can also shorten your step to make the movement easier. <break time="650ms"/> To increase the challenge,<break time="150ms"/> hold a light weight in each hand. <break time="650ms"/> Remember,<break time="150ms"/> quality is more important than speed. <break time="650ms"/> Pause between each lunge if needed. <break time="650ms"/></p>
+<p>Lunges are a powerful exercise for building leg and glute strength. <break time="650ms"/> They train your balance and coordination with every repetition. <break time="650ms"/> Practicing lunges regularly supports joint stability and functional movement. <break time="650ms"/> Remember to focus on your form and listen to your body. <break time="650ms"/> Great work today—your consistency leads to progress. <break time="650ms"/> Take a moment to stretch,<break time="150ms"/> hydrate,<break time="150ms"/> and be proud of your effort. <break time="650ms"/></p>
+</prosody>
+</voice>
+</speak>

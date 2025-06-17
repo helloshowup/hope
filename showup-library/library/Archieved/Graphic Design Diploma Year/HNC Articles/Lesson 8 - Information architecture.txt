@@ -1,0 +1,76 @@
+Introduction
+Information architecture (IA) is a discipline within the field of user experience design (UX) that focuses on the organisation, structure, and labelling of information in digital products or environments. This exists to enhance user understanding and navigation. The goal of IA is to create an intuitive and efficient arrangement of information, making it easy for users to find what they need and understand the relationships between different pieces of content. 
+Fig 1. Unsplash (n.d.) Understanding the problem and needs of the user is critical to IA design
+IA encourages designers to think about problems and solutions through the following lenses:
+Information products and services are perceived by people as places of information.
+These information environments need to be organised for optimum findability and comprehension.
+Understanding these two key principles allows IA designers to lay the foundation for other design elements. These include graphic design and interaction design where they can build upon, and together create, effective and user-friendly digital experiences. Both IA and graphic design disciplines play key roles in shaping how users interact with information on websites, applications, and other digital platforms.
+Key Components of Information Architecture
+The role that IA plays in the creation of a user experience involves:
+Organisation
+Determining how information is grouped and categorised to create a logical structure. This involves creating hierarchies, taxonomies, and classifications that reflect the nature of the content.
+Navigation 
+Designing the pathways and systems that users follow to navigate through the information. This includes the creation of menus, links, and other navigation elements to help users move seamlessly within the digital environment.
+Labelling
+Assigning clear and meaningful labels to different pieces of information, ensuring that users can easily understand the content and its relevance.
+Search Functionality
+Implementing search features that allow users to quickly locate specific information. This involves optimising search algorithms and presenting search results in a way that aids user comprehension.
+Accessibility
+Ensuring that the information is accessible to a diverse range of users, including those with disabilities. This involves considering factors such as clear and concise content, proper use of headings, and compatibility with assistive technologies.
+Content Strategy
+Developing a plan for creating, organising, and maintaining content over time. Content strategy involves decisions about what content to include, how to present it, and how to keep it up-to-date.
+Information Architecture Visuals
+Another important element in IA is the creation of visuals to illustrate the structure, organisation, and flow of information within a digital product. These visuals can include sitemaps, wireframes, prototyping and user flow. They can also help communicate the design concepts and guide the development of the user interface. 
+Sitemaps
+Sitemaps show the relationships between information elements such as pages and other content components. They can be used to portray organisation, navigation and labelling systems. Simply put, a sitemap is a list of different pages on a website.
+Fig 2. Sitemap example
+Wireframes and Prototypes
+Before diving into the full design, it's common to create wireframes and prototypes. 
+Wireframes are basic skeletal structures outlining the layout, while prototypes are interactive models allowing users to experience the design's navigation and functionality. A wireframe is a low-fidelity design layout that serves 3 purposes:
+It presents the information that will be displayed on the page.
+It gives an outline of the structure and layout of the page.
+It conveys the overall direction and description of the user interface.
+When creating a wireframe model, it is important to ask yourself how can the content be organised to best support the user and the goals of the business? Where should the main message and logo be placed? What should the user first see when they arrive at the page? Where is the call to action?
+What will the user expect to see on certain areas of the page?
+Fig 3. Unsplash (n.d.) Wireframe examples
+Tips 
+Follow these tips when creating wireframes:
+Keep your colours to grayscale (i.e. white, black, and the greys in between)
+Use a single font, preferably sans-serif
+Use font size and weight to help with hierarchy
+Avoid ﬂashy graphics and images. Instead, try using simple rectangles and squares as placeholders with an “x” through the middle of the box to indicate image placement
+Fig 4. Another wireframe example
+Prototypes are visual or interactive representations of the proposed structure, organisation, and navigation of information in a digital product or system. The primary purpose of an IA prototype is to provide stakeholders, designers, and developers with a tangible and testable model of the IA before the full design and development process begins.
+Fig 5. Unsplash (n.d.) Testing a mockup/prototype of a digital product
+How Wireframes and Prototypes fit into the design process
+Wireframes and prototypes play individual yet interconnected roles in the design process and they are often used at different stages to communicate and refine the design of a digital product.
+Sketch: Get all the possible info out of your head and onto paper and begin structuring the content and layout.
+Wireframe: Formalise the sketch, bringing clarity to structure, navigation, and hierarchy.
+Interactive: Create a prototype for testing of the layout in a real-world scenario.
+Visual: Apply the brand design / identity to the elements that make up your designs. 
+Interactive visual: Use the visuals as the basis for another click-through prototype.
+Code: Final step, develop a working website based on the Interactive Visual.
+Wireframes vs Interactive Prototypes
+Wireframes are simple static layouts of the content on the page and where it will be placed. An interactive prototype on the other hand, is a clickable interface that is used to test if assumptions made during the wireframe process were correct.
+Wireframes are also typically used for designers and clients to agree upon the information and structure of the site. Interactive prototypes are more suitable for user testing, particularly in the app world. They can however, also be used for websites.
+User Flow
+A user flow is the visual representation or diagram that illustrates the path a user will take to accomplish a specific task or goal using a digital product or system. User flow helps designers and stakeholders understand how users will navigate through the interface, highlighting the sequence of steps and interactions involved in achieving a particular objective. To ensure a smooth user experience, the paths users take as they interact with a product or system must be carefully considered and designed.
+Fig 6. Unsplash (n.d.) Diagram showing user flow
+Designers Working In Information Architecture
+If you work in IA as a designer, you will need a combination of technical, analytical, and soft skills when organising and structuring digital information to create user-friendly experiences. A designer’s responsibilities within this discipline include:
+Conducting effective research to better understand user needs.
+Creating hierarchies, taxonomies, and categorisations for organising content.
+Developing models to illustrate the overall structure of a digital product.
+Designing wireframes to outline the layout and placement of elements on a page/screen.
+Developing interactive prototypes to demonstrate the flow and navigation.
+Collaborating with other designers (e.g. graphic and interaction designers).
+Collaborating with developers, content creators, and other stakeholders to align IA decisions with overall project goals.
+Creating navigational systems (e.g. menus, links, and other wayfinding elements).
+Ensuring consistent navigation experiences across different sections of the product.
+Developing clear and valid labels for various elements within the digital environment.
+Implementing and optimising search features to increase findability. 
+Prioritising accessibility in design decisions to ensure that the information is accessible to a diverse set of users with various abilities.
+Contributing to content strategy decisions (e.g. presentation and maintenance).
+Engaging in iterative design processes, incorporating user feedback and testing to refine information architecture solutions.
+Conducting usability testing to validate and improve the effectiveness of your designs.
+Staying informed about industry trends, technologies, and best practices in IA.

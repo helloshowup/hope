@@ -1,0 +1,39 @@
+What is a grid?
+An important component of layout design are grids. A grid is a series of intersecting horizontal, vertical, angular or curved lines. A grid will organise a layout and create a structure upon which all design is built including infographics, posters, presentations etc. The organisation of space can be the key to great design. 
+Fig 1. An example of a digital grid
+Graphic designers use grids to help them organise graphic elements within a design space, as well as in relation to one another. As much as designers would like to think that you can simply apply a layout by eye or by instinct, using gridlines is a failsafe way to ensure that you do it correctly and consistently.
+Layout design should always involve using one grid or a group of grids, depending on what needs to be achieved.
+Using a grid gives viewers clearer focus and improves the legibility of your design. It is an essential feature for documents (books, magazines, blogs, etc) plus modern interfaces and mediums (websites, apps, smartphones, tablets, big screens). 
+Fig 2. Pixabay (n.d.) Grids used for effective layouts
+The importance of grids
+Spatial systems, grids, and layouts will inform decision making by providing rules that give your designs a consistent rhythm while helping elements remain aligned. Grids, therefore, offer designers several opportunities to create effective designs for both print and digital media.
+The benefits of grids include the following: 
+Grids can create balance. Using a grid is one of the easiest ways to create balance in your design. Placing elements on the vertical and horizontal lines that divide your page into thirds, gives your layout design a sense of balance without necessarily enforcing symmetry.
+Grids help create a cohesive design. A grid can help a designer arrange the many separate elements of an image or design in an easily digestible and cohesive way, avoiding a cluttered or indeed sparse presentation.
+Grids produce an appealing image. A grid provides a layout template to make an image that visually stimulates the viewer while guiding them through the proper visual hierarchy of information.
+Grids help improve the legibility of a design. A ‘baseline grid’ (horizontal rows that run across your design) can enhance your design’s text since it helps align your typography so that they ‘sit’ on the same level.
+Grids aid multi-page layouts. Grid templates are easily transferable to multiple pages. If you are designing a presentation for instance, gridlines can help maintain a consistent layout design by applying the same grid to each slide. 
+Grids accentuate visual hierarchy. By scaling elements across multiple columns, a grid allows you to draw attention towards or away from specific elements of your design. 
+Besides setting rules, grids can also help you break certain design rules. Grids are very flexible and therefore allow you to modify the layout. For example, the number of columns can be altered or by creating a diagonal axis rather than a horizontal or vertical one, you can approach your design from a different angle.
+Fig 3. Pexels (n.d.) Diagonal lines guiding the cover layout
+Fig 4. Unsplash (n.d.) Diagonal lines applied to text (at the top)
+Applying grids to your work
+As a graphic designer, grid spacing offers you infinite opportunities to create something singular, neat, and true to your final product’s aesthetic preferences. 
+During the initial ideation phase, you can make use of hand drawn grids or go directly to CAD, which has a library of grid templates to explore.
+Fig 5. Unsplash (n.d.) Rough concept drafts using grids to arrange layout
+When you use CAD software you have the option to add a layer of gridlines to your design or you can use templates. The series of intersecting lines on your page makes it easier to arrange your text, imagery, etc. in your desired layout. So, when you want to apply the rule of thirds, for example, you can use gridlines to divide your design space into thirds and place your focal point where the lines intersect.
+Here are a few steps to get your started on your own designs:
+Step 1: Decide on the style. 
+As a starting point, designers should determine what the brief requests they produce, i.e. a magazine, website, or poster design. Then use a grid system that works most effectively for that composition.
+Step 2: Customise a grid layout. 
+Designers can space grid lines in inches, mm, pixels, or another unit of measurement. They can also customise the number of columns, headers, subheaders and rows for each piece of content. This will streamline workflow and help with the legibility of the design.
+Step 3: Use a grid template
+By using page and layout design software, designers can either use templates or establish their own grids. If you find you are regularly working on the same print issue of a literary magazine, for example, you can create a template with the grids in place giving you a document to use again and again with the same layout rules intact.
+
+Perhaps you have begun planning your design on paper? Even from the very early stages of the design process you will still need to implement a rough grid as a template. Having this as a clearly defined ‘backbone’ for your piece/s will enable you to build the design more quickly at a later stage.
+Design software, like Canva, has over 11,000 layouts to choose from, ranging from free to paid options. 
+Fig. 6. Canva (n.d.) Screenshot of grid template page 
+You can also make use of virtual grids that are freely available online. 
+Fig. 7. Screenshot of virtual-graph-paper.com (n.d.) 
+References:
+Canva. (n.d.). 15 reasons why grid approach will improve your design - CANVA. 15 reasons why a grid based approach will improve your designs. https://www.canva.com/learn/grid-design/

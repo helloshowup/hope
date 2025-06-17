@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="en-US">
+<voice name="en-US-AndrewNeural" parameters="temperature=0.35">
+<prosody rate="-5%" pitch="+2%" volume="+10%">
+<p>Welcome to your guided stretch.<break time="350ms"/> Today we’ll focus on the **butterfly stretch**—a gentle move that targets your inner thighs and hips.<break time="350ms"/> This stretch helps improve flexibility and mobility around the groin area. <break time="650ms"/> Remember,<break time="150ms"/> only move to where you feel a gentle stretch—never pain. <break time="650ms"/></p>
+<p>Begin seated on the floor. <break time="650ms"/> Bring the soles of your feet together,<break time="150ms"/> letting your knees fall out to each side. <break time="650ms"/> Hold your feet or ankles with your hands. <break time="650ms"/> Sit tall,<break time="150ms"/> lengthening your spine. <break time="650ms"/> Shoulders relaxed,<break time="150ms"/> gaze forward. <break time="650ms"/></p>
+<p>Before we start,<break time="150ms"/> check your posture: <emphasis level="moderate">Sit up tall,<break time="150ms"/> chest lifted,<break time="150ms"/> and core gently engaged.</emphasis> <break time="650ms"/> If your knees are high,<break time="150ms"/> that’s okay—just let gravity do the work. <break time="650ms"/></p>
+<p>Let’s go through the stretch together. <break time="650ms"/></p>
+<p><prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">Draw your heels in slightly,<break time="150ms"/> feeling a light stretch in your inner thighs.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">Gently press your knees toward the floor,<break time="150ms"/> only as far as is comfortable.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Three - <emphasis level="moderate">Keep your back straight—avoid rounding your spine.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Four - <emphasis level="moderate">Relax your shoulders away from your ears.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Five - <emphasis level="moderate">Breathe in deeply through your nose.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Six - <emphasis level="moderate">Exhale slowly,<break time="150ms"/> relaxing any tension in your hips.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Seven - <emphasis level="moderate">Hold the stretch,<break time="150ms"/> noticing the gentle pull in your inner thighs.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Eight - <emphasis level="moderate">Remember,<break time="150ms"/> never force your knees down.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Nine - <emphasis level="moderate">Check your posture—spine long,<break time="150ms"/> chest open.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Ten - <emphasis level="strong">If you feel pain,<break time="150ms"/> ease off immediately.[/emphasis strong</emphasis> <break time="3000ms"/></prosody></p>
+<p>Let’s check in. <break time="650ms"/> Are you feeling a gentle stretch in your inner thighs? <break time="650ms"/> Is your back still straight? <break time="650ms"/> If yes,<break time="150ms"/> you’re doing it right. <break time="650ms"/></p>
+<p>If you need less intensity,<break time="150ms"/> move your feet farther away from your body. <break time="650ms"/> For a deeper stretch,<break time="150ms"/> hinge forward from your hips,<break time="150ms"/> keeping your back straight. <break time="650ms"/> Remember,<break time="150ms"/> only go as far as feels comfortable. <break time="650ms"/></p>
+<p>This butterfly stretch helps release tightness in your hips and inner thighs. <break time="650ms"/> It’s great for improving flexibility,<break time="150ms"/> and can also support better posture over time. <break time="650ms"/> Use this stretch after workouts,<break time="150ms"/> or anytime you need to loosen up your lower body. <break time="650ms"/></p>
+<p>Nice work. <break time="650ms"/> Taking time for flexibility helps support healthy movement every day. <break time="650ms"/> Remember,<break time="150ms"/> gentle stretching can reveal where your body needs more care. <break time="650ms"/> Listen to your body,<break time="150ms"/> move at your own pace,<break time="150ms"/> and notice how your hips and thighs feel as you finish. <break time="650ms"/> Great job making flexibility a focus today. <break time="650ms"/></p>
+</prosody>
+</voice>
+</speak>

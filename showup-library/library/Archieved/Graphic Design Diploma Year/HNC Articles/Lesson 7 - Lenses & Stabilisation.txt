@@ -1,0 +1,51 @@
+Camera Lenses
+There are numerous types of camera lenses, each designed for specific purposes and photographic styles. Here are a few of the more common types of camera lenses:
+Prime lens 35/50mm
+Wide angle
+Telephoto
+Zoom 
+Prime lens
+A prime lens is typically a 50mm lens. It has a fixed focal length (e.g. 50mm, 85mm) and cannot zoom. Prime lenses are known for their sharpness, wide apertures and compact size and is a good starter lens for a novice photographer.
+Fig 1. Prime lens
+Wide angle lens
+Wide angle lenses have a shorter focal length, typically 35mm or below (18mm, 20mm, 24mm, and 28mm). These lenses are used to capture a wider field of view, making them ideal for landscapes, architecture, and interiors, enabling you to create perspective as well as distortion.
+Fig 2. Photo taken with a wide angle lens
+Telephoto lens
+Telephoto lenses have longer focal lengths often above 70mm (70mm, 90mm, 100mm, 135mm, 200mm, 300mm, 400mm and 600mm). These lenses allow you to bring distant subjects closer which is most useful for wildlife, sports, action, and portrait photography. Telephoto lenses ‘compress’ the images’ foregrounds and backgrounds and are great for isolating the subject from the background.
+Fig 3. Telephoto lens
+Fig 4. Photo taken with a telephoto lens
+Zoom lens
+Zoom lenses have variable focal lengths (16-35mm, 24-70mm, 70-200mm [most popular], and 100-400mm), allowing you to zoom in and out. This feature offers you flexibility in composition and framing as well as speed as you don't have to change lenses. Zoom lenses are not as sharp as fixed lenses, but are a cheaper alternative to buying multiple fixed lenses.
+Fig 5. A zoom lens
+Fig 5. 24-70mm zoom lens
+Fig 6. Photograph taken with a 24mm zoom lens
+Fig 7. Photograph taken with a 50mm zoom lens
+Fig 8. Photograph taken with a 70mm zoom lens
+Fig 9. Photograph taken with a 100mm zoom lens
+Fig 10. Photograph taken with a 200mm zoom lens
+Lens comparisons: Which one to buy?
+There is an enormous array of lenses (Canon has 70 lenses ranging from 8mm to 1200mm) with some less expensive alternatives that include Sigma, Tokina, Tamron. The choice of camera will depend on your needs but it’s worth considering the overall value of spending more. This can include:
+Higher optical quality
+Better build
+Faster more accurate focusing
+Nicer bokeh
+Tougher
+Weatherproof
+Faster lenses    
+Best get 24-70mm and 70-200mm
+Lens requirements depends on your subject choices and photography type:
+Sports: 300mm
+Studio portraits: 85mm
+Food: 50mm 1.2
+Music: 28mm / 70-200mm
+Before buying a specific lens it is recommended you do thorough research on different makes and models and to have a clear intention in terms of how and what you will use it for. Here are some camera lens comparisons to consider:
+Fig 11. Prime vs zoom lenses
+Fig 12. Consumer vs pro-grade lenses
+Image Stabilisation
+In photography, stabilisation refers to techniques or mechanisms that help reduce or eliminate the effects of camera shake occurring with handheld cameras. The movement caused by camera shake can lead to blurry unsharpened images, especially in low-light conditions or when using slower shutter speeds. Camera shake is the result of:
+Shaking hands
+Slow shutter speeds
+Fig 13. Stabiliser on/off and mode keys on a zoom lens 
+In order to avoid camera shake and achieve sharper images, there are several methods of stabilisation in photography:
+The main solution is Image Stabilisation (IS) or Vibration Reduction (VR). Some camera lenses and camera bodies come equipped with built-in image stabilisation or vibration reduction systems. These systems use gyroscopic sensors to detect and compensate for small movements resulting in sharper images. This feature adds cost and weight to the lens, but is worth it if you want sharper results. Another option is stabilised lenses which are also designed with built-in optical stabilisation to counteract camera shake. This is particularly helpful when shooting at slower shutter speeds or with telephoto lenses.
+Other solutions include using a tripod, using various bracing techniques to minimise camera movement or using a faster shutter speed to reduce the amount of time the camera is exposed to potential movement, helping to freeze the action and minimise the impact of camera shake.

@@ -1,0 +1,133 @@
+
+    <div class="markdown-content" style="font-family: Arial, sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 0 auto;">
+        <h1>6.9</h1>
+
+<h2>Using Functions for Reusable Movements</h2>
+
+<h2>Learning Objectives</h2><p>By the end of this session, you'll be able to:</p>
+<ul>
+<li>Create simple functions to make robot moves you can reuse</li>
+</ul>
+<ul>
+<li>Use tips to make your robot move better and save power</li>
+</ul>
+<ul>
+<li>Find and fix common problems in your robot's movement</li>
+</ul>
+<p>&nbsp;</p>
+
+<p>To make your code more organized and reusable, define functions for common movement patterns:</p>
+<p>&nbsp;</p>
+
+<p>```
+function square(sideLength) {
+  for (let i = 0; i &lt; 4; i++) {
+    moveForward(sideLength);
+    turnLeft(90);
+  }
+}</p>
+<p>&nbsp;</p>
+
+<p>// Now you can create squares of any size
+square(10);  // Small square
+square(50);  // Large square
+```</p>
+<p>&nbsp;</p>
+
+<p>This approach makes your code easier to read and maintain.</p>
+<h3>Optimizing Movement Programs</h3><p>As you become more experienced with programming robot movements, you'll want to optimize your programs for:</p>
+<ol>
+<li><strong>Efficiency</strong>: Using the fewest commands to accomplish a task</li>
+</ol>
+<ol>
+<li><strong>Battery usage</strong>: Creating movement patterns that conserve energy</li>
+</ol>
+<ol>
+<li><strong>Time</strong>: Completing tasks as quickly as possible while maintaining accuracy</li>
+</ol>
+<ol>
+<li><strong>Smoothness</strong>: Creating natural-looking movements without jerky stops and starts</li>
+</ol>
+<p>&nbsp;</p>
+
+<p>For example, instead of having a robot make four separate 90-degree turns to face the opposite direction, you could optimize by using a single 180-degree turn, saving time and battery power.</p>
+<p>&nbsp;</p>
+
+<p>
+            <div class="stop-reflect-container" style="border:3px dashed #e50200; margin:20px 0; padding:0; display:flex; width:100%;">
+                <div class="stop-reflect-image" style="width:20%; min-width:100px; display:flex; align-items:center; justify-content:center; padding:10px;">
+                    <img src="https://api.learnstage.com/media-manager/api/access/exceled/default/lms/courses/1647/Images/Untitled%20design.jpg" 
+                         style="width:100%; height:auto; max-width:150px;" alt="Stop and Reflect">
+                </div>
+                <div class="stop-reflect-content" style="display:flex; flex-direction:column; justify-content:center; padding:15px; width:80%;">
+                    <h3 style="color:#000000; margin-top:0;">
+                    </h3>
+                    <h1># Stop and reflect</h1><p> Think about a time when you gave someone directions to a location. How is programming robot movement similar to or different from giving verbal directions to a person? What additional considerations do you need to make when the recipient of instructions is a robot rather than a human?</p>
+                </div>
+            </div></p>
+<h2>Testing and Fixing Movement Programs</h2><p>Even with careful planning, movement programs rarely work perfectly on the first try. Testing and debugging are essential skills for successful robot programming.</p>
+<h3>Common Movement Problems</h3><p>Several issues commonly arise with movement programs:</p>
+<ol>
+<li><strong>Alignment errors</strong>: Small turning errors that compound over time</li>
+</ol>
+<ol>
+<li><strong>Surface variations</strong>: Different surfaces affect movement differently</li>
+</ol>
+<ol>
+<li><strong>Battery levels</strong>: Lower battery can mean slower movements</li>
+</ol>
+<ol>
+<li><strong>Hardware differences</strong>: Two seemingly identical robots may move differently</li>
+</ol>
+<p>&nbsp;</p>
+
+<p>To address these issues, you need a systematic approach to testing and debugging.</p>
+<h3>Debugging Strategies</h3><p>When your robot doesn't move as expected:</p>
+<ol>
+<li>Test one command at a time to identify where the problem occurs</li>
+</ol>
+<ol>
+<li>Use visual markers to track expected positions</li>
+</ol>
+<ol>
+<li>Add pauses between commands to observe each step</li>
+</ol>
+<ol>
+<li>Adjust parameters incrementally rather than making large changes</li>
+</ol>
+<ol>
+<li>Consider environmental factors that might be affecting movement</li>
+</ol>
+<p>&nbsp;</p>
+
+<p>Remember that physical robots have mechanical limitations and variability that virtual simulations don't always capture accurately.</p>
+<p>&nbsp;</p>
+
+<p>
+        <figure class="table" style="float:left;width:92.41%;" data-font-size="14" data-line-height="20">
+            <table class="ck-table-resized" style="border-style:none;" data-font-size="14" data-line-height="20">
+                <colgroup data-font-size="14" data-line-height="20"><col style="width:13.29%;" data-font-size="14" data-line-height="20"><col style="width:86.71%;" data-font-size="14" data-line-height="20"></colgroup>
+                <tbody data-font-size="14" data-line-height="20">
+                    <tr data-font-size="14" data-line-height="20">
+                        <td style="border-style:none;" data-font-size="14" data-line-height="20">
+                            <figure class="image image_resized" style="width:100%;" data-font-size="14" data-line-height="20">
+                                <img style="aspect-ratio:600/600;" src="https://api.learnstage.com/media-manager/api/access/exceled/default/89309a11-e6ae-4133-97a9-93c735f38be4/content-page/4e85aa67-83db-423a-b7de-53b356164071_removalai_preview.png" width="600" height="600" data-font-size="14" data-line-height="20">
+                            </figure>
+                        </td>
+                        <td style="border-style:none;" data-font-size="14" data-line-height="20">
+                            <h3 data-font-size="16" data-line-height="23">
+                                <span style="color:hsl(359,97%,29%);"><span data-font-size="16" data-line-height="23"><strong data-font-size="16" data-line-height="23">Key Takeaways</strong></span></span>
+                            </h3>
+                            <ul>
+<li>Functions help you create reusable movement patterns for your robot, making your code more organized and easier to use again.</li>
+<li>Optimizing your robot's movements for efficiency, battery usage, speed, and smoothness helps it perform better.</li>
+<li>When your robot doesn't move correctly, test one command at a time and make small adjustments to fix problems like alignment errors or surface variations.</li>
+</ul>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </figure></p>
+<p>&nbsp;</p>
+    </div>
+    

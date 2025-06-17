@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="en-US">
+<voice name="en-US-AndrewNeural" parameters="temperature=0.35">
+<prosody rate="-5%" pitch="+2%" volume="+10%">
+<p>Welcome to your guided calf stretch. <break time="650ms"/> This exercise targets the muscles at the back of your lower leg. <break time="650ms"/> Regular stretching can improve ankle mobility and reduce tightness after running or jumping. <break time="650ms"/> For safety,<break time="150ms"/> always maintain good balance and avoid bouncing during the stretch. <break time="650ms"/></p>
+<p>Let’s begin. <break time="650ms"/></p>
+<p>Start by facing a sturdy wall. <break time="650ms"/> Stand tall with your feet hip-width apart. <break time="650ms"/> Place both hands flat on the wall,<break time="150ms"/> at about shoulder height. <break time="650ms"/></p>
+<p>Now,<break time="150ms"/> step back with your right foot. <break time="650ms"/> Keep the heel of your right foot pressed firmly into the ground. <break time="650ms"/> Your toes should point straight ahead. <break time="650ms"/> Bend your left knee slightly,<break time="150ms"/> but keep your right leg straight. <break time="650ms"/></p>
+<p>Slowly lean your body forward,<break time="150ms"/> pressing your hips toward the wall. <break time="650ms"/> You should feel a gentle pull in your right calf. <break time="650ms"/> Remember, <emphasis level="moderate">keep your right heel down and your toes forward</emphasis>. <break time="650ms"/></p>
+<p>Let’s hold the stretch and count. <break time="650ms"/></p>
+<p><prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">right leg straight,<break time="150ms"/> heel grounded</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">gentle stretch,<break time="150ms"/> no bouncing</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Three - <emphasis level="moderate">shoulders relaxed,<break time="150ms"/> keep breathing</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Four - <emphasis level="moderate">weight evenly distributed</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Five - <emphasis level="moderate">feel the stretch in your calf,<break time="150ms"/> not your Achilles tendon</emphasis> <break time="3000ms"/></prosody></p>
+<p>Success check: You should feel a gentle stretch in your right calf muscle. <break time="650ms"/> If you feel discomfort in your Achilles tendon,<break time="150ms"/> adjust your position so the stretch moves higher into your calf. <break time="650ms"/></p>
+<p>Now,<break time="150ms"/> let’s switch sides. <break time="650ms"/> Step forward with your right foot and move your left foot back. <break time="650ms"/></p>
+<p>Press your left heel down and point your toes forward. <break time="650ms"/> Slightly bend your right knee,<break time="150ms"/> keeping your left leg straight. <break time="650ms"/> Lean forward until you feel the stretch in your left calf. <break time="650ms"/></p>
+<p>Let’s hold for five counts. <break time="650ms"/></p>
+<p><prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">left heel pressed down</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">left leg straight,<break time="150ms"/> no pain</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Three - <emphasis level="moderate">keep hips square to the wall</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Four - <emphasis level="moderate">chest lifted,<break time="150ms"/> shoulders relaxed</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Five - <emphasis level="strong">steady breathing,<break time="150ms"/> gentle stretch</emphasis> <break time="3000ms"/></prosody></p>
+<p>If you do not have a wall,<break time="150ms"/> try this modification: <break time="650ms"/> Stand on the edge of a step with your heels hanging off. <break time="650ms"/> Lower one heel gently until you feel the stretch. <break time="650ms"/> Hold onto a railing or chair for balance. <break time="650ms"/></p>
+<p>Great work. <break time="650ms"/> Calf stretching can help reduce soreness,<break time="150ms"/> improve flexibility,<break time="150ms"/> and support strong movement patterns. <break time="650ms"/> Making this a regular part of your routine may help prevent tightness and overuse injuries. <break time="650ms"/> Remember,<break time="150ms"/> gentle stretching is most effective—never force the movement. <break time="650ms"/> Stay consistent and give your body time to adapt. <break time="650ms"/> Well done.</p>
+</prosody>
+</voice>
+</speak>

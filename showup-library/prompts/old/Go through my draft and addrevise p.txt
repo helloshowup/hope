@@ -1,0 +1,71 @@
+Go through my draft and add/revise placeholder text for images that will remove barriers to learning.  limit it to minor things that will enhance the flow/comprehension and remove barriers to learning. Dont include diagrams or visual representations of frameworks. Think also on the practical of sourcing the image but don't low ball with crappy images suggested. 
+
+for example:
+
+[Image: iOS 7's new design system showing typography, color palette, and grid structure. Caption: "Fig 12: Core elements of iOS 7's new visual language demonstrating systematic approach to flat design"]
+
+[Image: Before/after comparison showing iOS 6's skeuomorphic design versus iOS 7's flat design across key apps (Calendar, Notes, Weather). Caption: "Fig 10: Dramatic visual transformation from iOS 6 to iOS 7 showing shift from skeuomorphic to flat design"]
+
+---
+
+
+read through my draft as if you are a pessimistic but generally nice learner who has completed the previous content and assignment so afar.. You dont like phrases like "we are thrilled that you are here..." and similar phrases that are well meant but not well, authentic. Try and fix these while not being all doom and gloom. And if you (as the learner) have an unanswered question briefly try and edit the draft so that you answer it. limit it to minor things that will enhance the flow and remove barriers to learning.  
+
+
+
+
+----
+we are now writing an instructional manual to yourself. Update the below guide for use in a new context chat. to continue working on the plan we started in this chat. be sure to also highlight an mentioned code done before this chat. 
+
+
+review the analysis below and make minor edits instead make strategic decisions what to cut or revise or rewrite. Keep the target learner in mind. limit revisions to  things that will enhance the flow and remove barriers to learning and improve the quality of writing. Dont use first person language. 
+
+
+write the draft of XXX using my research but also keeping it short and ensuring that my content brief is followed. but by short i mean don't reply on bullets. instead make strategic decisions what to cut. Keep the target learner in mind. You also have access to previous steps content. So as an instructional designer, keep this in mind when drafting. 
+
+
+
+
+
+Write my draft outline using my research but also keeping it short and ensuring that my content brief is followed. but by short i mean don't reply on bullets. instead make strategic decisions what to cut. Keep the target learner in mind. 
+
+Write my video script using my research and context guides but also ensuring that my content brief is followed. Make strategic decisions what to cut. Keep the target learner in mind. 
+
+
+Write my templates using my research but also ensuring that my content brief is followed. Make strategic decisions what to cut. Keep the target learner in mind. start by identifying the number of templates that need to be created. Limit them to the top 3 that will remove barriers to learning. 
+
+
+
+expand my all teh step content outlines using my research but also keeping it short. but by short i mean don't reply on bullets. instead make strategic decisions what to cut. Keep the target learner in mind. Also i have provided the content from lesson 1 - 3 so that this lesson can be scaffolded correctly with previous learning. 
+
+
+go through my draft as if you are a learner who has completed the previous content and assignment so afar. And if you have an unanswered question briefly try and edit the draft so that you answer it. limit it to minor things that will enhance the flow and remove barriers to learning.  
+
+
+Write my draft outline using my research but also keeping it short and ensuring that my content brief is followed. but by short i mean don't reply on bullets. instead make strategic decisions what to cut. Keep the target learner in mind. 
+
+
+ i have included a lengthy example of how a forum discussion is presented in a previous lesson for you to use as context. keep the graphic designer in mind.
+
+
+
+
+
+
+reword it so that it is clear that this is a downloadable PDF like worksheet. 
+
+go through my draft as if you are a learner, you might notice a repetition of phrases like "Building on the information architecture principles from your HNC studies" and similar. these are very helpful to signpost the reader but the target learner can find them a bit repetitive. can we do minor edits to mix these up a bit, perhaps by just stating the fact again without referring back (but dont do this for everything), and exploring other phrasing?
+
+we have now scanned it for one theme, lets move to the next theme, keeping the changes we made but adding to them. Now, review your draft and remove content already covered in theme attached. (or rework it so that it is scaffolding)
+
+python plotter.py C:\Users\User\Desktop\novel-plotter\the-institute.txt
+
+python plotter.py --interactive
+
+read through my draft as if you are a pessimistic but generally nice learner. You dont like phrases like "we are thrilled that you are here..." and similiar phrases that are well meant but not well, authentic. Try and fix these while not being all doom and gloom. 
+
+
+python html_to_markdown.py C:\Users\User\Desktop\Module-1-HTML\Sucessfully-uploaded-to-learnstage\Reflecting-adding\02
+
+
+

@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="en-US">
+<voice name="en-US-AndrewNeural" parameters="temperature=0.35">
+<prosody rate="-5%" pitch="+2%" volume="+10%">
+<p>Welcome to your movement coordination drill. <break time="650ms"/> This exercise helps boost body awareness and balance. <break time="650ms"/> Today,<break time="150ms"/> you’ll follow a set sequence of steps and reaches. <break time="650ms"/> Please ensure your floor space is clear to prevent tripping. <break time="650ms"/></p>
+<p>Let&#x27;s begin by setting up. <break time="650ms"/> Place a sock or piece of paper on the floor to mark your starting point. <break time="650ms"/> Stand with your feet hip-width apart,<break time="150ms"/> toes lined up with your marker. <break time="650ms"/> Relax your arms by your sides. <break time="650ms"/> Shoulders back,<break time="150ms"/> chest lifted. <break time="650ms"/> Take a slow breath in. <break time="650ms"/> Get ready to move with control. <break time="650ms"/></p>
+<p>We’ll perform the sequence in sections. <break time="650ms"/> After each part,<break time="150ms"/> I’ll guide you through a quick check. <break time="650ms"/></p>
+<p>First,<break time="150ms"/> three steps forward. <break time="650ms"/> Ready? <break time="650ms"/></p>
+<p><prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">step forward,<break time="150ms"/> heel touches down first</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">another controlled step,<break time="150ms"/> keep your core engaged</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Three - <emphasis level="moderate">final step,<break time="150ms"/> stop with feet under hips</emphasis> <break time="650ms"/></prosody></p>
+<p>Now,<break time="150ms"/> two steps backward. <break time="650ms"/> Move slowly.</p>
+<p><prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">step back,<break time="150ms"/> land on the ball of your foot</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">another backward step,<break time="150ms"/> look straight ahead</emphasis> <break time="650ms"/></prosody></p>
+<p>Next,<break time="150ms"/> four side steps to the right. <break time="650ms"/></p>
+<p><prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">step to the right,<break time="150ms"/> toes point forward</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">second step,<break time="150ms"/> keep knees soft</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Three - <emphasis level="moderate">third step,<break time="150ms"/> stay low and balanced</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Four - <emphasis level="moderate">final right step,<break time="150ms"/> pause and check your position</emphasis> <break time="650ms"/></prosody></p>
+<p>Now,<break time="150ms"/> four side steps to the left. <break time="650ms"/></p>
+<p><prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">step left,<break time="150ms"/> keep weight even</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">second left,<break time="150ms"/> shoulders relaxed</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Three - <emphasis level="moderate">third left,<break time="150ms"/> stay level</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Four - <emphasis level="moderate">final left,<break time="150ms"/> feet under hips</emphasis> <break time="650ms"/></prosody></p>
+<p>Reach up high three times. <break time="650ms"/> Lift your arms overhead each time.</p>
+<p><prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">stretch tall,<break time="150ms"/> fingertips reach for the ceiling</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">another high reach,<break time="150ms"/> lengthen your spine</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Three - <emphasis level="moderate">final reach,<break time="150ms"/> arms by your ears</emphasis> <break time="650ms"/></prosody></p>
+<p>Crouch down low three times. <break time="650ms"/> Bend your knees,<break time="150ms"/> lower your hips.</p>
+<p><prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">lower slowly,<break time="150ms"/> keep heels on the floor</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">another crouch,<break time="150ms"/> chest stays lifted</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Three - <emphasis level="moderate">final crouch,<break time="150ms"/> return to standing</emphasis> <break time="3000ms"/></prosody></p>
+<p>Success check: Were your steps even and controlled? <break time="650ms"/> Could you repeat the sequence without stopping? <break time="650ms"/></p>
+<p>To make this easier,<break time="150ms"/> take smaller steps and reach less overhead. <break time="650ms"/> For more challenge,<break time="150ms"/> move with more speed,<break time="150ms"/> or add a hop after each side step. <break time="650ms"/></p>
+<p>Now it’s your turn to create your own sequence. <break time="650ms"/> Choose six to eight movements. <break time="650ms"/> Write them down and practice until you can perform your new pattern three times in a row,<break time="150ms"/> smoothly and with control. <break time="650ms"/></p>
+<p>This drill builds coordination,<break time="150ms"/> focus,<break time="150ms"/> and body control. <break time="650ms"/> Practicing these patterns helps you move more confidently and accurately in daily life. <break time="650ms"/> Well done for working through the sequence and challenging your coordination skills. <break time="650ms"/> Keep practicing,<break time="150ms"/> and enjoy the benefits of better movement control.</p>
+</prosody>
+</voice>
+</speak>

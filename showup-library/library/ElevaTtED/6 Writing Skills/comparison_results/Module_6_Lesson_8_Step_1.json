@@ -1,0 +1,8 @@
+{
+  "module": "6",
+  "lesson": "8",
+  "step_number": "1",
+  "step_title": "Outline-to-Paragraph Quiz\u2014\u201cYou do\u201d",
+  "best_version": "# Outline-to-Paragraph Quiz\n\n## Instructions\nBelow are 9 sentences that belong in either the introduction, body, or conclusion of an essay. Drag each sentence into the correct bin. After submitting, you'll receive feedback on your answers.\n\n### Sentences to Sort:\n1. In conclusion, the evidence clearly supports the main argument.\n2. The topic of this essay is the importance of time management.\n3. First, creating a schedule helps prioritize tasks effectively.\n4. Furthermore, using digital tools can enhance productivity.\n5. This essay has demonstrated three key strategies for success.\n6. Time management skills are essential for academic achievement.\n7. Finally, taking regular breaks prevents burnout and maintains focus.\n8. Future research might explore additional techniques in this area.\n9. Many students struggle with balancing multiple responsibilities.\n\n### Sorting Bins:\n- Introduction (3 sentences)\n- Body (3 sentences)\n- Conclusion (3 sentences)\n\n[Interactive drag-and-drop interface would appear here]\n\n### Answer Key (hidden until submission):\n- Introduction: 2, 6, 9\n- Body: 3, 4, 7\n- Conclusion: 1, 5, 8",
+  "explanation": "Error in comparison process: maximum recursion depth exceeded while calling a Python object. Using most structurally complete version as fallback."
+}

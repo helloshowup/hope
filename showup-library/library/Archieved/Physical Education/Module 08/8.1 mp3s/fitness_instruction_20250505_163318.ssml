@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="en-US">
+<voice name="en-US-AndrewNeural" parameters="temperature=0.35">
+<prosody rate="-5%" pitch="+2%" volume="+10%">
+<p>Welcome to your guided shoulder shrug and release exercise. <break time="650ms"/>  
+This movement relieves neck and upper back tension. <break time="650ms"/>  
+You’ll need just your body and a bit of open space. <break time="650ms"/>  
+Let’s get started. <break time="2000ms"/></p>
+<p>Stand up straight with your feet shoulder-width apart. <break time="650ms"/>  
+Keep your arms relaxed at your sides. <break time="650ms"/>  
+Wear comfortable clothes for easy movement. <break time="650ms"/>  
+Stand on a carpet or rug for better balance. <break time="650ms"/>  
+<emphasis level="strong">Only stretch until you feel a gentle pull,<break time="150ms"/> not pain.</emphasis> <break time="650ms"/></p>
+<p>Begin by taking a slow,<break time="150ms"/> deep breath in. <break time="650ms"/>  
+As you inhale,<break time="150ms"/> lift both shoulders straight up toward your ears. <break time="650ms"/>  
+Feel the tension build in your neck and shoulders. <break time="650ms"/></p>
+<p>Hold this position for three seconds. <break time="650ms"/>  
+Focus on the sensation of your muscles tightening. <break time="650ms"/>  
+Now,<break time="150ms"/> exhale slowly and let your shoulders drop back down. <break time="650ms"/>  
+Release all the tension as you lower them. <break time="650ms"/></p>
+<p>Let’s repeat this motion for five repetitions. <break time="2000ms"/></p>
+<p><prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">Lift shoulders high,<break time="150ms"/> feel the tension.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">Hold,<break time="150ms"/> then release shoulders fully.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Three - <emphasis level="moderate">Inhale,<break time="150ms"/> raise shoulders,<break time="150ms"/> tighten muscles.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Four - <emphasis level="moderate">Exhale,<break time="150ms"/> let shoulders fall,<break time="150ms"/> relax completely.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Five - <emphasis level="moderate">Notice the difference between tension and relaxation.</emphasis> <break time="3000ms"/></prosody></p>
+<p>Check in with your body now. <break time="650ms"/>  
+Are you feeling the difference between tension and relaxation? <break time="650ms"/>  
+If not,<break time="150ms"/> exaggerate the shrug—lift shoulders a bit higher and tighten more. <break time="650ms"/>  
+Remember,<break time="150ms"/> if you feel dizzy,<break time="150ms"/> slow your breathing or try this seated. <break time="650ms"/>  
+Never continue if you feel pain. <break time="650ms"/></p>
+<p>Let’s add a variation. <break time="650ms"/>  
+Try clenching your fists tightly for three seconds. <break time="650ms"/>  
+Release and let your hands relax completely. <break time="650ms"/>  
+You can also scrunch your face tightly,<break time="150ms"/> hold,<break time="150ms"/> then relax all your facial muscles. <break time="650ms"/>  
+These options help you notice the shift from tension to relaxation in different areas. <break time="650ms"/></p>
+<p>For a challenge,<break time="150ms"/> try holding the shoulder shrug for five seconds instead of three. <break time="650ms"/>  
+You can also combine the shoulder shrug with a deep full-body stretch. <break time="650ms"/>  
+Just make sure to keep your movements slow and controlled. <break time="650ms"/></p>
+<p>This technique is called progressive muscle relaxation. <break time="650ms"/>  
+It helps you become aware of tension and teaches you how to let it go. <break time="650ms"/></p>
+<p>Great work today. <break time="650ms"/>  
+Shoulder shrugs and releases help you recognize and manage muscle tension. <break time="650ms"/>  
+They can reduce stress,<break time="150ms"/> boost circulation,<break time="150ms"/> and improve posture over time. <break time="650ms"/>  
+Use these moves whenever you need a quick reset or relief. <break time="650ms"/>  
+Remember—gentle stretching works best when you listen to your body. <break time="650ms"/>  
+Thank you for taking time to care for yourself. <break time="650ms"/>  
+Stay relaxed and keep practicing. <break time="650ms"/></p>
+</prosody>
+</voice>
+</speak>

@@ -1,0 +1,434 @@
+## Fig 1
+From Linear to Iterative: Evolution in Complex Design
+Suggested search terms:
+- mountain
+- landscape
+- architecture
+- cityscape
+- skyscraper
+
+## Fig 2
+## The Evolution of Design Methodology
+Suggested search terms:
+- mountain
+- landscape
+- architecture
+- cityscape
+- skyscraper
+
+## Fig 3
+As you move further into your HND studies, you'll find your projects becoming noticeably more complex, calling for sophisticated approaches beyond what you've used previously. The structured process you're familiar with gives you a solid foundation, but working at a professional level demands greater flexibility and responsiveness. Let's look at how design methodology has evolved to tackle these new challenges.
+Suggested search terms:
+- mountain
+- landscape
+- architecture
+- cityscape
+- office
+
+## Fig 4
+## The Structured Design Process: A Foundation
+Suggested search terms:
+- wooden desk
+- office supplies
+- modern interior
+- minimalist workspace
+- desk accessories
+
+## Fig 5
+You're already familiar with these key stages that form the backbone of design projects:
+Suggested search terms:
+- mountain
+- landscape
+- nature
+- forest
+- river
+
+## Fig 6
+**Understanding the Brief**  
+Analyzing client requirements, identifying stakeholder needs, and determining research areas.
+*Recall & Connect: Think about your most recent brief analysis. How did your understanding of the requirements evolve as you worked through the project?*
+Suggested search terms:
+- mountain
+- landscape
+- nature
+- outdoors
+- scenery
+
+## Fig 7
+**Research**  
+Gathering information about the client, target audience, industry, and existing design solutions through primary and secondary research methods.
+*Recall & Connect: Consider how your research findings have influenced your design decisions in past projects.*
+Suggested search terms:
+- research
+- data analysis
+- information gathering
+- market research
+- audience analysis
+
+## Fig 8
+**Idea Generation**  
+Exploring multiple creative concepts through techniques like sketching, mind mapping, and experimentation—generating numerous ideas before filtering.
+*Recall & Connect: Think back to a recent project. Did you immediately settle on your first idea, or did you try out several rough sketches? That initial exploration of options is already a form of iteration.*
+Suggested search terms:
+- sketching
+- mind mapping
+- experimentation
+- ideation
+- brainstorming
+
+## Fig 9
+**Development and Refinement**  
+Working up initial ideas, creating more detailed sketches, and beginning to consider elements like colour schemes and layout.
+*Recall & Connect: How many versions of your designs do you typically create before finalizing? Each version represents an iteration.*
+Suggested search terms:
+- sketches
+- color schemes
+- layout
+- iterations
+- refinement
+
+## Fig 10
+**Prototyping/Mock-ups**  
+Creating visual representations of your concepts, from rough sketches to digital mock-ups.
+Suggested search terms:
+- prototyping
+- digital mockups
+- sketches
+
+## Fig 11
+**Evaluation and Feedback**  
+Seeking input from clients, peers, or instructors to refine your designs.
+*Recall & Connect: How did the feedback you received influence your next steps in past projects? Even small adjustments based on feedback demonstrate an iterative mindset.*
+Suggested search terms:
+- laptop
+- computer screen
+- person reviewing
+- design process
+- feedback
+
+## Fig 12
+**Technical Implementation**  
+Using appropriate software to create digital versions of your designs and prepare them for their intended medium.
+Suggested search terms:
+- laptop
+- computer screen
+- digital art
+- graphic design
+- vector graphics
+
+## Fig 13
+## Limitations of Linear Design Approaches
+Suggested search terms:
+- mountain
+- landscape
+- nature
+- forest
+- trees
+
+## Fig 14
+While this structured approach provides clarity, strictly linear processes present several challenges you'll encounter in professional settings:
+Suggested search terms:
+- mountain
+- forest
+- hiking trail
+- landscape
+- nature
+
+## Fig 15
+**The Fixed Requirements Challenge**  
+In real-world scenarios, client needs frequently shift throughout a project. What seems clear at the outset often changes once designs begin to materialize. For example, a client might spot the need for additional functionality after seeing an initial design concept.
+*Have you ever had to adjust your design direction midway through a project because of new information or changing requirements? How did this impact your workflow?*
+Suggested search terms:
+- mountain
+- laptop
+- office
+- teamwork
+- collaboration
+
+## Fig 16
+**The Feedback Timing Issue**  
+When feedback comes late in the process, discovering fundamental issues after significant development can throw off timelines and budgets. 
+*Have you ever spent ages on a detailed piece of work only to receive feedback that required you to rethink a fundamental aspect? How did that impact your timeline and motivation? Iterative design aims to prevent such situations.*
+Suggested search terms:
+- mountain
+- landscape
+- architecture
+- office
+- collaboration
+
+## Fig 17
+**The User Connection Gap**  
+When user testing happens too late, designs may look impressive but fail to serve their intended purpose. A beautiful website that users find confusing represents wasted effort and resources.
+Suggested search terms:
+- mountain
+- laptop
+- office
+- team
+- collaboration
+
+## Fig 18
+**The Resource Management Question**  
+Developing fully polished concepts before receiving any feedback can lead to inefficient use of time and resources. This is particularly problematic when working with tight deadlines or limited budgets.
+Suggested search terms:
+- mountain
+- forest
+- river
+- sunrise
+- landscape
+
+## Fig 19
+## Iterative Design: A Professional Methodology
+Suggested search terms:
+- mountain
+- landscape
+- nature
+- outdoor
+- hiking
+
+## Fig 20
+Iterative design addresses these limitations by breaking the process into smaller cycles of design, testing, and refinement—a methodology employed by leading design studios worldwide.
+Suggested search terms:
+- mountain
+- landscape
+- nature
+- forest
+- river
+
+## Fig 21
+Building upon the elements of exploration and refinement you've already encountered in your design journey, we now formalize this into a systematic approach called iterative design.
+Suggested search terms:
+- mountain
+- hiking trail
+- backpack
+- campfire
+- nature landscape
+
+## Fig 22
+### The Iterative Cycle: Structure within Flexibility
+Suggested search terms:
+- mountain
+- forest
+- stream
+- hiking
+- trail
+
+## Fig 23
+The iterative cycle provides structure while maintaining flexibility:
+Suggested search terms:
+- mountain
+- forest
+- river
+- hiking
+- landscape
+
+## Fig 24
+- **Plan:** Define specific goals for this iteration (e.g., testing a navigation concept)
+- **Design (Low-Fidelity):** Create quick, inexpensive prototypes to test concepts
+- **Test/Feedback:** Gather input from users or stakeholders on the prototype
+- **Refine:** Make adjustments based on the feedback received
+- **Repeat/Advance:** Decide whether to iterate further or move to another aspect
+Suggested search terms:
+- navigation
+- prototype
+- user feedback
+- design process
+- iteration
+
+## Fig 25
+This approach reduces the risk of significant rework later, saving you time and effort – a major benefit when facing tight deadlines.
+Suggested search terms:
+- mountain
+- landscape
+- sunset
+- forest
+- river
+
+## Fig 26
+### Case Study: Responsive Website Design
+Suggested search terms:
+- website design
+- responsive layout
+- web development
+- user interface
+- mobile friendly
+
+## Fig 27
+**More Linear Approach:** 
+A designer spends three weeks crafting detailed mockups for all pages of a responsive e-commerce website. During the client presentation, they discover the navigation system fails on mobile devices and key user journeys weren't considered. The project falls behind as they rework significant portions.
+*Key Takeaway: Late-stage feedback resulted in costly rework and timeline delays.*
+Suggested search terms:
+- mobile device
+- responsive design
+- user journey
+- website mockup
+- e-commerce
+
+## Fig 28
+**More Iterative Approach:**
+The same designer takes an iterative approach:
+- **Iteration 1: Wireframes & Feedback** - Creates wireframes of key pages and navigation systems, sharing them with the client after just three days.
+- **Iteration 2: Refined Navigation & User Flows** - After receiving feedback, they refine the navigation and map out critical user journeys.
+- **Iteration 3: Responsive Mockups & Testing** - Develops higher-fidelity mockups of critical user journeys across different devices.
+- **Iteration 4: Final Refinement** - Makes final adjustments based on testing results.
+Suggested search terms:
+- wireframes
+- navigation
+- user flows
+- responsive mockups
+
+## Fig 29
+Through regular check-ins, issues are identified early, and the final design is delivered on schedule with minimal revisions needed.
+*Key Takeaway: Early feedback on wireframes prevented significant rework on detailed mockups, directly addressing the Feedback Timing Issue.*
+Suggested search terms:
+- wireframes
+- mockups
+- design process
+- feedback
+- revisions
+
+## Fig 30
+## Comparing Traditional vs. Iterative Methodologies
+Suggested search terms:
+- mountain
+- forest
+- hiking trail
+- backpack
+- campfire
+
+## Fig 31
+![Linear vs. Iterative Timeline](https://placeholder-image.com/timeline-comparison.png)
+Suggested search terms:
+- linear timeline
+- iterative timeline
+- timeline comparison
+- timeline visualization
+- timeline diagram
+
+## Fig 32
+| Aspect | Traditional Linear | Iterative |
+|--------|-------------------|-----------|
+| Research timing | Completed before design begins | Continues throughout the process |
+| Prototyping | Full concepts before feedback | Low-fidelity prototypes for early testing, refined versions later |
+| Client interaction | Formal presentations at completion | Regular collaborative check-ins throughout |
+| Timeline structure | Fixed with sequential phases | Flexible with overlapping phases |
+| Problem identification | Late in the process | Early and ongoing |
+| Adaptation to changes | Difficult and costly | Built into the process |
+| Resource efficiency | Often wasteful with late-stage revisions | More efficient through early issue detection |
+Suggested search terms:
+- mountain
+- laptop
+- meeting
+- timeline
+- prototype
+
+## Fig 33
+## Applying Iterative Design to Complex Projects
+Suggested search terms:
+- mountain
+- landscape
+- architecture
+- construction
+- building
+
+## Fig 34
+In your studies, you'll develop a more deliberate iterative approach that supports:
+Suggested search terms:
+- mountain
+- forest
+- hiking trail
+- landscape
+- nature
+
+## Fig 35
+- **Digital prototyping:** Creating rapid prototypes at varying fidelities throughout the process, from simple wireframes to interactive mockups. This might include using tools like Figma or Adobe XD to quickly test navigation patterns before committing to a full design.
+*This early testing directly addresses the User Connection Gap by ensuring designs meet user needs before significant time is invested.*
+Suggested search terms:
+- wireframe
+- mockup
+- digital prototyping
+
+## Fig 36
+- **Project management:** Managing resources more efficiently through early problem detection and adaptive planning. For instance, setting up regular client review points after each iteration rather than one high-stakes final presentation.
+*This approach reduces stress and improves project outcomes by preventing major surprises late in the process.*
+Suggested search terms:
+- project management
+- client review
+- adaptive planning
+- iteration
+- resource management
+
+## Fig 37
+- **Client communication:** Establishing regular touchpoints rather than high-stakes presentations, managing expectations throughout the process. This creates opportunities to address concerns before they become major issues.
+*Regular touchpoints build stronger client relationships and minimize the chance of major surprises at the final presentation.*
+Suggested search terms:
+- touchpoints
+- client communication
+- expectations management
+- relationship building
+- presentation preparation
+
+## Fig 38
+- **Technical implementation:** Testing technical feasibility early before committing to solutions. This is particularly important for responsive design and interactive elements—you might create a simple prototype to test a complex animation before spending hours perfecting it.
+*Early technical testing prevents wasted effort on solutions that may not be feasible to implement.*
+Suggested search terms:
+- responsive design
+- interactive elements
+- animation prototype
+
+## Fig 39
+## What About Deadlines and Scope?
+Suggested search terms:
+- mountain
+- landscape
+- nature
+- forest
+- hiking
+
+## Fig 40
+You might be wondering: "If we're constantly iterating, how do we know when we're done?" This is where project management skills become essential. Effective iterative design still requires clear timelines and deliverables. The difference is building in flexibility through:
+Suggested search terms:
+- mountain
+- landscape
+- hiking
+- outdoor adventure
+- nature
+
+## Fig 41
+- Setting milestone reviews rather than just a final deadline
+- Prioritizing features based on importance (must-haves vs. nice-to-haves)
+- Defining what "done" looks like for each iteration
+- Documenting decisions and changes throughout the process
+Suggested search terms:
+- milestone reviews
+- feature prioritization
+- iteration planning
+- process documentation
+- project management
+
+## Fig 42
+## The Power of Feedback in Iteration
+Suggested search terms:
+- mountain
+- forest
+- hiking trail
+- landscape
+- nature
+
+## Fig 43
+As you can see, feedback isn't an afterthought in iterative design; it's a driving force for refinement. In the next step, we'll explore strategies for effectively integrating stakeholder feedback throughout the iterative process.
+Suggested search terms:
+- mountain
+- landscape
+- nature
+- outdoor
+- scenery
+
+## Fig 44
+**Try This when reflecting on your design process:**
+Consider a recent design project you've completed. How might a more deliberately iterative approach have improved your process or outcome? Identify specific points where early feedback could have saved time or improved your final design. Would this approach have given you more opportunities to demonstrate different design solutions in your portfolio? Jot down three specific changes you'll make in your next project.
+Suggested search terms:
+- design process
+- iterative design
+- design feedback
+- design portfolio
+- design solutions

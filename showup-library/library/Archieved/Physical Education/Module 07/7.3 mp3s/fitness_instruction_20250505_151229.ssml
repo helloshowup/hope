@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="en-US">
+<voice name="en-US-AndrewNeural" parameters="temperature=0.35">
+<prosody rate="-5%" pitch="+2%" volume="+10%">
+<p>Welcome to your underhand pitching practice. <break time="650ms"/> Today,<break time="150ms"/> we’ll focus on building control and accuracy with each throw. <break time="650ms"/> This technique is ideal for gentle,<break time="150ms"/> precise delivery—useful in games or casual play. <break time="650ms"/></p>
+<p>Let’s get set up. <break time="650ms"/> Stand tall with your feet shoulder-width apart. <break time="650ms"/> Place your stronger foot a little ahead of the other. <break time="650ms"/> Hold the ball or object in your stronger hand. <break time="650ms"/> Keep your arm relaxed at your side. <break time="650ms"/> Lock your eyes on your target. <break time="650ms"/> Remember—<emphasis level="moderate">never force your wrist or elbow</emphasis>. <break time="650ms"/> A smooth,<break time="150ms"/> controlled motion is safest for your joints. <break time="650ms"/></p>
+<p>We’ll do five underhand pitches together. <break time="650ms"/> After each,<break time="150ms"/> check your form. <break time="650ms"/> Ready to begin? <break time="650ms"/></p>
+<p><prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">step forward with your opposite foot as you swing</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">release the ball when your hand passes your thigh</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Three - <emphasis level="moderate">follow through,<break time="150ms"/> pointing your hand at the target</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Four - <emphasis level="moderate">keep your eyes on the target the entire time</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Five - <emphasis level="strong">maintain a relaxed grip,<break time="150ms"/> avoid squeezing too tightly</emphasis> <break time="3000ms"/></prosody></p>
+<p>Pause and check your success. <break time="650ms"/> Did your throws feel controlled? <break time="650ms"/> Did your hand finish pointed at your target? <break time="650ms"/> If not,<break time="150ms"/> slow down and reset. <break time="650ms"/></p>
+<p>You can try a helpful grip test. <break time="650ms"/> Use a loose grip—just fingertips. <break time="650ms"/> Then,<break time="150ms"/> a medium grip—fingers wrapped but relaxed. <break time="650ms"/> Finally,<break time="150ms"/> a firm grip—squeezing the object slightly. <break time="650ms"/> Throw five times with each grip. <break time="650ms"/> Notice which grip gives you best accuracy and comfort for different objects. <break time="650ms"/></p>
+<p>If you want more challenge, <break time="650ms"/> step further from your target. <break time="650ms"/> For an easier start, <break time="650ms"/> stand closer and use a lighter object. <break time="650ms"/> Remember—<emphasis level="moderate">accuracy is more important than power</emphasis>. <break time="650ms"/></p>
+<p>Let’s review. <break time="650ms"/> Underhand pitching builds coordination and precise control. <break time="650ms"/> It teaches you to guide the ball exactly where you want. <break time="650ms"/> This technique is gentle on the arm and easy to repeat. <break time="650ms"/> Practicing with different grips helps you find what’s best for each object. <break time="650ms"/> You’ve just taken a key step in developing versatile,<break time="150ms"/> controlled throwing skills. <break time="650ms"/></p>
+<p>Nice work today. <break time="650ms"/> Keep practicing to sharpen your aim and confidence. <break time="650ms"/> Your control and gentle delivery will serve you well,<break time="150ms"/> both in sports and everyday activities. <break time="650ms"/> See you next time. <break time="650ms"/></p>
+</prosody>
+</voice>
+</speak>

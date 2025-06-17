@@ -1,0 +1,12 @@
+You are making targeted minor edits to allow standard formatting accross content.  Here is your task  You must only adjust the numbering in the composite images found in the text so that that they are like this: For example: THis is a composite image as it is now in the text EXAMPLE [COMPOSITE Image Grid (2 images):] [Image 1: Diagram showing linear design process with sequential boxes connected by one-way arrows, with feedback only appearing at the end. Caption: "Fig 1, part 1 of 2: Linear design process showing how feedback occurs primarily at project completion"] [Image 2: Diagram showing iterative design process with circular workflow and multiple feedback points throughout, represented by loops returning to earlier stages. Caption: "Fig 1, part 2 of 2: Iterative design process with multiple feedback integration points throughout development"] [Final Caption: "Fig 1: Comparison of linear versus iterative design approaches, highlighting how early feedback cycles in iterative design prevent costly late-stage revisions and align stakeholder expectations throughout the project"] 
+
+YOU NEED TO TWEAK IT AS FOLLOWS: [COMPOSITE Image Grid (2 images):] [Image 1: Diagram showing linear design process with sequential boxes connected by one-way arrows, with feedback only appearing at the end. Caption: "Fig 11, part 1 of 2: Linear design process showing how feedback occurs primarily at project completion"] [Image 2: Diagram showing iterative design process with circular workflow and multiple feedback points throughout, represented by loops returning to earlier stages. Caption: "Fig 12, part 2 of 2: Iterative design process with multiple feedback integration points throughout development"] [Final Caption: "Fig 1: Comparison of linear versus iterative design approaches, highlighting how early feedback cycles in iterative design prevent costly late-stage revisions and align stakeholder expectations throughout the project"]
+
+## Change Explanation for AI Text Editor
+
+The primary modification involves adjusting the figure numbering for the individual images within the composite image grid. Specifically:
+- The first image's caption now reads "Fig 11, part 1 of 2" instead of "Fig 1, part 1 of 2"
+- The second image's caption now reads "Fig 12, part 2 of 2" instead of "Fig 1, part 2 of 2"
+- The final caption remains unchanged at "Fig 1"
+
+This change demonstrates a nuanced approach to figure numbering within a composite image, where individual images can have their own sequential numbers while maintaining an overarching figure reference.

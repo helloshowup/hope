@@ -1,0 +1,21 @@
+# Downloadable Resource Template
+
+This template is designed for creating downloadable educational resources.
+
+## Purpose of this Resource 1 
+
+[Brief Explain the educational purpose of this resource and how it supports learning objectives]
+
+## How to Use This Resource
+
+[Provide clear instructions on how to use this downloadable resource]
+
+## Resource Content
+
+[The main content of the downloadable resource, formatted appropriately for its type]
+
+## Purpose of this Resource 2
+
+[Continue until resources completed]
+
+Remember to focus on creating content that is most suitable for the target learner while adhering to the given template and context. Limit the entire word count to 500 words

@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="en-US">
+<voice name="en-US-AndrewNeural" parameters="temperature=0.35">
+<prosody rate="-5%" pitch="+2%" volume="+10%">
+<p>Welcome.<break time="350ms"/> Today,<break time="150ms"/> you’ll learn how to perform a basic vertical jump. <break time="650ms"/> This exercise builds lower body power and improves explosive strength. <break time="650ms"/> Find a clear space,<break time="150ms"/> free of obstacles and low ceilings. <break time="650ms"/> For safety,<break time="150ms"/> always land with soft knees to protect your joints. <break time="650ms"/></p>
+<p>Let’s get started. <break time="650ms"/> Stand with your feet shoulder-width apart. <break time="650ms"/> Distribute your weight evenly between both feet. <break time="650ms"/> Keep your arms relaxed at your sides. <break time="650ms"/> Look straight ahead. <break time="650ms"/> Now,<break time="150ms"/> bend your knees and hips,<break time="150ms"/> as if sitting back into a chair. <break time="650ms"/> Keep your chest lifted and your core engaged. <break time="650ms"/> Swing your arms back behind you. <break time="650ms"/> Ready? <break time="650ms"/></p>
+<p>Here comes the movement. <break time="650ms"/> In one fluid motion,<break time="150ms"/> swing your arms forward and up. <break time="650ms"/> Push off quickly with both feet,<break time="150ms"/> jumping straight up. <break time="650ms"/> As you rise,<break time="150ms"/> extend your hips and knees. <break time="650ms"/> Keep your body straight and your eyes forward. <break time="650ms"/> At the top,<break time="150ms"/> reach up with your arms. <break time="650ms"/> On the way down,<break time="150ms"/> prepare to land softly. <break time="650ms"/> Land on the balls of your feet,<break time="150ms"/> knees bent,<break time="150ms"/> arms forward for balance. <break time="650ms"/> Absorb the landing by keeping your hips back and chest up. <break time="650ms"/></p>
+<p>Let’s check your form. <break time="650ms"/> Are your knees bent on landing? <break time="650ms"/> Are you landing quietly? <break time="650ms"/> If yes,<break time="150ms"/> great job. <break time="650ms"/> If not,<break time="150ms"/> reset and try again. <break time="650ms"/></p>
+<p>Now,<break time="150ms"/> we’ll do five repetitions together. <break time="2000ms"/></p>
+<p><prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">bend deeply before jumping</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">push off both feet,<break time="150ms"/> swing arms forward</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Three - <emphasis level="moderate">land softly,<break time="150ms"/> knees bent</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Four - <emphasis level="strong">keep your core engaged</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Five - <emphasis level="moderate">finish balanced,<break time="150ms"/> arms forward</emphasis> <break time="3000ms"/></prosody></p>
+<p>If you need less impact,<break time="150ms"/> try a half-squat with a calf raise instead of jumping. <break time="650ms"/> For more challenge,<break time="150ms"/> jump higher or add a tuck at the top. <break time="650ms"/></p>
+<p>Jumping builds explosive power,<break time="150ms"/> strengthens your legs,<break time="150ms"/> and improves body control. <break time="650ms"/> Practicing safe landings protects your joints and builds coordination. <break time="650ms"/> Consistency will help you jump higher and move with confidence. <break time="650ms"/> Great work focusing on your form and effort today. <break time="650ms"/></p>
+</prosody>
+</voice>
+</speak>

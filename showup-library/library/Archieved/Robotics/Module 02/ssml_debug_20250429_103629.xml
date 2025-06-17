@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<!-- Note: This script may not meet all quality guidelines. Please review carefully. -->
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="en-US">
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>Hi there! Now, how do robots get their power? And, more importantly, why does it matters? To answer these questions, I’ll explain how robots use electricity to do their jobs, from small toys to huge machines.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>Hey! I’m excited for this. Kids always ask me how robots can work for so long, or how they move around on their own. it's great that we can get to dig into how robot power really works, using some cool examples.</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>Sure! First, every robot needs a power source. This is like the robot’s food. Some robots use batteries—think about your remote-control car. Others plug into the wall, like a desktop computer. Some robots even use solar panels, just like solar-powered calculators.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>Right, and the kind of power they use changes what they can do. Like, a Mars rover uses solar panels because there’s no place to plug in on Mars! But a factory robot gets plugged into the wall so it can work all day without stopping.</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>Exactly. The robot’s job changes how much power it needs. If a robot is big or has to lift heavy things, it needs more energy. The motors that help the robot move are usually the hungriest—they use the most electricity. Sensors, which are like the robot’s eyes and ears, use a lot less.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>That makes sense. But what about those robot vacuums at home? They seem small, but they have to run around and clean for a while.</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>Those use rechargeable batteries. They can only run for about an hour before they need to charge again. If they had bigger batteries, they’d last longer, but then they’d be heavier and harder to move.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>Hmm, so engineers have to balance battery size and robot weight. That reminds me of the difference between a toy robot and a car-assembling robot. The toy can use a tiny battery, but the car-building robot needs lots of power—so it’s plugged in all the time.</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>Yes, but sometimes robots can use new power sources, like hydrogen fuel cells. These are being tested for robots that need to work for a long time without stopping. They turn fuel into electricity, kind of like a super battery.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>Wait, I thought solar panels were the best for robots that work outside. Wouldn’t solar always be better than carrying fuel around?</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>Not always. Solar panels only work when there’s enough sunlight. If a robot works at night or inside, fuel cells or batteries might be better. Engineers pick the best source for the job.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>Got it. Also, I’ve heard robots can save power by shutting down parts they’re not using. Like, my phone dims the screen when the battery is low.</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>That’s right! Robots do the same thing. If energy is low, they might turn off lights or slow down motors, but keep the important stuff running. Their power system is like the wiring in your house, sending the right amount of energy to each part.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>That’s pretty cool. It’s like robots have to be smart about their energy, just like we do with our devices.</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>Exactly. The better we understand robot power, the better we can design them.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>Thanks for explaining everything so clearly. I think middle schoolers would love to see how robot power is a lot like what happens in their own gadgets.</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>And that’s the big idea—robots need the right kind of energy to do their jobs well, just like we do!</p>
+</voice>
+
+</speak>

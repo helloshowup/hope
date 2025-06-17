@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="en-US">
+<voice name="en-US-AndrewNeural" parameters="temperature=0.35">
+<prosody rate="-5%" pitch="+2%" volume="+10%">
+<p>Welcome to your push-up session. <break time="650ms"/> Today,<break time="150ms"/> you’ll focus on building upper body strength with a classic exercise. <break time="650ms"/> Push-ups target your chest,<break time="150ms"/> shoulders,<break time="150ms"/> and arms,<break time="150ms"/> helping you develop muscular endurance. <break time="650ms"/></p>
+<p>Let’s get set up. <break time="650ms"/> Begin by placing your hands on the floor,<break time="150ms"/> slightly wider than your shoulders. <break time="650ms"/> Extend your legs straight behind you. <break time="650ms"/> Your feet should be together,<break time="150ms"/> toes on the ground. <break time="650ms"/> Form a straight line from the top of your head to your heels. <break time="650ms"/> This is your starting position. <break time="650ms"/></p>
+<p><emphasis level="strong">Safety reminder:</emphasis> Keep your core engaged to protect your lower back. <break time="650ms"/></p>
+<p>Let’s move through five push-ups together. <break time="650ms"/> I’ll guide you through each rep. <break time="650ms"/></p>
+<p><prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">Lower your chest by bending your elbows.<break time="350ms"/> Keep your body straight.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">Push the floor away and return to the starting position.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Three - <emphasis level="moderate">Inhale as you lower,<break time="150ms"/> exhale as you push up.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Four - <emphasis level="moderate">Elbows should angle back,<break time="150ms"/> not out to the sides.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Five - <emphasis level="strong">Do not let your hips sag or pike up.</emphasis> <break time="3000ms"/></prosody></p>
+<p>Take a moment and check your form. <break time="650ms"/> Your body should move in one line from head to heels. <break time="650ms"/> If your middle is dropping or rising,<break time="150ms"/> adjust your core engagement. <break time="650ms"/></p>
+<p>If you need an easier option,<break time="150ms"/> try push-ups with your knees on the ground. <break time="650ms"/> Just keep your body in a straight line from shoulders to knees. <break time="650ms"/> For a greater challenge,<break time="150ms"/> slow down each repetition or lift one foot off the ground as you push. <break time="650ms"/></p>
+<p>Let’s complete five more push-ups together. <break time="650ms"/></p>
+<p><prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">Lower down,<break time="150ms"/> chest moves toward the floor.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">Press up,<break time="150ms"/> extend your arms fully.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Three - <emphasis level="moderate">Keep your neck in line with your spine.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Four - <emphasis level="moderate">Feel the work in your chest and arms.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Five - <emphasis level="strong">Finish strong,<break time="150ms"/> maintain your form.</emphasis> <break time="3000ms"/></prosody></p>
+<p>Great job finishing your set. <break time="650ms"/> Push-ups help strengthen multiple upper body muscles at once and improve core stability. <break time="650ms"/> Practicing good form helps you see results and avoid injury. <break time="650ms"/> Remember,<break time="150ms"/> consistency with proper technique brings real strength gains. <break time="650ms"/> Well done—keep building on this foundation as you progress. <break time="650ms"/></p>
+</prosody>
+</voice>
+</speak>

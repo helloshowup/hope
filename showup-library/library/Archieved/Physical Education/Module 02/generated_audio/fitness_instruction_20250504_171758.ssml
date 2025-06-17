@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="en-US">
+<voice name="en-US-AndrewNeural" parameters="temperature=0.35">
+<prosody rate="-5%" pitch="+2%" volume="+10%">
+<p>Welcome to your walking technique session. <break time="650ms"/> Today,<break time="150ms"/> we’ll focus on how to walk with good form. <break time="650ms"/> Walking with proper technique helps reduce joint stress and improves balance. <break time="650ms"/></p>
+<p>Let’s get started. <break time="650ms"/> Find a clear space where you can walk in a straight line for at least ten steps. <break time="650ms"/> Make sure the area is free of obstacles. <break time="650ms"/> Safety first—<emphasis level="strong">avoid slippery floors or cluttered walkways</emphasis>. <break time="650ms"/></p>
+<p>Stand tall. <break time="650ms"/> Keep your head up. <break time="650ms"/> Eyes look straight ahead. <break time="650ms"/> Relax your shoulders down and away from your ears. <break time="650ms"/> Feel your chest open. <break time="650ms"/> Let your arms hang naturally by your sides. <break time="650ms"/></p>
+<p>Now,<break time="150ms"/> bend your elbows to about ninety degrees. <break time="650ms"/> Your arms should swing gently,<break time="150ms"/> opposite to your legs. <break time="650ms"/> This means your right arm moves forward as your left leg steps forward,<break time="150ms"/> and vice versa. <break time="650ms"/> <emphasis level="moderate">Natural arm swing supports your stride</emphasis>. <break time="650ms"/></p>
+<p>Set your feet about hip-width apart. <break time="650ms"/> Stand evenly on both feet. <break time="650ms"/> This is your starting position. <break time="650ms"/> Ready to begin? <break time="650ms"/></p>
+<p>Let’s walk ten steps together. <break time="650ms"/> I’ll count and guide you through each one. <break time="650ms"/></p>
+<p><prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">Land softly on your heel first</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">Roll through your foot smoothly to your toes</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Three - <emphasis level="moderate">Push off gently from your toes</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Four - <emphasis level="moderate">Keep your step length comfortable,<break time="150ms"/> not too long</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Five - <emphasis level="moderate">Maintain your head up,<break time="150ms"/> eyes ahead</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Six - <emphasis level="moderate">Relax your arms,<break time="150ms"/> keep them swinging naturally</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Seven - <emphasis level="moderate">Shoulders stay down and back</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Eight - <emphasis level="moderate">Keep breathing steady and relaxed</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Nine - <emphasis level="moderate">Check that your steps feel balanced and even</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Ten - <emphasis level="moderate">Finish with good posture,<break time="150ms"/> standing tall</emphasis> <break time="3000ms"/></prosody></p>
+<p>Check in with yourself. <break time="650ms"/> Are your shoulders relaxed? <break time="650ms"/> Are you looking ahead,<break time="150ms"/> not down? <break time="650ms"/> Is your arm swing natural and opposite to your legs? <break time="650ms"/> If yes,<break time="150ms"/> you are using good technique. <break time="650ms"/></p>
+<p>If you want an easier option,<break time="150ms"/> slow your pace and focus on each step. <break time="650ms"/> For more challenge,<break time="150ms"/> try walking briskly while keeping your form. <break time="650ms"/></p>
+<p>Practicing proper walking technique helps strengthen your legs,<break time="150ms"/> improves posture,<break time="150ms"/> and supports joint health. <break time="650ms"/> Remember,<break time="150ms"/> small adjustments in your walk can make a big difference over time. <break time="650ms"/> Great job focusing on your movement and posture today. <break time="650ms"/> Keep walking with confidence and awareness each day. <break time="650ms"/></p>
+</prosody>
+</voice>
+</speak>

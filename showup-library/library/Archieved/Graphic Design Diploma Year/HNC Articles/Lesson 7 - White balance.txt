@@ -1,0 +1,26 @@
+Week 2: Camera modes explained & applied
+STEP 11: What Is White Balance And How Can It Be Useful 
+Every subject or scene you capture with your camera has a specific temperature. For example, a sunset has a warm glow, whereas a cloudy day has a cooler, bluer light. These colour temperatures can easily affect your photographs, and yet, you will notice that there is no colour temperature setting on your camera. The answer to this problem is the White Balance mode. As the name suggests, white balance mode balances the colour temperature in your images. But how does this particular mode ensure that your photographs portray the correct colour temperature? 
+Light temperatures are measured in Kelvin (k). A candle's light, for example, is 1,800k and is considered warm. Daylight on a bright sunny day at midday is about 5,600k, whereas a heavy overcast day can be a cool 7,500k. Lower temperatures are considered to be warm, and higher temperatures are considered to be cool.
+Fig 1. Light temperature scale
+When you capture an image, the camera's digital sensor needs to know what the ambient light temperature of your scene or subject matter is to accurately record life-like colours. The following White Balance options are usually available on cameras to help with this:  
+Auto or AWB (Auto White Balance)
+Shade
+Cloudy
+Incandescent or Tungsten (light bulb)
+Fluorescent 
+Daylight (or direct sunlight)
+Flash
+Custom
+K or Kelvin
+What these White Balance options do, is filter out or neutralise the colour of light present in your scene or subject. So if the camera sees blue light, for example, it will apply a yellow filter to neutralise it. Most cameras will estimate the white balance of a scene automatically by using the Auto White Balance (AWB). This mode will assess the scene, and the camera will then automatically set the colour for you. This is mostly accurate, but if there is a mix of lighting sources in a particular scene, the colour balance in an image might be off as a result of an inaccurate white balance.
+Fig 2. Auto white balance
+Fig 3. Daylight
+Fig 4. Shade
+Fig 5. Flash
+Fig 6. Fluorescent
+Fig 7. Tungsten
+If you know what the exact temperature of your light should be to achieve a certain colour balance, you can also manually adjust the white balance on any DSLR. For example, when shooting in a studio with a 3,200k tungsten light, manually adjust the white balance to 3,200k. However, manually adjusting the white balance is not advisable when shooting outdoors, as the white balance is constantly changing. For example, the sun constantly changes its angle, and clouds and other light sources impact the light in a scene. 
+Fortunately, when shooting with a DSLR, you can force the camera to shoot in RAW format, and this allows you to change the colour balance in post-processing. This has made colour balance and light temperature much less of a concern for modern digital photographers. 
+Image references:
+Figures 1-7: FLG course material - RQF (v.2). 

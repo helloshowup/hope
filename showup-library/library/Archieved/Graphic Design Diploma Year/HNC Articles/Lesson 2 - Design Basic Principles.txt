@@ -1,0 +1,119 @@
+DESIGN
+Basic Principles 1
+Design - Basic Principles 1
+In the main, graphic design takes place within the confines of 2 dimensions - Height & Width.
+Until we place a mark on it, a sheet of white paper is just a flat surface.
+Once the mark is placed, the sheet becomes the scene of visual forces, which becomes more complex as more elements are added.
+Figure & Ground:
+A form is always experienced in relation to the space in which it is placed, and of course in relation to the other elements present in the layout.
+No form exists in isolation but is perceived in the context in which it is set.
+Generally a form is considered to be ‘positive’ and the space around it, also known as
+‘the ground’, is considered to be ‘negative’.
+This space is a very important part of any design and is not just something ‘left over’ after the form has been placed on it. It needs to be considered as any other element in the design - as a dynamic force on its own, and/or to give ‘breathing space’ in order to allow other elements to shine.
+Design - Basic Principles 1
+Space needs to be organised and controlled. Badly controlled space can disrupt meaning and confuse emphasis.
+Space should not be allowed to spread around aimlessly as it can create a very weak overall design.
+It is vital to consider the relationship between forms when placed within a space.
+The placement of each form directly influences how we perceive the overall piece.
+The centre square appears still or passive
+When a second form is introduced it changes our perception… it now appears that the squares are entering From the left.
+Now our perception changes again with the position of the squares suggesting Movement towards the right.
+The position of these now suggest movement upwards.
+Design - Basic Principles 1
+The illusion of depth and volume in space came to us through perspective - a device developed at the beginning of the Italian Renaissance.
+This illusion can be created on a flat surface by considering the relationships and placement and sizing of forms.
+Relative scale & importance - The large square appears to be closer. This effect creates an illusion of 3-D space.
+Design - Basic Principles 1
+Perception is an active process
+When people look at a page, a picture, a computer screen, or the environment around them, they actively organize what they see. They resolve ambiguities, impose structure, and make connections.
+Design - Basic Principles 1
+Design - Basic Principles 1
+Design - Basic Principles 1
+Problems of perception:
+The Necker Cube shows how the eye can come to two conclusions.
+Are you looking at a cube seen from above and facing to the left or a cube Seen from below and facing to the right?
+Design - Basic Principles 1
+People have a strong inclination to translate 2-D representations into three dimensions even when those figures are formed by lines on a two-dimensional page or computer screen.
+Design - Basic Principles 1
+Design - Basic Principles 1
+Negative & Positive Space
+When designing a page it is really important to consider the positive and negative space. It is important to recognise that generally speaking negative space works in supporting the positive form and so is rarely left to develop in its own right.
+That said it can be a worthwhile exercise to explore the effect the this ‘unused’ space has on the overall feel of an image by deliberately altering the ratio of positive to negative space.
+Sometimes situations can occur where the normally negative space is given form by the character of the positive forms.
+This can create ambiguity which can really stimulate visual excitement.
+Form can also be used to ‘capture’ a space in such a way that an image emerges that could be read as positive even though elsewhere in the design it retains it’s usual role.
+Does Rubin’s Vase show a drawing of an elegant vase or the profiles of two people facing each other?
+Design - Basic Principles 1
+Gestalt Psychology
+Gestalt Psychology: philosophy of mind of the Berlin School of experimental psychology
+(Gestalt [ɡəˈʃtalt] German: "shape, form”)
+Gestalt principles describe how the human eye perceives visual elements—in particular, they tell us that complex images tend to be reduced to simpler shapes. Gestalt psychologist Kurt Koffka summarized them thus:
+“The whole is other than the sum of parts.”
+This means the whole of an image is perceived as a separate entity from its individual parts.
+When designing a webpage or print document the designer’s job is to lead the viewer and to help them to follow the order and importance of the information efficiently and effectively.
+To do this well it helps to have an understanding of Gestalt psychology.
+Design - Basic Principles 1
+Gestalt Psychology developed in Germany around the 1930s. The Gestalt psychologists were concerned with the study of perception, particularly visual perception.
+One of the earliest discoveries of Gestalt psychology was that the way things look depends not just on the properties of their parts, but more importantly, on their organisation.
+Their extensive research programme yielded a number of principles that can be very useful for designers.
+The essential point of Gestalt Psychology is that in perception the unified whole is different from the sum of the part.
+Design - Basic Principles 1
+Principals of Gestalt Psychology
+Figure and Ground
+Proximity
+Closure
+Similarity
+Continuation
+Symmetry or order
+Design - Basic Principles 1
+Figure and Ground
+Figure–ground organization is a type of perceptual grouping which is a vital necessity for recognizing objects through vision. In Gestalt psychology it is known as identifying a figure from the background.
+In figure-ground reversal the viewer’s perception alternates between two possible interpretations of the same visual field: you see either a goblet or two faces, but you cannot see both at once.
+Design - Basic Principles 1
+Figure and Ground
+The figure-ground principle states that people instinctively perceive objects as either being in the foreground or the background. They either stand out prominently in the front (the figure) or recede into the back (the ground).
+Design - Basic Principles 1
+Design - Basic Principles 1
+Design - Basic Principles 1
+Proximity
+The Gestalt law of proximity states that "objects or shapes that are close to one another appear to form groups". Even if the shapes, sizes, and objects are radically different, they will appear as a group if they are close together.
+Design - Basic Principles 1
+In the next example however, another Gestalt Principle is added to the mix (similarity), but our perception of proximity overpowers it. We might otherwise associate these elements according to the two distinct colors, but proximity wins the day.
+http://www.andyrutledge.com
+Design - Basic Principles 1
+Closure
+Closure (also known as Reification): The human eye prefers to see complete shapes. If the visual elements are not complete, the user can perceive a complete shape by filling in missing visual information.
+Design - Basic Principles 1
+	
+Design - Basic Principles 1
+Similarity
+The principle of similarity states that things which share visual characteristics such as shape, size, color, texture, value or orientation will be seen as belonging together.
+Viewers will associate and treat as a group elements that share consistent visual characteristics .
+Design - Basic Principles 1
+Design - Basic Principles 1
+Continuation
+The principle of continuation states that learners ‘tend to continue shapes beyond their ending points’
+The edge of one shape will continue into the space and meet up with other shapes or the edge of the picture plane.
+The law of continuity suggests that we are more likely to perceive continuous, smooth flowing lines rather than jagged, broken lines
+Design - Basic Principles 1
+Continuation
+Continuation occurs when the eye is compelled to move through one object and continue to another object.
+Continuation occurs in these examples, because the viewer’s eye will naturally follow a line or curve. (Eg. left) The smooth flowing dots leads the eye with its movement.
+Design - Basic Principles 1
+Symmetry
+The principle of symmetry states elements that are symmetrical to each other tend to be perceived as a unified group.
+The principle advocates the need to provide a sense of order and balance to save viewers’ time and ensure that they locate all elements and fix problems.
+Design - Basic Principles 1
+Symmetry
+The principle of symmetry states that we tend to take complex images and simplify them.
+For instance take the first maroon image we tend to either view this as one whole image or as two overlapping images as shown in the top right image. We do not view the first image as either of the two examples shown in the second row.
+Design - Basic Principles 1
+Summary
+Design - Basic Principles 1
+Tools not Rules!
+The Gestalt principles are valuable tools that designers can use to help them. However, the Gestalt principles were not intended to tell designers what their goals ought to be.
+The Gestalt psychologists were not advocating that designers make every figure as strong as possible. Nor were they saying that symmetrical designs are better than asymmetrical ones.
+Rather, the Gestalt psychologists were describing the effects that closure, symmetry, asymmetry, proximity, similarity, continuity, grouping, hierarchy, and balance would have on the appearance of figures. It is up to the designer to then use this knowledge to good effect.
+Gestalt principles for describing how people interpret the visual field of a document has been condensed from the book
+Dynamics in Document Design by Karen A. Schriver (pages 303 to 326)
+Design - Basic Principles 1

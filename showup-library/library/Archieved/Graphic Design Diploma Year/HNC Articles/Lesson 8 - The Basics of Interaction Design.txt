@@ -1,0 +1,52 @@
+Interaction design focuses on how users interact with a product. It is a multidisciplinary field that involves creating user experiences and interfaces for digital products or services on various platforms, such as websites or mobile apps. An interaction designer needs to define the particular system's behaviour and ensure that interactions with that system are intuitive and user-friendly. This includes considering page elements like buttons, forms, and navigation menus.
+Interaction Design Principles
+Users interact with websites and other digital products on a daily basis. The design that allows these interactions between man and machine is crucial in making products, services and systems more accessible, which has led to the formation of several essential principles related to interaction design.
+Consistency
+The overall look and feel of a website or app is a critical part of the user experience. Consistent and visually appealing designs contribute to a positive user experience through, for instance, splash screens and other design elements and structures, like icons, symbols, buttons, scroll bars. 
+With the increasing use of a variety of devices, consistency in design is important to ensure the user experience remains effective on various screen sizes and devices. A designer should, therefore, establish a purposeful and well thought-through visual language across different platforms.
+Fig 1. Unsplash (n.d) Interaction designers must design with multiple platforms in mind
+The importance of maintaining strict consistency of design varies by level:
+Top level consistency
+Platform consistency (de facto standards)
+In-house consistency (maintain a general look and feel across your products/services)
+Consistency across a suite of products (e.g. Adobe)
+Maintaining consistency in the design, both visually and in terms of interaction patterns, helps users build a mental model of the system, making it easier for them to understand and navigate.
+Learnability
+Ideally, products would have no learning curve and present no challenges. Users should open them for the very first time and instantly master the product. In practice, however, all digital applications and services, no matter how simple, will entail some sort of initial learning curve. Learnability and usability are therefore not mutually exclusive. As a designer, you will need to first decide which is the most important and then make it as easy as possible for the user to learn quickly and use efficiently. 
+Accessibility
+Designing for accessibility ensures that people with disabilities can use and interact with digital products. This involves considerations for users with visual, auditory, motor, or cognitive impairments. 
+Visual accessibility
+Visual elements, including colour, typography, imagery, and layout, play a crucial role in interactive design. 
+For example, any text that a user must read should have high contrast. As an interaction designer, you will need to use different font sizes that are large enough to be readable on standard displays. An effective approach is favouring particularly large characters for the actual data you intend to display, as opposed to labels and instructions. It is important to note that an inverse relationship can often exist between the attractiveness of a font and its actual readability, with the one decreasing in value when the other increases. Maintaining a balance between accessibility and visual appeal will be key in its effectiveness.
+Fig 2. Pexels (n.d.) Large text with high contrast
+In terms of colour, interaction designers need to consider audiences that might have an impairment like colour blindness, since colour is a vital interface element. This does not mean that you should avoid colour in the interface just because not every user can see or distinguish between different colours. Just keep in mind that, when you communicate information, it is best to use clear, secondary hues to convey that information to make it easier for all users to see. An example of a tool that you can use to mimic what a colour-blind user would see when interacting with your website is Colbindor. This way, you can test the accessibility of your product. 
+In general, it is helpful to have your oldest expected user population interact with your design to assess whether it accommodates people with certain visual, auditory, motor, or cognitive impairments. 
+Efficiency
+One of the aims of interaction design is to keep the user occupied. The last thing you want is for someone to access a website that you designed, only to quickly leave because of ineffective support when facing an error. A few key considerations: 
+Error messages should actually help
+Explain what’s wrong
+Tell the user specifically what to do about it
+Suggest the possibility of an error message being improperly generated due to a deeper system malfunction.
+Fig 3. Unsplash (n.d.) Website error message
+Providing feedback to users about their actions on a certain platform is crucial for a positive user experience. Additionally, clear error messages and guidance help users recover from mistakes and continue using the interface effectively.
+Psychological design principles
+There are two key psychological principles, or laws, applied to the field of UI and UX design that are useful in designing a successful website. These are Hick’s Law and Fitts’ Law. Hick’s Law dictates the user does not have too many items to choose from, and Fitts’ Law ensures that the process of choosing is as easy as possible by keeping things closer to the user's focus of attention. 
+Hick’s Law
+Hick’s Law (also referred to as the Hick-Hyman Law) was named after British psychologists William Edmund Hick and Ray Hyman. It states that the more choices a person is presented with, the longer the person will take to make a decision. 
+Fig 4. Unsplash (n.d.) Too many choices can be overwhelming
+Therefore, to avoid overwhelming users with too many choices and keep them engaged, Hick’s Law emphasises the importance of simplicity and minimalism in user interfaces. For example:
+Reducing decision time
+Prioritising important or frequently used information
+Having clear navigation menus and interfaces
+Using progressive disclosure (i.e. revealing information gradually)
+Categorising and grouping related options and content together
+Providing default choice (where applicable)
+Fig 5. Rodriquez (n.d.) Hick’s Law applied to a website menu
+Fitts’ Law
+Fitts’ Law is another important principle in the field of human-computer interaction and design. Proposed by psychologist Paul Fitts in 1954, Fitts’ Law describes the relationship between the time it takes to move to a target and the size of the target. In simpler terms, it states that it is quicker to hit a target that is larger and closer in proximity to you. 
+Fitts’ Law also states that fast movements directed towards smaller targets result in greater error rates. For this reason, tap target sizes also need careful consideration. It should be large enough so that it can be touched by the average adult finger pad, which is around 10 mm. Also, when it comes to menu and button labels, it should have the key word(s) first, forming unique labels. 
+Therefore, placing similarly used functions of features together (figure 6) and/or creating larger targets (figure 7) reduces the cursor movement:
+Fig 6. Proximity of similar functions
+Fig 7. Larger size for a target
+Image reference:
+Rodriguez, F. (n.d.). Hick’s law applied to a menu. Mighty Fine. https://mightyfinedesign.co/hicks-law-web-designer/

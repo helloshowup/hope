@@ -1,0 +1,8 @@
+{
+  "module": "8",
+  "lesson": "4",
+  "step_number": "19",
+  "step_title": "Evidence-Based Decision Scenario",
+  "best_version": "# Evidence-Based Decision Scenario\n\n## Student Pathway Planning Exercise\n\n### Instructions\nYou have 15 minutes to complete this scenario-based activity. You will:\n1. Review two student profiles\n2. Create appropriate course plans by dragging options to the correct placement\n3. Write a brief justification for your decisions\n\n### Student Profiles\n\n**Profile 1: Maya**\n* Junior with 3.8 GPA\n* Strong in mathematics and science\n* Interested in engineering\n* Participates in robotics club\n* Wants to attend a competitive university\n\n**Profile 2: Jackson**\n* Junior with 2.9 GPA\n* Excels in creative writing and communications\n* Interested in journalism\n* Works part-time 20 hours weekly\n* Plans to attend community college, then transfer\n\n### Course Planning Activity\n[Drag-and-drop interface with course options including AP/Honors courses, standard courses, electives, and support resources]\n\n### Justification\nAfter creating each course plan, write a 50-word justification explaining how your recommendations align with each student's goals, strengths, and circumstances.\n\n### Reflection Questions\n* What evidence influenced your decisions most strongly?\n* How did you balance academic challenge with student well-being?",
+  "explanation": "Error in comparison process: maximum recursion depth exceeded while calling a Python object. Using most structurally complete version as fallback."
+}

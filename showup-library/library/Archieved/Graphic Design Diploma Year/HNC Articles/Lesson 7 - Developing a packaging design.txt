@@ -1,0 +1,60 @@
+Glossary of terms
+As a designer, you will come across a plethora of design terms that are specifically related to packaging design. It is essential to familiarise yourself with these terms if you’re hoping to work in the industry one day, as it can help you to communicate more effectively and avoid misunderstandings. The list below includes just a few of the terms that are worth knowing at this stage, but is by no means exhaustive:
+Bar Code: A symbol made up of rectangular bars and spaces that identifies the product.
+Branding: The process of creating a name and image for a product, typically through a logo and corresponding packaging to obtain a consistent visual language.
+Brand Guidelines: A style guide that regulates the look and feel of a brand.
+Brand Manual: The visual ‘rules’ of a brand, including typeface, logo, colour palette, etc.
+Colour Mockup: A colour-rendered package design to present to a client for feedback. 
+Colour Palette: The colour scheme used in the packaging design (i.e. 2-3 primary colours that represent the brand and other complementary or supporting colour options).
+Crop Marks: Horizontal and vertical lines that indicate the edge of the printed piece.
+Dieline/Keyline: An outline drawing of the completed package design, indicating the exact shape, position, and size for elements such as halftones, cut and fold lines, etc.
+Direct Print: Printing that penetrates the surface of the packaging rather than a label. 
+DPI (Dots Per Inch): Indicates the resolution of an output device, such as a printer or printing press machine. 
+JPEG (Joint Photographic Electronic Group): A common file format for full-colour and black-and-white graphic or photographic images. 
+Label Panel: That portion of the packaging that is covered by a label.
+Master Design: The final design with all its visual elements adapted for various sizes and formats, including the front and back of the packaging.
+Pantone Reference: An international system classifying colours for printing reference.
+PDF (Portable Document Format): A versatile and easily accessible file format that is either a vector or raster and supports both images and text. 
+Primary Packaging: Packaging in direct contact with the product itself. 
+Secondary Packaging: Packaging that serves branding and logistical purposes, and protects the product units. 
+Tertiary Packaging: Packaging that protects the primary and secondary packaging. For example, the sealed cardboard box you receive goods in after an online purchase. 
+Packaging Design Considerations
+Now that you are familiar with some of the terminology, you are ready to start designing your packaging:
+Matching the packaging to the product
+Before starting any packaging design, you must ask yourself what is the intended purpose of the packaging? Identifying the specific product that will be housed by your packaging will guide you in making design decisions such as the: 
+type of packaging (square and non-square boxes, bottles, tubes, labels, cups, cans, packets, etc.)
+most suitable packaging material (paper, plastic, cardboard, glass, etc.) 
+required information that needs to appear on the packaging (see the article on ‘Legal Requirements’ in this lesson). 
+Fig 1. Unsplash (n.d.) Consider use when deciding on type of packaging
+These packaging decisions will depend on both the product as well as the specific client requirements. The key is to find the right balance between what is aesthetically pleasing to an audience as well as practical, so ask the right questions. Who is the target market? Which packaging will allow ease of use for the end user? Is the design for primary, secondary, or tertiary packaging purposes? Which packaging will keep the product safe during transport and/or on a shelf? Which packaging material will serve its intended purpose but also have the lowest impact on the environment? 
+For instance, can you imagine yourself drinking a soda from a square-shaped box that is too large to grip securely? What if this box is made from a material that a liquid will penetrate, like cardboard? Would you feel safe drinking a soda that has no product information on the packaging? This might be an extreme example, but it serves to show how important it is to make the right design choices. 
+Matching the packaging to the brand
+Once you have established the most appropriate type of packaging, it is time to get down to the fun part, giving your package a visual aesthetic. Along with the more practical design decisions you’ve had to make, you also need to satisfy client requirements that typically include adhering to the specific visual language of the particular product or brand. 
+Fig 2. Unsplash (n.d.) Packaging must be practical as well as follow aesthetic guidelines
+Established brands have very specific branding guidelines that you will need to adhere to, these are typically in the form of a manual or style guide. It is essential that you use these as a reference when applying design elements and principles to your packaging. These branding guidelines help you to make choices that support a brand’s identity, including a consistent colour scheme, using a specific font that is both legible and conveys the correct tone, and suitable imagery, etc. 
+Again, it is crucial to ask yourself the right questions. What type of design will attract the most attention from potential users/customers? Does the design communicate the product clearly? Which design will best support the marketing of the product? Which design will make the product stand out from the competition? Which design will be most recognisable (in relation to the brand) but also be versatile and offer longevity? Which design will allow you to satisfy the brand guidelines but also remain within the budget set by the client?
+Assessing quality
+After you have created your packaging design, it is vital to test and evaluate your design. This process includes creating colour mockups of your design in both print-ready (flat) and in 3 dimensions. You need to make sure that the mock-up (or prototype) performs as intended, that it meets design standards, and that it satisfies the client’s expectations. You can use various methods to test and evaluate your packaging design, such as focus groups, surveys, interviews, or online tools. 
+Fig 3. Pixabay (n.d.) Feedback is essential to good design
+Throughout the entire design process there are questions that you need to continuously address. These questions will guide you in designing suitable packaging, but here are a few essential questions that you can use to navigate the final assessment of your design:
+When you look at the packaging, is it clear what the product is? (you don’t want to confuse the customer!)
+Is the packaging an honest representation of the product?
+What will this package look like in 3D?
+What will this package look like in stores? (think about how and where it will be displayed)
+Should new, related products be introduced in the future, is the design versatile enough to be easily modified?
+Is your packaging reusable? (optional)
+Once you have analysed the design and made adjustments where applicable, you can proceed to preparing your designs for production.
+Managing product files
+Part of finalising your master packaging design is managing the file itself, either saving and storing it or sharing it with other stakeholders. 
+Fig 4. Unsplash (n.d.) Digital file management is a vital part of the design process
+Typically, the relevant print provider will give you guidelines on how they would like to receive your master design, but it almost always includes one dieline for each packaging variation in vector format i.e. PDF, EPS, or AI.. If the printer can accommodate custom colours, make sure you include a Pantone reference, i.e. information on the specific Pantone or CMYK colour codes.
+Over to you
+Now it is your turn to create a packaging design. 
+Have a look at a variety of food packaging examples both in your home or at the supermarket and consider the following questions:
+Which colours attract your attention? 
+Are the elements and principles of design used in a way to target different audiences (e.g. children vs adults)? What are the aesthetic differences?
+What type of fonts do you find effective and why? 
+Which designs appropriately communicate the product and its contents? 
+Are there specific food brands that have notably better packaging designs than others? What makes their packaging so effective?
+Grab your sketchbook and design your own packaging for a chocolate bar (the front and back panels of the packaging). It can either be a design for a completely new chocolate bar or you may redesign an existing chocolate bar wrapper, as long as it is not rectangular in shape. Be bold and experiment with different package shapes and add annotations for size and material options. Think outside of the box! 
+Consider what makes an effective design alongside the legal requirements for food packaging as discussed earlier in this lesson. Add all the requirements to your sketches (e.g. product name, bar code, country of origin, etc.). 

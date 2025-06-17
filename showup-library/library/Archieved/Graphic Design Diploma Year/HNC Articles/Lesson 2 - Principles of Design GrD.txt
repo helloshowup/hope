@@ -1,0 +1,115 @@
+The Principles of Design
+The seven fundamental principles of design are: 
+Balance 
+Contrast 
+Alignment 
+Hierarchy 
+Composition
+Repetition
+Proximity
+These basic principles apply universally to many areas of art and design. They are the standards by which art and design works are judged. Still, there are many applications of the principles that are specific to graphic design. 
+The principles are intangible.As we visually examine a piece of design we subconsciously absorb and evaluate all of the principles applied. As a graphic designer, it is important to understand how to apply the principle of design and how they impact on the intended audience.
+1. BALANCE
+Balance is central to the success or failure of any design. It is arguably the principle that is most noticeable. Balance is how the graphical weight of elements relates to each other on either side of a design to create satisfaction, completion, and cohesion. To achieve this balance, a design’s composition should be balanced vertically, horizontally, diagonally, or in terms of background versus foreground. Balance can be applied in three different ways in graphic design:
+Symmetrical 
+Asymmetrical 
+Radial
+Symmetrical balance is the most formal of the three main balance structures. It is achieved by repeating elements, such as type or imagery, on either side of a centre point. Symmetrical balance is easily seen and is created through mirroring elements on either side of an imaginary centre line. It can achieve a sense of structure, organisation and stability in a design.
+In figure 1 below,  the visual weight is equal on the left and right-hand sides if you divide the photo vertically through the middle. Symmetry doesn’t mean that the elements are precisely the same, but that equal weight is given to them.
+Fig 1. Felinto, B., Shutterstock (n.d.) Symmetrical balance
+ When creating symmetrical balance, pay special attention to the elements you add to the design, ensuring interest through shape, style, colour, and texture. This layering of interest helps to create dynamic appeal and helps to prevent the design space from becoming visually flat or aesthetically static.
+Asymmetrical balance is a less formal yet equally effective approach when creating balance in a design. Elements are placed in a contrasting pattern yet still convey an organised and curated effect. This type of balance is more dynamic, lively, and visually appealing than symmetry and typically keeps the audience’s attention focused on the visual message.
+In figure 2, asymmetrical balance is created by placing more minor visual elements (right) on one side balanced by more prominent visual elements (left)
+Fig 2. Dukenod, Shutterstock, (n.d.) Asymmetrical balance
+Scale and proportion, themselves essential design principles, are of even greater importance when choosing the components for a design arranged using asymmetrical balance. The visual weight of each element must be scaled to create groupings that, as a whole, provide the desired balance.
+Radial balance, as the name would suggest, is created when a single component is used as the dominant feature, with other components radiating from that feature. The purpose is to maintain a focal point for the viewer. It leads your eye towards the centre.
+Fig 3. Pixabay (n.d.) Radial balance
+2. CONTRAST
+Contrast, in a graphic design sense, is created by placing opposing elements in a design and may be introduced through colour, shape, size, and typography. Contrast has the ability to draw your intended audience to a particular area within the design. While you should limit the number of contrasting elements in a design to avoid a cluttered or chaotic aesthetic, contrast is a valuable design tool to create depth and interest when used prudently.
+You can achieve contrast by juxtaposing light versus dark, smooth versus rough, and big versus small. How contrast is achieved is far less important than how that contrast is used. 
+Fig 4. ArtistMiki, Shutterstock, (n.d.) Contrast in colour
+A graphic designer can create optimal contrast using black and white in a design. Other relationships can be between bright and dull or monochrome next to polychrome. Use the colour wheel to guide you in creating contrasts. In Figure 5, organic shapes (roses, leaves, etc.) stand in contrast to the geometric shape (square), which creates emphasis and an interesting visual combination.   
+Fig 5. Rawpixel.com (n.d.) Contrast in shapes
+In Figure 6, an interesting contrast is created using a significantly smaller subject in relation to a massive backdrop. The difference in size between the man and the landscape has a powerful effect. Also note how positive and negative space is utilised.
+Fig 6.Krissikunterbunt, Shutterstock, (n.d.) Contrast in size
+A final way a graphic designer can create an engaging design with contrast is to use more than one typeface. Using more than one font and line weight makes the text more (or less) exciting and draws attention to certain words or areas of the design space.
+Fig 7. Sector 9, Shutterstock, (n.d.) Contrast in typography
+3. ALIGNMENT
+Alignment means the arrangement of various items in relation to the borders or edges of the design space. In graphic design, it also refers to the lining of graphic and text elements in the space. 
+Aligning these elements is essential to allow a designer to arrange them in a way that makes it easy for an audience to view or read. It is also important to make imagery visually appealing and/or connect related elements. When alignment is used effectively, nothing looks “out of place” in the design. 
+The different types of alignment are 
+left, 
+centre, 
+right, 
+and justified. 
+Here are a few examples of these alignment principles applied to designs:
+Fig 8. Pixabay (n.d.) Left alignment of text
+Fig 9. Pixabay (n.d.) Centre alignment of text and images
+Fig 10. Pixabay (n.d.) A representation of right alignment
+Fig 11. Pixabay (n.d.) Justified alignment of text
+4. HIERARCHY
+Hierarchy has to do with visual dominance within the design and is based on arranging elements (text or imagery) to show their order of importance. This principle is applied to the visual weight of a specific design component to command a viewer’s focus, using the other design elements like size, shape, colour, contrast, space etc. For example, a designer usually makes a more critical header larger than a less important sub-text or heading when using text.
+In the following example, the designer accentuates the brand name by using colour contrast (black text against a white background) and asymmetrical balance.
+Fig 12. Pixabay (n.d.) Prada advertisement
+Figure 13 shows a sign with the prominent brand name standing out because of the optimal white and black contrast, but also because of a central alignment and the use of a larger and slightly different typeface to the rest of the text, making it the focal point. 
+Fig 13. Pixabay (n.d.) Heineken advertisement
+In the final example (a book cover design), it is clear that the focus is on the top half of the design. We know that a man can't be physically larger than an entire city with skyscrapers. Yet, the graphic designer gave the hooded head of the figure equal visual weight in the design. The colour and lack of detail, in comparison to the gloomier tones and finer details of the city, also draw attention to the figure.
+Fig 14. Pixabay (n.d.) Book cover design (no text)
+5. COMPOSITION
+The composition within the working design area guides the viewer’s eye towards the most critical elements of your work, and is essential in graphic design work. Here are some composition rules to follow when you are creating any design:
+The Rule of Thirds
+The rule of thirds is an essential compositional technique. It states that the point of interest (i.e. your main image or message) in a graphic design should be placed on one of the line intersections dividing the image into nine equal rectangles. 
+The rule of thirds guideline can be applied to any type of layout, text, background, or product image. This includes landscapes, portraits, wildlife images, abstract art, etc., to create a pleasing, well-balanced design. 
+Fig 15. Artis777, iStock (2021) Example of the rule of thirds - image
+Figure 16 is an example of the rule of thirds used in an image for a movie poster. You will see that the subjects aren’t always exactly on the intersecting lines, yet close enough for the principle to apply. Notice the three spaceships aligned in the top third of the design space and the explosion created on the bottom third line.
+Fig 16. Pixabay (n.d.) Example of the rule of thirds - poster advertisement
+The Golden Ratio
+There are various models by which ideal proportions can be established. The ‘golden section’ and the Fibonacci series are probably the most well-known. The theory went back to the ancient Greeks and was widely used during the Renaissance to establish ideal proportions. This rule says you should place the point of interest inside the spiral. This way, the viewer’s eye will go straight to the point of interest and follow its natural expansion within the frame. 
+The golden ratio is based on the use of a line marked at a point defining the line into a small and a larger section. The length of the small to the larger section equals the greater area to the whole. The ratio of the two measurements is called phi Φ.
+Fig 17. Pixabay (n.d.) Golden ratio/Fibonacci template 
+Fig 18. Pixabay (n.d.) Inverted golden ratio applied to a social media marketing poster
+Leading Lines
+Leading lines drive the viewer’s attention to the main image or text and have the ability to add “movement” to a graphic design.
+Fig 19. Pixabay (n.d.) Example of leading lines - poster
+Fig 20. Leading lines
+Diagonals
+The elements of an image or design can be arranged and organised  on a diagonal line. By doing so  it is possible to create an image with depth and dynamism and to add a third (or fourth) dimension within the design
+Fig 21. Pixabay (n.d.) Example of diagonals - console advertisement
+Framing
+Framing means using elements of a scene to create a seperate frame within your design area.
+Fig 22. Pixabay (n.d.) Example of framing - social media advertisement
+Figure to Ground
+Figure to ground principle is about visual cues to indicate what is important. This principle starts with the notion that it is easier for the viewer to separate elements that contrast each other, since we perceive subjects to be either in the ‘foreground’ or ‘background.’ The main text or image is thus designed to be the focus, either through shapes, colours, or size. Designs using the figure to ground principle are more likely to grab the viewer's attention and bring depth to your design.
+Fig 23. Pixabay (n.d.) Example of figure to ground - design for a start-up business
+Fig 24. Pixabay (n.d.) Example of figure to ground - advertisement template
+Fill the Frame
+Filling the frame means filling the design area with the subject matter, which takes up a significant portion of the final image. In photography, the frame refers to the edges of your image or the edges of your camera’s viewfinder.
+Fig 25. PurpleBird, Shutterstock, (nd), Example of fill the frame
+Centre Dominant Eye
+The centre dominant eye is when you place the main subject in the centre of the image.
+Fig 26. HstrongArt, Shutterstock, (n.d.) Example of centre dominant eye 
+6. REPETITION
+Repetition is a principle that repeatedly uses the same or a similar element in a design. This repetition then creates patterns and rhythm, giving it an aesthetic flow. 
+Repetition allows the eye to travel freely from one area to the next without being visually halted and can make a design aesthetically pleasing. Repetition can also be applied strategically to a design to add texture, and finally, repetition can unite a piece of graphic work by giving it more consistency and cohesiveness.
+Fig 27. Pixabay (n.d.) Example of repetition
+Fig 28. Lumezia, Shutterstock, (n.d.) Example of repetition
+Patterns and repetition can also be explored by including something in your design to interrupt a pattern. This pattern creates an element of the unexpected, as seen in Figure 28.
+ 7. PROXIMITY
+Proximity is closely related to the rule of thirds and is an essential principle and useful tool in graphic design, especially in fields like UI (User Interface) design. It is when a designer places related elements together in the composition and separates unrelated elements. Proximity is about placing visual elements in a way that show viewers items that are
+Connected or are related by grouping similar elements close together 
+Loosely or not connected or have little to no relationship by placing them further apart
+Proximity can help to organise your design and give the layout a better structure. In Figure 28, the business card shows a simple use of proximity by grouping the contact details together and separating the names and titles. This proximity gives an order to the design and makes it easier for the viewer to read and find the relevant information.
+The relationship or lack of relationship between elements (e.g., text, images, shapes, etc.) can evoke certain  feelings, convey messages, engage viewers, add focal points, and create dynamic in a work.
+Fig 29. Pixabay (n.d.) Example of proximity
+You can also see the principle of proximity in the layout of computer interfaces, and other types of menus. Done successfully, it should group the related options to make it easier for the user to find what they are looking for.
+Fig 30. Pixabay (n.d.) Example of proximity on social media website
+Over To You
+Now it’s your turn to explore the principles of design. 
+Take a look at the image below. How many principles of design can you identify? 
+Fig 31. Pixabay (n.d.) Poster advertisement
+Why not try out some of these principles for yourself? Grab a sketchbook and your favourite drawing materials to sketch some design ideas using a few of these principles. Your ideas could be for a poster, a book cover, a menu, a magazine advert, a flyer or anything else that grabs your attention. 
+When you’re done, head over to the forum and share your thoughts and ideas with your fellow students. 
+Image references:
+Source of Figures 1, 2, 6, 7, 15, 25, 26, 28: Shutterstock
+Source for Figures 3-5, 8-14, 16-24, 27, 29-31: Pixabay.com
+Source of Figure 15: iStock  

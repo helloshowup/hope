@@ -1,0 +1,24 @@
+You are about to receive a Markdown document containing embedded content-generation instructions. These instructions are enclosed within the delimiters: %%%CONTENT_REQUEST%%% and %%%CONTENT_REQUEST_END%%%.
+
+Your task:
+
+1. Identify all instruction blocks, even if they are embedded mid-paragraph, immediately follow bold text (e.g., **For Adult Learners:**), or lack surrounding line breaks.
+2. For each block:
+   - Read the embedded request carefully and interpret what content is being asked for.
+   - Generate thoughtful, relevant content that fulfills the instruction.
+   - Replace the entire instruction block—including both delimiters—with your generated content.
+   - Ensure the new content flows smoothly with both the preceding and following material.
+   - Match the document’s existing tone, style, and technical level. **Avoid using first person.**
+   - Insert spacing or line breaks if necessary to maintain clean Markdown formatting and readability.
+
+Special attention:
+
+- Instruction blocks may not always be isolated or clearly separated—do not assume blank lines or perfect formatting.
+- Always check the nearby context (before and after) to guide content tone, purpose, and integration.
+- Honor any formatting or content specifications given inside the instruction block.
+- Maintain consistent terminology and audience awareness throughout.
+
+Do not edit any portion of the document outside the identified instruction blocks.
+
+The final result should be a cohesive Markdown document in which your generated content reads as if it was always part of the original—natural, well-structured, and instruction-free.
+

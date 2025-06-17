@@ -1,0 +1,91 @@
+---
+module: "7"
+lesson: "2"
+step_number: "4"
+step_title: "Daily News Digest Creator"
+template_type: "downloadable_resource"
+target_learner: "See separate learner profile document"
+generation_date: "2025-06-10 06:14:14"
+---
+
+# Daily News Digest Creator
+
+# Daily News Digest Creator
+
+## Learning Objective
+By the end of this lesson, you will be able to create a structured daily news digest that effectively summarizes current events and connects them to civic concepts.
+
+## Introduction
+Staying informed about current events is an essential part of civic engagement. However, with the overwhelming amount of news available, it can be challenging to process and understand what matters most. Creating a daily news digest helps you develop critical thinking skills while practicing concise writing and making connections between news events and broader civic concepts.
+
+## The Daily News Digest Template
+
+Your daily news digest will follow this structured format:
+
+1. **Headline**: A clear, attention-grabbing title that accurately represents the news story
+2. **25-Word Summary**: A concise summary of the key facts (limited to exactly 25 words)
+3. **Why It Matters**: A brief explanation connecting the news to broader civic concepts (voting rights, checks and balances, federalism, civil liberties, etc.)
+
+## Example of a Daily News Digest Entry
+
+```
+HEADLINE: Supreme Court Rules on Voting Rights Case
+
+25-WORD SUMMARY: The Supreme Court upheld state legislation requiring voter identification at polling stations, rejecting claims that it disproportionately affects minority voters.
+
+WHY IT MATTERS: This ruling impacts voting accessibility and raises questions about the balance between election security and equal voting rights. It demonstrates how judicial interpretation affects the practical application of constitutional rights in our democracy.
+```
+
+## Creating Your Three-Day News Digest
+
+### Step 1: Select News Sources
+Choose reliable news sources from different perspectives. Consider national newspapers, public broadcasting, and reputable online news sites.
+
+**Recommended Sources:**
+* Associated Press (AP News)
+* Reuters
+* NPR
+* BBC News
+* The Wall Street Journal
+* The New York Times
+* PBS NewsHour
+
+### Step 2: Select Three Important Stories
+For three consecutive days, select one significant news story each day. Look for stories with civic relevance.
+
+**Tip:** Focus on stories related to government actions, court decisions, elections, civil rights, or public policy debates.
+
+### Step 3: Apply the Template
+For each story:
+- Craft a clear headline
+- Write a precisely 25-word summary (count carefully!)
+- Explain why the story matters in terms of civic concepts
+
+**Pro Tip:** Write your summary first without worrying about the word count, then edit it down to exactly 25 words.
+
+### Step 4: Compile Your Digest
+After three days, compile your three entries into a single document.
+
+### Step 5: Create a PDF
+Convert your document to PDF format for submission. Include your name and the dates covered at the top of the document.
+
+## Assessment Criteria
+Your news digest will be evaluated on:
+- Accuracy of information
+- Quality and precision of 25-word summaries
+- Depth of connections to civic concepts
+- Selection of significant news stories
+- Overall presentation and organization
+
+## Reflection Questions
+After completing your three-day digest, consider:
+1. How did limiting your summary to exactly 25 words affect your writing process?
+2. What patterns did you notice in the news stories you selected?
+3. How did creating this digest change how you consume news?
+4. Which civic concepts appeared most frequently in your "Why It Matters" sections?
+
+## Time Management Suggestion
+* Day 1-3: Spend 15-20 minutes each day selecting and summarizing one news story
+* Day 4: Spend 30 minutes compiling, reviewing, and formatting your digest
+
+Remember, effective civic engagement begins with being well-informed and understanding the broader implications of current events!

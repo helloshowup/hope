@@ -1,0 +1,306 @@
+
+    <div class="markdown-content" style="font-family: Arial, sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 0 auto;">
+        <h1>7.6</h1>
+
+<h1>Identifying Stakeholders and Needs</h1>
+
+<h2>Learning Objectives</h2><p>By the end of this session, you'll be able to:</p>
+<ul>
+<li>List who might use or be helped by a robot</li>
+</ul>
+<ul>
+<li>Explain what limits a robot must work within</li>
+</ul>
+<ul>
+<li>Show how to find the real cause of a problem</li>
+</ul>
+<p>&nbsp;</p>
+
+<p>Stakeholders are all the people who will be affected by your robotics solution. They might include users who will directly interact with your robot, people who will benefit from its work, and even those who might be worried about its operation.</p>
+<p>&nbsp;</p>
+
+<p>To identify stakeholders, ask yourself questions like:</p>
+<ul>
+<li>Who will use the robot?</li>
+</ul>
+<ul>
+<li>Who will benefit from the robot's actions?</li>
+</ul>
+<ul>
+<li>Who might be worried about the robot operating in their space?</li>
+</ul>
+<ul>
+<li>Who will maintain or fix the robot?</li>
+</ul>
+<p>&nbsp;</p>
+
+<p>For example, if you're designing a robot to help in a school cafeteria, stakeholders might include students, cafeteria staff, custodians, and school administrators.</p>
+<p>&nbsp;</p>
+
+<p>Once you've identified stakeholders, you need to understand what they really need. This might involve:</p>
+<ul>
+<li>Talking with potential users</li>
+</ul>
+<ul>
+<li>Watching how things work now</li>
+</ul>
+<ul>
+<li>Sending out surveys</li>
+</ul>
+<ul>
+<li>Creating user personas (made-up characters that represent different types of users)</li>
+</ul>
+<p>&nbsp;</p>
+
+<p>Understanding these needs helps make sure your robot will actually be useful and accepted by the people it's designed to help.</p>
+<h2>Setting Constraints and Requirements</h2><p><strong>Constraints</strong> are the limitations your solution must work within. They might include:</p>
+<ul>
+<li>Physical constraints: size, weight, or the environment where the robot will operate</li>
+</ul>
+<ul>
+<li>Technical constraints: available power sources, materials, or technology</li>
+</ul>
+<ul>
+<li>Time constraints: deadlines for completion or how quickly the robot must perform tasks</li>
+</ul>
+<ul>
+<li>Budget constraints: how much money is available for building and maintaining the robot</li>
+</ul>
+<ul>
+<li>Safety constraints: making sure the robot won't harm people or property</li>
+</ul>
+<p>&nbsp;</p>
+
+<p><strong>Requirements</strong> are the specific things your solution must do or have. For example:</p>
+<ul>
+<li>The robot must be able to climb stairs</li>
+</ul>
+<ul>
+<li>The robot must operate for at least 3 hours on a single charge</li>
+</ul>
+<ul>
+<li>The robot must be controllable by someone with limited hand mobility</li>
+</ul>
+<p>&nbsp;</p>
+
+<p>Clearly defining these constraints and requirements early helps prevent wasted effort on solutions that won't work in the real world. They act as guardrails for your creativity, keeping your ideas practical and doable.</p>
+<h2>Activity 1: Problem Definition Workshop</h2><p>Try writing problem statements for given robotics scenarios using a structured template. For each scenario, identify the affected stakeholders, list the constraints, and define success criteria. Complete at least two scenario exercises to build your problem definition skills.</p>
+<h2>Problem Analysis Techniques</h2><p>Before jumping to solutions, it's important to fully understand the problem you're trying to solve. This deeper analysis helps ensure you address the real issue, not just its symptoms.</p>
+<h3>Finding the Real Problem with Root Cause Analysis</h3><p>Root cause analysis helps us look beyond the symptoms of a problem to find what's really causing it. Two popular techniques for this are:</p>
+<p>&nbsp;</p>
+
+<p>The <strong>"5 Whys"</strong> technique involves asking "why" repeatedly to dig deeper into a problem. For example:</p>
+<ul>
+<li>Why is the hallway delivery robot stopping unexpectedly? Because its sensors detect obstacles.</li>
+</ul>
+<ul>
+<li>Why are sensors detecting obstacles when none are visible? Because reflections from the floor tiles are confusing the sensors.</li>
+</ul>
+<ul>
+<li>Why are reflections causing confusion? Because the sensor algorithm can't tell the difference between real obstacles and reflections.</li>
+</ul>
+<ul>
+<li>Why can't the algorithm tell these apart? Because it was programmed for dull surfaces, not shiny floors.</li>
+</ul>
+<ul>
+<li>Why was it programmed this way? Because the original testing environment had different flooring.</li>
+</ul>
+<p>&nbsp;</p>
+
+<p>By the fifth "why," we've found a root cause we can fix - the sensor algorithm needs updating for shiny floors.</p>
+<p>&nbsp;</p>
+
+<p>Using these techniques helps make sure you're solving the real problem, not just treating symptoms.</p>
+<h1>Needs Assessment</h1><p>A needs assessment helps you understand and prioritize what your solution must address. This involves:</p>
+<ol>
+<li>Gathering information about what stakeholders need through interviews, surveys, or observation</li>
+</ol>
+<ol>
+<li>Distinguishing between "needs" (must-haves) and "wants" (nice-to-haves)</li>
+</ol>
+<ol>
+<li>Prioritizing needs based on importance and impact</li>
+</ol>
+<p>&nbsp;</p>
+
+<p>For example, if designing a robot to help in a classroom, you might discover that:</p>
+<ul>
+<li>Must-have: The robot needs to be quiet so it doesn't disrupt lessons</li>
+</ul>
+<ul>
+<li>Must-have: The robot must be safe around children</li>
+</ul>
+<ul>
+<li>Nice-to-have: The robot could have a friendly appearance</li>
+</ul>
+<ul>
+<li>Nice-to-have: The robot could respond to voice commands</li>
+</ul>
+<p>&nbsp;</p>
+
+<p>Prioritizing needs helps you focus your design efforts on the most important aspects first, ensuring your solution addresses what matters most.</p>
+<h3>Constraint Mapping</h3><p>Constraint mapping is a visual way to understand the limitations affecting your problem. It helps you see how different constraints interact and where your solution space lies.</p>
+<p>&nbsp;</p>
+
+<p>To create a constraint map:</p>
+<ol>
+<li>List all constraints (budget, time, technology, space, etc.)</li>
+</ol>
+<ol>
+<li>Draw connections between related constraints</li>
+</ol>
+<ol>
+<li>Identify which constraints are fixed and which might be flexible</li>
+</ol>
+<ol>
+<li>Look for the "solution space" where all constraints can be satisfied</li>
+</ol>
+<p>&nbsp;</p>
+
+<p>For example, if designing a robot arm for a classroom, your constraints might include cost (under $200), weight (light enough for students to move), safety (no pinch points), and functionality (able to pick up small objects). Your constraint map would show how these factors relate - perhaps a very lightweight arm might limit functionality, or increased functionality might raise costs.</p>
+<p>&nbsp;</p>
+
+<p>This visual approach helps you understand the boundaries of your solution space and identify potential conflicts before you start designing.</p>
+<p>&nbsp;</p>
+
+<p>
+            <div class="stop-reflect-container" style="border:3px dashed #e50200; margin:20px 0; padding:0; display:flex; width:100%;">
+                <div class="stop-reflect-image" style="width:20%; min-width:100px; display:flex; align-items:center; justify-content:center; padding:10px;">
+                    <img src="https://api.learnstage.com/media-manager/api/access/exceled/default/lms/courses/1647/Images/Untitled%20design.jpg" 
+                         style="width:100%; height:auto; max-width:150px;" alt="Stop and Reflect">
+                </div>
+                <div class="stop-reflect-content" style="display:flex; flex-direction:column; justify-content:center; padding:15px; width:80%;">
+                    <h3 style="color:#000000; margin-top:0;">
+                    </h3><p> Think about a problem you've encountered recently. How would you frame it as a clear problem statement using what you've learned? Try writing it down using the template discussed in class.</p>
+                </div>
+            </div></p>
+<h1>Research Methods for Robotics Solutions</h1><p>Once you've defined your problem, the next step is researching potential solutions. Good research prevents you from "reinventing the wheel" and helps you build on existing knowledge.</p>
+<h3>Finding Existing Solutions</h3><p>Before creating something new, it's smart to see if similar problems have already been solved. This can save time and provide valuable insights.</p>
+<p>&nbsp;</p>
+
+<p>Start by searching for existing robotics solutions that address similar problems. Look at:</p>
+<ul>
+<li>Commercial products that might solve or partially solve your problem</li>
+</ul>
+<ul>
+<li>Open-source robotics projects on platforms like GitHub or Instructables</li>
+</ul>
+<ul>
+<li>Academic research papers (even just reading the abstracts can be helpful)</li>
+</ul>
+<ul>
+<li>Robotics competition entries that tackled similar challenges</li>
+</ul>
+<p>&nbsp;</p>
+
+<p>For example, if you're designing a robot to help sort recyclables, you might find that industrial sorting robots already use certain sensor types or gripper designs that could inspire your solution.</p>
+<p>&nbsp;</p>
+
+<p>When examining existing solutions, ask:</p>
+<ul>
+<li>What works well about this solution?</li>
+</ul>
+<ul>
+<li>What limitations does it have?</li>
+</ul>
+<ul>
+<li>How could it be adapted to better fit my specific problem?</li>
+</ul>
+<ul>
+<li>What components or techniques could I borrow or learn from?</li>
+</ul>
+<p>&nbsp;</p>
+
+<p>Remember, research isn't about copying - it's about learning from others and building upon their work.</p>
+<h3>Real-World Example: Weather Station Robot</h3><p>Let's look at how a real-world project used problem definition and research. A school wanted to create a weather station robot that could collect data around their campus and respond to changing conditions.</p>
+<p>&nbsp;</p>
+
+<p>First, they defined their problem: "Our school needs accurate weather data from different locations on campus to support science classes, but manual collection is inconsistent and time-consuming."</p>
+<p>&nbsp;</p>
+
+<p>They researched existing solutions by:</p>
+<ol>
+<li>Looking at commercial weather stations (too expensive and fixed in one location)</li>
+</ol>
+<ol>
+<li>Studying DIY weather station projects online (good sensor ideas but not mobile)</li>
+</ol>
+<ol>
+<li>Examining agricultural robots that monitor field conditions (good mobility concepts)</li>
+</ol>
+<p>&nbsp;</p>
+
+<p>By combining ideas from these existing solutions, they designed a mobile robot with temperature, humidity, and light sensors that could travel to different campus locations on a programmed schedule and upload data to the school's science website.</p>
+<p>&nbsp;</p>
+
+<p>This example shows how good problem definition and research led to a unique solution that combined elements from different existing technologies.</p>
+<h3>Expert Consultation</h3><p>Experts can provide valuable insights that might take you weeks or months to discover on your own. They can help identify potential pitfalls, suggest approaches you hadn't considered, and provide feedback on your ideas.</p>
+<p>&nbsp;</p>
+
+<p>Potential experts to consult might include:</p>
+<ul>
+<li>Teachers with robotics experience</li>
+</ul>
+<ul>
+<li>Local engineers or programmers</li>
+</ul>
+<ul>
+<li>College students studying robotics or engineering</li>
+</ul>
+<ul>
+<li>Members of robotics clubs or teams</li>
+</ul>
+<ul>
+<li>Professionals working in fields related to your problem</li>
+</ul>
+<p>&nbsp;</p>
+
+<p>When consulting experts:</p>
+<ul>
+<li>Prepare specific questions in advance</li>
+</ul>
+<ul>
+<li>Clearly explain your problem and constraints</li>
+</ul>
+<ul>
+<li>Be open to suggestions that might challenge your assumptions</li>
+</ul>
+<ul>
+<li>Take good notes or record the conversation (with permission)</li>
+</ul>
+<ul>
+<li>Follow up with a thank-you and share your progress</li>
+</ul>
+<p>&nbsp;</p>
+
+<p>Even a 15-minute conversation with someone knowledgeable can provide insights that significantly improve your solution.</p>
+<p>&nbsp;</p>
+
+<p>
+        <figure class="table" style="float:left;width:92.41%;" data-font-size="14" data-line-height="20">
+            <table class="ck-table-resized" style="border-style:none;" data-font-size="14" data-line-height="20">
+                <colgroup data-font-size="14" data-line-height="20"><col style="width:13.29%;" data-font-size="14" data-line-height="20"><col style="width:86.71%;" data-font-size="14" data-line-height="20"></colgroup>
+                <tbody data-font-size="14" data-line-height="20">
+                    <tr data-font-size="14" data-line-height="20">
+                        <td style="border-style:none;" data-font-size="14" data-line-height="20">
+                            <figure class="image image_resized" style="width:100%;" data-font-size="14" data-line-height="20">
+                                <img style="aspect-ratio:600/600;" src="https://api.learnstage.com/media-manager/api/access/exceled/default/89309a11-e6ae-4133-97a9-93c735f38be4/content-page/4e85aa67-83db-423a-b7de-53b356164071_removalai_preview.png" width="600" height="600" data-font-size="14" data-line-height="20">
+                            </figure>
+                        </td>
+                        <td style="border-style:none;" data-font-size="14" data-line-height="20">
+                            <h3 data-font-size="16" data-line-height="23">
+                                <span style="color:hsl(359,97%,29%);"><span data-font-size="16" data-line-height="23"><strong data-font-size="16" data-line-height="23">Key Takeaways</strong></span></span>
+                            </h3>
+                            <ul>
+<li>Stakeholders are all the people affected by your robot, including users, beneficiaries, and maintainers - understanding their needs ensures your robot will be useful and accepted.</li>
+<li>Constraints (like size, power, time, budget, and safety limits) and requirements (specific functions your robot must perform) guide your design and keep your ideas practical.</li>
+<li>Root cause analysis techniques like the "5 Whys" help you find and fix the real problem, not just its symptoms.</li>
+</ul>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </figure></p>
+<p>&nbsp;</p>
+    </div>
+    

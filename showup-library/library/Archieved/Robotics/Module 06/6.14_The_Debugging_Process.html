@@ -1,0 +1,118 @@
+
+    <div class="markdown-content" style="font-family: Arial, sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 0 auto;">
+        <h1>6.14</h1>
+
+<h2>The Debugging Process</h2>
+
+<h2>Learning Objectives</h2><p>By the end of this session, you'll be able to:</p>
+<ul>
+<li>Find bugs in a robot program</li>
+</ul>
+<ul>
+<li>Fix errors using the four-step debug plan</li>
+</ul>
+<ul>
+<li>Test your fixes to make sure they work</li>
+</ul>
+<p>&nbsp;</p>
+
+<p><strong>Debugging</strong> is a systematic process for finding and fixing errors in your programs. Following a structured approach makes debugging more efficient and effective.</p>
+<h3>Step 1: Reproduce the Problem</h3><p>Before you can fix a bug, you need to consistently reproduce it. Try to identify:</p>
+<ul>
+<li>What specific inputs or conditions cause the error</li>
+</ul>
+<ul>
+<li>Whether the error happens every time or only occasionally</li>
+</ul>
+<ul>
+<li>The exact sequence of steps that lead to the error</li>
+</ul>
+<p>&nbsp;</p>
+
+<p>The first step in solving any problem is understanding exactly when and how it happens. If your robot only turns the wrong way sometimes, try to figure out what's different about those times. Does it happen when the robot is moving fast? Does it happen when the battery is low? Being a good detective at this stage saves a lot of time later!</p>
+<h3>Step 2: Identify the Expected vs. Actual Behavior</h3><p>Clearly define:</p>
+<ul>
+<li>What your program should be doing</li>
+</ul>
+<ul>
+<li>What it's actually doing instead</li>
+</ul>
+<ul>
+<li>The specific point where behavior deviates from expectations</li>
+</ul>
+<p>&nbsp;</p>
+
+<p>In this step, you need to be very clear about what's going wrong. Instead of saying "My robot program isn't working," be specific: "My robot should turn right and then move forward 5 steps, but instead it turns right and moves forward continuously without stopping." The more precise you are about the difference between what should happen and what is happening, the easier it will be to find the problem.</p>
+<h3>Step 3: Locate the Source of the Error</h3><p>Use these techniques to narrow down where the error occurs:</p>
+<ul>
+<li>Add print statements to show variable values at different points</li>
+</ul>
+<ul>
+<li>Comment out sections of code to isolate the problem</li>
+</ul>
+<ul>
+<li>Use a debugger tool if available</li>
+</ul>
+<ul>
+<li>Check your code against a working example</li>
+</ul>
+<p>&nbsp;</p>
+
+<p>Now it's time to find exactly where in your code the problem is happening. One helpful technique is adding "print" statements that show what's happening at different points in your program. For example, if your robot is supposed to stop after 5 steps but keeps going, you could add code to print out the step count. You might discover that the counter isn't increasing properly, or that the condition to stop is written incorrectly.</p>
+<h3>Step 4: Fix the Error and Test</h3><p>Once you've found the error:</p>
+<ul>
+<li>Make a single change to fix the problem</li>
+</ul>
+<ul>
+<li>Test to make sure the fix works</li>
+</ul>
+<ul>
+<li>Check that your fix didn't create new problems</li>
+</ul>
+<p>&nbsp;</p>
+
+<p>When fixing errors, it's best to make one change at a time and then test your program. This way, you'll know exactly which change fixed the problem. Sometimes fixing one problem can create new ones, so always test your program thoroughly after making changes. It's like fixing a bicycle - if you adjust the brakes, you should test them before riding down a big hill!</p>
+<h2>Activity 1: Debug Detective</h2><p>Examine the following robot program that should move forward, turn right, and then move forward again to reach a destination. However, it's not working correctly. Identify at least three errors in the code and explain how you would fix each one.</p>
+<p>&nbsp;</p>
+
+<p>function moveRobot() {
+  forward(steps: 5);
+  turnleft();
+  forward(10 steps);
+  if (atDestination = true) {
+    celebrate();
+  }
+}</p>
+<p>&nbsp;</p>
+
+<p>Try to identify syntax errors, logic errors, and any other issues that would prevent this program from working correctly.</p>
+<p>&nbsp;</p>
+
+<p>
+        <figure class="table" style="float:left;width:92.41%;" data-font-size="14" data-line-height="20">
+            <table class="ck-table-resized" style="border-style:none;" data-font-size="14" data-line-height="20">
+                <colgroup data-font-size="14" data-line-height="20"><col style="width:13.29%;" data-font-size="14" data-line-height="20"><col style="width:86.71%;" data-font-size="14" data-line-height="20"></colgroup>
+                <tbody data-font-size="14" data-line-height="20">
+                    <tr data-font-size="14" data-line-height="20">
+                        <td style="border-style:none;" data-font-size="14" data-line-height="20">
+                            <figure class="image image_resized" style="width:100%;" data-font-size="14" data-line-height="20">
+                                <img style="aspect-ratio:600/600;" src="https://api.learnstage.com/media-manager/api/access/exceled/default/89309a11-e6ae-4133-97a9-93c735f38be4/content-page/4e85aa67-83db-423a-b7de-53b356164071_removalai_preview.png" width="600" height="600" data-font-size="14" data-line-height="20">
+                            </figure>
+                        </td>
+                        <td style="border-style:none;" data-font-size="14" data-line-height="20">
+                            <h3 data-font-size="16" data-line-height="23">
+                                <span style="color:hsl(359,97%,29%);"><span data-font-size="16" data-line-height="23"><strong data-font-size="16" data-line-height="23">Key Takeaways</strong></span></span>
+                            </h3>
+                            <ul>
+<li>Debugging is finding and fixing errors by following four steps: reproduce the problem, identify what's wrong, locate the error in your code, and test your fix.</li>
+<li>Be specific when describing bugs - instead of "it's not working," explain exactly what should happen versus what is happening.</li>
+<li>Fix one problem at a time and test after each change to make sure your fix works and doesn't create new problems.</li>
+</ul>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </figure></p>
+<p>&nbsp;</p>
+    </div>
+    

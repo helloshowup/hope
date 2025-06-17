@@ -1,0 +1,29 @@
+What is a workflow system? 
+A workflow system is a tool for documenting and managing the technologies, skills, resources and the sequence of processes needed to complete a project on time and within budget. It can include timelines for team members to undertake design tasks, diagrams to show the sequence of activities, and template documents such as invoices. Workflows help you to streamline workloads and ensure the efficient completion of tasks in a design project. 
+Fig 1. Pixabay (n.d.) Having a system allows for better project management
+If you want to complete a project successfully, tasks and processes must be done logically. For example, a client brief needs to be followed by research, which will be followed by sketching some initial ideas and concepts. Similarly, external services (e.g. printers) might need to be included in a project at the right time to avoid delays. A workflow system allows you to plan, prepare and account for all these tasks and processes. 
+What is workflow mapping? 
+Workflow mapping (also called process mapping) is a way of visually representing a project's tasks, processes, technologies and resources. It allows everyone involved in a project to see what is required. Mapping your workflow involves identifying everything needed to complete a design project and organising the sequence of tasks in such a way that it maximises efficiency and improves management processes. To do this, you create diagrams and timelines to illustrate your workflow system. 
+Fig 2. Canva (2024) Example of workflow map template
+Fig 3. Miro (2024) Example of workflow mapping
+ 
+What is a workflow diagram?
+A workflow diagram outlines the full scope of the project. It sets out tasks, timelines and resources needed. The link below shows examples of workflow diagrams and explains, in greater detail, how you can create one: https://www.smartdraw.com/workflow-diagram/
+What is a workflow timeline?
+A workflow timeline is the key to a project's success. It allows a designer to manage and complete all the steps in a project on time. Timelines typically include the following information: 
+Project-specific tasks (e.g. completing market research, getting design approval from client, sending designs to printers, etc.).
+Start and end dates for each task, including how long each one will take to complete and where in the sequence of activities they will begin.
+Other items related to the project (e.g. client meetings on the site).
+Compiling a timeline for the work schedule is a core skill. Once the project manager has established all tasks, deadlines and resources, the designer (or team) must set the timeline. It is worth noting that timelines are flexible and can change as the project progresses. The project manager or designer must communicate all changes to anyone involved. The size (e.g. number of designers and tasks) and timeline structure will depend on the type of project. 
+Today, many project managers will use software programs to develop and manage a project timeline. Many companies offer free software trials so you can explore different technologies to create timelines for your project. One example is OpenProject (https://www.openproject.org) 
+What skills are required to manage a project?
+When developing your workflow system, you must identify the hard and soft skills needed to complete each task. These skills include your own but also the abilities of anyone who will be working with you. 
+Finding the right people: To complete a larger project, you might need different people on your team, each with a specific skill set required to finish tasks. You must ensure that anyone you work with will have the skills you need to do the job, especially if you are the one hiring them to work alongside you on a team.
+Fig 4. Pexels (n.d.) A photographer might be someone you will need to hire for a project
+Communication skills: Communication is crucial for managing any project. You must communicate instructions, expectations, goals and any changes to your project effectively and promptly to reduce mistakes. For example, if a client advises that you must complete a project within three months, then you must communicate this deadline to your suppliers and other team members as soon as possible to allow time for any final fixing. 
+Negotiation skills: Negotiation is critical in successfully managing and delivering your project on budget and on time. Your confidence in each project sequence will enable a good negotiation process. 
+What process do you need to complete a project?
+Developing a systematic process will allow you to move quickly from one project step to another. For example, consider managing materials and services for a packaging design project. You will first need your client to agree and sign off on these resources after seeing a mock-up of the package design. Next, you will procure (purchase) the packaging materials and services you and your client agreed to. After this, you must develop a process for communicating how suppliers and printers will deliver the relevant services and products. Different parts of your project will require various processes, and it is often necessary to modify your workflow system. 
+What technology will you need for your project? 
+Using appropriate technology is a vital part of successful project management. It is essential to research and acquire software that will effectively communicate the requirements of your project. For example, will the software you use to create the workflow system allow you to add images, notes or revisions? Do you have the latest graphic design software that will allow you access to the necessary templates needed for the project? Is the quality of your camera good enough for taking accurate on-site photographs for your designs? 
+Fig 5. Pexels (n.d.) Having the most current software is a designer’s lifeline 

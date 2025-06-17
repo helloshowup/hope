@@ -1,0 +1,138 @@
+The Elements of Design
+The seven primary elements of graphic design are
+Line 
+Shape
+Form 
+Colour 
+Texture 
+Space 
+Value
+Design elements are tangible characteristics and physical features. Each element has unique and specific attributes, which, when used effectively together, raise the overall quality of the design. They are different from the principles of design, which are far more subjective.
+As designers, we need to organise elements and principles of design into an aesthetically pleasing arrangement. A successful design will use elements and principles in combination in a way that creates effective form and function.
+Let’s look at the elements of design.
+1. LINE
+A line can be used to
+define shapes
+define text and figures
+divide a space
+indicate motion 
+express emotion
+Indicate and highlight other elements. 
+Lines can be long, short, thick, thin, vertical, horizontal, diagonal, intersecting, curved, parallel, zig-zag, and much more. A line may be actual or implied by using the negative and positive space in the design accordingly. The lines in an image or letters in a typeface may extend vertically, giving the impression of height and strength, which is an actual interpretation of the element. 
+Lines help the designer to
+communicate to viewers what they should take notice of by directing their view towards part of the design
+make a design more decorative by applying different weights, colours, and solidity to lines
+draw shapes (illustrations and cartoon design), contours, and textures 
+add borders around shapes and designs as a framework
+create a sense of movement (e.g., through the use of curvy or spiralling lines)
+add practical design elements, such as dotted lines for cutting coupons or fold lines in packaging etc.
+Here are some examples of the use of lines in graphic design.
+
+
+Fig 1. Line types
+Fig 2. Pexels (n.d.) Line styles
+Fig 3. Pixabay (n.d.) Fruit illustration with diagonal lines
+Fig 4. Pixabay (n.d.) Combination of vertical and diagonal lines
+ 2. SHAPE
+A shape is basically the 2D version of a 3D object. It is a visual representation of an object or its external boundary, outline, or surface. Visual shapes can be 
+Geometric (e.g., circle, triangle, square, etc.)
+Organic (e.g., anything that represents nature, like a tree, flower, human, dog, etc.)
+Abstract (e.g., representing non-recognisable shapes or shapes that are neither geometric nor organic, like icons, stick figures, or symbols)
+In design geometric and organic shapes can combine together on many levels to create various design elements we use to communicate.
+One example of this is with brand logos. In logos, shape is used in its purest form. 
+Fig 5. Rawpixel.com on Freepik (n.d.) Generic logo examples 
+In graphic design, geometric shapes are relatively low-key and familiar in a way that only attracts a little attention. These shapes convey order, stability, and are used for messages with a more explicit goal. For example, the most common shapes used for traffic signs are geometric shapes, like circles, rectangles, and triangles. 
+
+Fig 6. Pexels (n.d.) Shapes examples
+On the other hand, organic or natural shapes are decorative and thematic and create a broader visual stimulus. 
+Abstract shapes are those universal icons we’ve all come to associate with something familiar yet do not fall under a traditional category like geometric or natural shapes. An example is the symbols used for male and female restrooms.
+Here are some more examples of shapes used in graphic design:
+Fig 7. Pexels (n.d.) Shapes examples
+Fig 8. Modified from Rawpixel.com (n.d.) Use of shapes in UX design
+Shapes are essential in graphic design because they can determine the mood and message when used in conjunction with form, colour and size. Shapes can have different characteristics, depending on the impact you aim to achieve. For example, shapes can be soft, curved, rounded, angled or sharp. Soft shapes can express a sense of calm, ease or even fun, while sharp shapes can create a more aggressive or encourage a viewer to pay more attention to the message. 
+3. FORM
+Forms are demonstrated through dimensional objects, i.e., the 3-dimensional qualities of a 2-dimensional shape. Because graphic design uses digital and print media, any form is created through an illusion of perspective. Designers use lines, shadows, and highlights to make flat shapes appear in 3D. It is used in design to create realism and a sense of depth.
+Fig 9. Pixabay (n.d.) Forms in paper 
+For example, if a graphic designer has to create packaging for a product, the client will need to see the digital design in 3D to visualise how the packaging will look and serve a user in real life. Although you might present the design in 2D (on a screen, board, piece of paper, etc.), the illusion of dimensions lends realism to the product. Figure 10 shows how a digital mockup of a packaging can be developed with simple geometric forms. 
+Fig 10. Pixabay (n.d.) 3D Packaging mockup
+4. COLOUR 
+Colour is a tangible design element yet has many subjective qualities. The graphic designer needs to understand the subtleties of colour and how the same colour can be viewed and understood in various ways. Colour is, essentially, wavelengths of light emitted from a surface that a person's eye captures. The brain then interprets this information in its own unique way. Because of this, colour and how it is perceived can be subjective and personal to each individual. 
+Light and colour go hand in hand in a design. Colours appear brighter and more saturated where light is intense. Daylight reveals more colour tones than artificial light, and different artificial lights will introduce various tones to colour. You must consider how and where your designs will be displayed and used when working with colour. 
+To work successfully with colour, one must first understand the colour wheel. Within the colour wheel, there are red, red-orange, orange, yellow-orange, yellow, yellow-green, green, blue-green, blue, blue-violet, violet, and red-violet. The limitless combinations of those colours produce a range of all hues. 
+Fig 11. Colour wheel
+It is important to add information about color systems, the Additive and the Subtractive (a topic within color theme) since a designer mainly works with the two most importnat ones: RGB and CMYK. 
+RGB
+When using additive colour, we tend to consider the building block (primary) colours to be red, green and blue (RGB), and this is the basis for all colour you use on a screen. 
+CMYK
+Subtractive colour, like additive, has three primary colours – cyan, magenta, and yellow (CMY). CMYK is mostly used for print.
+Fig 12. RGB vs CMYK features and use
+In addition to these colours found on the colour wheel, the achromatic colours of black, white and grey are included though they contain no spectral colour.
+Below is a list of essential terms for understanding, describing and using colour. 
+Hue and colour can be used interchangeably.
+Chroma refers to the degree of purity in any particular hue.
+Saturation is the amount of colour reflected in any hue.
+Primary colours are red, blue and yellow. These colours cannot be created by the combination of any other colours but can make all different colours.
+Secondary colours include orange, green and violet and are created by an equal amount of any two primary colours.
+Intermediate colours lie between the primary and secondary hues. There are an infinite number of intermediate colours.
+Achromatic colours are those without spectral colour.
+Value of colour is increased or diminished by the introduction of white or black.
+Tint is the colour value introduced when white is added to a pure hue.
+Shade is the colour value introduced when black is added to a hue.
+Intensity is the level of saturation 
+Atmospheric colour is perceived when viewed with other influences, i.e. a white chair in a blue room will take on a blue cast.
+Harmonies are arrangements of colour that are varied, well-proportioned and visually pleasing
+Monochromatic harmonies consist of one hue only though they may offer that hue in varying values and intensities.
+Fig 13. Sanca, M., Shutterstock (n.d.) Monochromatic colour scheme
+ 
+Fig 14a. Shade and colour contrasts to avoid
+Fig 14b. Shade and colour contrasts to avoid
+Analogous harmonies are created with colours that sit adjacent to each other on the colour wheel.
+Fig 15. Pixabay (n.d.) An analogous or harmonious colour scheme using warm colours
+ 
+Direct complementary colours are any two hues that lie opposite the colour wheel.
+Fig 16. Rawpixel.com (n.d.) Complementary colour scheme using orange and blue
+ 
+Triad combinations are three hues placed equidistant on the wheel.
+Fig 17. HobbitArt, Shutterstock (n.d.) Triadic colour scheme using red, blue and yellow
+5. TEXTURE
+Texture is defined as the surface characteristics of an object and is used to create a visual tone. It can influence the look and feel of graphic work. Texture is used in design to make 2D and 3D objects appear more realistic and to attract or repel interest in an element depending on the pleasantness of the texture. In graphic design, there are two types of texture: image texture and pattern texture. 
+Image texture is the illusion of a subject being smooth, rough, coarse, fine, glossy, dull, rigid, soft, etc. Image textures can be
+Environmental (e.g., an image of sand dunes, clouds, tree bark, etc.) 
+Biological (e.g., animal fur, feathers, human skin, etc.)
+Man-made (e.g., paintings, illustrations, papers, typography, photographic effects, etc.)
+Fig 18. Pixabay (n.d.) Textured illustration
+Fig 19. Pixabay (n.d.) Textured illustration
+Pattern texture is the repetition of a graphic motif to create interest and depth within a design. Basically, texture in graphic design is the surface quality or visual tone of a work. This texture influences how the design feels and looks to an audience and also allows designers to create the illusion of movement and depth (3D) in their work. Pattern textures can be environmental, biological, or man-made.
+Figure 19 is an example of man-made pattern texture. The designer applied repetition to a geometric shape (rectangle) and colours (green, blue, and orange) to create a visually exciting pattern that creates an illusion of movement.
+Fig 20. Pixabay (n.d.) Pattern 
+6. SPACE
+Space is defined as the distance around and/or the area between design objects or elements. Space can be both positive and negative. For example, if you were to place an image on a page, the area that the image takes up can be seen as positive space, while the area that is left empty would constitute white space or negative space. The creation of negative space within any design cannot overestimate its importance. It permits the dominant features to become the focal points within a design and provide rest for the eye. 
+Negative space can also have a positive juxtaposition within the design space. Clever design work utilises negative space in a positive manor. See Fedex logo below as prime example, illustrating how the ‘E’ next to the ‘x’ creates an arrow pointing forward.
+Fig 21. Unsplash (n.d) FedEx logo on vehicle
+Fig 22. Pixabay (n.d.) Positive and negative space
+In graphic design, space is used to separate or connect elements in the layout of the design. Space can help emphasise an aspect of the design or make the relationships between the elements more prominent.
+Here is another example of how negative space helps focus the viewer’s attention on a particular subject:
+Fig 23. Rawpixel.com (n.d.) Use of White Space in Graphic Design
+ 7. VALUE/GRADIENT
+Value is the gradation of colour, i.e., how light or dark an area in a design looks. Values can range from the darkest black hues to the brightest whites. Used correctly, values can create depth, contrast, and emphasis, making a design more exciting and visually appealing. As seen in the discussion on form, it is also used to create the illusion of three dimensions and thus creates a more realistic representation of a subject. 
+Value: is the process of gradually going from light to dark or dark to light. value is often used for shadowing to show depth. Value is also used to make contrast. Colour also have value as well.
+Fig 24. Value Scale 
+Fig 25. Rawpixel.com (n.d.) Colour value
+Fig 26. Rawpixel.com (n.d.) Graduation of colour used in background
+Over To You
+Now it’s your turn to explore the elements of design. 
+Take a look at the set of 3 images below. Consider the colour associations, wording and the shapes.
+Fig 27. 
+What is the problem with these images?
+What elements are at play with one another?
+If you were to redesign each image, which two elements would you change in each?
+Head over to the forum and share your thoughts with your fellow students. 
+Try out your new skills by drawing some images that purposely break the aforementioned element ‘rules’. Can you see how elements are used to create different feelings and associations?
+Image reference:
+Source for Figures 2 and 6: Pexels.com
+Source for Figures 3, 4, 9, 10, 15, 18-20: Pixabay.com
+Source for Figures 5, 16, 23, 25, and 26: Rawpixel.com
+Source for Figures 11, 13 and 17: Shutterstock.com
+Source for Figure 21: Unsplash.com
+References:
+David, G. (2020). Texture As A Visual Element In Graphic Design. [online] 254-online.com. Available at: https://254-online.com/texture-as-a-visual-element-in-graphic-design/ [Accessed 9 Feb. 2023].

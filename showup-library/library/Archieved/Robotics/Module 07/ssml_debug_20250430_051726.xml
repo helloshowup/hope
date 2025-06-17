@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<!-- Note: This script may not meet all quality guidelines. Please review carefully. -->
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="en-US">
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>Hi there!  My favorite part is how all the pieces work together, like a team. We’ll look at how you plan, build, and then test robots to see what works and what doesn’t. Testing helps us find out what needs fixing, and step-by-step changes make our robots better each time.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>Hey! I love seeing how robots go from ideas to real helpers. Testing is a big deal, right? Not just building, but making sure the robot actually does what you want. I remember when my club built a robot to pick up plastic bottles. It worked in practice, but when we tested it at school, it sometimes dropped bottles or got stuck. Why does testing matter so much after building?</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>Good question. When you first build a robot, you’re putting together all the parts—motors, sensors, and the frame. But you don’t always know how they’ll work together until you test them. Testing is like practice for robots. It shows you what’s going well and what needs fixing. For example, if your robot drops bottles, testing tells you exactly when and where it happens.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>So, it’s kind of like trying out for a sports team. You need to see where you make mistakes before you play a real game. But how do you figure out what’s wrong? Like, if a robot loses the line it’s supposed to follow, what should you check first?</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>Start simple. Look at each part one by one. First, check the sensors—are they clean and pointed the right way? Next, see if the wheels are turning smoothly. Then, check your code. Try running just the line-following part to see if it works alone. It’s like being a detective—you look for clues in each system.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>That’s smart. I like the detective idea! Sometimes in my club, we fix a bunch of things at once, but then we can’t tell which fix actually helped. Is it better to do just one thing?</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>Exactly. Make one change at a time, then test again. That way you know which change made a difference. If you fix five things at once, you might fix the problem but not know why.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>I get it now. It’s like changing only your shoelaces if your shoes keep coming untied, not also changing your socks and shoes at the same time. But isn’t it sometimes faster to just redo everything?</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>Not really. If you change everything, you might make new problems. Slow and steady works better for robots. Each small change gives you clues about the real problem.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>Hmm, that makes sense. Sometimes I want to just rebuild, but now I see why it’s better to go step by step. Can you give an example of a test you’d run?</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>Sure. Say you have a robot that’s supposed to run for 20 minutes. You’d charge the battery, set a timer, and see how long it actually runs. If it stops at 15 minutes, that’s a clue. Maybe the battery is too small, or the motors use too much energy.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>That’s like timing how long you can run before getting tired in gym class! I never thought about it that way. What about virtual robots—like testing on the computer before building for real?</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>Virtual robots are great for early tests. You can check your code and see if the robot moves the right way. But, computer tests don’t show real-life problems, like if a wheel slips or the floor is bumpy.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>So, both are important—you use the computer to try ideas, then build for real to see if your robot can handle things like carpet or dog hair.</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>Yes, exactly. Real-world testing shows things you can’t see on a screen.</p>
+</voice>
+
+<voice name="en-US-Andrew2:DragonHDLatestNeural" parameters="temperature=0.6">
+<p>This has been super helpful. I’m going to try making one change at a time on our next project, and maybe keep a notebook about what happens.</p>
+</voice>
+
+<voice name="en-US-Andrew:DragonHDLatestNeural" parameters="temperature=0.25">
+<p>That’s a great plan. Careful notes and small changes help you build better robots. Remember, every problem is a chance to learn. Keep testing, keep improving, and you’ll see your robot do more and more each time!</p>
+</voice>
+
+</speak>

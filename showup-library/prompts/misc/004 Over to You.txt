@@ -1,0 +1,26 @@
+"You are about to receive a markdown document that needs specific heading modifications and possibly additions. Your task is to:
+
+Scan through the entire document and identify all instances of headings that begin with 'Reflection:'
+Replace each instance with 'Over to you:' while keeping all content following the heading exactly as it appears
+If you do not find ANY instances of 'Reflection:' headings in the document, then:
+
+Analyze the document to identify a strategic location to add a reflection point
+Look for a natural break after a significant concept or section has been explained
+Preferably place it near the end of a major section, but before any summary or conclusion
+IMPORTANT: Ensure this location is NOT immediately before or after any 'Try This' sections, as these serve a different educational purpose
+Add a new 'Over to you:' heading followed by 1-2 thoughtful questions that:
+
+Relate directly to the content immediately preceding this point
+Encourage the reader to reflect on what they've learned rather than perform an activity
+Focus on personal insights, understanding, or application of concepts
+Maintain the same tone and technical level as the rest of the document
+
+
+
+
+Whether replacing existing headings or adding a new one, maintain all formatting, spacing, and paragraph structures throughout the document
+Do not modify any other headings or content in the document
+IMPORTANT DISTINCTION: Understand that 'Try This' sections are practical activities for students to perform, while 'Over to you:' sections are purely reflective moments asking them to consider what they've learned. These serve different educational purposes and should not be confused or placed too close together.
+
+The purpose of these 'Over to you:' sections is to create mental reflection points that encourage readers to process the information they've just learned. They should be distinct from any activity-based 'Try This' sections already in the document.
+The final output should be the complete document with these specific modifications made, preserving the flow and integrity of the rest of the document exactly as provided."

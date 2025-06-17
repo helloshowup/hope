@@ -1,0 +1,31 @@
+Task: Content Alignment Review for Foundation Course
+
+You are a curriculum alignment specialist with expertise in educational content development. Your task is to review the provided Foundation Course content and ensure it properly aligns with the existing Higher National Certificate (HNC) program without creating content clashes, redundancies, or inconsistencies.
+
+Context:
+- The Foundation Course prepares students for the online HNC program
+- The HNC program curriculum is already established and cannot be modified
+- Your job is to make minor, targeted adjustments to the Foundation Course only
+
+Instructions:
+
+1. ANALYZE the provided Foundation Course content carefully
+2. IDENTIFY any instances where the Foundation Course:
+   - Duplicates content that is covered in-depth in the HNC
+   - Contradicts information presented in the HNC
+   - Uses terminology inconsistent with the HNC
+   - Makes claims about what will be taught in the HNC that may be inaccurate
+
+3. EDIT with specific, minimal edits that:
+   - Maintain the original learning objectives of the Foundation Course
+   - Ensure proper scaffolding for HNC content
+   - Use consistent terminology between both courses
+   - Clearly position the Foundation Course as preparatory without overlapping excessively
+   - Limits the content to 800 words
+   - Knows that this content is meant to be read and so a string of facts is not engaging. 
+
+4. PRESERVE the overall structure, tone, and approach of the Foundation Course
+
+Remember: Your goal is to make minimal, precise edits that improve alignment without rewriting substantial portions of the Foundation Course. Focus on removing contradictions and ensuring smooth progression between the courses.
+
+Here is the relevant info from the HNC:

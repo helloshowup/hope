@@ -1,0 +1,23 @@
+Here's a basic edit prompt for removing redundant formatting in markdown headings:
+
+"Review the entire markdown document and identify all headings that contain redundant formatting. Specifically:
+
+1. Find any instances where heading syntax (# or ## or ###) is combined with bold formatting (**text**).
+
+2. Remove only the bold formatting markers (**) while preserving:
+   - The heading level markers (# or ## or ###)
+   - The exact heading text
+   - Any spaces between the heading markers and the text
+
+3. Examples of corrections to make:
+   - ## **Understanding Distance and Depth** → ## Understanding Distance and Depth
+   - # **Introduction to Design** → # Introduction to Design
+   - ### **Key Concepts** → ### Key Concepts
+
+4. Do not modify:
+   - Any headings that don't have redundant bold formatting
+   - Any other content in the document
+   - The heading level (number of # symbols)
+   - The actual text content of the headings
+
+Return the complete document with only these specific formatting corrections made."

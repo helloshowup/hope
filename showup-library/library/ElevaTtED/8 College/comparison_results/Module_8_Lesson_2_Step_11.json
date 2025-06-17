@@ -1,0 +1,8 @@
+{
+  "module": "8",
+  "lesson": "2",
+  "step_number": "11",
+  "step_title": "Path Fit Poll",
+  "best_version": "# Path Fit Poll\n\nNow that you've explored different educational and career paths, it's time to reflect on what you've learned and identify which path might be the best fit for you.\n\nPlease complete this brief 5-item poll to help solidify your thoughts:\n\n1. Which path (Traditional College, Career/Technical Education, Military, or Workforce) most appeals to you at this point?\n\n2. What specific aspects of this path align with your personal strengths?\n\n3. What potential challenges might you face on this path, and how could you address them?\n\n4. How does your chosen path connect to your long-term goals?\n\n5. What additional information would help you feel more confident about this path?\n\n**Note:** Please provide a brief rationale for each of your answers. Your thoughtful responses will help you synthesize what you've learned before moving forward.\n\nOnce you submit your responses, the next lesson will be unlocked.",
+  "explanation": "Error in comparison process: maximum recursion depth exceeded while calling a Python object. Using most structurally complete version as fallback."
+}

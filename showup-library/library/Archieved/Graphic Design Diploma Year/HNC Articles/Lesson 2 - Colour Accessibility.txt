@@ -1,0 +1,25 @@
+Despite being a tangible element of design, it is vital to understand the subjective subtleties of colour. The visual result of how an individual’s eyes transmit and how their brain interprets the wavelengths of light emitted from a surface means that all who view it see colour differently.
+Light and colour go hand in hand in a design. Colours will appear brighter and more saturated where light is intense. Daylight will reveal more colour tones than artificial light, and different artificial lights will introduce various tones to colour. You must consider how and where your designs will be displayed and used when working with colour. 
+To work successfully with colour, one must first understand the concepts of the colour wheel (introduced in Lesson 1). Within the colour wheel, red, red-orange, orange, yellow-orange, yellow, yellow-green, green, blue-green, blue, blue-violet, violet, and red-violet exist. The limitless combinations of those colours produce a range of all hues. 
+In addition to these colours found on the colour wheel, the achromatic colours of black, white and grey are included though they contain no spectral colour.
+Colour accessibility
+Colour accessibility is the practice of ensuring that your graphic design is readable and understandable to a wide audience, including people with various colour vision impairments. Graphic designers should use the colour wheel, but also consider the accessibility of colour combinations when applying them to designs.
+Here are a few vision impairments that designers need to be aware of:
+Protanopia: People with protanopia find it challenging to perceive red.
+Deuteranopia: People with deuteranopia find it challenging to perceive green.
+Tritanopia: People with tritanopia find it difficult to distinguish between blue and yellow. This results in an inability to tell the difference between blue and green, yellow and pink, purple and red, etc.
+Monochromacy: People with monochromacy can perceive any colours). 
+As a graphic designer, it is thus essential that you don’t solely rely on colour to convey information or meaning in your work. Strategies that you can include in your designs to make it more accessible is using high contrasts between text and background colours, as well as being mindful of using colours that are too similar or too bright. 
+There are online tools available that can guide you in making designs more accessible, like Safe, Tanaguru Contrast Finder, or WebAIM Colour Contrast Checker.
+Colour inclusivity
+Colour inclusivity when you create designs that reflect and respect the diversity of your audience and their cultural backgrounds. Colour can have different meanings, symbolism, and associations depending on the particular culture and context. Designers should be aware of the potential implications and interpretations of your colour choices. 
+For more information on colour inclusivity, refer to Lesson 3’s resources on ‘Colour Associations’. 
+ 
+Over To You
+Now it’s your turn to explore the accessibility of colours. 
+Fig XX. Logos with inaccessible colour schemes
+Look at the image (Fig XX) and reflect on the following questions:
+What is fundamentally wrong about the colourways used in these logos? Why?
+What colours would work better in each of the logos? Why?
+Share your thoughts with your peers on the  forum. 
+Follow it up with a practical exercise: Grab you your sketchbook and drawing materials, and re-create each one of the logos (Fig XX) by using more suitable colour combinations. Which colour combination do you prefer? Why? Take one step further and get a friend or family member to choose their favourite colour combination. Ask them to explain the reason for their preference.

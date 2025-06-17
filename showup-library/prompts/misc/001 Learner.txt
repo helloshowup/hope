@@ -1,0 +1,5 @@
+go through my draft as if you are a learner, who has completed the previous content and assignment so afar. And if you have an unanswered question briefly try and edit the draft so that you answer it. limit it to minor things that will enhance the flow and remove barriers to learning.  
+
+also, go through my draft as if you are a learner and you might notice a repetition of phrases like "Building on the information architecture principles from your HNC studies" and similar. these are very helpful to signpost the reader but the target learner can find them a bit repetitive. can we do minor edits to mix these up a bit, perhaps by just stating the fact again without referring back (but don't do this for everything), and exploring other phrasing?
+
+For all your edits: You have to remember that this content is meant to be read so just a bunch of facts right next to each other is not helpful.

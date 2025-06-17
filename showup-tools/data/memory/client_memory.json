@@ -1,0 +1,29 @@
+{
+  "further_learner": {
+    "name": "Further Learner",
+    "first_seen": "2025-06-04T07:00:35.549377",
+    "interactions": 0,
+    "info": {
+      "status": "active"
+    },
+    "last_updated": "2025-06-04T07:00:35.549377"
+  },
+  "excel_high_school": {
+    "name": "Excel High School",
+    "first_seen": "2025-06-04T07:00:35.549377",
+    "interactions": 0,
+    "info": {
+      "status": "active"
+    },
+    "last_updated": "2025-06-04T07:00:35.549377"
+  },
+  "hoorah_digital": {
+    "name": "Hoorah Digital",
+    "first_seen": "2025-06-04T07:00:35.549377",
+    "interactions": 0,
+    "info": {
+      "status": "active"
+    },
+    "last_updated": "2025-06-04T07:00:35.549377"
+  }
+}

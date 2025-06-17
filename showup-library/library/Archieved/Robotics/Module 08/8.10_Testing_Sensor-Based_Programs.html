@@ -1,0 +1,131 @@
+
+    <div class="markdown-content" style="font-family: Arial, sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 0 auto;">
+        <h1>8.9</h1>
+
+<h1>Testing Sensor-Based Programs</h1>
+
+<h2>Learning Objectives</h2><p>By the end of this session, you'll be able to:</p>
+<ul>
+<li>Explain why testing robot sensors is so vital</li>
+</ul>
+<ul>
+<li>List the steps to test a sensor program</li>
+</ul>
+<ul>
+<li>Find and fix common sensor problems</li>
+</ul>
+<p>&nbsp;</p>
+
+<p>Sensor programs require thorough testing since they interact with the physical world, which can be unpredictable.</p>
+<p>&nbsp;</p>
+
+<p>When we program robots to use sensors, we're asking them to interact with the real world, which is messy and unpredictable. A robot might work perfectly in a well-lit classroom but fail completely in a dimly lit hallway. That's why testing is so important!</p>
+<p>&nbsp;</p>
+
+<p>Testing helps us find problems before they cause our robot to crash into walls or get stuck in corners. It also helps us understand how our robot will behave in different situations and environments.</p>
+<h3>Test-Driven Development for Sensors</h3><p>Think of testing like training your robot for different challenges it might face. Just as you wouldn't want to try a difficult video game level without practicing the basics first, your robot needs to master simple tasks before tackling complex ones. By following a step-by-step testing plan, you can build confidence in your robot's abilities and catch problems early—before your robot makes embarrassing mistakes during a demonstration!</p>
+<p>&nbsp;</p>
+
+<p>A systematic approach to testing sensor programs includes:</p>
+<ol>
+<li>Test individual sensor inputs first (verify sensors are reading correctly)</li>
+</ol>
+<ol>
+<li>Test simple conditional responses (one sensor, one action)</li>
+</ol>
+<ol>
+<li>Test complex interactions (multiple sensors affecting behavior)</li>
+</ol>
+<ol>
+<li>Test edge cases (extreme sensor values, rapid changes in readings)</li>
+</ol>
+<ol>
+<li>Test in various environmental conditions (different lighting, surfaces, etc.)</li>
+</ol>
+<p>&nbsp;</p>
+
+<p>When testing sensors, start simple and gradually add complexity. First, make sure each sensor is working correctly on its own. For example, if you're using a light sensor, check that it gives different readings when you shine a flashlight on it versus when you cover it with your hand.</p>
+<p>&nbsp;</p>
+
+<p>Once you know the sensors are working, test simple responses like "when the touch sensor is pressed, the robot stops." After that, you can test more complex behaviors that use multiple sensors together.</p>
+<p>&nbsp;</p>
+
+<p>Don't forget to test extreme situations! What happens if all sensors are triggered at once? What if a sensor gives unusually high or low readings? These "edge cases" often reveal problems in your program that you might not have anticipated.</p>
+<p>&nbsp;</p>
+
+<p>
+            <div class="stop-reflect-container" style="border:3px dashed #e50200; margin:20px 0; padding:0; display:flex; width:100%;">
+                <div class="stop-reflect-image" style="width:20%; min-width:100px; display:flex; align-items:center; justify-content:center; padding:10px;">
+                    <img src="https://api.learnstage.com/media-manager/api/access/exceled/default/lms/courses/1647/Images/Untitled%20design.jpg" 
+                         style="width:100%; height:auto; max-width:150px;" alt="Stop and Reflect">
+                </div>
+                <div class="stop-reflect-content" style="display:flex; flex-direction:column; justify-content:center; padding:15px; width:80%;">
+                    <h3 style="color:#000000; margin-top:0;">
+                    </h3><p> Consider a robot that needs to navigate through your home environment. How would adding different types of sensors make it more autonomous than one that follows a pre-programmed path? Think about how sensors would allow it to adapt to unexpected situations.</p>
+                </div>
+            </div></p>
+<h3>Debugging Sensor Programs</h3><p>Even with careful testing, your robot might still run into problems. That's where debugging comes in! Debugging is like being a robot detective—you gather clues about what's going wrong and use those clues to solve the mystery. Sometimes your robot might turn left when it should turn right, or it might ignore obstacles completely. By using the debugging techniques below, you can track down these problems and fix them, turning your robot from a confused wanderer into a smart navigator!</p>
+<p>&nbsp;</p>
+
+<p>Common debugging approaches include:</p>
+<ul>
+<li>Adding print/log statements to show sensor values during operation</li>
+</ul>
+<ul>
+<li>Using visualization tools to display sensor readings graphically</li>
+</ul>
+<ul>
+<li>Simplifying complex programs to isolate problems</li>
+</ul>
+<ul>
+<li>Checking sensor calibration and physical mounting</li>
+</ul>
+<p>&nbsp;</p>
+
+<p>When your robot isn't behaving as expected, debugging helps you find and fix the problem. One of the most useful debugging techniques is to add print statements to your code that show the sensor values as the program runs. This helps you see what the robot is "seeing" and understand why it's making certain decisions.</p>
+<p>&nbsp;</p>
+
+<p>Sometimes the problem isn't in your code but in how the sensor is mounted or calibrated. A distance sensor that's tilted slightly downward might detect the floor instead of obstacles ahead. A light sensor covered in dust might not detect changes in brightness accurately. Always check the physical setup of your sensors when troubleshooting.</p>
+<p>&nbsp;</p>
+
+<p>
+            <div class="stop-reflect-container" style="border:3px dashed #e50200; margin:20px 0; padding:0; display:flex; width:100%;">
+                <div class="stop-reflect-image" style="width:20%; min-width:100px; display:flex; align-items:center; justify-content:center; padding:10px;">
+                    <img src="https://api.learnstage.com/media-manager/api/access/exceled/default/lms/courses/1647/Images/Untitled%20design.jpg" 
+                         style="width:100%; height:auto; max-width:150px;" alt="Stop and Reflect">
+                </div>
+                <div class="stop-reflect-content" style="display:flex; flex-direction:column; justify-content:center; padding:15px; width:80%;">
+                    <h3 style="color:#000000; margin-top:0;">
+                    </h3><p> Consider a robot that needs to navigate through your home environment. How would adding different types of sensors make it more autonomous than one that follows a pre-programmed path? Think about how sensors would allow it to adapt to unexpected situations.</p>
+                </div>
+            </div></p>
+<p>&nbsp;</p>
+
+<p>
+        <figure class="table" style="float:left;width:92.41%;" data-font-size="14" data-line-height="20">
+            <table class="ck-table-resized" style="border-style:none;" data-font-size="14" data-line-height="20">
+                <colgroup data-font-size="14" data-line-height="20"><col style="width:13.29%;" data-font-size="14" data-line-height="20"><col style="width:86.71%;" data-font-size="14" data-line-height="20"></colgroup>
+                <tbody data-font-size="14" data-line-height="20">
+                    <tr data-font-size="14" data-line-height="20">
+                        <td style="border-style:none;" data-font-size="14" data-line-height="20">
+                            <figure class="image image_resized" style="width:100%;" data-font-size="14" data-line-height="20">
+                                <img style="aspect-ratio:600/600;" src="https://api.learnstage.com/media-manager/api/access/exceled/default/89309a11-e6ae-4133-97a9-93c735f38be4/content-page/4e85aa67-83db-423a-b7de-53b356164071_removalai_preview.png" width="600" height="600" data-font-size="14" data-line-height="20">
+                            </figure>
+                        </td>
+                        <td style="border-style:none;" data-font-size="14" data-line-height="20">
+                            <h3 data-font-size="16" data-line-height="23">
+                                <span style="color:hsl(359,97%,29%);"><span data-font-size="16" data-line-height="23"><strong data-font-size="16" data-line-height="23">Key Takeaways</strong></span></span>
+                            </h3>
+                            <ul>
+<li>Sensors help robots interact with the real world, but require thorough testing since environments can be unpredictable and messy.</li>
+<li>Always test sensors in steps: first individual sensors, then simple responses, and finally complex interactions and different environments.</li>
+<li>When your robot behaves unexpectedly, use debugging techniques like print statements to see what the robot is "seeing" and check physical sensor placement.</li>
+</ul>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </figure></p>
+<p>&nbsp;</p>
+    </div>
+    

@@ -1,0 +1,26 @@
+## Fig 21
+Banking app interface showing a minimalist, data-rich dashboard with biometric login and prominent P2P payment features.
+Suggested search terms:
+- mobile app
+- dashboard
+- biometric authentication
+- peer-to-peer payment
+- data visualization
+
+## Fig 22
+The same banking app with more explicit navigation, larger touch targets, and prominent help features.
+Suggested search terms:
+- banking app
+- navigation
+- touch targets
+- help features
+- user experience
+
+## Fig 3
+Designer working on a banking app interface in Adobe XD with multiple user personas visible on a secondary screen.
+Suggested search terms:
+- designer
+- banking app
+- user personas
+- adobe xd
+- interface

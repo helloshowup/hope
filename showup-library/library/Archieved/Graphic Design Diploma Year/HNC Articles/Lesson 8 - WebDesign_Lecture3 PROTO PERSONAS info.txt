@@ -1,0 +1,217 @@
+Research Methodologies
+Graphic Design – Web Design and User Testing for Design
+Types of Research
+Qualitative
+Relating to, a property that can be observed but not measured numerically.
+Unstructured
+Not measureable
+Deep insights
+Subjective
+Quantitative
+Relating to, measuring, or measured by the quantity of something rather than its quality.
+Structured
+Measureable
+Broad insight
+Objective, statistical
+Graphic Design – Web Design and User Testing for Design
+Observational
+Looking at what people are doing
+Google Analytics (behavioural patterns)
+A/B testing
+Usability testing
+Attitudinal
+Listening to what people say
+Multi-choice questionnaires
+Interviews (asking people for their opinions and attitudes)
+Graphic Design – Web Design and User Testing for Design
+Observational
+Field Studies  Usability Test
+Qualitative
+ Focus Groups  Interviews
+ Personas
+Comparative Analysis User Feedback
+Online Surveys
+Desirability Study / User Needs Card Sorting
+Attitudinal
+Eye Tracking Analytics A/B Testing
+Quantitative
+Intercept Surveys
+Natural use of product Simulated/Lab Use
+De--contextualized/Not using product Combination
+Graphic Design – Web Design and User Testing for Design
+Now think about…
+What is a browser?
+What is a search engine?
+What is the difference between browser & search engine?
+Graphic Design – Web Design and User Testing for Design
+Interviews
+Graphic Design – Web Design and User Testing for Design
+Key Take Away
+I am not the target audience
+Simple trap that we can fall into when designing a product
+We know too much about the product
+We cannot objectively step out of our shoes into the users’ due to bias
+Your consumers are outsiders
+Graphic Design – Web Design and User Testing for Design
+Assumption can be Dangerous
+If we had built a product based on what we believe the public knows about browsers and search engines we would be in trouble!
+Assumptions can be far too easy to make.
+Assumption should always be backed with facts and figures.
+‘Get out of the building’ (goob - Steve Blank)
+Graphic Design – Web Design and User Testing for Design
+It’s important to remember…
+Shallow Research = Shallow Answers
+User research should be more subtle, requiring more depth
+Avoid asking peoples opinions
+People often give the first answer that comes into their head.
+Do not assume you know the answer
+Do not ask loaded questions.
+Avoid leading questions.
+Ask neutral open ended questions.
+Graphic Design – Web Design and User Testing for Design
+SWOT
+Strengths . Weaknesses . Opportunities . Threats
+SWOT analysis is a framework used for evaluating a company’s competitive edge and developing strategic planning.
+SWOT analysis assesses internal and external factors, as well as current and future potential.
+Graphic Design – Web Design and User Testing for Design
+Interviews & Observation
+Best way to gather user requirements
+“Get out of the building”
+Challenge assumptions
+Context
+Goals and motivation
+Behaviours
+Graphic Design – Web Design and User Testing for Design
+Interviews
+Interviews involve looking at what people are doing.
+Who will end up using your product?
+What is the context in which they will likely use it?
+What are their goals for usage?
+What tasks they will they need to complete?
+Graphic Design – Web Design and User Testing for Design
+Interview Tips & Methodologies
+Tell the interviewee why you are there.
+Start with the broad context before focusing on the product or technology.
+Use open-ended questions to elicit information.
+Use closed-ended questions to clarify or take back control.
+Avoid asking multiple questions at a time.
+Avoid asking leading questions.
+Avoid offering opinions.
+Avoid Judging users (positively or negatively).
+Avoid Sharing your own experiences.
+Graphic Design – Web Design and User Testing for Design
+Surveys allow researchers to count or quantify concepts—a sample or subset of the broader
+Surveys
+Methodology & Tips
+Group questions together
+audience is used and the findings from which can be applied to a broader population.
+It’s important to keep in mind what needs to be achieved:
+Understand end users
+Inform direction of design
+Access a live website/app/service
+Easy to understand questions
+Avoid ambiguity
+Avoid double negatives
+Avoid multiple concepts
+Don’t use open ended questions
+Include “don’t know” questions
+Consider a survey test with a smaller group of users
+UX Mastery: Better User Research Through Surveys - http://uxmastery.com/better-user-research-through-surveys
+Graphic Design – Web Design and User Testing for Design
+Creating Surveys
+A short but clear introduction should explain the purpose of the questionnaire, who created it and how long it should take to complete.
+Screening questions: these are used to determine whether respondents have the characteristics and requirements needed to participate in the survey. Measurement questions are the questions that will provide information being sought.
+Two main kinds of questions in surveys: closed-ended and open-ended.
+Open-ended questions (for example text areas) are useful for qualitative research: they allow an infinite number of possible answers and enable respondents to describe their feelings and thoughts.
+Closed-ended questions (for example multiple/single choice, checkbox) are more common in quantitative surveys. They allow researchers to quickly gather large amounts of data.
+At the end of the survey, provide another message reassuring them that their input was valuable.
+How to Create an Effective Customer Experience Survey – http://www.uxbooth.com/articles/how-to-create-a-customer-experience-survey/
+Graphic Design – Web Design and User Testing for Design
+Surveys & Questionnaires
+Graphic Design – Web Design and User Testing for Design
+Competitive Analysis
+After a thorough investigation of the marketplace, it’s time to create a competitive analysis. The ultimate goal is to devise a solution that creates a competitive advantage.
+How do current solutions address the needs of the target market?
+What’s already out there?
+what’s worked and what hasn’t?
+What first hand knowledge have you gathered?
+good and bad user experiences?
+It helps a team to learn about the competitors, their best practices for design, and what types of customer segments use their products.
+A comprehensive competitive analysis can be created through collecting the data in a matrix. This helps keep track of everything that needs to be compared.
+Graphic Design – Web Design and User Testing for Design
+Competitive Analysis Methodology
+As with most forms of research, there are many ways to go about creating a competitive analysis.
+One highly efficient way of conducting a comprehensive competitive analysis is by using a spreadsheet to collect data in a matrix. This saves on time when making a cross-comparison of collected data.
+You can use Microsoft Excel to get started and develop it from there.
+Graphic Design – Web Design and User Testing for Design
+Competitive Analysis Example
+Here we can see a Competitive Analysis of 10 different websites intended to help users learn skill based hobbies.
+The intention of the designer was to learn the best practices involved and gain an awareness of types of learning systems available and what the best practices used are.
+https://blog.prototypr.io/google-hobbies-a-  retrospective-on-a-new-feature-to-help-google- users-find-and-learn-new-skills- 650947f0be#.qnoaygonw
+Graphic Design – Web Design and User Testing for Design
+http://www.michelleux.com/marin-process/
+Graphic Design – Web Design and User Testing for Design
+Competitive Analysis Findings
+By creating a Competitive Analysis it is possible to develop a set of recommendations, which you can employ within your own design.
+To learn more about UX research methods and Cpmpetitive Analyses check out UX Strategy by Jaime Levi.
+Graphic Design – Web Design and User Testing for Design
+UX Strategy by Jaime Levi.
+Graphic Design – Web Design and User Testing for Design
+Feature Prioritisation Matrix
+A prioritisation matrix is a hierarchy of needs that address business and consumer requirements.
+A UX designer defines a prioritisation matrix for features to combat potential impediments to developers.
+Potential impediments include: time wasting, effort misplacement and too many people weighing in on priorities, all of which leading to confusion and building of incorrect features.
+Learn more  about Feature Prioritization – https://mentormate.com/blog/boost-roi-next-development-project-feature-prioritization/
+Graphic Design – Web Design and User Testing for Design
+How to Create a Feature Prioritisation Matrix
+Identify business goals.
+Weigh their value using a scoring system.
+This process creates a hierarchy of needs.
+This is ordinarily done by initially defining needs within a teamworking environment, refining them and evaluating in a meeting with the client.
+Learn more  about Feature Prioritization - https://mentormate.com/blog/boost-roi-next-development-project-feature-prioritization/
+Graphic Design – Web Design and User Testing for Design
+Personas
+Personas are a valuable tool for understanding your user and creating a sense of empathy with them among stakeholders and the product team.
+They can be defined as:
+‘Models of the people for whom we believe we are solving a problem.’
+Lean UX by Jeff Gothelf.
+Graphic Design – Web Design and User Testing for Design
+Proto-Personas
+There are several approaches that can be taken in the creation of personas. They can be approached at a late stage in the research process, as an output of lengthy qualitative research, which produces an authentic model.
+However, a provisional persona can also be created, through collecting and presenting assumptions regarding the primary customer segment. These ‘proto-personas’ can be met with scrutiny, due to their early formation, but they can provide a great foothold, allowing for refinement at a later stage as assumptions are validated.
+Graphic Design – Web Design and User Testing for Design
+Persona Notepad
+Ben Ralph’s Persona Notepad is a fantastic way to get started (available on Moodle).
+The author advises that the worksheet is used to capture what has been learnt up until now, with no section being mandatory, referring to it as ‘A guide, not a template’.
+https://medium.com/beakerandflint/personas-74c4e1c12ee2
+Graphic Design – Web Design and User Testing for Design
+Example Persona
+https://careerfoundry.com/en/blog/ux-design/what-is-a-persona/
+Graphic Design – Web Design and User Testing for Design
+More on Personas
+Graphic Design – Web Design and User Testing for Design
+Minimum Viable Product (MVP)
+Minimum Viable Product (MVP) is a term coined by product designer Frank Robinson, popularised by Steve Blank, a serial-entrepreneur and academic, and Eric Ries, the man who pioneered the Lean Startup movement.
+Graphic Design – Web Design and User Testing for Design
+An MVP is the smallest thing you can create to determine the validity of your hypothesis statements.
+Prototyping enables the user to test the experience through simulating the act of using the app. Therefore, the activity of creating an MVP allows the designer to test whether hypotheses are true and worth further pursuit.
+Graphic Design – Web Design and User Testing for Design
+“As you consider building your own minimum viable product, let this simple rule suffice: remove any feature, process, or effort that does not contribute directly to the learning you seek.”
+- Eric Ries
+Graphic Design – Web Design and User Testing for Design
+More on MVPs – https://www.interaction-design.org/literature/article/minimum-viable-product-mvp-and-design-balancing-risk-to-gain-reward
+Graphic Design – Web Design and User Testing for Design
+Paper Prototypes
+It is possible to create a low fidelity prototype using paper (paper prototype).
+This is a paper realisation of a digital product, used to conceptualise ideas, test them early in the process and refine them before going digital, helping to provide direction for moving onto MVP prototyping.
+To do this, a Paper Prototyping Template can be used (available on Moodle).
+Paper Prototyping – https://www.interaction-design.org/literature/topics/paper-prototyping
+A Guide to Paper Prototyping – https://marvelapp.com/blog/stop-talking-start-sketching-guide-paper-prototyping/
+Graphic Design – Web Design and User Testing for Design
+Today’s Task!
+Use the Persona Notepad to create a
+proto-persona!
+To do this, you will need to know your target audience. Conduct some competitor research to develop your proto-persona further.
+For next week:
+Download Adobe XD or Figma for creating interactive prototypes.
+Graphic Design – Web Design and User Testing for Design

@@ -1,0 +1,135 @@
+<div class="container" style="margin:auto;max-width:750px;padding-bottom:4em;padding-left:1em;padding-right:1em;">
+        <style>
+            h1 {color: #910204;}
+            h3.learning-objectives {color: #910204; text-decoration: underline;}
+        </style>
+    <h2>1.4</h2>
+<h2>Essential Robot Components</h2>
+<h3>Learning Objectives</h3>
+<p>By the end of this lesson, you'll be able to:</p>
+<ul>
+<li>Identify the main types of <strong>sensors</strong> robots use to gather information</li>
+<li>Explain how different <strong>processing units</strong> serve as a robot's "brain"</li>
+<li>Describe various <strong>actuators</strong> that allow robots to take action</li>
+</ul>
+<h2>Sensors: How Robots Gather Information</h2>
+<p><strong>Sensors</strong> are the devices that allow robots to gather information about their environment. They convert physical properties (like light, sound, or pressure) into electrical signals that the robot's processing system can understand.</p>
+<p>Let's explore some common sensor types:</p>
+<h3>Contact Sensors</h3>
+<p><strong>Contact Sensors</strong> detect physical touch or pressure. These include:
+- <strong>Bump sensors</strong> that activate when a robot collides with something
+- <strong>Pressure sensors</strong> that measure how hard something is pressing
+- <strong>Tactile sensors</strong> that can detect texture or shape through touch</p>
+<h3>Distance Sensors</h3>
+<p><strong>Distance Sensors</strong> measure how far away objects are without touching them:
+- <strong>Ultrasonic sensors</strong> send out sound waves and measure how long they take to bounce back
+- <strong>Infrared sensors</strong> use infrared light to detect obstacles
+- <strong>Lidar sensors</strong> use laser light to create detailed 3D maps of surroundings</p>
+<h3>Environmental Sensors</h3>
+<p><strong>Environmental Sensors</strong> measure conditions in the robot's environment:
+- <strong>Temperature sensors</strong> detect heat levels
+- <strong>Humidity sensors</strong> measure moisture in the air
+- <strong>Light sensors</strong> detect brightness levels or specific colors
+- <strong>Sound sensors</strong> pick up noises and can sometimes recognize specific sounds</p>
+<h3>Position Sensors</h3>
+<p><strong>Position Sensors</strong> help a robot understand where it is and how it's oriented:
+- <strong>GPS receivers</strong> determine location on Earth
+- <strong>Accelerometers</strong> measure acceleration and can detect which way is down
+- <strong>Gyroscopes</strong> measure rotation and help maintain balance
+- <strong>Encoders</strong> track the position of motors and wheels</p>
+<h3>Vision Sensors</h3>
+<p><strong>Vision Sensors</strong> allow robots to "see" their environment:
+- <strong>Cameras</strong> capture images that can be analyzed
+- <strong>Depth cameras</strong> create 3D representations of scenes
+- <strong>Barcode or QR code readers</strong> identify specific markers</p>
+<p>The sensors a robot has determine what kinds of information it can gather. A robot designed to navigate outdoors might need GPS and cameras, while a robot that works in dark environments might rely more on touch and ultrasonic sensors.</p>
+<h2>Processing Units: The Robot's Brain</h2>
+<p>The <strong>processing unit</strong> is the "brain" of a robot, responsible for making sense of sensor data and deciding what actions to take.</p>
+<h3>Hardware Components</h3>
+<ul>
+<li><strong>Microcontrollers</strong> are small, simple computers used in simpler robots.</li>
+<li><strong>Single-board computers</strong> like Raspberry Pi provide more computing power.</li>
+<li><strong>Specialized processors</strong> like GPUs assist with vision processing and AI tasks.</li>
+<li><strong>Memory chips</strong> store the robot's programming and temporary data.</li>
+</ul>
+<h3>Software Components</h3>
+<ul>
+<li><strong>Operating System</strong>: Manages basic robot functions.</li>
+<li><strong>Control Programs</strong>: Specific instructions for different situations.</li>
+<li><strong>Algorithms</strong>: Step-by-step procedures for solving problems.</li>
+<li><strong>Artificial Intelligence</strong>: Enables learning and adaptation.</li>
+</ul>
+<h3>Processing Approaches</h3>
+<ul>
+<li><strong>Reactive Processing</strong>: Direct responses to sensor input.</li>
+<li><strong>Deliberative Processing</strong>: Builds an internal model and plans actions.</li>
+<li><strong>Hybrid Processing</strong>: Combines reactive and deliberative strategies.</li>
+</ul>
+<h2>Actuators: How Robots Take Action</h2>
+<p><strong>Actuators</strong> are the components that allow robots to take action and affect their environment.</p>
+<h3>Motion Actuators</h3>
+<p><strong>Motion Actuators</strong> create movement:
+- <strong>DC Motors</strong>: Continuous rotation.
+- <strong>Servo Motors</strong>: Rotate to specific positions.
+- <strong>Stepper Motors</strong>: Move in precise increments.
+- <strong>Linear Actuators</strong>: Create straight-line motion.
+- <strong>Hydraulic and Pneumatic Actuators</strong>: Use fluid or air pressure.</p>
+<h3>Grippers and Manipulators</h3>
+<ul>
+<li><strong>Mechanical grippers</strong>: Open and close fingers.</li>
+<li><strong>Vacuum grippers</strong>: Use suction.</li>
+<li><strong>Soft grippers</strong>: Handle delicate items.</li>
+<li><strong>Specialized tools</strong>: Like drills or welding tools.</li>
+</ul>
+<h3>Communication Actuators</h3>
+<ul>
+<li><strong>Speakers</strong>: Produce sounds or speech.</li>
+<li><strong>Display screens</strong>: Show information.</li>
+<li><strong>Lights</strong>: Indicate status.</li>
+<li><strong>Network transmitters</strong>: Send data.</li>
+</ul>
+<h3>Specialized Actuators</h3>
+<ul>
+<li><strong>Heaters or coolers</strong>: Change temperature.</li>
+<li><strong>Pumps</strong>: Move liquids.</li>
+<li><strong>Valves</strong>: Control flow of fluids or gases.</li>
+</ul>
+<p>
+            <div class="stop-reflect-container" style="border:3px dashed #e50200; margin:20px 0; padding:0; display:flex; width:100%;">
+                <div class="stop-reflect-image" style="width:20%; min-width:100px; display:flex; align-items:center; justify-content:center; padding:10px;">
+                    <img src="https://api.learnstage.com/media-manager/api/access/exceled/default/lms/courses/1647/Images/Untitled%20design.jpg" 
+                         style="width:100%; height:auto; max-width:150px;" alt="Stop and Reflect">
+                </div>
+                <div class="stop-reflect-content" style="display:flex; flex-direction:column; justify-content:center; padding:15px; width:80%;">
+                    <h3 style="color:#000000; margin-top:0;">
+                        Stop and Reflect
+                    </h3>
+                    <p>CHECKPOINT: How might the definition of a robot change in the future as technology advances?<br />
+Consider what new capabilities might be added to our current understanding of robots in the next decade.</p>
+                </div>
+            </div></p>
+<p>
+        <figure class="table" style="float:left;width:92.41%;" data-font-size="14" data-line-height="20">
+            <table class="ck-table-resized" style="border-style:none;" data-font-size="14" data-line-height="20">
+                <colgroup data-font-size="14" data-line-height="20"><col style="width:13.29%;" data-font-size="14" data-line-height="20"><col style="width:86.71%;" data-font-size="14" data-line-height="20"></colgroup>
+                <tbody data-font-size="14" data-line-height="20">
+                    <tr data-font-size="14" data-line-height="20">
+                        <td style="border-style:none;" data-font-size="14" data-line-height="20">
+                            <figure class="image image_resized" style="width:100%;" data-font-size="14" data-line-height="20">
+                                <img style="aspect-ratio:600/600;" src="https://api.learnstage.com/media-manager/api/access/exceled/default/89309a11-e6ae-4133-97a9-93c735f38be4/content-page/4e85aa67-83db-423a-b7de-53b356164071_removalai_preview.png" width="600" height="600" data-font-size="14" data-line-height="20">
+                            </figure>
+                        </td>
+                        <td style="border-style:none;" data-font-size="14" data-line-height="20">
+                            <h3 data-font-size="16" data-line-height="23">
+                                <span style="color:hsl(359,97%,29%);"><span data-font-size="16" data-line-height="23"><strong data-font-size="16" data-line-height="23">Key Takeaways</strong></span></span>
+                            </h3>
+                            <ul>
+<li><strong>Sensors</strong> convert physical properties (like light, sound, or touch) into electrical signals that robots can understand.</li>
+<li><strong>Processing units</strong> range from simple microcontrollers to advanced computers with AI capabilities.</li>
+<li><strong>Actuators</strong> (like motors, grippers, and speakers) allow robots to move, manipulate objects, and communicate.</li>
+</ul>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </figure></p></div>

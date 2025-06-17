@@ -1,0 +1,258 @@
+# Infographic Brief Template
+
+You are a professional visual content designer creating an infographic brief about {{topic}} for {{target_learner}}.
+
+YOUR TASK:
+Create a detailed infographic brief about {{topic}} for {{course_name}}.
+The infographic should visually explain {{objective}} through clear visual elements, minimal text, and an organized layout.
+
+CONTENT OUTLINE TO COVER:
+{{content_outline}}
+
+CRITICAL INSTRUCTIONS:
+INFOGRAPHIC CONTENT TEMPLATE
+
+TEMPLATE INSTRUCTIONS
+
+This template is designed to help structure educational infographic content. Replace the bracketed text with your specific content. Each section includes guidance for both content and visual requirements.
+
+For AI writers: Follow the structure precisely, replacing bracketed content while maintaining the indicated format.
+
+SECTION 1
+
+Title: [Name of first key section]
+
+Contribution to Learning Objective: [How this supports primary learning goal]
+
+Suggested Heading: [Text to appear in the infographic]
+
+Content (75-100 words):
+
+[Main concept]
+[Supporting points]
+[Full text for this section]
+
+
+Visual Requirements:
+
+
+
+
+
+Primary Visual Element: [Detailed description of Chart/diagram/illustration type]
+
+
+
+Visual Description: [Detailed description of what this should show in the primary visual element]
+
+Data Visualization (if applicable):
+
+
+
+
+
+Data Element: [Specific data to be visualized with source]
+
+
+
+Chart Type: [Recommended chart with justification]
+
+
+
+Formatting Requirements: [Specifications for axes, labels, colors]
+
+Visual Style Notes:
+
+
+
+
+
+Colors: [Specific colors to use in this section]
+
+
+
+Icon: Mention specific icons if needed
+
+Example:
+
+Title: Evaporation and Transpiration
+
+Contribution to Learning Objective: Establishes the starting point of the cycle and introduces the concept of state change in water.
+
+Suggested Heading: "From Liquid to Vapor: The Cycle Begins"
+
+Content (75-100 words):
+Water begins its journey through the cycle by changing from liquid to gas. The sun's heat causes water to evaporate from oceans, lakes, and rivers, which account for 90% of moisture in the air. Additionally, plants release water vapor through tiny pores in their leaves—a process called transpiration. Together, evaporation and transpiration (sometimes called "evapotranspiration") form the essential first step that moves water from Earth's surface into the atmosphere.
+
+Visual Requirements:
+- Primary Visual Element: Cross-section diagram with cutaway view showing both underwater and atmospheric elements, using semi-realistic illustration style with minimal shading and clear directional indicators
+- Visual Description: Cross-section showing ocean surface with sun rays striking water, and rising water vapor with enlarged inset of plant leaf showing transpiration through stomata; arrows should indicate direction of water movement from liquid to vapor state
+
+Data Visualization (if applicable):
+- Data Element: Global water evaporation sources (USGS data)
+- Chart Type: Simple pie chart showing ocean (90%), plant transpiration (9%), other sources (1%)
+- Formatting Requirements: Use blue shades for the chart, with labels directly on chart segments, rounded to whole percentages
+
+Visual Style Notes:
+- Colors: Deep blue (#0066CC) for ocean, light blue (#99CCFF) for vapor, yellow (#FFCC00) for sun rays
+- Icon: Water droplet icon to indicate water molecules, sun icon to show heat source
+
+SECTION 2
+
+Title: [Name of second key section]
+
+Contribution to Learning Objective: [How this supports primary learning goal]
+
+Suggested Heading: [Text to appear in the infographic]
+
+Content (75-100 words):
+
+[Main concept]
+[Supporting points]
+[Full text for this section]
+
+
+Visual Requirements:
+
+
+
+
+
+Primary Visual Element: [Detailed description of Chart/diagram/illustration type]
+
+
+
+Visual Description: [Detailed description of what this should show in the primary visual element]
+
+Data Visualization (if applicable):
+
+
+
+
+
+Data Element: [Specific data to be visualized with source]
+
+
+
+Chart Type: [Recommended chart with justification]
+
+
+
+Formatting Requirements: [Specifications for axes, labels, colors]
+
+Visual Style Notes:
+
+
+
+
+
+Colors: [Specific colors to use in this section]
+
+
+
+Icon: Mention specific icons if needed
+
+Example:
+
+Title: Condensation and Precipitation
+
+Contribution to Learning Objective: Explains how water returns from atmosphere to Earth, completing a crucial link in the cycle.
+
+Suggested Heading: "Return Journey: From Clouds to Earth"
+
+Content (75-100 words):
+As water vapor rises into the atmosphere, it cools and condenses into tiny water droplets, forming clouds. When these droplets become heavy enough, they fall as precipitation—rain, snow, sleet, or hail depending on atmospheric temperature. This process is essential for distributing freshwater globally. Different regions experience varying precipitation patterns, contributing to diverse ecosystems and climates worldwide. Without this mechanism, freshwater would remain trapped in oceans, making land environments uninhabitable.
+
+Visual Requirements:
+- Primary Visual Element: Progressive illustration series with temperature gradient overlay, using simplified vector-style cloud formations with detailed water droplet rendering
+- Visual Description: Series of cloud formation stages showing water vapor rising, cooling (indicated by color gradient from red to blue), and forming droplets, with different precipitation types (rain, snow, hail) illustrated falling below
+
+Data Visualization (if applicable):
+- Data Element: Precipitation volumes by continent (World Meteorological Organization)
+- Chart Type: Horizontal bar chart comparing annual rainfall across continents
+- Formatting Requirements: Sort bars from highest to lowest values, use blue gradient for bars, include actual values in mm at end of each bar
+
+Visual Style Notes:
+- Colors: Light grey (#CCCCCC) for clouds, medium blue (#3399CC) for rain, white (#FFFFFF) for snow, light blue to dark blue gradient (#CCEFFF to #0066CC) for temperature change
+- Icon: Snowflake icon for frozen precipitation, raindrop icon for liquid precipitation, thermometer icon to indicate temperature changes
+
+
+SECTION 3
+
+Title: [Name of third key section]
+
+Contribution to Learning Objective: [How this supports primary learning goal]
+
+Suggested Heading: [Text to appear in the infographic]
+
+Content (75-100 words):
+
+[Main concept]
+[Supporting points]
+[Full text for this section]
+
+
+Visual Requirements:
+
+
+
+
+
+Primary Visual Element: [Detailed description of Chart/diagram/illustration type]
+
+
+
+Visual Description: [Detailed description of what this should show in the primary visual element]
+
+Data Visualization (if applicable):
+
+
+
+
+
+Data Element: [Specific data to be visualized with source]
+
+
+
+Chart Type: [Recommended chart with justification]
+
+
+
+Formatting Requirements: [Specifications for axes, labels, colors]
+
+Visual Style Notes:
+
+
+
+
+
+Colors: [Specific colors to use in this section]
+
+
+
+Icon: Mention specific icons if needed
+
+Example:
+
+Title: Collection and Return
+
+Contribution to Learning Objective: Completes the cyclic nature of the process and explains water's different paths.
+
+Suggested Heading: "Completing the Circle: Back to the Source"
+
+Content (75-100 words):
+Once precipitation reaches Earth, it follows multiple paths. Some water flows directly into lakes, rivers, and streams—a process called runoff. Other water seeps into the ground, becoming groundwater that fills aquifers and may resurface through springs. Through these various routes, water eventually returns to oceans where the cycle begins again. This collection and return phase may take minutes for surface runoff, or thousands of years for deep groundwater, highlighting the cycle's complex timescales.
+
+Visual Requirements:
+- Primary Visual Element: Detailed cutaway landscape diagram with annotated layers and flow indicators, using earth-tone palette with transparent geological layers
+- Visual Description: Cross-section of land showing groundwater, rivers, lakes, and ocean, with arrows of varying thickness showing water movement routes and relative volumes; should include underground aquifers and spring formation
+
+Data Visualization (if applicable):
+- Data Element: Average time water spends in different forms (Scientific American data)
+- Chart Type: Timeline or duration chart showing relative time spans
+- Formatting Requirements: Use logarithmic scale to accommodate vast differences (from minutes to thousands of years), color-code by water location (atmosphere, surface, underground)
+
+Visual Style Notes:
+- Colors: Brown (#8B4513) for soil, dark blue (#003366) for deep water, medium blue (#0066CC) for surface water, tan (#D2B48C) for sand/rock layers
+- Icon: Clock icon to represent time scales, river icon for surface flow, water table icon for groundwater
+

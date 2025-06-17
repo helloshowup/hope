@@ -1,0 +1,58 @@
+The Design Space 
+Regardless of whether you’re designing a Facebook banner ad or a wine bottle label, an idea, even a great idea, is simply not enough. A graphic design needs to grab and hold the attention of the viewer.  To help you achieve a successful design, the important things to consider are the layout and composition
+Composition is the complete design space. It is how the design space is composed when all the elements within it have been carefully considered and put in place.
+Good composition is when the layout plus all elements within the composition work in harmony with one another.  
+Layout is how and where you place all the design elements including text and imagery. Layout involves using space and design principles to make an arrangement that is easy on the eye and quickly consumable by an audience. 
+Good layout design is dynamic and clear, creating visual focus points that guide the viewers through a graphic design without obstructing its message. The layout sits within the composition. A great layout will consider all elements and parts of the design and it will then create a complete composition.
+In this article, you will consider some of the previously explored elements and principles of design but within the context of using typography and creating a practical layout in your designs. 
+Fig 1. Illustrating principles of layout through text
+Firstly is a recap of the roles space, balance, alignment, and hierarchy play when creating a particular layout in design. After that, this article will focus on space division techniques, ie., ways to divide up your design space in a way that is visually appealing.
+Elements of Design Related to Layout
+Space
+The blank space between elements in layout design can be as important as the visual elements themselves. Both positive and negative spaces play a role in creating focus areas. This is apparent when the space around a component draws attention to it thus making it stand out.
+Fig 2. Use of negative and positive space
+Images
+Images in graphic design include photos, infographics, and illustrations which can all become a part of your layout. Large images typically grab an audience's attention and require very little or no text to communicate messages.
+Fig 4. Pixabay (n.d.) Imagery communicating message without text
+Line
+Whether horizontal, diagonal,vertical, radial or wavey, lines can help direct an audience’s eyes toward (or away from) a certain point in a composition. They can also draw boundaries between sections or visual elements of the layout.
+Fig 5. Pixabay (n.d.) Use of line to create visual movement and focus
+Text
+Text blocks in layout design include headlines, subheadings, headers, footers, and paragraphs. In web design, the text will also include menus and buttons.  You can pair different types of text to achieve different effects but whatever typeface or font you choose, it is important to recognise that text has the ability to communicate a particular mood or evoke a certain feeling
+Fig 6. Pixabay (n.d.) Use of text on digital platform
+Principles of Design Related to Layout
+Balance
+Balance is arguably the most overtly visible of any of the principles and is intrinsic to the success or failure of any design. Balance refers to how the visual elements of your design balance each other out. In layout design, you need to look for ways to balance the graphical information (images and text) on your page, whether through symmetrical, asymmetrical or radial arrangements.
+Fig 7. Symmetrical and asymmetrical balance
+Fig 8. Unsplash (n.d.) Symmetrical balance
+Fig 9. Pixabay (n.d.) Asymmetrical balance
+Fig 10. Unsplash (n.d.) Another example of asymmetrical balance
+Fig 11. Unsplash (n.d.) Radial balance
+Alignment
+Alignment is how designers arrange different graphic design elements in relation to one another. This is especially clear regarding text where one would typically choose between edged alignment (i.e., left or right alignment) or centred alignment.
+Fig 12. Pixabay (n.d.) Left, centre, and right alignments of text
+Hierarchy
+Hierarchy relates to dominance and is based on arranging elements (text or imagery) to show their order of importance. In order to command a viewer’s focus, designers should organise information in such a way that it emphasises the most important information. This is achieved by using other design elements and principles like size, shapes, colour, contrast, space, etc. For example, a designer usually makes a more critical header larger in size than a less important sub-text or heading.
+Fig 13.  General hierarchy flow (photograph ref https://unsplash.com/photos/P0tam674vzY)
+Fig 14. Pixabay (n.d.) Hierarchy in advertisement poster
+Repetition
+Repetition in layout design is about creating consistency, cohesion, and rhythm in a composition. It can allow a viewer’s eye to travel from one area of focus to another and helps to group similar elements of interest together.
+Fig 15. Unsplash - rotated image (n.d.) Example of how repetition of form can lead your eye and cause movement and flow.
+Fig 16. Unsplash (n.d.) Example of repetition in design (shapes and colour)
+Fig 17a. Unsplash (n.d.) Brand recognition through design repetition - colours, style of typography and layout.
+Fig 17b. Unsplash (n.d.) Brand recognition through design repetition - colours, style of typography and layout.
+Contrast
+Contrast is used in combination with alignment and balance to help the layout of your design to look unique and interesting. Including contrasting design elements like colours or different types of typography in your design helps to make it more eye-catching and original.
+Fig 18. Pixabay (n.d.) Example of contrast in design
+Proximity
+Proximity refers to how far apart or close together elements of a layout will sit. Proximity can help users make connections between different visual elements of a project.
+Fig 19. Pixabay (n.d.) Example of how proximity can ease user navigation
+Over To You
+Now it’s your turn to explore the layout principles. 
+Look at the screenshot below of Yale University’s School of Art website:
+Fig 20. Screenshot of https://www.art.yale.edu/
+ 
+What is wrong with the layout of this website interface? How can the issue(s) be fixed? Grab a sketchbook and your favourite drawing materials to sketch out at least three new layout designs by rearranging the existing elements that would make this website interface more effective. 
+When you’re done, head over to the forum and share your thoughts and ideas with your fellow students. 
+References:
+MasterClass (2021) Layout Design Guide: 7 Tips for Designing a Layout. Available at: https://www.masterclass.com/articles/layout-design-guide (Accessed: January 27, 2023).

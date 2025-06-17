@@ -1,0 +1,8 @@
+{
+  "module": "9",
+  "lesson": "4",
+  "step_number": "3",
+  "step_title": "Pomodoro Challenge",
+  "best_version": "# Pomodoro Challenge\n\n## Activity Instructions\n\nThe Pomodoro Technique is a time management method that uses timed intervals of focused work followed by short breaks. This challenge helps you experience how this technique can improve your focus and productivity.\n\n### Your Task:\n1. Complete two 25-minute Pomodoro cycles with a 5-minute break between them\n2. Log your start/end times below\n3. Rate your focus level after each cycle\n4. Receive an efficiency score based on your reflection\n\n## Tracking Log\n\n**Cycle 1:**\n- Start time: _______\n- End time: _______\n- Focus level (1-10): _______\n\n**Cycle 2:**\n- Start time: _______\n- End time: _______\n- Focus level (1-10): _______\n\n## Self-Reflection\n- What distractions did you encounter?\n- How did your focus change between cycles?\n- What strategies helped you stay on task?\n\nYour efficiency score: ___ (Calculated based on consistency and focus levels)",
+  "explanation": "Error in comparison process: maximum recursion depth exceeded while calling a Python object. Using most structurally complete version as fallback."
+}

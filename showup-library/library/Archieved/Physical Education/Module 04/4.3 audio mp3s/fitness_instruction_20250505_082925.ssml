@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="en-US">
+<voice name="en-US-AndrewNeural" parameters="temperature=0.35">
+<prosody rate="-5%" pitch="+2%" volume="+10%">
+<p>Welcome to your next movement—the seated hamstring stretch. <break time="650ms"/> This stretch helps loosen tight muscles at the back of your thigh. <break time="650ms"/> It’s especially helpful if you sit often or are growing quickly. <break time="650ms"/></p>
+<p>Let’s begin with the setup.<break time="350ms"/> Sit down on your mat or a comfortable surface. <break time="650ms"/> Extend your right leg straight in front of you. <break time="650ms"/> Point your toes up toward the ceiling. <break time="650ms"/> Bend your left leg so the sole of your left foot rests against your right inner thigh. <break time="650ms"/> Sit tall and keep your back straight. <break time="650ms"/> Place your hands on your right leg. <break time="650ms"/> Now,<break time="150ms"/> slowly reach forward toward your right toes. <break time="650ms"/> Only go as far as you feel a gentle stretch. <break time="650ms"/></p>
+<p>Remember,<break time="150ms"/> the stretch should be in the back of your thigh. <emphasis level="strong">Do not let your back round.[/emphasis strong</emphasis> <break time="650ms"/> <emphasis level="moderate">Keep your spine long and your chest open.</emphasis> <break time="650ms"/> Hold this stretch. <break time="650ms"/></p>
+<p>Let’s check in. <break time="650ms"/> You should feel the stretch in your hamstring,<break time="150ms"/> not your lower back. <break time="650ms"/> <emphasis level="moderate">If you feel discomfort in your lower back,<break time="150ms"/> ease up and reset your position.</emphasis> <break time="650ms"/></p>
+<p>We’ll hold the stretch and count. <break time="650ms"/>  
+<prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">Keep your toes up and knee straight.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">Relax your shoulders away from your ears.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Three - <emphasis level="moderate">Breathe slowly and deeply.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Four - <emphasis level="moderate">Keep your neck relaxed.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Five - <emphasis level="moderate">Hold where you feel the stretch,<break time="150ms"/> not pain.</emphasis> <break time="3000ms"/></prosody></p>
+<p>Now,<break time="150ms"/> let’s switch sides. <break time="650ms"/> Extend your left leg straight. <break time="650ms"/> Bend your right leg so your right foot touches your left inner thigh. <break time="650ms"/> Sit tall,<break time="150ms"/> hands on your left leg,<break time="150ms"/> toes pointing up. <break time="650ms"/> Reach gently forward,<break time="150ms"/> keeping your back straight. <break time="650ms"/> Hold the stretch and count. <break time="650ms"/></p>
+<p><prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">Feel the stretch in your left hamstring.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">Keep your spine long and shoulders relaxed.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Three - <emphasis level="moderate">Breathe in slowly through your nose.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Four - <emphasis level="moderate">Exhale and relax further into the stretch.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Five - <emphasis level="moderate">Stop if you feel pain or sharp discomfort.</emphasis> <break time="3000ms"/></prosody></p>
+<p>If you need an easier option,<break time="150ms"/> use a towel looped around your foot for support. <break time="650ms"/> For more challenge,<break time="150ms"/> flex your toes back toward you and reach a bit farther,<break time="150ms"/> but never force it. <break time="650ms"/></p>
+<p>This hamstring stretch helps improve flexibility and prevents tightness in the backs of your legs. <break time="650ms"/> It supports healthy movement and can reduce injury risk. <break time="650ms"/> Great job making flexibility a priority today. <break time="650ms"/> Remember,<break time="150ms"/> consistent stretching can help you move and feel better every day. <break time="650ms"/></p>
+</prosody>
+</voice>
+</speak>

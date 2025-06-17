@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="en-US">
+<voice name="en-US-AndrewNeural" parameters="temperature=0.35">
+<prosody rate="-5%" pitch="+2%" volume="+10%">
+<p>Welcome to your guided chair dip exercise. <break time="650ms"/>  
+This move targets your triceps,<break time="150ms"/> building strength for everyday pushing movements. <break time="650ms"/>  
+Before you begin,<break time="150ms"/> choose a sturdy chair that won’t slide. <break time="650ms"/></p>
+<p>Sit on the edge of your chair. <break time="650ms"/>  
+Place your hands flat on the edge,<break time="150ms"/> fingers pointing forward,<break time="150ms"/> right beside your hips. <break time="650ms"/>  
+Grip firmly. <break time="650ms"/>  
+Walk your feet out. <break time="650ms"/>  
+Keep your legs together,<break time="150ms"/> knees bent at about ninety degrees. <break time="650ms"/>  
+Slide your hips off the chair’s edge. <break time="650ms"/>  
+Your weight should rest in your hands and feet. <break time="650ms"/>  
+Keep your chest lifted and your back close to the chair. <break time="650ms"/>  
+Feet flat on the floor,<break time="150ms"/> heels under your knees. <break time="650ms"/>  
+This is your starting position. <break time="650ms"/></p>
+<p>Safety reminder: <break time="650ms"/>  
+<emphasis level="strong">Do not let your shoulders rise up toward your ears.</emphasis> <break time="650ms"/>  
+Keep them down and away. <break time="650ms"/></p>
+<p>Let’s do your first repetition. <break time="650ms"/>  
+<prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">Lower slowly by bending your elbows straight back.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">Pause when elbows reach about ninety degrees.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Three - <emphasis level="moderate">Press through your palms,<break time="150ms"/> lifting your body back up.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Four - <emphasis level="moderate">Keep hips close to the chair’s edge.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Five - <emphasis level="moderate">Exhale as you push up.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Six - <emphasis level="moderate">Avoid locking your elbows at the top.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Seven - <emphasis level="moderate">Check that your shoulders stay low.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Eight - <emphasis level="moderate">Move with control,<break time="150ms"/> not momentum.</emphasis> <break time="3000ms"/></prosody></p>
+<p>Success check: <break time="650ms"/>  
+Are your shoulders down away from your ears? <break time="650ms"/>  
+Are your elbows pointing straight back,<break time="150ms"/> not flaring to the sides? <break time="650ms"/>  
+If yes,<break time="150ms"/> you’re doing it right. <break time="650ms"/></p>
+<p>Need a modification? <break time="650ms"/>  
+For less challenge,<break time="150ms"/> keep your feet closer to the chair and bend your knees more. <break time="650ms"/>  
+To make it harder,<break time="150ms"/> stretch your legs out straighter and keep only your heels on the floor. <break time="650ms"/></p>
+<p>If the chair moves, <break time="650ms"/>  
+place it against a wall or use a heavier seat. <break time="650ms"/></p>
+<p>Chair dips build triceps strength, <break time="650ms"/>  
+which helps with pushing,<break time="150ms"/> lifting,<break time="150ms"/> and daily movements. <break time="650ms"/>  
+They also engage your shoulders and core for better stability. <break time="650ms"/>  
+Remember, <emphasis level="moderate">form is more important than speed.</emphasis> <break time="650ms"/>  
+Consistency brings results. <break time="650ms"/></p>
+<p>Great job completing your chair dips today. <break time="650ms"/>  
+Strong triceps support your arms in every push and lift. <break time="650ms"/>  
+Remember to use this move for functional upper body strength. <break time="650ms"/>  
+Take a moment to shake out your arms and breathe deeply. <break time="650ms"/>  
+Well done. <break time="650ms"/></p>
+</prosody>
+</voice>
+</speak>

@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="en-US">
+<voice name="en-US-AndrewNeural" parameters="temperature=0.35">
+<prosody rate="-5%" pitch="+2%" volume="+10%">
+<p>Welcome to today’s exercise: <emphasis level="moderate">Marching in place with high knees</emphasis>. <break time="650ms"/> This move builds hip strength and boosts your heart rate. <break time="650ms"/> Before we begin,<break time="150ms"/> make sure you have enough space around you. <break time="650ms"/></p>
+<p>Stand tall with your feet hip-width apart. <break time="650ms"/> Keep your shoulders relaxed and your chest lifted. <break time="650ms"/> Draw your belly button gently toward your spine to engage your core. <break time="650ms"/> Let your arms rest at your sides. <break time="650ms"/> <emphasis level="moderate">Lift your chin and look straight ahead</emphasis>. <break time="650ms"/></p>
+<p>Let’s get started with ten repetitions. <break time="650ms"/></p>
+<p><prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">Lift your right knee up toward your chest.<break time="350ms"/> Keep your back straight</emphasis>. <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">Switch to your left knee.<break time="350ms"/> Keep your core braced</emphasis>. <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Three - <emphasis level="moderate">Use a steady pace.<break time="350ms"/> Keep your shoulders relaxed</emphasis>. <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Four - <emphasis level="moderate">Lift your right knee again.<break time="350ms"/> Focus on controlled movement</emphasis>. <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Five - <emphasis level="moderate">Left knee up.<break time="350ms"/> Breathe steadily</emphasis>. <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Six - <emphasis level="moderate">Right knee.<break time="350ms"/> Knees should reach hip height if possible</emphasis>. <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Seven - <emphasis level="moderate">Left knee.<break time="350ms"/> Avoid leaning backward</emphasis>. <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Eight - <emphasis level="moderate">Right knee.<break time="350ms"/> Check posture: back straight and core tight</emphasis>. <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Nine - <emphasis level="moderate">Left knee.<break time="350ms"/> Keep your movements smooth</emphasis>. <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Ten - <emphasis level="strong">Right knee.<break time="350ms"/> Keep your head up and do not hunch</emphasis>. <break time="3000ms"/></prosody></p>
+<p>Pause for a moment. <break time="650ms"/>  <emphasis level="moderate">Check your form</emphasis>: Are your shoulders relaxed? <break time="650ms"/> Is your back straight? <break time="650ms"/> Are you lifting each knee to at least hip level without leaning back? <break time="650ms"/> If yes,<break time="150ms"/> you’re on track. <break time="650ms"/></p>
+<p>Safety reminder: <emphasis level="strong">Avoid locking your knees or leaning backward.<break time="350ms"/> Move only within a comfortable range</emphasis>. <break time="650ms"/></p>
+<p>Ready for a challenge? <break time="650ms"/> To make this harder,<break time="150ms"/> speed up your march to a running pace. <break time="650ms"/> Add arm swings to raise your heart rate even more. <break time="650ms"/> If you want to make it easier,<break time="150ms"/> slow your pace. <break time="650ms"/> Focus on lifting your knees high,<break time="150ms"/> rather than on speed. <break time="650ms"/> Remember,<break time="150ms"/> quality movement is more important than speed. <break time="650ms"/></p>
+<p>Marching in place with high knees builds hip flexor and core strength. <break time="650ms"/> It also boosts your coordination and balance. <break time="650ms"/> This move is a great way to warm up your body and get your heart rate up. <break time="650ms"/> Practice this regularly to improve your mobility and stamina. <break time="650ms"/></p>
+<p>You’re done. <break time="650ms"/> Remember,<break time="150ms"/> proper form keeps you safe and maximizes results. <break time="650ms"/> Great job moving with purpose and control today. <break time="650ms"/> Keep practicing to build confidence and strength with each session. <break time="650ms"/></p>
+</prosody>
+</voice>
+</speak>

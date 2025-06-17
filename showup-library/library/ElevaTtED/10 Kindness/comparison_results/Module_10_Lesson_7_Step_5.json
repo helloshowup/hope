@@ -1,0 +1,8 @@
+{
+  "module": "10",
+  "lesson": "7",
+  "step_number": "5",
+  "step_title": "Reflection Rubric",
+  "best_version": "# Reflection Rubric: Kindness Assessment\n\n## Self-Assessment Instructions\n\nBefore proceeding to the next module, you must evaluate your Kindness Report using the criteria below. Rate each section honestly, reflecting on your personal growth in kindness and empathy.\n\n### Rating Scale\n- 1 = Needs significant improvement\n- 2 = Developing\n- 3 = Meets expectations\n- 4 = Exceeds expectations\n\n### Rubric Criteria\n1. **Personal Examples**: I provided specific, meaningful examples of kind actions.\n2. **Growth Reflection**: I thoughtfully analyzed how my understanding of kindness has evolved.\n3. **Empathy Development**: I demonstrated clear insights about seeing situations from others' perspectives.\n4. **Future Application**: I created realistic plans to practice kindness in new situations.\n\n**Note**: You must achieve a minimum average score of 2.5 to unlock the next module. This self-assessment helps ensure you've meaningfully engaged with the kindness concepts.",
+  "explanation": "Error in comparison process: maximum recursion depth exceeded while calling a Python object. Using most structurally complete version as fallback."
+}

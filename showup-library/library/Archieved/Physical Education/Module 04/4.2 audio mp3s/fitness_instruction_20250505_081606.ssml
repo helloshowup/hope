@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="en-US">
+<voice name="en-US-AndrewNeural" parameters="temperature=0.35">
+<prosody rate="-5%" pitch="+2%" volume="+10%">
+<p>Welcome to your guided exercise session. <break time="650ms"/> Today,<break time="150ms"/> we’ll focus on the Superman. <break time="650ms"/> This movement targets the muscles along your spine and lower back. <break time="650ms"/> It’s great for building core strength and improving posture. <break time="650ms"/></p>
+<p>Let’s get started. <break time="650ms"/> First,<break time="150ms"/> find a comfortable surface to lie on,<break time="150ms"/> like a mat. <break time="650ms"/> Lie facedown with your legs straight behind you. <break time="650ms"/> Extend your arms forward,<break time="150ms"/> keeping them in line with your ears. <break time="650ms"/> Rest your forehead gently on the mat. <break time="650ms"/> Your palms should face down. <break time="650ms"/> Position your feet about hip-width apart. <break time="650ms"/> Take a deep breath in. <break time="650ms"/></p>
+<p>Now,<break time="150ms"/> slowly lift your arms,<break time="150ms"/> chest,<break time="150ms"/> and legs off the floor at the same time. <break time="650ms"/> Keep your gaze down to protect your neck. <break time="650ms"/> Hold this raised position for two to three seconds. <break time="650ms"/> Focus on squeezing your back and glute muscles. <break time="650ms"/> Then,<break time="150ms"/> gently lower your arms,<break time="150ms"/> chest,<break time="150ms"/> and legs back to the mat. <break time="650ms"/></p>
+<p>Let’s move through eight repetitions together. <break time="650ms"/></p>
+<p><prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">lift arms,<break time="150ms"/> chest,<break time="150ms"/> and legs together</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">keep your neck in line with your spine</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Three - <emphasis level="strong">do not overextend your back</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Four - <emphasis level="moderate">pause at the top,<break time="150ms"/> squeeze your glutes</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Five - <emphasis level="moderate">lower slowly,<break time="150ms"/> keep control</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Six - <emphasis level="moderate">breathe out as you lift</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Seven - <emphasis level="moderate">shoulders stay away from your ears</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Eight - <emphasis level="strong">smooth and steady movement</emphasis> <break time="3000ms"/></prosody></p>
+<p>Pause for a moment. <break time="650ms"/> Success check: You should feel the muscles along your spine working. <break time="650ms"/> If you feel any discomfort in your lower back,<break time="150ms"/> stop and adjust your position. <break time="650ms"/></p>
+<p>If you want to make this exercise easier, <break time="650ms"/> try lifting just your arms or just your legs instead of both. <break time="650ms"/> For a greater challenge, <break time="650ms"/> hold the lifted position for five seconds instead of two or three. <break time="650ms"/></p>
+<p>Remember, <break time="650ms"/> never hold your breath during the exercise. <break time="650ms"/> Always move with control and avoid sudden jerks. <break time="650ms"/></p>
+<p>You have completed the Superman exercise. <break time="650ms"/> Strengthening your back muscles helps support your posture and balance. <break time="650ms"/> Regular practice can reduce lower back discomfort and improve core stability. <break time="650ms"/> Great job focusing on your form and safety today. <break time="650ms"/> Keep moving forward,<break time="150ms"/> and enjoy the benefits of a stronger back. <break time="650ms"/></p>
+</prosody>
+</voice>
+</speak>

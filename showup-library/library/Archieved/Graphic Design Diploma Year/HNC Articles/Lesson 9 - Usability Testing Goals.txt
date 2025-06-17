@@ -1,0 +1,24 @@
+USABILITY TESTING
+So you’ve created some lo-fi wireframes in your sketchbook for your responsive website, the next step is to recreate them using a more interactive method. The intention here is to test the structure, navigation and layout of the website with real users to see if it is easy to use and has good flow.
+Using Balsamic (or another similar interactive method), create an interactive wireframe of your website and link the pages before exporting as an interactive .PDF. The point of Usability testing in this regard is to create a simulation of your website that can be tested with real users. https://balsamiq.com/wireframes/desktop/
+Structure & Navigation
+navigation easy to use
+Can user return to main page from any page
+Buttons / arrows etc. convenient and easy to find / use
+Are there any unnecessary buttons / features that cause confusion
+Mobile Version (if applicable)
+Ensure you have a mobile friendly version to test also & repeat above
+Check compatibility with smartphones
+Loading time (check images are optimized)
+Scale of buttons are big for finger / selection
+Checklist for further testing on final prototype / site (pre-launch)
+No spelling or grammar errors
+Use short paragraphs or bullet points (mobile friendly)
+Copy is easy to read and not too long (TLDR)
+Information is concise and useful and relates to the page
+SEO keywords are used in text (but not too repetitive)
+Images are correct size / resolution / colour
+Alt Text is applied for Accessibility
+Contact details should be above the fold (real estate at top) can make a call from home screen (mobile version)
+Links to social media are working
+Handy Links for Information: https://www.usability.gov/

@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="en-US">
+<voice name="en-US-AndrewNeural" parameters="temperature=0.35">
+<prosody rate="-5%" pitch="+2%" volume="+10%">
+<p>Welcome to your bird-dog exercise session. <break time="650ms"/> This move targets your core stability and helps improve balance. <break time="650ms"/> Let’s set up safely and get started. <break time="650ms"/></p>
+<p>Begin on all fours. <break time="650ms"/> Place your hands directly under your shoulders. <break time="650ms"/> Knees should be under your hips. <break time="650ms"/> Keep your back flat and your neck neutral. <break time="650ms"/> <emphasis level="moderate">This will protect your lower back.</emphasis> <break time="650ms"/> Engage your core muscles gently. <break time="650ms"/> Draw your shoulder blades down and back. <break time="650ms"/></p>
+<p>Now,<break time="150ms"/> extend your right arm straight forward. <break time="650ms"/> At the same time,<break time="150ms"/> extend your left leg straight back. <break time="650ms"/> Reach long through your fingertips and your heel. <break time="650ms"/> <emphasis level="moderate">Keep your hips level—don’t let them tilt.</emphasis> <break time="650ms"/> Hold this position for two seconds. <break time="650ms"/> Return your hand and knee to the mat. <break time="650ms"/></p>
+<p>Let’s begin the repetitions. <break time="650ms"/></p>
+<p><prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">Keep your back flat.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">Stretch from fingertips to heel.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Three - <emphasis level="moderate">Hips stay steady.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Four - <emphasis level="moderate">Engage your core.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Five - <emphasis level="moderate">Return with control.</emphasis> <break time="650ms"/></prosody></p>
+<p>Now switch sides.<break time="350ms"/> Extend your left arm forward and right leg back. <break time="650ms"/> Hold for two seconds. <break time="650ms"/> Bring them back in. <break time="650ms"/></p>
+<p><prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">No arching in your lower back.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">Reach out,<break time="150ms"/> keep your neck relaxed.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Three - <emphasis level="moderate">Hips stay even.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Four - <emphasis level="moderate">Shoulders away from ears.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Five - <emphasis level="moderate">Controlled movement.</emphasis> <break time="3000ms"/></prosody></p>
+<p>Let’s do a quick success check. <break time="650ms"/> <emphasis level="strong">Your back should stay flat,<break time="150ms"/> no arching or sagging.</emphasis> <break time="650ms"/> Hips should stay level throughout. <break time="650ms"/> If you feel wobbly,<break time="150ms"/> adjust your position. <break time="650ms"/></p>
+<p>If balancing both arm and leg is too challenging, <break time="650ms"/> try lifting just your arm first,<break time="150ms"/> then just your leg. <break time="650ms"/> Once you feel steady,<break time="150ms"/> combine both movements. <break time="650ms"/> For more challenge,<break time="150ms"/> pause longer at the top,<break time="150ms"/> or slow down your movements for extra control. <break time="650ms"/></p>
+<p>Remember,<break time="150ms"/> one key safety tip: <break time="650ms"/> <emphasis level="strong">Do not let your back sag or arch.</emphasis> <break time="650ms"/> This helps protect your spine. <break time="650ms"/></p>
+<p>Great work. <break time="650ms"/> The bird-dog exercise helps build a stable core and improves your coordination. <break time="650ms"/> It also supports your posture and reduces the risk of back pain. <break time="650ms"/> Practice regularly for best results. <break time="650ms"/> Thanks for joining this session. <break time="650ms"/></p>
+</prosody>
+</voice>
+</speak>

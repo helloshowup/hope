@@ -1,0 +1,45 @@
+Graphic Design HN
+Lesson 2 - step 18
+Gestalt Principles
+All design begins with a blank page. Once a mark is made on the page, the image will begin to come to life. Knowledge and understanding of the principles of graphic design are the tools every designer needs to bring an idea to life. 
+The 7 principles of design - Balance - Contrast - Alignment – Hierarchy – Composition – Repetition – Proximity - will always apply to a graphic design but there are also variations within these principles depending on how the elements of the design are arranged.  The use of space, either positive or negative, can have a powerful impact on the perception of an image and with the right tools, this space can be manipulated to great effect.
+A graphic designer is constantly searching for a way to communicate a message in a simple yet impactful way. The goal is to make a viewer quickly understand a message without grappling with ambiguities or nuance. In order to achieve this, a graphic designer will often employ certain “tricks” or visual stratagems to encourage an audience to engage. There are basic rules of thumb, and then there are clever insights that may solve visual problems that a designer is faced with.
+In the 1930s Gestalt psychologists were exploring visual perception and began studying how a total image is observed. They discovered that it was beyond the properties or elements of an image or design; it was how they were organised in relation to one another. Their extensive research programme yielded a number of principles that can be very useful for designers.
+Gestalt is the German word for shape or form and Gestalt psychology stems from the philosophy of mind from the Berlin School of experimental psychology. It is a school of thought where the mind sees an image as whole, as opposed to the individual parts.
+The Gestalt principle refers to how the eye interprets an image or object and how a complex design can be reduced to a simple shape or image.
+Gestalt principles are particularly relevant to graphic design as it is the job of a graphic designer to lead a viewer on a visual path. A path on which the designer is the guide. 
+When designing a webpage or print document the designer must help them to follow a chosen direction and to receive information in an order that is efficient and effective. An understanding of Gestalt psychology will help a graphic designer to achieve this.
+The essential hypothesis of Gestalt Psychology is that in perception, the unified whole is different from the sum of the parts.
+The main principles of Gestalt Psychology are:
+Closure
+Continuation
+Figure / Ground
+Proximity
+Similarity
+Symmetry 
+Closure
+The human eye will complete a picture where lines are not drawn, or shapes are merely suggested. As a person perceives an image, they will mentally fill in gaps that don’t exist. This closure is the mind creating a total image, like a puzzle that must be complete. Closure is also known as reification. 
+	
+The rest of the visual information may only indicate that there is more to an image, but the eye and the mind will close lines or shapes and create a whole image.
+Continuation
+Continuation is a particularly useful principle for graphic designers as it will lead the eye from one point to another as it naturally follows a line or curve. This is especially effective when a designer needs the viewer to follow a certain path within a design. 
+The eye will feel compelled to move from one object to another and tends to continue even beyond the visible end point of the line. 
+The edge of one shape will continue into the space and meet up with other shapes or the edge of the picture plane.
+The law of continuity also suggests that people are more likely to follow curved lines than jagged broken lines.
+Figure / Ground
+Vision will naturally perceive objects as either sitting in the foreground or the background meaning they are either receding into the background or standing prominent in the front.  
+Figure–ground organisation is a type of perceptual grouping which is a vital necessity for recognizing objects through vision. In Gestalt psychology it is known as identifying a figure from the background. 
+Here the viewer’s perception alternates between two possible interpretations of the same visual field. In this example, a viewer will observe either a white goblet, or two faces. But they cannot be perceived simultaneously.  
+These can also be referred to as optical illusions.
+Proximity
+The Gestalt law of proximity states that "objects or shapes that are close to one another appear to form groups". The shapes may differ in size or colour or are perhaps radically different, but if they are next to each other within a design or image they will form the perception of a group. 
+In this example, there are examples of Proximity and the other Gestalt principle, Similarity. Here Similarity will refer to the use of colour, which also groups objects, but the second example mixes up the colours yet still maintains grouping among the objects aligned next to each other.  
+Similarity
+When an image contains elements that share similar visual characteristics such as colour, shape, form, texture, orientation, or value; they will also create a perceived group. They become bonded as though they belong together.
+Viewers will make a mental association with the elements with similar visual characteristics and therefore create a group. 
+Symmetry 
+The principle of symmetry states that we tend to take complex images and simplify them.
+In this image, people will view each of these shapes as a single image or as two overlapping shapes as seen in the top two examples. People generally won’t view the same shape as it is shown in the bottom two examples. 
+It is this sense of order and balance that defines the principle of symmetry as it is a more efficient way to perceive an image and proposes no visual problems that need to be fixed.
+The principle of symmetry states elements that are symmetrical to each other tend to be perceived as a unified group.
+While the Gestalt principles are valuable tools for designers, they are not to be confused with rules. Many designers will have different approaches. Graphic design styles will continue to vary and every graphic designer can use their insights into Gestalt psychology in different ways. Regardless of how a graphic designer chooses to use these principles, it is always advantageous to be armed with as many tools as possible. It is then up to the designer to use this knowledge to good effect.

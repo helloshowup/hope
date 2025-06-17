@@ -1,0 +1,175 @@
+
+    <div class="markdown-content" style="font-family: Arial, sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 0 auto;">
+        <h1>6.15</h1>
+
+<h2>Testing with Different Scenarios</h2>
+
+<h2>Learning Objectives</h2><p>By the end of this session, you'll be able to:</p>
+<ul>
+<li>Create a test plan with clear steps</li>
+</ul>
+<ul>
+<li>Find bugs by testing edge cases</li>
+</ul>
+<ul>
+<li>Tell the key parts of good code testing</li>
+</ul>
+<p>&nbsp;</p>
+
+<p>Thorough testing involves checking how your program behaves under different conditions.</p>
+<h3>Test Case Design</h3><p>Good test cases should:</p>
+<ul>
+<li>Cover both typical and edge cases</li>
+</ul>
+<ul>
+<li>Include valid and invalid inputs</li>
+</ul>
+<ul>
+<li>Test boundary conditions (like minimum and maximum values)</li>
+</ul>
+<ul>
+<li>Check all possible paths through your code</li>
+</ul>
+<p>&nbsp;</p>
+
+<p>When designing tests for your robot program, think about all the different situations your robot might encounter. For example, if your robot is programmed to follow a line, you should test it on straight lines, curved lines, and intersections. You should also test what happens if there's no line at all, or if the line has a gap in it. By testing these different scenarios, you can make sure your program works in all situations, not just the easy ones.</p>
+<h3>Creating a Test Plan</h3><p>A systematic test plan includes:</p>
+<ol>
+<li>A list of specific scenarios to test</li>
+</ol>
+<ol>
+<li>The expected outcome for each scenario</li>
+</ol>
+<ol>
+<li>A way to verify the actual results</li>
+</ol>
+<ol>
+<li>Documentation of any discrepancies</li>
+</ol>
+<p>&nbsp;</p>
+
+<p>A test plan is like a checklist for your program. For a robot maze-solving program, your test plan might include tests like: "Robot reaches the end of a straight path," "Robot correctly turns at a T-junction," and "Robot doesn't crash into walls." For each test, write down what should happen and then check if your program actually does it. Keep track of any tests that fail so you know what to fix.</p>
+<h3>Automated vs. Manual Testing</h3>
+
+<ul>
+<li><strong>Manual testing</strong>: You personally run the program and observe its behavior</li>
+</ul>
+<ul>
+<li><strong>Automated testing</strong>: Write additional code that automatically tests your program</li>
+</ul>
+<ul>
+<li>Both approaches are valuable - manual testing helps you understand the user experience, while automated testing can quickly check many different scenarios</li>
+</ul>
+<p>&nbsp;</p>
+
+<p>There are two main ways to test your programs. Manual testing is when you run your program yourself and watch what happens. This is like playing a video game to see if it's fun. Automated testing is when you write another program to test your main program. This is like having a robot play the video game for you, trying every possible move to make sure nothing breaks. Both types of testing are important - manual testing helps you see how your program feels to use, while automated testing can check many more situations much faster.</p>
+<p>&nbsp;</p>
+
+<p>
+            <div class="stop-reflect-container" style="border:3px dashed #e50200; margin:20px 0; padding:0; display:flex; width:100%;">
+                <div class="stop-reflect-image" style="width:20%; min-width:100px; display:flex; align-items:center; justify-content:center; padding:10px;">
+                    <img src="https://api.learnstage.com/media-manager/api/access/exceled/default/lms/courses/1647/Images/Untitled%20design.jpg" 
+                         style="width:100%; height:auto; max-width:150px;" alt="Stop and Reflect">
+                </div>
+                <div class="stop-reflect-content" style="display:flex; flex-direction:column; justify-content:center; padding:15px; width:80%;">
+                    <h3 style="color:#000000; margin-top:0;">
+                    </h3>
+                    <h1># Stop and reflect</h1><p> Think about a time when you encountered a problem in a program or game. How did you approach solving it? Consider how a systematic debugging process might have made finding the solution easier.</p>
+                </div>
+            </div></p>
+<h2>Improving Your Programs</h2><p>Debugging isn't just about fixing errors—it's also an opportunity to improve your code.</p>
+<h3>Code Refactoring</h3><p>After fixing bugs, consider:</p>
+<ul>
+<li>Simplifying complex sections</li>
+</ul>
+<ul>
+<li>Breaking long functions into smaller ones</li>
+</ul>
+<ul>
+<li>Improving variable names for clarity</li>
+</ul>
+<ul>
+<li>Adding comments to explain tricky parts</li>
+</ul>
+<p>&nbsp;</p>
+
+<p>Refactoring is like cleaning and organizing your room. Even if everything works, it can still be messy and hard to find things. When you refactor code, you make it cleaner and easier to understand without changing what it does. For example, if you have a long section of code that makes your robot dance, you might break it into smaller parts like "spinMove()", "jumpMove()", and "waveMove()". This makes your code easier to read and easier to fix if something goes wrong later.</p>
+<h3>Defensive Programming</h3><p>Prevent future bugs by:</p>
+<ul>
+<li>Adding error checking for unusual situations</li>
+</ul>
+<ul>
+<li>Validating input values before using them</li>
+</ul>
+<ul>
+<li>Creating clear error messages</li>
+</ul>
+<ul>
+<li>Using consistent formatting and styles</li>
+</ul>
+<p>&nbsp;</p>
+
+<p>Defensive programming is like wearing a helmet when you ride a bike - it helps protect you from problems before they happen. For example, if your program asks the user to enter a number between 1 and 10, you should check that they actually entered a number in that range. If they enter 0 or 11 or "banana," your program should display a helpful message instead of crashing. By planning for things that might go wrong, you make your programs more reliable and user-friendly.</p>
+<p>&nbsp;</p>
+
+<p>
+        <!-- Check Your Understanding Section -->
+        <div style="border-bottom-style:solid;border-color:#008000;border-left-style:solid;border-right-style:solid;border-top-style:none;border-width:1px;clear:both;margin-bottom:3em;padding:1em 1em 1.1em;position:relative;">
+            <div style="background-color:#008000;display:block;height:20px;left:-1em;position:relative;top:-1em;width:calc(100% + 2em);">
+                &nbsp;
+            </div>
+            <h2 style="color:#008000;font-size:1.8em;font-weight:500;line-height:1em;margin-bottom:0.2em;margin-top:0;">
+                Check your understanding
+            </h2>
+            <p style="font-family:'Roboto', sans-serif;font-size:0.91em;font-weight:300;line-height:1.6em;">
+                &nbsp;
+            </p>
+            <p>What is the first step in debugging a program that isn't working?</p>
+<p>A. Start over with a new program</p>
+<p>B. Ask someone else to fix it</p>
+<p>C. Identify exactly what's happening versus what should happen</p>
+<p>D. Add more code to fix the problem</p>
+            <p style="font-family:'Roboto', sans-serif;font-size:0.91em;font-weight:300;line-height:1.6em;">
+                Choose your answer and check it below.
+            </p>
+            <div style="display:none;" id="hiddenAnswer0">
+                <p>
+                    <br>
+                    &nbsp;
+                </p>
+                <p>The correct answer is C. Identify exactly what's happening versus what should happen. Effective debugging starts with clearly understanding the problem by identifying the difference between the current behavior and the expected behavior. If you chose A, starting over is rarely the most efficient approach. If you chose B, while collaboration is valuable, you should first try to understand the problem yourself. If you chose D, adding more code without understanding the issue often makes the problem worse.</p>
+            </div>
+            <p>
+                <a style="color:#008000;text-decoration:none;" href="#" onclick="document.getElementById('hiddenAnswer0').style.display='block'; return false;"><strong>Click here to show the correct answer</strong></a>
+            </p>
+        </div></p>
+<p>&nbsp;</p>
+
+<p>
+        <figure class="table" style="float:left;width:92.41%;" data-font-size="14" data-line-height="20">
+            <table class="ck-table-resized" style="border-style:none;" data-font-size="14" data-line-height="20">
+                <colgroup data-font-size="14" data-line-height="20"><col style="width:13.29%;" data-font-size="14" data-line-height="20"><col style="width:86.71%;" data-font-size="14" data-line-height="20"></colgroup>
+                <tbody data-font-size="14" data-line-height="20">
+                    <tr data-font-size="14" data-line-height="20">
+                        <td style="border-style:none;" data-font-size="14" data-line-height="20">
+                            <figure class="image image_resized" style="width:100%;" data-font-size="14" data-line-height="20">
+                                <img style="aspect-ratio:600/600;" src="https://api.learnstage.com/media-manager/api/access/exceled/default/89309a11-e6ae-4133-97a9-93c735f38be4/content-page/4e85aa67-83db-423a-b7de-53b356164071_removalai_preview.png" width="600" height="600" data-font-size="14" data-line-height="20">
+                            </figure>
+                        </td>
+                        <td style="border-style:none;" data-font-size="14" data-line-height="20">
+                            <h3 data-font-size="16" data-line-height="23">
+                                <span style="color:hsl(359,97%,29%);"><span data-font-size="16" data-line-height="23"><strong data-font-size="16" data-line-height="23">Key Takeaways</strong></span></span>
+                            </h3>
+                            <ul>
+<li>Good testing involves checking both normal cases and edge cases, with a clear test plan that lists what you expect to happen in each scenario.</li>
+<li>Both manual testing (where you run the program yourself) and automated testing (using code to test your program) are important for finding different types of problems.</li>
+<li>Improving your code through refactoring (making it cleaner) and defensive programming (preparing for potential problems) helps prevent future bugs.</li>
+</ul>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </figure></p>
+<p>&nbsp;</p>
+    </div>
+    

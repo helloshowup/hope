@@ -1,0 +1,8 @@
+{
+  "module": "12",
+  "lesson": "2",
+  "step_number": "13",
+  "step_title": "Goal Plan Submission",
+  "best_version": "# Goal Plan Submission\n\n## Instructions\nNow that you've developed your SMART goals based on your reflection insights, it's time to submit your Goal Plan document for review.\n\n1. Ensure your document includes:\n   - At least 2-3 SMART goals (Specific, Measurable, Achievable, Relevant, Time-bound)\n   - Clear connection to your reflection data\n   - Realistic implementation timeline\n\n2. Upload your completed SMART Goals document using the submission button below.\n\n## Assessment Criteria\nYour submission will be evaluated using the following rubric:\n- SMART criteria properly applied to each goal\n- Goals logically connected to your reflection insights\n- Implementation plan is feasible and well-structured\n\n**Note:** You must achieve a score of 70% or higher to unlock the next module. If your submission scores below 70%, you'll receive feedback and can revise and resubmit.",
+  "explanation": "Error in comparison process: maximum recursion depth exceeded while calling a Python object. Using most structurally complete version as fallback."
+}

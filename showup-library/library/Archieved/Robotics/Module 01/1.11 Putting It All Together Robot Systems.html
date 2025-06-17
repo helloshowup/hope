@@ -1,0 +1,352 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css?family=Martel:200,300,400,700,800|Roboto:100,300,400,500" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Markdown to HTML Conversion</title>
+    <style>
+        /* Base styles */
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Roboto', sans-serif;
+            font-size: 18px;
+            color: #454545;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+        }
+        
+        /* Container for content */
+        .container {
+            margin: auto;
+            max-width: 750px;
+            padding-left: 1em;
+            padding-right: 1em;
+            padding-bottom: 4em;
+        }
+        
+        p {
+            line-height: 1.85em;
+            font-weight: 400;
+            letter-spacing: 0.001em;
+            font-size: 0.9em;
+            margin-top: 0;
+            margin-bottom: 1.2em !important;
+            font-family: "Martel", serif;
+        }
+
+        .container p {
+            margin-bottom: 2em;
+        }
+
+        h1, h2, h3, h4, h5, h6 {
+            color: #008000;
+            font-weight: 500;
+            margin-top: 0;
+        }
+        
+        h2 {
+            font-size: 1.8em;
+            line-height: 1em;
+            margin-bottom: 0.2em;
+        }
+        
+        a {
+            color: #008000;
+            text-decoration: none;
+            font-weight: 700;
+        }
+        
+        a:hover {
+            text-decoration: underline;
+        }
+        
+        /* Well styling for Check Your Understanding sections */
+        .well {
+            border: solid 1px #008000;
+            border-top: none;
+            padding: 1em;
+            position: relative;
+            padding-bottom: 1.1em;
+            margin-bottom: 3em;
+            clear: both;
+        }
+        
+        .well:before {
+            content: '';
+            display: block;
+            height: 20px;
+            width: calc(100% + 2.125em);
+            background-color: #008000;
+            position: relative;
+            top: -1em;
+            left: -1.055em;
+        }
+        
+        .well p {
+            font-family: 'Roboto', sans-serif;
+            font-weight: 300;
+            line-height: 1.6em;
+            font-size: 0.91em;
+        }
+        
+        .well p:last-child {
+            margin-bottom: 0;
+        }
+        
+        .well h1:first-child,
+        .well h2:first-child,
+        .well h3:first-child,
+        .well h4:first-child,
+        .well h5:first-child {
+            margin-top: 0;
+        }
+        
+        .well li {
+            font-family: 'Roboto', sans-serif;
+        }
+        
+        .well ol:last-child,
+        .well ul:last-child {
+            margin-bottom: 0;
+        }
+        
+        .well blockquote {
+            font-size: 0.85em;
+            padding: 0.5em 0.5em 0.5em 1em;
+            color: #000000;
+            margin-left: 0.5em;
+        }
+        
+        .well blockquote:before {
+            font-size: 0.5em;
+            font-weight: 500;
+        }
+        
+        @media (min-width: 768px) {
+            p {
+                font-size: 1em;
+            }
+            
+            h2 {
+                font-size: 2.5em;
+            }
+        }
+        
+        /* Stop and Reflect styling */
+        .stop-reflect-container {
+            border: 3px dashed #e50200;
+            margin: 20px 0;
+            padding: 0;
+            display: flex;
+            width: 100%;
+        }
+        
+        .stop-reflect-image {
+            width: 20%;
+            min-width: 100px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 10px;
+        }
+        
+        .stop-reflect-image img {
+            width: 100%;
+            height: auto;
+            max-width: 150px;
+        }
+        
+        .stop-reflect-content {
+            width: 80%;
+            padding: 15px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+        
+        .stop-reflect-content h3 {
+            margin-top: 0;
+            color: #000000;
+        }
+        
+        /* Responsive adjustments for mobile */
+        @media (max-width: 600px) {
+            .stop-reflect-container {
+                flex-direction: column;
+            }
+            
+            .stop-reflect-image {
+                width: 100%;
+                max-width: 150px;
+                margin: 0 auto;
+            }
+            
+            .stop-reflect-content {
+                width: 100%;
+            }
+        }
+        
+        /* Basic element styling */
+        img { 
+            max-width: 100%; 
+            height: auto;
+            display: block;
+            margin: 1em auto;
+        }
+        
+        pre {
+            background-color: #f5f5f5;
+            padding: 1em;
+            border-radius: 5px;
+            overflow-x: auto;
+        }
+        
+        code {
+            background-color: #f5f5f5;
+            padding: 0.2em 0.4em;
+            border-radius: 3px;
+        }
+        
+        blockquote {
+            border-left: 4px solid #ddd;
+            padding-left: 1em;
+            color: #666;
+        }
+        
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            margin: 1em 0;
+        }
+        
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        
+        th {
+            background-color: #f2f2f2;
+        }
+        
+        /* Page break styling */
+        .page-break {
+            page-break-after: always;
+            height: 0;
+            margin: 0;
+            border: 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container" style="margin: auto; max-width: 750px; padding-left: 1em; padding-right: 1em; padding-bottom: 4em;">
+        <p><hr />
+<p>title: 1.11
+date: 2025-04-18</p></p>
+<p><hr /></p>
+<h1>1.11</h1>
+<h1>Putting It All Together: Robot Systems</h1>
+<h2>Learning Objectives</h2>
+<p>By the end of this session, you'll be able to:</p>
+<ul>
+<li>Explain how input, processing, and output components work together in a robot system</li>
+</ul>
+<ul>
+<li>Identify the essential power and structural components required for robot operation  </li>
+</ul>
+<ul>
+<li>Analyze common design challenges engineers face when creating robot systems</li>
+</ul>
+<p>A robot is more than just a collection of parts - it's an integrated system where all components work together to accomplish tasks. Understanding how these systems function helps us appreciate the complexity of robotics and design better robots.</p>
+<h3><strong>How Components Work Together</strong></h3>
+<p>In a well-designed robot, input, processing, and output components form a continuous cycle. First, sensors gather information about the environment. This data travels to the processing unit, which interprets the information and makes decisions based on the robot's programming. Finally, the processor sends commands to the output components to take action.</p>
+<p>This cycle happens continuously, often many times per second. For example, a robot vacuum constantly uses its sensors to detect walls and furniture, processes this information to update its map of the room, and adjusts its motors to navigate around obstacles. This constant feedback loop allows robots to adapt to changing conditions.</p>
+<p>The connections between components are just as important as the components themselves. Wires carry electrical signals between parts, while data buses allow different electronic components to communicate. In more complex robots, specialized communication networks ensure that all parts can share information quickly and reliably.</p>
+<h3><strong>Power Systems and Support Structures</strong></h3>
+<p>Every robot needs a <strong>power source</strong> to operate. Most mobile robots use rechargeable batteries, which provide electrical energy to all components. The type of battery affects how long a robot can operate between charges and how much power it can deliver. Some robots use solar panels, fuel cells, or even small nuclear generators for special applications like space exploration.</p>
+<p><strong>Power management systems</strong> ensure that electricity is distributed properly throughout the robot. These systems regulate voltage levels, protect components from power surges, and monitor battery levels to prevent damage from over-discharge.</p>
+<p>The physical structure of a robot - its <strong>body or chassis</strong> - supports and protects all the other components. This structure needs to be strong enough to withstand the forces the robot encounters but light enough for efficient movement. Different materials serve different purposes: metal provides strength, plastic offers lightweight protection, and specialized materials like carbon fiber combine strength with minimal weight.</p>
+<h3><strong>Design Challenges in Robot Systems</strong></h3>
+<p>Creating effective robots involves solving many design challenges:</p>
+<ul>
+<li><strong>Power limitations</strong>: Batteries only last so long, and more powerful motors use more energy. Robot designers must balance power needs with battery life. This is why many home robots automatically return to charging stations when their batteries get low.</li>
+</ul>
+<ul>
+<li><strong>Weight distribution</strong>: Robots need to balance their weight properly or they might tip over. Think about how a top-heavy robot might fall when reaching for something, just like you might lose balance when carrying something heavy above your head.</li>
+</ul>
+<ul>
+<li><strong>Environmental challenges</strong>: Robots designed for outdoors need protection from rain and dust. Robots in factories might need to withstand heat or chemicals. The robot's structure must be designed for its specific environment.</li>
+</ul>
+<ul>
+<li><strong>Size constraints</strong>: Sometimes robots need to be small enough to fit in tight spaces, which means all components must be miniaturized and arranged efficiently.</li>
+</ul>
+<ul>
+<li><strong>Cost considerations</strong>: More advanced sensors and motors cost more money. Designers often need to find the right balance between performance and affordability.</li>
+</ul>
+<div class="stop-reflect-container" style="border:3px dashed #e50200; margin:20px 0; padding:0; display:flex; width:100%;">
+    <div class="stop-reflect-image" style="width:20%; min-width:100px; display:flex; align-items:center; justify-content:center; padding:10px;">
+        <img src="https://api.learnstage.com/media-manager/api/access/exceled/default/lms/courses/1647/Images/Untitled%20design.jpg" 
+             style="width:100%; height:auto; max-width:150px;" alt="Stop and Reflect">
+    </div>
+    <div class="stop-reflect-content" style="width:80%; padding:15px; display:flex; flex-direction:column; justify-content:center;">
+        <h3 style="margin-top:0; color:#000000;">Stop and Reflect</h3>
+        <h2>Stop and reflect</h2>
+<p><strong>CHECKPOINT:</strong> If you could design a new sensor for robots that doesn't exist yet, what would it do and why would it be useful? Consider what capabilities this would add to existing robot systems.</p>
+    </div>
+</div>
+<h3><strong>Making Robot Systems More Effective</strong></h3>
+<p>Creating effective robot systems requires careful integration of all components. Engineers use several strategies to optimize robot performance. <strong>Miniaturization</strong> makes components smaller and lighter, allowing for more compact and efficient robots. <strong>Energy efficiency</strong> improvements help robots operate longer on a single battery charge.</p>
+<p><strong>Modular design</strong> allows robot parts to be easily swapped or upgraded, making robots more versatile and easier to maintain. For example, a robot might have interchangeable grippers for handling different types of objects, or sensor modules that can be added or removed depending on the task.</p>
+<p><strong>Software optimization</strong> is just as important as hardware improvements. Better algorithms can help robots make smarter decisions with the same sensor data, while improved user interfaces make robots easier for humans to program and control.</p>
+<p>As technology advances, robots continue to become more capable, reliable, and adaptable. Future robots will likely feature more sophisticated sensors, more powerful processors, and more versatile output mechanisms, allowing them to tackle increasingly complex tasks in our homes, workplaces, and beyond.</p>
+<!-- Check Your Understanding Section -->
+<div style="border: solid 1px #008000; border-top: none; padding: 1em; position: relative; padding-bottom: 1.1em; margin-bottom: 3em; clear: both;">
+    <div style="display: block; height: 20px; width: calc(100% + 2em); background-color: #008000; position: relative; top: -1em; left: -1em;"></div>
+    <h2 style="color: #008000; font-weight: 500; margin-top: 0; font-size: 1.8em; line-height: 1em; margin-bottom: 0.2em;">Check your understanding</h2>
+    <p style="font-family: 'Roboto', sans-serif; font-weight: 300; line-height: 1.6em; font-size: 0.91em;"><p>Which component helps a robot transition from sensing to acting?</p>
+<p>A. Wheels</p>
+<p>B. Batteries</p>
+<p>C. Cameras</p>
+<p>D. Microcontroller</p></p>
+    <p style="margin-left: 40px">
+A. Wheels<br>
+C. Cameras<br>
+</p>
+
+    <p style="font-family: 'Roboto', sans-serif; font-weight: 300; line-height: 1.6em; font-size: 0.91em;">Choose your answer and check it below.</p>
+    <div style="display: none;" id="hiddenAnswer0">
+        <br><p>The correct answer is <span style="color: #008000;">D.</span> Microcontroller. The microcontroller is the processing component (brain) of the robot that takes information from sensors (input) and determines what actions the output components (like motors and speakers) should take, making it the critical link between sensing and acting. If you chose a different answer, remember that wheels and cameras are output and input components respectively, while batteries provide power but don't process information.</p>
+    </div>
+    <a href="#" onclick="document.getElementById('hiddenAnswer0').style.display='block'; return false;" style="color: #008000; text-decoration: none; font-weight: 700;">Click here to show the correct answer</a>
+</div>
+<h2>Key Takeaways</h2>
+<ul>
+<li>Robots work through a continuous cycle: sensors gather information, the processor (brain) makes decisions, and motors or other outputs take action based on those decisions.</li>
+</ul>
+<ul>
+<li>Every robot needs a power source (usually batteries) and a strong physical structure that protects its parts while still being lightweight enough to move efficiently.</li>
+</ul>
+<ul>
+<li>Robot designers must solve challenges like limited battery life, proper weight balance to prevent tipping over, and protection from environmental conditions like rain or dust.</li>
+</ul>
+    </div>
+    
+    <script>
+        // Optional: Add this if you want to reset the answer when clicking again
+        function toggleAnswer(id) {
+            var element = document.getElementById(id);
+            if (element.style.display === "none") {
+                element.style.display = "block";
+            } else {
+                element.style.display = "none";
+            }
+            return false;
+        }
+    </script>
+</body>
+</html>

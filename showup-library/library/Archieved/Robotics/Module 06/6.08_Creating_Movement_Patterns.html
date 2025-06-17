@@ -1,0 +1,115 @@
+
+    <div class="markdown-content" style="font-family: Arial, sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 0 auto;">
+        <h1>6.8</h1>
+
+<h2>Creating Movement Patterns</h2>
+
+<h2>Learning Objectives</h2><p>By the end of this session, you'll be able to:</p>
+<ul>
+<li>List at least 3 basic robot movement patterns</li>
+</ul>
+<ul>
+<li>Draw a path plan for a robot to follow</li>
+</ul>
+<ul>
+<li>Create a simple set of steps for robot movement</li>
+</ul>
+<p>&nbsp;</p>
+
+<p>Movement patterns are sequences of basic commands that create a specific path or behavior. Simple patterns include:</p>
+<ul>
+<li>Square paths (forward, turn, forward, turn, etc.)</li>
+</ul>
+<ul>
+<li>Zigzag patterns (forward, turn slight, forward, turn opposite, etc.)</li>
+</ul>
+<ul>
+<li>Spirals (forward with gradually increasing turning)</li>
+</ul>
+<ul>
+<li>Circles (constant forward motion with constant turning)</li>
+</ul>
+<p>&nbsp;</p>
+
+<p>The key to creating effective patterns is to break down the desired movement into a sequence of simple steps that the robot can execute one after another.</p>
+<p>&nbsp;</p>
+
+<p>For example, a robot that needs to navigate around a classroom might use different movement patterns depending on the situation:</p>
+<ul>
+<li>Following walls using a "wall-following" pattern</li>
+</ul>
+<ul>
+<li>Navigating between desks using a "zigzag" pattern</li>
+</ul>
+<ul>
+<li>Returning to a charging station using a "homing" pattern</li>
+</ul>
+<h3>Planning Before Programming</h3><p>Before writing any code, it's helpful to:</p>
+<ol>
+<li>Draw the desired path on paper</li>
+</ol>
+<ol>
+<li>Mark each straight section and turn</li>
+</ol>
+<ol>
+<li>Note the approximate distances and angles</li>
+</ol>
+<ol>
+<li>Convert your drawing into a sequence of commands</li>
+</ol>
+<p>&nbsp;</p>
+
+<p>This planning process saves time and reduces errors when you start coding.</p>
+<p>&nbsp;</p>
+
+<p>Professional robotics engineers often create detailed movement plans before programming, especially for robots that operate in complex environments like warehouses or hospitals. They might use computer simulations to test movement patterns before implementing them on real robots.</p>
+<h2>Activity 1: Program a Virtual Robot to Navigate a Simple Path</h2><p>Using the virtual robot environment provided, program your robot to navigate from the starting point to the goal while avoiding the obstacles in between. The environment shows a grid with walls that the robot must navigate around. Start by planning your path on paper, then translate that path into a sequence of movement commands. Test your program step by step, observing how each command affects the robot's position and orientation.</p>
+<h2>Combining Multiple Movements</h2><p>Complex robot behaviors often require combining multiple movement patterns. There are several approaches to this:</p>
+<ol>
+<li><strong>Sequential execution</strong>: Run one pattern after another</li>
+</ol>
+<ol>
+<li><strong>Conditional execution</strong>: Choose patterns based on sensor input or other conditions</li>
+</ol>
+<ol>
+<li><strong>Looped execution</strong>: Repeat patterns a specified number of times</li>
+</ol>
+<ol>
+<li><strong>Nested patterns</strong>: Define patterns that include other patterns</li>
+</ol>
+<p>&nbsp;</p>
+
+<p>For example, a delivery robot might use a "navigate_hallway" pattern, followed by a "turn_corner" pattern, followed by an "approach_door" pattern—each of which consists of more basic movement commands.</p>
+<p>&nbsp;</p>
+
+<p>In school security systems, robots might patrol hallways using different movement patterns depending on the time of day or whether an alarm has been triggered. During normal hours, they might follow a standard patrol route, but switch to a more thorough search pattern if sensors detect unusual activity.</p>
+<p>&nbsp;</p>
+
+<p>
+        <figure class="table" style="float:left;width:92.41%;" data-font-size="14" data-line-height="20">
+            <table class="ck-table-resized" style="border-style:none;" data-font-size="14" data-line-height="20">
+                <colgroup data-font-size="14" data-line-height="20"><col style="width:13.29%;" data-font-size="14" data-line-height="20"><col style="width:86.71%;" data-font-size="14" data-line-height="20"></colgroup>
+                <tbody data-font-size="14" data-line-height="20">
+                    <tr data-font-size="14" data-line-height="20">
+                        <td style="border-style:none;" data-font-size="14" data-line-height="20">
+                            <figure class="image image_resized" style="width:100%;" data-font-size="14" data-line-height="20">
+                                <img style="aspect-ratio:600/600;" src="https://api.learnstage.com/media-manager/api/access/exceled/default/89309a11-e6ae-4133-97a9-93c735f38be4/content-page/4e85aa67-83db-423a-b7de-53b356164071_removalai_preview.png" width="600" height="600" data-font-size="14" data-line-height="20">
+                            </figure>
+                        </td>
+                        <td style="border-style:none;" data-font-size="14" data-line-height="20">
+                            <h3 data-font-size="16" data-line-height="23">
+                                <span style="color:hsl(359,97%,29%);"><span data-font-size="16" data-line-height="23"><strong data-font-size="16" data-line-height="23">Key Takeaways</strong></span></span>
+                            </h3>
+                            <ul>
+<li>Robots follow movement patterns like squares, zigzags, and circles by breaking down complex paths into simple steps.</li>
+<li>Drawing your robot's path on paper before programming helps save time and reduce errors.</li>
+<li>Complex robot behaviors come from combining movement patterns through sequential, conditional, or looped execution.</li>
+</ul>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </figure></p>
+<p>&nbsp;</p>
+    </div>
+    

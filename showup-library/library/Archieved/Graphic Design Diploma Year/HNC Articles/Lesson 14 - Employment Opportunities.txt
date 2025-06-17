@@ -1,0 +1,75 @@
+Graphic designers, by definition, create visual concepts and assets for a variety of projects, including branding, marketing materials, print and digital advertisements, websites, packaging, and more. However, even with a graphic design qualification or background, you could end up in a role that doesn’t seem to quite fit that exact description. The graphic design industry offers a wide range of employment opportunities across various sectors and disciplines. You are likely to still utilise your artistic skills, creativity, and knowledge of design, etc., it just may just be under a different title. 
+Here are some common employment opportunities in the graphic design industry, as well as some notable practitioners (past and current) for further research:
+Production Roles
+Art Director
+The task of the art director is to oversee the visual aspects of a project, ensuring that the design concept aligns with a client's objectives and brand identity. In this role, you would lead a team of designers and artists, provide creative direction, and manage the production process from concept development to final execution. On top of the visual aspects, art directors also collaborate closely with clients, design teams, and other stakeholders, however, in this case they are more often referred to as ‘Creative Directors’. Still, in this type of role you need to be a strong communicator, creative problem-solver, and have the leadership skills to manage projects and people effectively. 
+Some notable art directors:
+Paul Belford
+Roland Anderson
+John Webster
+Lee Clow
+Production Designer
+Production designers, also referred to as production artists, are responsible for translating design concepts into final production-ready files for print or digital distribution. For this role, you will need to have expertise in technical design software, layout design, file optimisation, colour correction, and image manipulation - all to ensure that design files meet technical specifications and quality standards. 
+Fig 1. Unsplash (n.d.) Digital design outcomes
+Some notable production designers:
+Rick Carter
+Alex Schaller
+David Wasco
+Hannah Beachler
+Print Production Manager
+Print production managers are responsible for overseeing the production process of print materials, including brochures, posters, packaging, and promotional materials. As a print production manager, you will coordinate with printers, vendors, and suppliers to ensure that print projects are completed on time, within budget, and according to quality standards. Based on these responsibilities, you would need to be a good problem-solver, be able to communicate effectively, and have an eye for detail in order to ensure quality control measures are implemented to deliver the best creative outcomes.
+Creative Roles
+Designer
+A designer’s responsibility is to create visual concepts and assets for a wide range of projects, including branding and identity, marketing materials, websites, and digital media. Designers use their artistic skills and knowledge of elements and design principles to develop innovative and aesthetically pleasing solutions that effectively communicate the client's message and resonate with the intended audience. Designers may specialise in areas such as graphic design, web design, UI/UX design, or motion graphics, depending on their expertise and interests.
+Some notable designers:
+Eva Cremers
+Saul Bass
+Yaron Schoen
+Paula Scher
+Pablo Rochat
+Illustrator
+Illustrators specialise in creating hand-drawn or digital illustrations for a wide range of purposes, including editorial illustrations, book covers, children's books, infographics, and character design. As an illustrator you will use your artistic skills, creativity, and imagination to visually communicate concepts, narratives, and emotions in a visually compelling and engaging manner. Besides strong drawing skills, illustrators need to have sound knowledge and skills in colour theory, storytelling, composition, and visual communication as a whole.
+Fig 2. Unsplash (n.d.) Digital illustration
+Some notable illustrators:
+Beatrix Potter
+Theodor Seuss Geisel
+Quentin Blake
+Hayao Miyazaki
+Copywriter
+The task of a copywriter is to create written content for advertising, marketing, and promotional materials. In this role, you need to craft compelling and persuasive copy that captures the target audience's attention, communicates the brand/service message effectively, and drives desired calls to action or responses. Copywriters need to be able to collaborate effectively, since they often work with designers, art directors, and marketing teams to develop integrated campaigns that resonate with audiences and achieve marketing objectives. Besides exceptional writing skills and creativity, a copywriter also needs an understanding of branding and marketing, as well as knowledge of search engine optimisation (SEO) principles.
+ 
+Some notable copywriters:
+David Ogilvy
+Claude Hopkins
+Eugene Schwartz
+Drayton Bird
+Management Roles
+Project Manager
+Project managers oversee the planning, execution, and delivery of design projects, ensuring that they are completed on time, within budget, and according to client specifications. They coordinate project resources, manage timelines and budgets, and facilitate communication and collaboration among team members and stakeholders. For this role, you need to be able to solve problems effectively, identify and mitigate project risks, resolve conflicts, and ensure that projects meet quality standards and client expectations.
+Fig 3. Unsplash (n.d.) Project management
+Publisher
+As a publisher, you would be responsible for overseeing the production and distribution of printed or digital materials, such as books, magazines, or digital publications. Publishers manage editorial calendars, coordinate content creation and editing between teams, and oversee the design and layout of publications. To excel in this role, you will need to be able to negotiate contracts with authors, printers, and distributors, manage budgets and production schedules, and ensure that publications are delivered to market on time and within budget. Famous publishing houses include Penguin Random House, HarperCollins, and Macmillan Publishers.
+Technical Roles
+Web Designer
+Web designers are tasked with creating visually engaging and functional websites that effectively communicate a service or product’s message and engage users. As a web designer, you need to create layout structures, typography, colour schemes, and graphic elements for websites. All of the above elements need to be aesthetically pleasing as well as functional, and ensure consistency with brand identity and optimal user experience across different devices and screen sizes.
+Fig 4. Unsplash (n.d.) Web design
+Some notable web designers:
+Mike Kus
+Shane Mielke
+Jina Anne
+Dan Cederholm
+Programmer/Developer
+The task of programmers or developers specialises in coding and programming, creating the technical framework and functionality for websites, applications, or digital platforms. Programmers need knowledge of algorithms and data structures, and proficiency in programming languages, since they need to work with HTML, CSS, JavaScript, and Python to develop interactive and dynamic user experiences. Programmers also collaborate with others, such as designers and UX/UI specialists, to implement design concepts, optimise performance, and ensure cross-browser compatibility and accessibility.
+Fig 5. Unsplash (n.d.) Programming
+Some notable programmers/developers:
+Steve Jobs
+Linus Torvalds
+Bjarne Stroustrup
+James Gosling
+Interactive Media Specialist
+Interactive media specialists specialise in the design and development of interactive multimedia content, such as animations, videos, and interactive presentations. They use software such as Adobe Flash, After Effects, and Unity to create engaging and immersive digital experiences for users, and therefore need a sound understanding of these software applications. 
+Support Roles
+Tester
+Testers, also known as quality assurance (QA) analysts, are responsible for evaluating the functionality, usability, and performance of digital products or applications that designers create. Testers conduct thorough testing and debugging processes to identify and resolve any issues or defects before products are released to the market. Testers collaborate with designers, developers, and project managers to ensure that products meet quality standards, user requirements, and project objectives.
+Community Manager
+A community manager in design is responsible for fostering and nurturing a vibrant and engaged community around a particular design brand, product, service, or platform. Community managers create and curate content, interact with community members, respond to inquiries and feedback, and cultivate a positive and engaged community culture. Community managers also monitor trends, analyse metrics, and provide insights to inform content strategy and community growth initiatives.

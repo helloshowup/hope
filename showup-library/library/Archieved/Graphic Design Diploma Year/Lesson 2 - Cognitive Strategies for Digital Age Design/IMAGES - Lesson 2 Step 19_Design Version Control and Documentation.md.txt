@@ -1,0 +1,33 @@
+## Fig 21
+Screenshot of a disorganized folder structure with multiple files named "final_v1", "final_v2", "final_FINAL", etc., showing poor version control.
+Suggested search terms:
+- file organization
+- version control
+- folder structure
+- final files
+- disorganized
+
+## Fig 22
+Screenshot of a well-structured repository with clear branching hierarchy showing main, development, and feature branches with semantic versioning.
+Suggested search terms:
+- git repository
+- branching structure
+- semantic versioning
+
+## Fig 3
+Designer using Abstract version control software showing a branching structure with multiple design iterations visible in the interface.
+Suggested search terms:
+- designer
+- version control software
+- branching structure
+- design iterations
+- interface
+
+## Fig 4
+Designer presenting a version history timeline to clients showing the evolution of a logo design with clear annotations explaining the rationale behind each iteration.
+Suggested search terms:
+- designer
+- timeline
+- logo design
+- iteration
+- annotation

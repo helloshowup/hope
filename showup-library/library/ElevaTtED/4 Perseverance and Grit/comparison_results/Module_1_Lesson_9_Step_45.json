@@ -1,0 +1,8 @@
+{
+  "module": "1",
+  "lesson": "9",
+  "step_number": "45",
+  "step_title": "Portfolio Rubric",
+  "best_version": "# Portfolio Rubric\n\n## Assessment Criteria\n\nYour Perseverance & Grit Portfolio will be evaluated based on three key criteria:\n\n1. **Completeness** (40%)\n   - All required elements are included\n   - Strategies are thoroughly documented\n   - Examples demonstrate application of concepts\n\n2. **Reflection Depth** (40%)\n   - Thoughtful analysis of challenges faced\n   - Clear connections between strategies and outcomes\n   - Personal growth insights clearly articulated\n\n3. **Organization** (20%)\n   - Logical structure and flow\n   - Professional presentation\n   - Easy navigation between sections\n\n## Automated Scoring\n\n| Score Level | Completeness | Reflection Depth | Organization |\n|-------------|--------------|------------------|--------------|\n| Excellent (90-100%) | All elements present with detailed examples | Deep, insightful reflections with clear growth evidence | Exceptionally organized with cohesive structure |\n| Proficient (80-89%) | Most elements present with good examples | Thoughtful reflections showing some insight | Well-organized with clear sections |\n| Developing (70-79%) | Basic elements present with limited examples | Surface-level reflections | Basic organization with some structure |\n| Beginning (Below 70%) | Missing multiple elements | Minimal or no reflection | Disorganized or difficult to follow |\n\nYou will receive detailed feedback on your portfolio submission within 24 hours of submission.",
+  "explanation": "Error in comparison process: maximum recursion depth exceeded while calling a Python object. Using most structurally complete version as fallback."
+}

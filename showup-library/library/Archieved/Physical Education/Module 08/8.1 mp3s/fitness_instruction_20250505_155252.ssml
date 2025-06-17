@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="en-US">
+<voice name="en-US-AndrewNeural" parameters="temperature=0.35">
+<prosody rate="-5%" pitch="+2%" volume="+10%">
+<p>Welcome.<break time="350ms"/> Today’s guided exercise is the **body scan**,<break time="150ms"/> a mindfulness technique to help you recognize and release hidden tension throughout your body. <break time="650ms"/> This method builds awareness of how stress shows up physically. <break time="650ms"/> Remember,<break time="150ms"/> the primary benefit is greater control over how you respond to tension. <break time="650ms"/></p>
+<p>Begin by lying down on your back on a comfortable surface. <break time="650ms"/> Rest your arms at your sides. <break time="650ms"/> If it feels comfortable,<break time="150ms"/> close your eyes.<break time="350ms"/> If not,<break time="150ms"/> let your gaze rest softly on the ceiling. <break time="650ms"/> Throughout this exercise, <emphasis level="moderate">move slowly and focus on each sensation</emphasis>. <break time="650ms"/></p>
+<p>Before we begin,<break time="150ms"/> here’s a key safety reminder: <emphasis level="strong">Do not force any movement or clench too tightly.<break time="350ms"/> If you feel pain,<break time="150ms"/> ease off immediately.[/emphasis strong</emphasis> <break time="650ms"/></p>
+<p>Let’s get started.</p>
+<p>Start at your toes. <break time="650ms"/> Wiggle them gently. <break time="650ms"/> Now allow them to relax,<break time="150ms"/> letting go of any tension. <break time="650ms"/></p>
+<p>Feet next.<break time="350ms"/> Point your toes away from you.<break time="350ms"/> Feel the muscles tighten. <break time="650ms"/> Then relax your feet,<break time="150ms"/> letting them rest heavy. <break time="650ms"/></p>
+<p>Calves.<break time="350ms"/> Pull your heels back toward you,<break time="150ms"/> activating your calf muscles. <break time="650ms"/> Release now.<break time="350ms"/> Let your calves go soft. <break time="650ms"/></p>
+<p>Thighs.<break time="350ms"/> Squeeze your thigh muscles as if you’re pressing your legs together. <break time="650ms"/> Release.<break time="350ms"/> Feel your thighs sink into the surface. <break time="650ms"/></p>
+<p>Hips and lower back.<break time="350ms"/> Gently press this area down into the floor. <break time="650ms"/> Release.<break time="350ms"/> Let your hips and back relax fully. <break time="650ms"/></p>
+<p>Stomach.<break time="350ms"/> Tighten your abdominal muscles as if you’re bracing for a light tap. <break time="650ms"/> Release.<break time="350ms"/> Allow your belly to soften,<break time="150ms"/> tension melting away. <break time="650ms"/></p>
+<p>Chest.<break time="350ms"/> Take a deep breath in,<break time="150ms"/> noticing your chest rise. <break time="650ms"/> Exhale and let your chest release completely. <break time="650ms"/></p>
+<p>Hands.<break time="350ms"/> Make tight fists with both hands. <break time="650ms"/> Release.<break time="350ms"/> Let your fingers uncurl and your hands rest loosely. <break time="650ms"/></p>
+<p>Arms.<break time="350ms"/> Tense your biceps and triceps. <break time="650ms"/> Release.<break time="350ms"/> Arms return to a natural,<break time="150ms"/> relaxed state. <break time="650ms"/></p>
+<p>Shoulders.<break time="350ms"/> Lift them gently toward your ears. <break time="650ms"/> Drop your shoulders down,<break time="150ms"/> letting go of stress. <break time="650ms"/></p>
+<p>Neck.<break time="350ms"/> Slowly tilt your chin toward your chest,<break time="150ms"/> stretching the back of your neck. <break time="650ms"/> Release.<break time="350ms"/> Let your neck return to a neutral position. <break time="650ms"/></p>
+<p>Face.<break time="350ms"/> Scrunch all your facial muscles—eyes,<break time="150ms"/> nose,<break time="150ms"/> mouth. <break time="650ms"/> Release.<break time="350ms"/> Feel your face smooth out,<break time="150ms"/> jaw unclenched. <break time="2000ms"/></p>
+<p>Let’s check in for success. <break time="650ms"/> Scan your body from toes to head. <emphasis level="strong">Notice any areas still holding tension.<break time="350ms"/> If you find any,<break time="150ms"/> gently repeat the relaxation step for that area.[/emphasis strong</emphasis> <break time="650ms"/></p>
+<p>If you want to modify this exercise,<break time="150ms"/> try this option: <break time="650ms"/> Stay seated in a chair,<break time="150ms"/> feet flat on the ground,<break time="150ms"/> back supported. <break time="650ms"/> Move through the same muscle groups, <emphasis level="moderate">adjusting the intensity to stay comfortable</emphasis>. <break time="650ms"/> For more challenge,<break time="150ms"/> increase the duration—hold each contraction for up to ten seconds before releasing. <break time="650ms"/></p>
+<p>Now,<break time="150ms"/> let’s repeat the entire body scan one more time,<break time="150ms"/> focusing on deeper relaxation: <break time="650ms"/></p>
+<p><prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">Wiggle and relax your toes</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">Point and release your feet</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Three - <emphasis level="moderate">Tighten and let go of your calves</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Four - <emphasis level="moderate">Squeeze and relax your thighs</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Five - <emphasis level="moderate">Press and release your hips and lower back</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Six - <emphasis level="moderate">Tighten and soften your stomach</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Seven - <emphasis level="moderate">Breathe in,<break time="150ms"/> then relax your chest</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Eight - <emphasis level="moderate">Make fists,<break time="150ms"/> then release your hands</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Nine - <emphasis level="moderate">Tense and relax your arms</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Ten - <emphasis level="moderate">Lift and drop your shoulders</emphasis> <break time="650ms"/>  </prosody>
+Eleven – <emphasis level="moderate">Tilt and release your neck</emphasis> <break time="650ms"/>  
+Twelve – <emphasis level="moderate">Scrunch and relax your face</emphasis> <break time="3000ms"/></p>
+<p>You’ve completed the body scan. <break time="650ms"/> Body scans help you detect tension before it builds up. <break time="650ms"/> Over time,<break time="150ms"/> you’ll respond more quickly when stress appears. <break time="650ms"/> Use this technique anytime—before a test,<break time="150ms"/> after a long day,<break time="150ms"/> or when preparing for sleep. <break time="650ms"/> With regular practice,<break time="150ms"/> you’ll develop a stronger mind-body connection and greater control over both stress and relaxation. <break time="650ms"/> Well done.</p>
+</prosody>
+</voice>
+</speak>

@@ -1,0 +1,8 @@
+{
+  "module": "6",
+  "lesson": "40",
+  "step_number": "1",
+  "step_title": "Portfolio Review",
+  "best_version": "# Portfolio Review Process\n\n## Automated Rubric Assessment\n\nYour writing portfolio will be evaluated through our automated rubric system which checks for three essential components:\n\n1. **Variety**: Your portfolio must demonstrate diverse writing styles and formats\n2. **Polish**: Each piece must be thoroughly edited and free of grammatical errors\n3. **Reflection**: Each submission must include a thoughtful reflection on your writing process\n\n## Minimum Requirements\n\n- At least three polished writing pieces\n- Each piece must be accompanied by a reflection (250-300 words)\n- Works must represent different writing styles (e.g., narrative, persuasive, analytical)\n\nThe automated system will verify these requirements are met before your portfolio advances to final showcase review. Submissions not meeting these criteria will be returned for revision.\n\nRemember: Quality over quantity. Three exceptional pieces with thoughtful reflections will score higher than numerous underdeveloped works.",
+  "explanation": "Error in comparison process: maximum recursion depth exceeded while calling a Python object. Using most structurally complete version as fallback."
+}

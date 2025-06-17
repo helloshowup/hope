@@ -1,0 +1,258 @@
+Information Architecture & Web Intro
+Graphic Design – Web Design and User Testing for Design
+Information Architecture (IA)
+Information architecture (IA) refers to making information findable and understandable.
+IA allows designers to think about problems through important perspectives:
+Information products and services are perceived by people as places made of information.
+These information environments can be organized for optimum findability and understandability.
+Graphic Design – Web Design and User Testing for Design
+Sitemaps
+Sitemaps show the relationships between information elements such as pages and other content components. They can be used to portray organization, navigation and labelling systems.
+Miro Sitemap Templates – https://miro.com/templates/sitemap/
+Graphic Design – Web Design and User Testing for Design
+Simply put, a sitemap is a list of different pages on a website.
+5 Easy Steps to Creating a Sitemap For a Website – https://www.quicksprout.com/creating-website-sitemap/
+Graphic Design – Web Design and User Testing for Design
+Wireframes
+A wireframe is a low-fidelity design layout that serves 3 purposes:
+It presents the information that will be displayed on the page.
+It gives an outline of the structure and layout of the page.
+It conveys the overall direction and description of the user interface.
+Graphic Design – Web Design and User Testing for Design
+How Wireframes Fit Within the Design Process
+Sketch > Wireframe > Interactive > Visual > Interactive Visual > Code
+Sketch:	Get all the possible info out of your head and onto paper, start structuring the content, layout. Wireframe:	A formalising of the sketch, bringing clarity to structure, navigation, and hierarchy
+Interactive:	A prototype for testing the design of the layout in a real-world way.
+Visual:	Applying the brand design and identity to the elements that make up our designs. Inter. Visual:	Using the hi-fi visuals as the basis for another click-through prototype.
+Code:	Final step, develop a working website based on the Interactive Visual.
+The above would be a very full-on process, depending on the job you might go from Sketch > Code, or Wireframe > Interactive Visual > Code. It depends on how much uncertainty you and you’re client are happy with.
+Graphic Design – Web Design and User Testing for Design
+Wireframes vs Interactive Prototypes
+Wireframes are simple static layouts of what content is on the page and where, whilst an interactive prototype is a clickable interface that is used to test if assumptions made during the wireframe process were correct.
+Graphic Design – Web Design and User Testing for Design
+Wireframes are commonly used for designers and clients to agree upon the information and structure of the site. Interactive prototypes are used more for user testing, in particular, in the app world. However, they can also be used for websites too.
+Graphic Design – Web Design and User Testing for Design
+Graphic Design – Web Design and User Testing for Design
+Graphic Design – Web Design and User Testing for Design
+Here, you will see an example of high fidelity prototypes for desktop and mobile.
+Graphic Design – Web Design and User Testing for Design
+The Box Exercise
+Start by printing out each page of your website design and drawing over it to establish the different areas of your site, distinguishing what elements you’ll use for each part on your site.
+Graphic Design – Web Design and User Testing for Design
+To Code Your Design
+The box exercise can work as a guide to start scaffolding out the HTML structure of your website.
+Note:
+The example to the left is based on the Swan Lake example from the previous page, but only goes as far as the first <section>
+References for HTML5 Semantic Elements:
+https://blog.teamtreehouse.com/use-html5-sectioning-elements
+https://guide.freecodecamp.org/html/html5-semantic-elements/
+https://www.w3schools.com/html/html5_semantic_elements.asp
+Graphic Design – Web Design and User Testing for Design
+HTML Structure – The Sandwich Analogy
+Condiments
+Meat
+<!DOCTYPE html>
+<html>
+<head>
+<title>I am the Title Tag</title>
+<meta name=“” content=“”>
+</head>
+<body>
+<h1>This is a Heading 1 tag</h1>
+<p>This is a paragraph tag, this is basic normal text content in your document. Paragraphs, what a concept huh?</p>
+<h2>This is another Heading tag, an H2, although I am given less weight that Mr. H1 up there</h2>
+<p>Again, some more content can appear here. That sample page we showed you might have seemed a bit daunting but the reality is HTML is quite simple and straight forward!</p>
+</body>
+</html>
+Graphic Design – Web Design and User Testing for Design
+Tags & Elements
+Tags are used to “markup” the content of a webpage so that the Browser displays the page in the way we want it to.
+The terms “tag” and “element” are often used interchangeably. However, an element comprises of the opening tag + the closing tag + any content that is contained between them.
+The tags give structure to content. Without the tags the Browser doesn’t know how to handle the content.
+Once you use the tags, it understands what should be a heading or a paragraph, what is a link or what is an image.
+Graphic Design – Web Design and User Testing for Design
+HTML Tags
+The characters in the brackets indicate the
+The closing tag has a forward slash before
+<P>  </P>
+Opening tag	Closing tag
+Element
+Graphic Design – Web Design and User Testing for Design
+Attributes
+All HTML elements can have attributes
+Attributes provide information about an element
+Attributes are always specified in the opening tag
+Attributes are made up of two parts: a name and a value, separated by an equals sign (=).
+<tag attributeName="attributeValue"></tag>
+Attribute name	Attribute value
+Graphic Design – Web Design and User Testing for Design
+Next, we’ll take a brief look at some code anatomy.
+This is just an introduction though, so don’t worry.
+We’ll cover this in a practical manner in the next class.
+Graphic Design – Web Design and User Testing for Design
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html>
+<head>
+<title>I am the Title Tag</title>
+<meta name=“” content=“”>
+</head>
+<body>
+<h1>This is a Heading 1 tag</h1>
+<p>This is a paragraph tag, this is basic normal text content in your document. Paragraphs, what a concept huh?</p>
+<h2>This is another Heading tag, an H2, although I am given less weight that Mr. H1 up there</h2>
+<p>Again, some more content can appear here. That sample page we showed you might have seemed a bit daunting but the reality is HTML is quite simple and straight forward!</p>
+</body>
+</html>
+Graphic Design – Web Design and User Testing for Design
+<html> Tag
+<!DOCTYPE html>
+<html>
+<head>
+<title>I am the Title Tag</title>
+<meta name=“” content=“”>
+</head>
+<body>
+<h1>This is a Heading 1 tag</h1>
+<p>This is a paragraph tag, this is basic normal text content in your document. Paragraphs, what a concept huh?</p>
+<h2>This is another Heading tag, an H2, although I am given less weight that Mr. H1 up there</h2>
+<p>Again, some more content can appear here. That sample page we showed you might have seemed a bit daunting but the reality is HTML is quite simple and straight forward!</p>
+</body>
+</html>
+Graphic Design – Web Design and User Testing for Design
+<head> Tag
+<!DOCTYPE html>
+<html>
+<head>
+<title>I am the Title Tag</title>
+<meta name=“” content=“”>
+</head>
+<body>
+<h1>This is a Heading 1 tag</h1>
+<p>This is a paragraph tag, this is basic normal text content in your document. Paragraphs, what a concept huh?</p>
+<h2>This is another Heading tag, an H2, although I am given less weight that Mr. H1 up there</h2>
+<p>Again, some more content can appear here. That sample page we showed you might have seemed a bit daunting but the reality is HTML is quite simple and straight forward!</p>
+</body>
+</html>
+Graphic Design – Web Design and User Testing for Design
+<body> Tag
+<!DOCTYPE html>
+<html>
+<head>
+<title>I am the Title Tag</title>
+<meta name=“” content=“”>
+</head>
+<body>
+<h1>This is a Heading 1 tag</h1>
+<p>This is a paragraph tag, this is basic normal text content in your document. Paragraphs, what a concept huh?</p>
+<h2>This is another Heading tag, an H2, although I am given less weight that Mr. H1 up there</h2>
+<p>Again, some more content can appear here. That sample page we showed you might have seemed a bit daunting but the reality is HTML is quite simple and straight forward!</p>
+</body>
+</html>
+Graphic Design – Web Design and User Testing for Design
+<title> Tag
+<!DOCTYPE html>
+<html>
+<head>
+<title>I am the Title Tag</title>
+<meta name=“” content=“”>
+</head>
+<body>
+<h1>This is a Heading 1 tag</h1>
+<p>This is a paragraph tag, this is basic normal text content in your document. Paragraphs, what a concept huh?</p>
+<h2>This is another Heading tag, an H2, although I am given less weight that Mr. H1 up there</h2>
+<p>Again, some more content can appear here. That sample page we showed you might have seemed a bit daunting but the reality is HTML is quite simple and straight forward!</p>
+</body>
+</html>
+Graphic Design – Web Design and User Testing for Design
+<meta> Tag
+<!DOCTYPE html>
+<html>
+<head>
+<title>I am the Title Tag</title>
+<meta name=“” content=“”>
+</head>
+<body>
+<h1>This is a Heading 1 tag</h1>
+<p>This is a paragraph tag, this is basic normal text content in your document. Paragraphs, what a concept huh?</p>
+<h2>This is another Heading tag, an H2, although I am given less weight that Mr. H1 up there</h2>
+<p>Again, some more content can appear here. That sample page we showed you might have seemed a bit daunting but the reality is HTML is quite simple and straight forward!</p>
+</body>
+</html>
+Graphic Design – Web Design and User Testing for Design
+HTML Tag Attributes
+<!DOCTYPE html>
+<html>
+<head>
+<title>I am the Title Tag</title>
+<meta name=“” content=“”>
+</head>
+<body>
+<h1>This is a Heading 1 tag</h1>
+<p>This is a paragraph tag, this is basic normal text content in your document. Paragraphs, what a concept huh?</p>
+<h2>This is another Heading tag, an H2, although I am given less weight that Mr. H1 up there</h2>
+<p>Again, some more content can appear here. That sample page we showed you might have seemed a bit daunting but the reality is HTML is quite simple and straight forward!</p>
+</body>
+</html>
+Graphic Design – Web Design and User Testing for Design
+<meta> Tag
+The <meta> charset tag specifies the character encoding for the HTML document.
+Metadata name=“” attribute is pre-set, there are many different types of metadata tags. These are the most common you may use.
+The content=“” attribute is where you will enter content unique to the webpage.
+A <meta> viewport element gives the browser instructions on how to control the page’s dimensions and scaling.
+More Info from W3 Schools
+Focusing on the <head> section…
+<head>
+<title>Keyword rich title</title>
+<meta charset="UTF-8“ />
+<meta name="description" content="This is descriptive text, search engines will use this in their search results.
+Make it good!“ />
+<meta  name="author" content="David Randell“ />
+<meta name="viewport" content="width=device- width, initial-scale=1.0“ />
+</head>
+Graphic Design – Web Design and User Testing for Design
+Lists
+Unordered Lists
+An unordered list starts with the <ul>tag.
+Each list item is contained in an <li> tag.
+The list items are marked withbullets (typically small black circles).
+Ordered Lists
+An ordered list starts with the <ol> tag.
+Each list item is contained in an <li> tag.
+The list items are marked withnumbers
+	
+Graphic Design – Web Design and User Testing for Design
+HTML Tags – Images
+In HTML, images are defined with the <img/> tag.
+The <img/> tag is a self closing tag, which means that it contains a reference to an image file and has attributes only, it has no closing tag.
+<img src="logo.jpg"/>
+To display an image on a page, you need to use the src attribute – .src stands for "source". The value of the src attribute is the URL (Location) of the image you want to display. E.g. <img src="http://www.dublindesign.ie/images/logo.png"/>
+The URL in the src attribute points to the location where the image is stored in relation to the document that is calling it. This can be absolute* or relative*.
+Graphic Design – Web Design and User Testing for Design
+Image Tag – Attributes
+The alt attribute provides alternative information for an image if a user for some reason cannot view it (because of slow connection, an error in the src attribute, or if the user uses a screen reader).
+The reason a site will not validate has to do with Accessibility. The contents of the Alt attribute will be read by screen reading software.
+<img src="logo.jpg" alt="This is an image of our Logo" />
+Graphic Design – Web Design and User Testing for Design
+LINKS (Anchors)
+By using the href attribute it is possible create a link to another website, page or document/file:
+<a href="http://www.dublindesign.ie/">Dublin Institute of Design</a>
+Remember, the text between the <a> tags is what the users see, therefore it becomes the ‘clickable’ part of the Link.
+Graphic Design – Web Design and User Testing for Design
+Relative and Absolute URLs
+Universal Resource Locators (URLs) are addresses for files or pages online.
+URLs are either Absolute or Relative.
+Absolute URLs are addresses which contain the full path to the file including the http protocol.
+e.g. <img src="http://www.mysite.com/images/image1.jpg">
+Relative URLs are links to files on the same website, which don't require the protocol, just the correct folder and filename info. E.g.:
+<img src="images/image1.jpg">
+(An Image located in a folder called images)
+<a href="foldername/filename.html">My File</a>
+(A file in a folder called folder name)
+Graphic Design – Web Design and User Testing for Design
+Today’s Tasks!
+Complete the following tasks:
+Create a sitemap
+Create a wireframe
+Refine your prototype
+Graphic Design – Web Design and User Testing for Design

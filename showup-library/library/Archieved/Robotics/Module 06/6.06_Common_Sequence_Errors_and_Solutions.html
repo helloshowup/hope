@@ -1,0 +1,119 @@
+
+    <div class="markdown-content" style="font-family: Arial, sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 0 auto;">
+        <h1>6.6</h1>
+
+<h2>Learning Objectives</h2><p>By the end of this session, you'll be able to:</p>
+<ul>
+<li>Spot common errors in step-by-step programs</li>
+</ul>
+<ul>
+<li>Fix programs that have steps in the wrong order</li>
+</ul>
+<ul>
+<li>Test your program to find and fix bugs</li>
+</ul>
+<h2>Common Sequence Errors and Solutions</h2><p>When creating algorithms and programming sequences, several common errors can occur:</p>
+<h3>Order Errors</h3><p>Placing steps in the <strong>wrong order</strong> is one of the most common mistakes. For example, trying to turn on a light before plugging in the lamp, or trying to use a variable before defining it.</p>
+<p>&nbsp;</p>
+
+<p>Order errors can be tricky because sometimes they cause obvious failures (like trying to pour cereal before getting a bowl), but other times they just cause unexpected results (like putting on socks after shoes). In programming, order errors might make your program crash or just behave strangely. The solution is to carefully think through the logical sequence of steps and test your program frequently to catch these errors early.</p>
+<h3>Missing Steps</h3><p>Leaving out <strong>necessary steps</strong> can cause your program to fail. Humans often fill in missing steps automatically, but computers need every instruction explicitly stated.</p>
+<p>&nbsp;</p>
+
+<p>For instance, if you tell a robot to "make a sandwich" but forget to include "take bread out of the bag," the robot would be stuck. It can't assume that step is needed. When you notice your program isn't working as expected, ask yourself: "Am I skipping any steps that seem obvious to me but might not be to the computer?" Adding these missing steps often solves the problem.</p>
+<h3>Ambiguous Instructions</h3><p>Instructions that are too <strong>vague</strong> can't be processed by a computer. "Move forward a little bit" is ambiguous, while "Move forward 10 steps" is precise.</p>
+<p>&nbsp;</p>
+
+<p>Computers need specific values and clear directions. Instead of saying "wait until it's ready," specify "wait for 30 seconds" or "wait until the temperature reaches 350 degrees." When you find your program behaving unpredictably, look for vague instructions that could be interpreted in multiple ways, and make them more specific.</p>
+<h3>Testing and Debugging Your Sequences</h3><p>When your algorithm doesn't work as expected, you need to <strong>test and debug</strong> it. Here's a simple strategy:</p>
+<ol>
+<li><strong>Test small parts first</strong>: Instead of running the whole sequence, test each small section to make sure it works.</li>
+</ol>
+<ol>
+<li><strong>Use the "step through" method</strong>: Run your program one step at a time to see exactly where it goes wrong.</li>
+</ol>
+<ol>
+<li><strong>Add "check points"</strong>: Insert commands that show you what's happening (like displaying a message or making a sound).</li>
+</ol>
+<ol>
+<li><strong>Compare with working examples</strong>: Look at algorithms that work correctly and compare them to yours.</li>
+</ol>
+<p>&nbsp;</p>
+
+<p>For example, if your robot is supposed to navigate a maze but keeps hitting walls, you might test just the turning commands first to make sure they work correctly. Then you might step through the program one command at a time to see exactly where it goes off course.</p>
+<h2>Activity 2: Create a Simple Program Sequence</h2><p>Using the visual programming environment, create a program that guides a character through a simple maze. Your program should include at least 6 movement commands in the correct sequence (such as move forward, turn right, move forward, etc.). Test your sequence by running the program and watching the character follow your instructions. If the character doesn't reach the end of the maze, debug your sequence by checking for order errors or missing steps.</p>
+<p>&nbsp;</p>
+
+<p>
+            <div class="stop-reflect-container" style="border:3px dashed #e50200; margin:20px 0; padding:0; display:flex; width:100%;">
+                <div class="stop-reflect-image" style="width:20%; min-width:100px; display:flex; align-items:center; justify-content:center; padding:10px;">
+                    <img src="https://api.learnstage.com/media-manager/api/access/exceled/default/lms/courses/1647/Images/Untitled%20design.jpg" 
+                         style="width:100%; height:auto; max-width:150px;" alt="Stop and Reflect">
+                </div>
+                <div class="stop-reflect-content" style="display:flex; flex-direction:column; justify-content:center; padding:15px; width:80%;">
+                    <h3 style="color:#000000; margin-top:0;">
+                    </h3>
+                    <h1># Stop and reflect</h1><p> After creating your sequence program, consider what would happen if you randomly shuffled the order of your programming blocks. Would the program still work? Why or why not? This highlights the importance of sequence in programming.</p>
+                </div>
+            </div></p>
+<p>&nbsp;</p>
+
+<p>
+        <!-- Check Your Understanding Section -->
+        <div style="border-bottom-style:solid;border-color:#008000;border-left-style:solid;border-right-style:solid;border-top-style:none;border-width:1px;clear:both;margin-bottom:3em;padding:1em 1em 1.1em;position:relative;">
+            <div style="background-color:#008000;display:block;height:20px;left:-1em;position:relative;top:-1em;width:calc(100% + 2em);">
+                &nbsp;
+            </div>
+            <h2 style="color:#008000;font-size:1.8em;font-weight:500;line-height:1em;margin-bottom:0.2em;margin-top:0;">
+                Check your understanding
+            </h2>
+            <p style="font-family:'Roboto', sans-serif;font-size:0.91em;font-weight:300;line-height:1.6em;">
+                &nbsp;
+            </p>
+            <p>Why is the correct order important in a programming sequence?</p>
+<p>A. It isn't important as long as all steps are included</p>
+<p>B. It only matters for advanced programs</p>
+<p>C. The computer won't run programs with steps in the wrong order</p>
+<p>D. The wrong order can produce incorrect results</p>
+            <p style="font-family:'Roboto', sans-serif;font-size:0.91em;font-weight:300;line-height:1.6em;">
+                Choose your answer and check it below.
+            </p>
+            <div style="display:none;" id="hiddenAnswer0">
+                <p>
+                    <br>
+                    &nbsp;
+                </p>
+                <p>The correct answer is D. The wrong order can produce incorrect results. Just like following a recipe, programming steps must be in the correct order to achieve the intended result. If you chose a different answer, remember that computers follow instructions exactly as given, without understanding the overall goal, so the sequence of steps is critical to achieving the desired outcome.</p>
+            </div>
+            <p>
+                <a style="color:#008000;text-decoration:none;" href="#" onclick="document.getElementById('hiddenAnswer0').style.display='block'; return false;"><strong>Click here to show the correct answer</strong></a>
+            </p>
+        </div>
+
+        <figure class="table" style="float:left;width:92.41%;" data-font-size="14" data-line-height="20">
+            <table class="ck-table-resized" style="border-style:none;" data-font-size="14" data-line-height="20">
+                <colgroup data-font-size="14" data-line-height="20"><col style="width:13.29%;" data-font-size="14" data-line-height="20"><col style="width:86.71%;" data-font-size="14" data-line-height="20"></colgroup>
+                <tbody data-font-size="14" data-line-height="20">
+                    <tr data-font-size="14" data-line-height="20">
+                        <td style="border-style:none;" data-font-size="14" data-line-height="20">
+                            <figure class="image image_resized" style="width:100%;" data-font-size="14" data-line-height="20">
+                                <img style="aspect-ratio:600/600;" src="https://api.learnstage.com/media-manager/api/access/exceled/default/89309a11-e6ae-4133-97a9-93c735f38be4/content-page/4e85aa67-83db-423a-b7de-53b356164071_removalai_preview.png" width="600" height="600" data-font-size="14" data-line-height="20">
+                            </figure>
+                        </td>
+                        <td style="border-style:none;" data-font-size="14" data-line-height="20">
+                            <h3 data-font-size="16" data-line-height="23">
+                                <span style="color:hsl(359,97%,29%);"><span data-font-size="16" data-line-height="23"><strong data-font-size="16" data-line-height="23">Key Takeaways</strong></span></span>
+                            </h3>
+                            <ul>
+<li>Computers follow instructions exactly as written, so the correct order of steps is essential for programs to work properly.</li>
+<li>Common programming errors include putting steps in the wrong order, leaving out necessary steps, and writing instructions that are too vague.</li>
+<li>When your program doesn't work, test small parts first, step through one command at a time, and compare your work to examples that work correctly.</li>
+</ul>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </figure></p>
+<p>&nbsp;</p>
+    </div>
+    

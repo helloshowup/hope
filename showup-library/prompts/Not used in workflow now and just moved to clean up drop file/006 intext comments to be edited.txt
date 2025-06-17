@@ -1,0 +1,29 @@
+%%%CONTENT_REQUEST%%% 
+add a linking paragraph so that it doesnt read like ai wirting. remember this is suspose to be read
+%%%END_REQUEST%%%.
+
+
+"You are about to receive a markdown document that includes embedded instructions for content generation. These instructions are marked with special delimiters: %%%CONTENT_REQUEST%%% and %%%END_REQUEST%%%.
+Your task is to:
+
+Identify all instruction blocks between these delimiters
+For each instruction block:
+
+Carefully read and understand what content is being requested
+Generate appropriate content that fulfills the request
+Replace the ENTIRE instruction block (including the delimiters) with your generated content
+Ensure the new content flows naturally with the surrounding text
+Match the style, tone, and technical level of the existing document
+
+
+Pay special attention to:
+
+The context provided by paragraphs before and after each instruction block
+Any formatting requirements mentioned in the instructions
+The overall purpose and audience of the document
+Maintaining consistent terminology throughout
+
+
+Do not modify any other parts of the document outside the instruction blocks.
+
+The final output should be a cohesive markdown document where your generated content integrates seamlessly with the original text, as if the instructions were never there."

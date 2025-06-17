@@ -1,0 +1,56 @@
+Graphic design is all around us and comes in various shapes and forms. Graphic designers create visual communications to inform, inspire, influence or captivate an audience. The types of visual designs they make are endless and can include magazine layouts, advertisement billboards, shop signs, electronic games, product packaging, websites etc.
+Below is a list of some of the more common types of graphic design:
+Branding and identity
+Digital design (websites etc)
+Advertising/Marketing
+Motion graphics and games
+Editorial/Publication
+Art and illustration
+Product 
+Packaging
+Signage and informational design
+Each type of design requires some common skills. Designers will have an expert understanding of the elements and principles of design. They will also be able to apply them creatively and will have developed skills in manual design and computer-aided design. However, some skills are specialised for each type of design. As you build your skills and learn more about graphic design, you will begin to understand your own design interests, which will guide your studies and personal development.  
+Digital design
+Although some differences exist, graphic design and digital design are closely related. While graphic design has a long history that began in the fields of art, illustration and print media, digital design was born with the creation of computer graphics.
+A graphic designer will apply all the same skills to create aesthetically pleasing digital content, such as the layout and design of a website or visual elements of an app. However, digital design requires an extra step that considers the user experience. For example, a beautiful website that is hard to navigate and makes it difficult for the user to find the information they need is not a successful design. 
+Digital designers make sure that a website looks good, but also make sure that it is user-friendly and communicates all the required information in a visually appealing way. It is all about the user's experience when interacting with digital content. 
+For example, a person sees an advert for a digital audiobook service on Instagram. They click on the link, and it starts a user journey which the company hopes will end with a subscription and a happy customer. 
+Fig 5. Pixabay (n.d.) Example of a prompt to register for a service/product
+With this goal in mind, the designer must think about how each part of the design works as a whole, not just each piece. There may be movement as one webpage blends into another. Is the experience interrupted if there is a delay when the user clicks a link? Does the webpage work in the same way across a range of devices? Is there music or video, and how do they play when the user reaches the page? How are the product's benefits visualised for the consumer, and is there a logical progression that leads the consumer to purchase the product?
+Once the consumer buys the product, a whole new journey starts: What does the app look like? Is the graphical interface appealing and easy to use? Does it flow? How is data visualised in the app? 
+There are many types of digital designers, for example, web design and UX/UI design. Both require understanding the end user’s digital needs. The definition of these two acronyms:
+UX is all about user experience.
+UI focuses on the user interface.
+They are often used interchangeably since a UX or UI designer needs to create a user-friendly interface that enables users to understand how to use the product. To do this, UX/UI designers need to empathise with users (usually not as tech-savvy), solve problems, and create easy and exciting platforms.
+Fig 6. Pixabay (n.d.) Examples of UX/UI design
+Examples of digital design work:
+Websites
+Apps
+Theme design (WordPress, Shopify, etc.)
+Interfaces (games, mobile phones, electronic products, etc.)
+Examples of skills/experience needed:
+Core graphic design skills plus an understanding of digital design principles (e.g. motion, space, flow etc). 
+Branding 
+UX design
+Wireframing
+Usability + User research + Design thinking
+Basic coding (HTML / CSS)
+Problem-solving
+CAD software
+Teamwork
+Over To You
+Now it’s your turn to explore the different types of graphic design. 
+Sometimes, there exists an overlap between the different types of graphic design. Take a look at the image below and consider which TWO types of graphic design might be relevant in creating such an application:
+Fig 20. Pixabay (n.d.) Google Maps application
+Identify a graphic image that appeals to you. This image could be a webpage, a user interface on an app, a magazine cover, or a package. Anything at all. What type of graphic design is this? 
+Now grab your sketchbook. Sketch out some of the design's key elements, e.g. what is the colour palette? The typeface? The layout? Texture? 
+Next, consider how you could convert the design to another type. For example, if your design is a package, how could you create an icon for an app? What would your design look like as a web page if your design is a physical magazine cover? Try doing some rough sketches for this new design (or, if you prefer, use digital software of your choice and create a mock-up). 
+When you’re done, head over to the forum and share your thoughts, ideas and sketches with your fellow students. 
+Image reference:
+Source for Figures 1, 4-20: Pixabay.com
+Source for Figures 2 & 3: Pexels.com
+References:
+Bond, J. (2020) How closely related are Game Design and animation? DegreeQuery.com. Available at: https://www.degreequery.com/art-degrees/how-closely-related-are-game-design-and-animation/
+[Accessed: January 3, 2023].
+Brooks, A. (2020). 7 Types of Graphic Design to Consider for Your Creative Career. [online] www.rasmussen.edu. Available at: https://www.rasmussen.edu/degrees/design/blog/types-of-graphic-design/. [Accessed 28 Nov. 2022].
+Jones Cann, M. (2022). The 8 types of graphic design you need to know. The Creative Edge: Create and grow by design. Available at: https://en.99designs.pt/blog/tips/types-of-graphic-design/ [Accessed 28 Nov. 2022].

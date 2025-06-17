@@ -1,0 +1,8 @@
+{
+  "module": "6",
+  "lesson": "30",
+  "step_number": "1",
+  "step_title": "Feedback Reflection",
+  "best_version": "# Feedback Reflection Assignment\n\n## Instructions\nWrite a 100-word reflection addressing how the feedback you received will inform your next revision. This reflection should demonstrate thoughtful consideration of peer comments and identify specific changes you plan to implement.\n\n## Key Elements to Include:\n- Acknowledge the most valuable feedback points\n- Explain which suggestions you agree with and why\n- Identify 1-2 specific changes you'll make in your revision\n- Briefly note any feedback you may not incorporate (and why)\n- Connect how these changes will strengthen your work\n\nSubmit your reflection for a quick rubric check before proceeding with your revision.\n\n## Example Starter:\n\"The feedback I received highlighted areas where my writing could be more...\"",
+  "explanation": "Error in comparison process: maximum recursion depth exceeded while calling a Python object. Using most structurally complete version as fallback."
+}

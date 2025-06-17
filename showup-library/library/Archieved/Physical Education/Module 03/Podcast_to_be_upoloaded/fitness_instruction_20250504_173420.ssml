@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="en-US">
+<voice name="en-US-AndrewNeural" parameters="temperature=0.35">
+<prosody rate="-5%" pitch="+2%" volume="+10%">
+<p>Welcome to your focused exercise session. <break time="650ms"/>  
+Today,<break time="150ms"/> we’ll work on the classic **bodyweight squat**. <break time="650ms"/>  
+This move targets your glutes and thighs,<break time="150ms"/> and also helps build strong hips. <break time="650ms"/>  
+Remember,<break time="150ms"/> form matters most—never rush your reps. <break time="650ms"/>  
+If you ever feel pain in your knees,<break time="150ms"/> pause and adjust your stance. <break time="650ms"/></p>
+<p>Let’s get set up. <break time="650ms"/>  
+Stand tall,<break time="150ms"/> feet about shoulder-width apart. <break time="650ms"/>  
+Your toes should point slightly outward,<break time="150ms"/> not straight ahead. <break time="650ms"/>  
+Keep your arms relaxed at your sides. <break time="650ms"/>  
+Pull your shoulders back,<break time="150ms"/> chest open,<break time="150ms"/> and gaze forward. <break time="650ms"/>  
+Engage your core gently. <break time="650ms"/>  
+This will support your spine as you move. <break time="650ms"/></p>
+<p>Now,<break time="150ms"/> let’s check your starting position. <break time="650ms"/>  
+Can you wiggle your toes? <break time="650ms"/>  
+Your weight should be in your heels,<break time="150ms"/> not your toes. <break time="650ms"/>  
+<emphasis level="strong">If your knees ever move past your toes,<break time="150ms"/> reset your stance.</emphasis> <break time="650ms"/></p>
+<p>Let’s begin ten slow reps together,<break time="150ms"/> focusing on technique. <break time="650ms"/></p>
+<p><prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">hips back like sitting in a chair</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">knees track over your middle toes</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Three - <emphasis level="moderate">chest stays lifted</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Four - <emphasis level="moderate">pause at the bottom,<break time="150ms"/> thighs parallel if possible</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Five - <emphasis level="moderate">push through your heels as you stand</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Six - <emphasis level="moderate">squeeze glutes at the top</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Seven - <emphasis level="moderate">keep your back neutral,<break time="150ms"/> not rounded</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Eight - <emphasis level="moderate">inhale as you lower,<break time="150ms"/> exhale as you rise</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Nine - <emphasis level="moderate">move with control,<break time="150ms"/> avoid bouncing</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Ten - <emphasis level="strong">double-check that your knees never collapse inward</emphasis> <break time="3000ms"/></prosody></p>
+<p>Take a moment. <break time="650ms"/>  
+Ask yourself: Did you keep weight in your heels? <break time="650ms"/>  
+Were your knees tracking straight? <break time="650ms"/>  
+If so,<break time="150ms"/> you’re on track for safe,<break time="150ms"/> effective movement. <break time="650ms"/></p>
+<p>Need an easier option? <break time="650ms"/>  
+Try a chair squat: <break time="650ms"/>  
+Place a sturdy chair behind you. <break time="650ms"/>  
+Tap the seat lightly as you lower,<break time="150ms"/> then stand. <break time="650ms"/>  
+This helps you learn the motion safely. <break time="650ms"/></p>
+<p>Want a challenge? <break time="650ms"/>  
+Hold your arms straight overhead as you squat. <break time="650ms"/>  
+Or slow down each rep,<break time="150ms"/> pausing for two seconds at the bottom. <break time="650ms"/>  
+This increases stability and strength. <break time="650ms"/></p>
+<p>Great job focusing on form and alignment with every squat. <break time="650ms"/>  
+Squats build lower-body strength,<break time="150ms"/> help with balance,<break time="150ms"/> and support everyday movements. <break time="650ms"/>  
+Consistent practice can improve mobility and ease of movement. <break time="650ms"/>  
+Remember,<break time="150ms"/> mastering form is more important than speed or depth. <break time="650ms"/>  
+Keep listening to your body,<break time="150ms"/> and celebrate your progress each time you train. <break time="650ms"/></p>
+</prosody>
+</voice>
+</speak>

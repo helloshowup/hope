@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="en-US">
+<voice name="en-US-AndrewNeural" parameters="temperature=0.35">
+<prosody rate="-5%" pitch="+2%" volume="+10%">
+<p>Welcome to your focused plank hold session. <break time="650ms"/> Find a carpet,<break time="150ms"/> rug,<break time="150ms"/> or exercise mat for comfort. <break time="650ms"/> Plank holds are great for building deep core strength and improving stability. <break time="650ms"/> Today,<break time="150ms"/> you’ll learn proper technique and how to progress safely. <break time="650ms"/></p>
+<p>Let’s get started. <break time="650ms"/> Begin by kneeling on your mat. <break time="650ms"/> Place your forearms on the floor,<break time="150ms"/> elbows under your shoulders. <break time="650ms"/> Interlace your fingers,<break time="150ms"/> or keep your forearms parallel. <break time="650ms"/> Extend your legs straight back,<break time="150ms"/> balancing on your toes. <break time="650ms"/> Your feet should be hip-width apart. <break time="650ms"/></p>
+<p>Check your alignment. <break time="650ms"/> Your body forms one straight line from head to heels. <break time="650ms"/> <emphasis level="moderate">Do not let your hips sag or rise up.</emphasis> <break time="650ms"/> Keep your head in a neutral position,<break time="150ms"/> eyes facing down. <break time="650ms"/> Draw your shoulder blades down and away from your ears. <break time="650ms"/> Engage your abdominal muscles. <break time="650ms"/> <emphasis level="strong">Do not hold your breath.<break time="350ms"/> Breathe steadily throughout.</emphasis> <break time="650ms"/></p>
+<p>We’ll hold the plank for ten seconds. <break time="650ms"/> Ready? <break time="650ms"/> Here’s your countdown with critical form reminders. <break time="650ms"/></p>
+<p><prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">draw your belly in and squeeze your glutes</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">keep your shoulders stacked over your elbows</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Three - <emphasis level="moderate">press your heels back to lengthen your body</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Four - <emphasis level="moderate">check your hips are not lifting or dropping</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Five - <emphasis level="moderate">keep breathing slow and steady</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Six - <emphasis level="moderate">push through your forearms for support</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Seven - <emphasis level="moderate">relax your neck,<break time="150ms"/> eyes looking straight down</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Eight - <emphasis level="moderate">maintain a straight line from head to heels</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Nine - <emphasis level="moderate">core stays tight,<break time="150ms"/> legs remain active</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Ten - <emphasis level="strong">finish strong,<break time="150ms"/> hold steady for these last seconds</emphasis> <break time="3000ms"/></prosody></p>
+<p>Success check: <break time="650ms"/> Did your body stay in one straight line? <break time="650ms"/> Were your hips steady,<break time="150ms"/> and were you breathing? <break time="650ms"/> If so,<break time="150ms"/> you’ve mastered the basics. <break time="650ms"/></p>
+<p>If you need to modify,<break time="150ms"/> drop your knees to the floor. <break time="650ms"/> Keep the straight line from your head to your knees. <break time="650ms"/> To make it harder,<break time="150ms"/> try lifting one foot off the floor as you hold. <break time="650ms"/></p>
+<p>Plank holds help build core endurance,<break time="150ms"/> support your lower back,<break time="150ms"/> and improve posture. <break time="650ms"/> By practicing regularly and increasing hold time gradually,<break time="150ms"/> you’ll develop a stronger,<break time="150ms"/> more stable core. <break time="650ms"/> Well done on completing your plank hold. <break time="650ms"/> Remember to rest,<break time="150ms"/> hydrate,<break time="150ms"/> and celebrate your progress. <break time="650ms"/> Your core strength will keep improving with consistent practice. <break time="650ms"/></p>
+</prosody>
+</voice>
+</speak>

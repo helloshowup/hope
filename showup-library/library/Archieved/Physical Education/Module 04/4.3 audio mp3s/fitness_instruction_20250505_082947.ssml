@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="en-US">
+<voice name="en-US-AndrewNeural" parameters="temperature=0.35">
+<prosody rate="-5%" pitch="+2%" volume="+10%">
+<p>Welcome to your quadriceps stretch. <break time="650ms"/>  
+This stretch targets the front of your thighs,<break time="150ms"/> helping improve flexibility and knee health. <break time="650ms"/>  
+Set up with a sturdy support nearby,<break time="150ms"/> such as a chair or wall. <break time="650ms"/></p>
+<p>Stand tall beside your support. <break time="650ms"/>  
+Shift your weight onto your left leg. <break time="650ms"/>  
+Keep your left knee soft,<break time="150ms"/> not locked. <break time="650ms"/>  
+Bend your right knee,<break time="150ms"/> bringing your right heel toward your buttocks. <break time="650ms"/>  
+Reach back with your right hand and gently hold your right ankle. <break time="650ms"/>  
+Use your left hand to hold the chair or wall if you need balance. <break time="650ms"/>  
+Align your knees so they point straight down,<break time="150ms"/> close together. <break time="650ms"/>  
+Stand tall and keep your chest open. <break time="650ms"/>  
+<emphasis level="moderate">Draw your belly button in slightly to protect your lower back.</emphasis> <break time="650ms"/></p>
+<p>You should feel a gentle stretch in the front of your right thigh. <break time="650ms"/>  
+<emphasis level="strong">Never force the stretch or pull your knee out to the side.</emphasis> <break time="650ms"/>  
+If you feel pain in your knee,<break time="150ms"/> release the stretch immediately. <break time="650ms"/></p>
+<p>Let’s count together as you hold: <break time="650ms"/>  
+<prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">Check that your knees are close together</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">Keep your posture tall and steady</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Three - <emphasis level="moderate">Relax your shoulders down</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Four - <emphasis level="moderate">Focus on your breath,<break time="150ms"/> slow and steady</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Five - <emphasis level="moderate">Feel the stretch along the front of your thigh</emphasis> <break time="3000ms"/></prosody></p>
+<p>Success check: Do you feel the stretch at the front of your right thigh? <break time="650ms"/>  
+If yes,<break time="150ms"/> you’re doing great. <break time="650ms"/>  
+If not,<break time="150ms"/> adjust by standing taller or gently pulling your ankle closer. <break time="650ms"/></p>
+<p>To make this easier,<break time="150ms"/> rest your foot on a low step or stool instead of holding your ankle. <break time="650ms"/>  
+For more challenge,<break time="150ms"/> stand without holding the chair,<break time="150ms"/> but only if you feel stable. <break time="650ms"/></p>
+<p>Now,<break time="150ms"/> slowly release your right foot to the floor. <break time="650ms"/>  
+Switch sides. <break time="650ms"/>  
+Balance on your right leg,<break time="150ms"/> bend your left knee,<break time="150ms"/> and hold your left ankle. <break time="650ms"/>  
+Repeat the same steps. <break time="650ms"/></p>
+<p><prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">Align your knees</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">Stand tall and steady</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Three - <emphasis level="moderate">Relax your shoulders</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Four - <emphasis level="moderate">Breathe smoothly</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Five - <emphasis level="moderate">Notice the gentle stretch</emphasis> <break time="3000ms"/></prosody></p>
+<p>Release your left foot gently. <break time="650ms"/></p>
+<p>Great work. <break time="650ms"/>  
+Stretching your quadriceps can help improve flexibility and support healthy knees. <break time="650ms"/>  
+Better flexibility in your thighs may make walking,<break time="150ms"/> running,<break time="150ms"/> or climbing stairs easier. <break time="650ms"/>  
+Remember,<break time="150ms"/> regular practice leads to progress. <break time="650ms"/>  
+Always stretch slowly,<break time="150ms"/> with control,<break time="150ms"/> and listen to your body. <break time="650ms"/>  
+Thanks for joining this stretch. <break time="650ms"/>  
+Take a moment to notice how your legs feel now. <break time="650ms"/>  
+You’re building better movement,<break time="150ms"/> one stretch at a time.</p>
+</prosody>
+</voice>
+</speak>

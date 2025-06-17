@@ -1,0 +1,31 @@
+## Fig 21
+Screenshot of a heat map visualization from UsabilityHub showing user attention concentrated on specific areas of a website interface with clear hot spots.
+Suggested search terms:
+- heat map
+- website interface
+- user attention
+- usability
+
+## Fig 22
+Screenshot of a task completion funnel from Maze showing where users drop off during a multi-step process with percentage metrics at each stage.
+Suggested search terms:
+- task completion funnel
+- user drop off
+- interaction flow
+- task metrics
+- user struggle
+
+## Fig 3
+Professional designer working at a multi-screen setup showing Figma, project management software, and communication tools simultaneously while managing a complex branding project.
+Suggested search terms:
+- designer
+- multi-screen setup
+- branding project
+
+## Fig 4
+Designer's screen showing a split view of the same logo design applied with three different AI-generated color palettes, with notes comparing the emotional impact of each variation.
+Suggested search terms:
+- designer's screen
+- logo design
+- color palettes
+- AI-generated

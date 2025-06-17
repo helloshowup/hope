@@ -1,0 +1,98 @@
+Introduction
+One of the most important lessons to learn on this course is that a creative solution must be directed through a design process. Design is the process of turning a brief and all its requirements, into a finished product or design solution. 
+There are many areas of a design process including:
+Following a series of steps to help you stick to a deadline, 
+ensuring you conduct the necessary research to inform your designs, 
+providing opportunities to make checks to ensure creative concepts meet the aims of the brief, 
+…and much more.
+Fig 1. Document your design process in your sketchbook
+But the design process is only a guideline.
+Every designer’s creative process is different and approaches can vary. Whatever the approach, adhering to steps in a design process will provide guidelines, tools and techniques that will help make a project run smoothly. As each project is unique, it is ultimately up to the individual to carve out their own approach and establish what works best for them. There is no one right answer so you will each develop your own solution to the brief.
+The important thing is to try to challenge yourself and to experiment and take risks. Be sure to question assumptions and see if you can discover some new skills. And don’t be afraid to get it ‘wrong’.  Fail fast and learn from your mistakes. This is where lessons are learned and in order to make progress, exploration towards good ideas will have to contain some of the more obvious or random ideas as well.
+The 10-Step Design Process
+Ideally, the design process follows a flow that can be represented as a cycle, but it can also be a linear process which can have interjection points at 5 and 9 (see Figure 2 below). The process is adaptable and will respond well to revisions and amendments.
+Fig 2. The design cycle 
+Define/Interpret The Brief
+The first thing you need to do is ask yourself what it is you are being asked to do?  This is normally outlined in your brief but do you have a clear and thorough understanding of the problem? Do you know exactly what is being asked of you? As the project progresses, you should constantly refer back to the brief to keep you on track.
+Other things to consider:
+Analyse the brief. The accuracy of your design will rely on how well the client composes the brief and how well you, as the designer, understand the key objectives and deliverables.
+Outline the key objectives. For example, is there a specific sales target that the design will help meet? Does the design need to boost web traffic? 
+What is the budget for the final design?`
+Define the actual deliverables. What will need to be delivered as a final design? 
+What are the specifications? Plan and manage the expectations of the client.
+Research Ideas
+The next phase is where you get to know the subject of the brief and gather all the facts. If your client is a business, it may involve researching the problem/topic, the history of the business and industry or familiarising yourself with the demographics of the intended audience or clientele etc. This also involves gathering visual research. In addition to visual research on your subject matter you should see what you can learn from examples of other design solutions of a similar nature to your project. 
+Fig 3. Pexels (n.d.) Research is a critical step in the design process
+Research methods include both primary and secondary research. 
+Primary research is classified as research that is physically conducted by the graphic designer themself. This is research that is carried out through a variety of methods in order to understand more about a particular topic.
+Secondary research relies on researching existing sources. Here, you are relying on another person’s content to inform your own understanding of a topic. This is quite commonly used as it is often much faster than conducting primary research.
+Graphic design is a fast-paced environment that is constantly changing. Besides researching the brief, graphic designers also need to stay abreast of new design trends, technological developments, and regulations that will continuously impact the graphic design industry. 
+Develop Ideas
+Idea generation refers to the process in which designers create or produce work in response to a problem, project, or task. While generating new ideas can be challenging, it is a vital part of the creative design cycle and an important skill to practise and develop in order to maintain longevity in any creative field. 
+The ideation phase is where you get to play with what you have learnt. Take what you have learned from your research stage and explore further by developing ideas that might lead to solutions to the problem. There are several sketching/creative thinking methods that you can use, including:
+Crazy 8s: create 8 sketches within 8 minutes.
+8-4-2-1 Rapid Sketching: sketch for 8 minutes, then for 6 minutes, 4 minutes and finally 2 minutes, with 2 minute feedback sessions in between.
+Positive/Negative: choose a simple object but instead of trying to draw the object, only draw the negative space around the object.
+Mash Up: create doodles that are based on combining two unrelated concepts/objects.   
+Fat Marker Sketches: start by sketching ideas using only a fat marker which will force simplicity. Then move on to using markers with a thinner nib to add more and more detail.
+Round Robin (team): each team member draws a solution to a design problem and passes it to another member. They then add to the drawing before passing it on again, or they can give it back to the initial designer with feedback regarding the idea’s strengths and weaknesses.  
+Mind Mapping: a well-established method where the main design problem is drawn/written in the centre of the page and all around it are symbols that represent associated ideas.
+Some methods will be more effective than others but ultimately their effectiveness will depend on the nature of the person utilising them. At this stage it is important to have as many ideas as possible down on paper. Sketch, write, experiment.
+Refine Ideas
+After you have created several rough sketches, it is time to refine what you have produced. This is where you need to take some time to create a few properly executed design sketches, adding some colour schemes, etc. This will give you a better sense of the overall ‘look’ and feel of your designs and whether it satisfies the client brief. 
+Fig 4. Pexels (n.d.) Refine sketches
+Consider the following during the refinement process:
+What are the pros, and what are the cons of your ideas?
+Which idea has the ability to meet the brief more accurately?
+Which element of the idea meets the brief more accurately?
+Assess Ideas
+Once you have drawn up a few solid ideas, it is time to compare the strengths and weaknesses of your designs. This will help you determine which ideas are worth exploring further and which ideas should be abandoned in the early stages. It is the idea generation process and the refinement stage that gives you the opportunity to create a number of ideas that you can then evaluate to determine the best ideas you have to take further in the design process. 
+In order to reduce your designs down to 1 or 2 preferred/best options, ask yourself the following questions:
+Typography
+Are the chosen fonts licensed and legal to use?
+Do they align with the style/brand?
+Are they legible at the scale(s) denoted in the brief?
+Colour
+Are the chosen colours culturally acceptable for the intended audience?
+Do they align with the style/brand?
+Do they complement the subject matter?
+Composition
+Are the key elements correctly balanced within the composition?
+Are they key deliverables set in line with hierarchy and layout techniques?
+Could a different layout principle help in delivering a more successful piece?
+Legals
+Is the correct legal information included?
+Is it legible and clearly identified?
+Is the font appropriate for its usage and at the scale required?
+Branding
+Is the branding clear and identifiable?
+Does the branding implementation meet brand guidelines?
+Does the overall piece fit within the ethos of the brand/company?
+Aesthetics
+Does the overall composition flow well?
+Is it fit for purpose?
+Is the piece appealing enough to stand out against the competition?
+Produce Mock-Ups
+At this stage, you should have settled on your preferred/best ideas, and now it’s time to create mock-ups of those designs. Typically, this means creating digital versions of your design using CAD. While there is still room for minor adjustments to your CAD design, the changes at this stage of the design process should be minimal.
+Fig 5. Pexels (n.d.) Design using CAD software
+Once you have created your CAD design, it is important to reassess its effectiveness against the initial brief. At various points throughout the entire process, you should have been questioning your design ideas, but before presenting it to the client for feedback, ask yourself the following questions again: 
+ 
+What is the purpose of the design?
+What were the client's requirements for this design?
+Does the design fulfil every requirement?
+Does the design achieve the goal you intended?
+Does the design effectively communicate the main message?
+Do all the elements and principles of the design form a coherent, professional, and aesthetically pleasing composition?
+Present To Client For Feedback
+The objective of this step in the design process is to find out whether or not the design satisfies the client's requirements. The main aim of presenting your design(s) to a client or other relevant stakeholders is to obtain constructive feedback. With your conceptual ideas ready, it is time to meet the client and discuss the solution proposed.Your final design should be presented both verbally and visually with clarity, confidence and creativity. It is best practice to take your clients gently through the process and ensure that they understand your thinking behind each design decision at every stage. 
+Fig 6. Unsplash (n.d.) Meeting with client
+It is important to remember that no solution is perfect, and changes still may be required. This should not be taken as a personal attack but should be considered part of the design process. Another important thing to remember is that people can change their minds so it’s essential to listen to the feedback and take notes as though it was the first time meeting the client.
+Receive Feedback
+Getting feedback on your work can be a nerve-wracking experience for any designer but it is a vital step to help you refine your concept and deliver an exceptional product. A word of advice when entering the testing stage (step 7) is to not be overly committed to your concept. Try to leave some room to be flexible since the feedback you receive may involve going back to tweak a few things. Just remember that this is a normal part of any designer’s journey and shouldn’t cause you to doubt your ability as a designer. 
+Since feedback can have a significant impact on the final design, you must seek out specific and meaningful criticism from your client to help you identify areas for improvement. For example, vague comments like “It looks fine” will not help you assess how well the design meets the client’s expectations, nor will it help you make final adjustments. In some cases, the client may be too shy or embarrassed to give their honest opinion or they could use vague phrases to appear agreeable. This is where you will need to have prepared more specific questions about details within the design. Without actionable feedback, there is a high risk that the client will be unhappy with the end result due to the fact that communication broke down at the final stages. 
+Amend If Required
+After you obtain feedback, it is time to make modifications related to areas of improvement identified by the client. The adjustments may range from minor tweaks (e.g. adjusting the brightness of the text colour or increasing the font size slightly) to more extensive changes (e.g. replacing the imagery and changing the typeface to provoke a different mood/emotion). Regardless of the scope, ensure you are clear on the exact details of the adjustments the client has requested. 
+Evaluate Outcomes
+Once adjustments have been made to your design, you will present it to your client again. You may do this many times but be prepared to present to the client over and over until they finally approve it. 
+Fig 7. Pexels (n.d.) The final sign-off by the client is a key step in the design process
+When your design gets the final evaluation and subsequent ‘green light’, it is ready for production. It is important at this stage that you refrain from making any more edits, even if the perfectionist in you is itching to make additional tweaks. Whether you work for yourself or for a company, you may still be the person who oversees the design production in its various forms (e.g. printed material or online). If not, it is possible you will simply export your design in the appropriate file format for your client’s in-house design team to access and use accordingly. Usually, these ready-to-use design file formats will be exported and shared as JPGs, PNGs, or PDFs. 

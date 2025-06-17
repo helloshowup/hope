@@ -1,0 +1,6 @@
+# Core dependencies
+anthropic>=0.7.0
+tkintertable>=1.3.3
+
+# Optional dependencies
+python-dotenv>=1.0.0

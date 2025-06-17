@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="en-US">
+<voice name="en-US-AndrewNeural" parameters="temperature=0.35">
+<prosody rate="-5%" pitch="+2%" volume="+10%">
+<p>Welcome to your exercise session.<break time="350ms"/> Today,<break time="150ms"/> we’ll focus on the Standing Medicine Ball Rotational Throw. <break time="650ms"/> This movement builds explosive rotational power,<break time="150ms"/> which is essential for athletic performance. <break time="650ms"/> Be mindful: always choose a weight you can control throughout each throw.</p>
+<p>Let’s begin by setting up your stance. <break time="650ms"/> Stand with your feet shoulder-width apart. <break time="650ms"/> Hold a medicine ball at chest height,<break time="150ms"/> close to your body. <break time="650ms"/> Soften your knees slightly. <break time="650ms"/> Keep your core engaged and your back straight. <break time="650ms"/> Pick a spot on the wall or target area for your throws. <break time="650ms"/></p>
+<p>Before we start,<break time="150ms"/> here’s a quick safety reminder: <break time="650ms"/> Avoid twisting your knees. <emphasis level="strong">Your rotation should come from your hips and core.</emphasis> <break time="650ms"/></p>
+<p>Let’s get ready for ten repetitions. <break time="650ms"/> Follow the cues for each step.</p>
+<p><prosody rate="-5%" pitch="+10%">One - <emphasis level="moderate">Drive through your legs,<break time="150ms"/> rotating your hips and torso.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Two - <emphasis level="moderate">Keep your core tight as you release the ball.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Three - <emphasis level="moderate">Chest and shoulders add power to the throw.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Four - <emphasis level="moderate">Use your arms to guide the ball’s direction.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Five - <emphasis level="moderate">Catch or retrieve the ball and reset your stance.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Six - <emphasis level="moderate">Check your feet: they should stay planted,<break time="150ms"/> not slipping.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Seven - <emphasis level="moderate">Brace your core before each rotation.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Eight - <emphasis level="moderate">Exhale as you throw for better force.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Nine - <emphasis level="moderate">Keep your eyes on the target.</emphasis> <break time="650ms"/>  </prosody>
+<prosody rate="-5%" pitch="+10%">Ten - <emphasis level="strong">Finish strong with a full,<break time="150ms"/> smooth rotation.[/emphasis strong</emphasis> <break time="3000ms"/></prosody></p>
+<p>Success check: <break time="650ms"/> Are your legs creating a solid base? <break time="650ms"/> Is your core leading the rotation? <break time="650ms"/> Are your chest and shoulders generating the force forward? <break time="650ms"/> Are your arms controlling the release? <break time="650ms"/> If yes,<break time="150ms"/> you’re on track. <break time="650ms"/></p>
+<p>If you need an easier option,<break time="150ms"/> use a lighter ball or practice with just your bodyweight,<break time="150ms"/> focusing on rotation. <break time="650ms"/> For more challenge,<break time="150ms"/> try a heavier ball or increase your speed while maintaining control. <break time="650ms"/></p>
+<p>To recap,<break time="150ms"/> the Standing Medicine Ball Rotational Throw trains explosive power through your legs,<break time="150ms"/> core,<break time="150ms"/> chest,<break time="150ms"/> and shoulders. <break time="650ms"/> It improves coordination and helps you transfer force efficiently from your lower body through your upper body. <break time="650ms"/> Always remember to prioritize good form and controlled movement. <break time="650ms"/></p>
+<p>Great work today. <break time="650ms"/> This exercise strengthens your core and improves rotational power—both key for sports and daily activities. <break time="650ms"/> With regular practice,<break time="150ms"/> you’ll see better control and more force in every movement. <break time="650ms"/> Remember: safe,<break time="150ms"/> powerful rotation starts with a strong foundation. <break time="650ms"/> See you next time.</p>
+</prosody>
+</voice>
+</speak>

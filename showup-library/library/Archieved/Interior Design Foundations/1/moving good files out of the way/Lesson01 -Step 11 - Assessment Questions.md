@@ -1,0 +1,1 @@
+Error generating content with Claude API: Claude API error: 400 Client Error: Bad Request for url: https://api.anthropic.com/v1/messages
