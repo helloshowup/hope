@@ -9,14 +9,19 @@ import logging
 import re
 import json
 import threading
-import tkinter as tk # Keep for type hints if necessary, but avoid direct use
+import tkinter as tk  # Keep for type hints if necessary, but avoid direct use
 from tkinter import ttk, filedialog, messagebox, scrolledtext
-from .utils import calculate_cosine_similarity, extract_local_keywords, DEFAULT_STOP_WORDS
+from .utils import (
+    calculate_cosine_similarity,
+    extract_local_keywords,
+    DEFAULT_STOP_WORDS,
+)
 import pathlib
 from collections import Counter
 from typing import List, Optional
 import concurrent.futures
-import multiprocessing # Added for ProcessPoolExecutor
+import multiprocessing  # Added for ProcessPoolExecutor
+import queue
 
 # Import logging
 logger = logging.getLogger(__name__)
@@ -41,6 +46,7 @@ def _perform_handbook_indexing_subprocess(
     textbook_id: str,
     force_rebuild: bool = False,
     pythonpath: str = "",
+    progress_queue: Optional[multiprocessing.Queue] = None,
 ) -> bool:
     """Performs handbook indexing in a subprocess.
     Instantiates ``TextbookVectorDB`` within the subprocess.
@@ -50,6 +56,7 @@ def _perform_handbook_indexing_subprocess(
         textbook_id: The ID of the textbook.
         force_rebuild: If ``True``, rebuild the index even if cached data exists.
         pythonpath: ``PYTHONPATH`` to apply inside the subprocess.
+        progress_queue: Queue used to emit progress updates ``(stage, percent)``.
 
     Returns:
         ``True`` if indexing was successful, ``False`` otherwise.
@@ -82,8 +89,15 @@ def _perform_handbook_indexing_subprocess(
         raise RuntimeError(f"Subprocess: TextbookVectorDB could not be imported or instantiated: {e_sub}") from e_sub
 
     print(f"[Subprocess] Starting index_textbook for {textbook_id}")
-    def subprocess_progress_callback(stage, percent):
-        print(f"[Subprocess Indexing Progress] {textbook_id} - {stage}: {percent}%")
+    def subprocess_progress_callback(stage: str, percent: int) -> None:
+        print(
+            f"[Subprocess Indexing Progress] {textbook_id} - {stage}: {percent}%"
+        )
+        if progress_queue is not None:
+            try:
+                progress_queue.put((stage, percent))
+            except Exception:
+                pass
 
     try:
         success = local_vector_db.index_textbook(
@@ -390,17 +404,40 @@ class EnrichLessonPanel:
 
             # --- 2. Index Handbook in Subprocess ---
             try:
-                self.parent_controller.after(0, lambda: self.view.set_status("Indexing handbook (this may take a moment)...", busy=True))
+                self.parent_controller.after(
+                    0,
+                    lambda: self.view.set_status(
+                        "Indexing handbook (this may take a moment)...", busy=True
+                    ),
+                )
+                progress_q: multiprocessing.Queue = multiprocessing.Queue()
                 future = self.executor.submit(
                     _perform_handbook_indexing_subprocess,
                     handbook_content,
                     self.textbook_id,
                     self.view.force_rebuild_var.get(),
-                    os.environ.get("PYTHONPATH", "")
+                    os.environ.get("PYTHONPATH", ""),
+                    progress_q,
                 )
-                indexing_success = future.result(timeout=600)  # 10-minute timeout
+
+                while True:
+                    try:
+                        stage, percent = progress_q.get(timeout=0.5)
+                        self.parent_controller.after(
+                            0,
+                            lambda s=stage, p=percent: self.view.set_status(
+                                f"{s} ({p}%)", busy=True
+                            ),
+                        )
+                    except queue.Empty:
+                        if future.done():
+                            break
+
+                indexing_success = future.result(timeout=600)
                 if not indexing_success:
-                    raise RuntimeError("Handbook indexing process failed internally.")
+                    raise RuntimeError(
+                        "Handbook indexing process failed internally."
+                    )
             except TimeoutError:
                 raise RuntimeError("Handbook indexing timed out after 10 minutes.")
             except Exception as e:
