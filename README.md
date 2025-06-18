@@ -14,3 +14,5 @@ RAG features rely on both packages being installed locally. When launching the U
 ensure that your `PYTHONPATH` includes the project root along with `showup-core`
 and `showup-tools`. The vector database backing RAG queries only works on the
 local machine.
+
+A compatibility module named `showup_editor_ui` exposes the existing `claude_panel` package for older imports. Ensure the project root is on `PYTHONPATH` when launching the UI so this shim resolves correctly.
