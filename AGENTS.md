@@ -84,3 +84,7 @@ Adherence to these standards is crucial for maintaining code quality, readabilit
 *   **Memory Utilization**: Actively use and refer to project-specific memories (like MEMORY[f0fd4cfe-44e0-4d24-817e-d7c323de76b4] regarding threading in `enrich_lesson.py`) to maintain continuity and address known issues.
 *   **Clarification**: If any instruction in this document or a user request is ambiguous, seek clarification before proceeding.
 *   **Simplicity for Personal Use**: Prioritize straightforward solutions suitable for a personal project. For example, complex CI/CD pipelines or overly elaborate testing frameworks are likely unnecessary.
+
+## 8. Launch & Import Notes
+*   `showup-editor-ui\launch_modular_editor.bat` is the **only** batch script used to start the application. Remove any other `.bat` files to avoid confusion.
+*   Import paths rely on underscores (e.g., `claude_panel`, `showup_tools`). Typos with hyphens like `claude-panel` or `showup-tools` will break imports.
