@@ -126,8 +126,11 @@ class ClaudeAIPanel(ttk.Frame):
         
         # Register all tabs with the tab manager after they are all set up
         self._register_tabs_with_manager()
-        
+
         logger.info("All tabs initialized")
+
+        # Handle window close event to ensure resources are cleaned up
+        self.parent.protocol("WM_DELETE_WINDOW", self.on_close)
         
     def _setup_split_pane_structure(self):
         """Set up the main split pane structure with library on left and notebook on right."""
@@ -871,6 +874,16 @@ class ClaudeAIPanel(ttk.Frame):
         except Exception as e:
             logger.error(f"Error opening file: {str(e)}")
             messagebox.showerror("Error", f"Could not open file: {str(e)}")
+
+    def on_close(self) -> None:
+        """Handle closing of the main window."""
+        try:
+            if self.enrich_lesson:
+                self.enrich_lesson.cleanup()
+        except Exception as exc:
+            logger.error(f"Error during EnrichLessonPanel cleanup: {exc}")
+        finally:
+            self.parent.destroy()
     
     def _create_new_file(self):
         """Create a new file in the selected directory."""
