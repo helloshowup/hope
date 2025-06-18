@@ -19,10 +19,10 @@ from .path_utils import get_project_root
 sys.path.append(os.path.join(str(get_project_root()), "showup-editor-ui"))
 
 
-# Append showup-tools to sys.path if the package is not installed
+# Append showup_tools to sys.path if the package is not installed
 if importlib.util.find_spec("showup_tools") is None:
     project_root = str(get_project_root())
-    tools_path = os.path.join(project_root, "showup-tools")
+    tools_path = os.path.join(project_root, "showup_tools")
     if tools_path not in sys.path:
         sys.path.insert(0, tools_path)
 
