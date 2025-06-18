@@ -1,2 +1,33 @@
+# --- core & shared ---
 python-dotenv
 low
+requests
+
+# --- token counting / LLM helpers ---
+tiktoken
+
+# --- LangChain stack for RAG ---
+langchain>=0.3.25
+langchain-core>=0.3.65
+langchain-text-splitters>=0.3.8
+openai                       # the official client used by Claude panel
+langsmith                    # optional analytics/back-end for LangChain
+
+# --- vector DB & embeddings ---
+faiss-cpu                    # swap for faiss-gpu if you have CUDA
+sentence-transformers
+huggingface-hub
+numpy>=1.25                  # needed by FAISS, torch, etc.
+
+# --- ML / model deps ---
+torch>=2.7.1                 # wheel ~216 MB; CPU-only build on Windows
+scipy>=1.15
+scikit-learn>=1.7
+transformers>=4.52           # used by sentence-transformers
+
+# --- utilities ---
+tqdm
+colorama
+pydantic>=2.11
+SQLAlchemy<3
+PyYAML
