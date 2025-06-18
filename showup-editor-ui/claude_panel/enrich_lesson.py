@@ -36,17 +36,20 @@ except ImportError as e:
     # Keep them as None if import fails
 
 # Top-level function to be run in a separate process for handbook indexing
-def _perform_handbook_indexing_subprocess(handbook_content: str, textbook_id: str) -> bool:
-    """Performs handbook indexing in a subprocess. 
-    Instantiates TextbookVectorDB within the subprocess.
-    
+def _perform_handbook_indexing_subprocess(
+    handbook_content: str, textbook_id: str, force_rebuild: bool = False
+) -> bool:
+    """Performs handbook indexing in a subprocess.
+    Instantiates ``TextbookVectorDB`` within the subprocess.
+
     Args:
         handbook_content: The content of the handbook.
         textbook_id: The ID of the textbook.
-        
+        force_rebuild: If ``True``, rebuild the index even if cached data exists.
+
     Returns:
-        True if indexing was successful, False otherwise.
-        
+        ``True`` if indexing was successful, ``False`` otherwise.
+
     Raises:
         Exception: If any error occurs during indexing.
     """
@@ -75,8 +78,8 @@ def _perform_handbook_indexing_subprocess(handbook_content: str, textbook_id: st
         success = local_vector_db.index_textbook(
             textbook_content=handbook_content,
             textbook_id=textbook_id,
-            force_rebuild=True,
-            progress_callback=subprocess_progress_callback
+            force_rebuild=force_rebuild,
+            progress_callback=subprocess_progress_callback,
         )
         logging.info(f"[Subprocess] index_textbook for {textbook_id} returned: {success}")
         return success
@@ -138,6 +141,14 @@ class EnrichLessonView(ttk.Frame):
 
         self.apply_button = ttk.Button(control_frame, text="Apply to Lesson", command=self.controller.apply_enrichment_to_lesson)
         self.apply_button.pack(side="left", padx=5)
+
+        self.force_rebuild_var = tk.BooleanVar(value=False)
+        self.force_rebuild_cb = ttk.Checkbutton(
+            control_frame,
+            text="Force rebuild index",
+            variable=self.force_rebuild_var,
+        )
+        self.force_rebuild_cb.pack(side=tk.RIGHT, padx=5)
 
         # Status bar
         status_frame = ttk.Frame(main_frame)
@@ -369,7 +380,8 @@ class EnrichLessonPanel:
                 future = self.executor.submit(
                     _perform_handbook_indexing_subprocess,
                     handbook_content,
-                    self.textbook_id
+                    self.textbook_id,
+                    self.view.force_rebuild_var.get()
                 )
                 indexing_success = future.result(timeout=600)  # 10-minute timeout
                 if not indexing_success:
