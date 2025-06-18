@@ -13,33 +13,39 @@ if exist "..\showup-core\venv\Scripts\activate" (
 )
 
 REM Get the parent directory of this script's directory
-set "PARENTDIR=%~dp0"
+set "PROJECT_ROOT=%~dp0"
 REM Remove trailing backslash if present
-if "%PARENTDIR:~-1%"=="\" set "PARENTDIR=%PARENTDIR:~0,-1%"
+if "%PROJECT_ROOT:~-1%"=="\" set "PROJECT_ROOT=%PROJECT_ROOT:~0,-1%"
 REM Remove the last path segment to get the parent
-for %%I in ("%PARENTDIR%") do set "PARENTDIR=%%~dpI"
+for %%I in ("%PROJECT_ROOT%") do set "PROJECT_ROOT=%%~dpI"
 REM Remove trailing backslash again if present
-if "%PARENTDIR:~-1%"=="\" set "PARENTDIR=%PARENTDIR:~0,-1%"
+if "%PROJECT_ROOT:~-1%"=="\" set "PROJECT_ROOT=%PROJECT_ROOT:~0,-1%"
 
 REM Set PYTHONPATH so showup_editor_ui is importable
-set "PYTHONPATH=%PARENTDIR%"
+set "PYTHONPATH=%PROJECT_ROOT%"
 
 REM Set Python executable path
-FOR /F "tokens=*" %%i IN ('python -c "import sys; print(sys.executable)" 2^>nul') DO SET PYTHONEXE=%%i
-if "%PYTHONEXE%"=="" (
-    set "PYTHONEXE=python"
+FOR /F "tokens=*" %%i IN ('python -c "import sys; print(sys.executable)" 2^>nul') DO SET PYTHON=%%i
+if "%PYTHON%"=="" (
+    set "PYTHON=python"
+)
+
+%PYTHON% %PROJECT_ROOT%\scripts\import_sanity_check.py
+if %ERRORLEVEL% NEQ 0 (
+    echo Import sanity check failed.
+    exit /b %ERRORLEVEL%
 )
 
 REM Diagnostics: log working directory, PYTHONPATH, and Python executable
-(echo Current directory: %CD% & echo PYTHONPATH: %PYTHONPATH% & echo Python path: %PYTHONEXE%) > "launch.log"
-if exist "%PYTHONEXE%" (
-    echo Found Python at: %PYTHONEXE% >> "launch.log"
+(echo Current directory: %CD% & echo PYTHONPATH: %PYTHONPATH% & echo Python path: %PYTHON%) > "launch.log"
+if exist "%PYTHON%" (
+    echo Found Python at: %PYTHON% >> "launch.log"
 ) else (
     echo Python not found in PATH, using system default >> "launch.log"
 )
 
 REM Start the modular editor UI (updated package path)
-python -m showup_editor_ui.claude_panel.main >> "launch.log" 2>&1
+%PYTHON% -m showup_editor_ui.claude_panel.main >> "launch.log" 2>&1
 
 REM Check if the process launched successfully
 if %ERRORLEVEL% EQU 0 (
