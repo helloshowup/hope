@@ -806,19 +806,6 @@ class TextbookVectorDB:
             logger.exception("Error during vector search, falling back to keyword search")
             return self._keyword_search(query, top_k)
     
-    def index_textbook(self, textbook_content: str, textbook_id: str, force_rebuild: bool = False, progress_callback=None) -> bool:
-        """Process and index a textbook, with simple file-based versioning
-        
-        Args:
-            textbook_content: Full text content of the textbook
-            textbook_id: Unique identifier for the textbook
-            force_rebuild: Whether to force rebuilding the index even if unchanged
-            progress_callback: Optional callback function to report progress (stage, percent)
-            
-        Returns:
-            bool: True if indexing was successful
-        """
-    
     async def index_textbook_async(self, textbook_content: str, textbook_id: str, force_rebuild: bool = False, progress_callback=None):
         """Async version of index_textbook that doesn't block the event loop
         

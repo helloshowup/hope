@@ -55,10 +55,10 @@ python simplified_app.py
 
 ### Testing
 
-To run tests:
+To run the unit tests locally:
 
 ```bash
-python -m pytest test_data/
+pytest
 ```
 
 ## Features
