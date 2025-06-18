@@ -4,6 +4,7 @@ import os
 import logging
 import tkinter as tk
 from tkinter import ttk, scrolledtext, messagebox
+from .path_utils import get_project_root
 
 # Get logger
 logger = logging.getLogger("output_library_editor")
@@ -162,7 +163,7 @@ class HTMLViewerPanel:
         library_dir = None
         
         # Method 1: Try accessing through standard location
-        base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+        base_dir = os.path.join(str(get_project_root()), "showup-editor-ui")
         potential_library_dir = os.path.join(base_dir, "library")
         if os.path.exists(potential_library_dir) and os.path.isdir(potential_library_dir):
             library_dir = potential_library_dir

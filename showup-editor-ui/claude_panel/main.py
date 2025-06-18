@@ -11,15 +11,16 @@ import sys
 import logging
 import tkinter as tk
 from tkinter import ttk
+from .path_utils import get_project_root
 
 # Add parent directory to path to allow importing from sibling modules
-sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+sys.path.append(os.path.join(str(get_project_root()), "showup-editor-ui"))
 
 # Import the main panel class
 from claude_panel.main_panel import ClaudeAIPanel
 
 # Configure logging
-log_file = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'output_library_editor.log')
+log_file = os.path.join(str(get_project_root()), 'showup-editor-ui', 'output_library_editor.log')
 logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
@@ -35,7 +36,7 @@ logger = logging.getLogger("output_library_editor")
 # Create important application directories
 def ensure_app_directories():
     """Ensure all required application directories exist"""
-    base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    base_dir = os.path.join(str(get_project_root()), "showup-editor-ui")
     
     # Critical directories
     directories = [
@@ -67,7 +68,7 @@ def main():
     root.geometry("1200x800")
     
     # Add app icon if available
-    icon_path = os.path.join(os.path.dirname(__file__), "..\\resources\\app_icon.ico")
+    icon_path = os.path.join(str(get_project_root()), "showup-editor-ui", "resources", "app_icon.ico")
     if os.path.exists(icon_path):
         root.iconbitmap(icon_path)
     

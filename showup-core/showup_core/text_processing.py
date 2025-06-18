@@ -13,6 +13,7 @@ import re
 import glob
 import logging
 from typing import Dict, List
+from showup_editor_ui.claude_panel.path_utils import get_project_root
 
 logger = logging.getLogger('podcast_generator')
 
@@ -21,8 +22,13 @@ def load_learner_profiles() -> Dict[str, str]:
     """Load available learner profiles from the profiles directory."""
     learner_profiles: Dict[str, str] = {}
     
-    profiles_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 
-                              "data", "input", "learner_profiles")
+    profiles_dir = os.path.join(
+        str(get_project_root()),
+        "showup-core",
+        "data",
+        "input",
+        "learner_profiles",
+    )
     if not os.path.exists(profiles_dir):
         logger.warning(f"Learner profiles directory not found: {profiles_dir}")
         return learner_profiles

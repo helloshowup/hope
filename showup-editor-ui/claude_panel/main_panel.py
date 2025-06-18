@@ -9,6 +9,7 @@ from tkinter import ttk, messagebox, filedialog, scrolledtext, simpledialog
 import logging
 import shutil
 import subprocess
+from .path_utils import get_project_root
 
 # Import config manager
 from .config_manager import config_manager
@@ -376,8 +377,9 @@ class ClaudeAIPanel(ttk.Frame):
                     else:
                         # Use the application directory as fallback
                         directory = os.path.join(
-                            os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 
-                            "library"
+                            str(get_project_root()),
+                            "showup-editor-ui",
+                            "library",
                         )
                         if not os.path.exists(directory):
                             os.makedirs(directory)

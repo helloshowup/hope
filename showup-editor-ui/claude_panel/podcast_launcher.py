@@ -11,6 +11,7 @@ import tkinter as tk
 from tkinter import ttk, messagebox
 import subprocess
 import logging
+from .path_utils import get_project_root
 
 # Get logger
 logger = logging.getLogger("podcast_launcher")
@@ -148,7 +149,7 @@ class PodcastLauncherPanel(ttk.Frame):
         """Launch the original podcast generator"""
         try:
             # Get the path to the podcast generator batch file
-            base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+            base_dir = os.path.join(str(get_project_root()), "showup-editor-ui")
             batch_file = os.path.join(base_dir, "run_podcast_generator.bat")
             
             if not os.path.exists(batch_file):
@@ -169,7 +170,7 @@ class PodcastLauncherPanel(ttk.Frame):
         """Launch the fitness instructor voiceover generator"""
         try:
             # Get the path to the fitness instructor voiceover batch file
-            base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+            base_dir = os.path.join(str(get_project_root()), "showup-editor-ui")
             batch_file = os.path.join(base_dir, "run_fitness_instructor_voiceover.bat")
             
             if not os.path.exists(batch_file):

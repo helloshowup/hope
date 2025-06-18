@@ -14,6 +14,7 @@ import tkinter as tk
 from tkinter import ttk, filedialog, scrolledtext, messagebox
 from typing import List
 from datetime import datetime
+from .path_utils import get_project_root
 
 # Third-party imports
 import requests
@@ -124,7 +125,7 @@ class PodcastGenerator:
         try:
             # Create timestamp for unique filename
             timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-            output_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "generated_podcasts")
+            output_dir = os.path.join(str(get_project_root()), "showup-editor-ui", "generated_podcasts")
             os.makedirs(output_dir, exist_ok=True)
             
             output_path = os.path.join(output_dir, f"podcast_{timestamp}.mp3")

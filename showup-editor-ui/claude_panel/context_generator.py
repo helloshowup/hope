@@ -6,9 +6,10 @@ import threading
 import tkinter as tk
 from tkinter import ttk, messagebox, scrolledtext
 import logging
+from .path_utils import get_project_root
 
 # Import Claude API functionality
-sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+sys.path.append(os.path.join(str(get_project_root()), "showup-editor-ui"))
 from claude_api import generate_with_claude_haiku
 from cache_utils import get_cache_instance
 

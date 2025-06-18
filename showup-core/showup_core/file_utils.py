@@ -11,6 +11,7 @@ import json
 import logging
 import datetime
 from typing import Tuple, Dict, Any, Optional, List
+from showup_editor_ui.claude_panel.path_utils import get_project_root
 from .config import DIRS, AVAILABLE_COURSES
 
 # Configure logging
@@ -184,7 +185,7 @@ def archive_file(file_path: str, archive_dir: Optional[str] = None) -> Tuple[boo
         # Determine archive directory
         if archive_dir is None:
             # Get the base directory (usually the project root)
-            base_dir = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+            base_dir = str(get_project_root())
             
             # Default archive directory is data/archive
             archive_dir = os.path.join(base_dir, "data", "archive")
@@ -197,7 +198,7 @@ def archive_file(file_path: str, archive_dir: Optional[str] = None) -> Tuple[boo
         
         # Get parent directories to preserve structure
         rel_path = os.path.dirname(file_path)
-        base_dir = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+        base_dir = str(get_project_root())
         if base_dir in rel_path:
             rel_path = os.path.relpath(rel_path, base_dir)
         
@@ -283,7 +284,7 @@ def get_state_file_path(course_id: str) -> str:
         Path to the state file
     """
     # Get the base directory (usually the project root)
-    base_dir = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+    base_dir = str(get_project_root())
     
     # State files are stored in data/settings
     state_dir = os.path.join(base_dir, "data", "settings")
@@ -563,7 +564,7 @@ def check_course_content_exists(course_id: str, module_id: str = None) -> Tuple[
     """
     try:
         # Get the base directory (usually the project root)
-        base_dir = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+        base_dir = str(get_project_root())
         
         # Determine course directory
         course_dir = os.path.join(base_dir, "library", course_id)

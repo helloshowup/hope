@@ -8,9 +8,10 @@ from tkinter import ttk, messagebox, scrolledtext, filedialog
 import logging
 import json
 import datetime
+from .path_utils import get_project_root
 
 # Import Claude API functionality
-sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+sys.path.append(os.path.join(str(get_project_root()), "showup-editor-ui"))
 from claude_api import generate_with_claude_haiku, edit_markdown_with_claude
 
 # Get logger
@@ -455,7 +456,7 @@ class ContentEnhancer:
         """
         try:
             # Ensure logs directory exists
-            logs_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "logs", "api_responses")
+            logs_dir = os.path.join(str(get_project_root()), "showup-editor-ui", "logs", "api_responses")
             os.makedirs(logs_dir, exist_ok=True)
             
             # Create filename with timestamp

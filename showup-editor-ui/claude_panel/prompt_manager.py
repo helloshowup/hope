@@ -10,12 +10,13 @@ import requests
 import time
 import datetime
 from dotenv import load_dotenv
+from .path_utils import get_project_root
 
 # Import config manager
 from .config_manager import config_manager
 
 # Load environment variables from .env file
-env_path = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))), '.env')
+env_path = os.path.join(str(get_project_root()), '.env')
 load_dotenv(env_path)
 
 # Get logger
@@ -672,7 +673,7 @@ Follow these guidelines:
             str: The response from Claude
         """
         # Try to read API key directly from .env file
-        env_file_path = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))), '.env')
+        env_file_path = os.path.join(str(get_project_root()), '.env')
         api_key = None
         
         # First try to get from environment

@@ -3,6 +3,7 @@
 import os
 import tkinter as tk
 from tkinter import ttk, messagebox, scrolledtext, filedialog, Menu
+from .path_utils import get_project_root
 
 # Try to import pyperclip, but gracefully handle if it's missing
 try:
@@ -357,8 +358,11 @@ class MarkdownEditor:
         snippets = []
         # Construct path to snippets file in the data/input directory
         snippets_file = os.path.join(
-            os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
-            "data", "input", "snippets.txt"
+            str(get_project_root()),
+            "showup-editor-ui",
+            "data",
+            "input",
+            "snippets.txt",
         )
         
         try:
