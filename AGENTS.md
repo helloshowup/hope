@@ -5,7 +5,7 @@ This project is the **Showup Editor UI**, a desktop application designed to prov
 
 ## 2. Project Structure
 *   **Project Root**: `C:\Users\User\Documents\hope` (or `/workspace/hope` in Codex). This is the directory containing this `AGENTS.MD` file. All commands and development should be rooted here.
-*   **Main Application Module**: `claude_panel.main`. This is the entry point launched with `python -m claude_panel.main`.
+*   **Main Application Module**: `claude_panel.main`. This is the entry point launched with `python -m claude_panel.main`.ope\showup-editor-ui\launch_modular_editor.bat
 *   **Core UI and Logic Packages**:
     *   `showup-editor-ui/claude_panel/`: Contains the main Tkinter UI (`main_panel.py`), application logic, configuration management (`config_manager.py`), and various helper modules.
     *   `showup-core/`: Provides core functionalities, including API interactions (e.g., `claude_api.py`).

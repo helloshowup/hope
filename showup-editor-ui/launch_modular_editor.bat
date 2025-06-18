@@ -4,7 +4,7 @@ REM Determine project root relative to this script
 set "PROJECT_ROOT=%~dp0.."
 
 REM Construct PYTHONPATH using the project root
-set "PYTHONPATH=%PROJECT_ROOT%;%PROJECT_ROOT%\showup-core;%PROJECT_ROOT%\showup-tools"
+set "PYTHONPATH=%PROJECT_ROOT%;%PROJECT_ROOT%\showup-core;%PROJECT_ROOT%\showup_tools"
 
 REM Prefer virtual environment Python if available
 if exist "%PROJECT_ROOT%\showup-core\venv\Scripts\python.exe" (
