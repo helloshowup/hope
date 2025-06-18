@@ -13,6 +13,12 @@ if exist "%PROJECT_ROOT%\showup-core\venv\Scripts\python.exe" (
     set "PYTHON=python"
 )
 
+%PYTHON% %PROJECT_ROOT%\scripts\import_sanity_check.py
+if %ERRORLEVEL% NEQ 0 (
+    echo Import sanity check failed.
+    exit /b %ERRORLEVEL%
+)
+
 REM Change to the script's directory
 cd /d "%~dp0"
 
