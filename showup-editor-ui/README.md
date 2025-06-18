@@ -20,7 +20,11 @@ This repository contains the modular Claude Panel UI and supporting assets for S
    python ../scripts/index_handbook.py --file path/to/handbook.pdf
    ```
    Use `--force` to rebuild an existing index.
-4. Launch the UI:
+4. Verify imports using the provided sanity check script:
+   ```sh
+   python ../scripts/import_sanity_check.py
+   ```
+5. Launch the UI:
    ```sh
    python -m claude_panel.main
    ```

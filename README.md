@@ -18,6 +18,10 @@ Before launching the GUI, build the vector index for your handbook:
 ```bash
 python scripts/index_handbook.py --file path/to/handbook.pdf
 ```
+Run the import sanity check to verify that these packages resolve correctly:
+```bash
+python scripts/import_sanity_check.py
+```
 
 A compatibility module named `showup_editor_ui` exposes the existing `claude_panel` package for older imports. Ensure the project root is on `PYTHONPATH` when launching the UI so this shim resolves correctly.
 
