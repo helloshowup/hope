@@ -8,8 +8,13 @@ This repository contains the modular Claude Panel UI and supporting assets for S
 2. Install dependencies:
    ```sh
    pip install -r requirements.txt
-   pip install -e ../showup-core  # Editable install of showup-core
+   pip install -e ../showup-core   # Editable install of showup-core
+   pip install -e ../showup-tools  # Editable install of showup-tools
    ```
+   RAG features rely on both `showup-core` and `showup-tools` being installed
+   locally. When launching the UI your `PYTHONPATH` must include these
+   directories in addition to the project root. The vector database powering
+   RAG queries only functions on the local machine.
 3. Launch the UI:
    ```sh
    python -m claude_panel.main
