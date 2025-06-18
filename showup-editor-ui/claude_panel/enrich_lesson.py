@@ -37,7 +37,10 @@ except ImportError as e:
 
 # Top-level function to be run in a separate process for handbook indexing
 def _perform_handbook_indexing_subprocess(
-    handbook_content: str, textbook_id: str, force_rebuild: bool = False
+    handbook_content: str,
+    textbook_id: str,
+    force_rebuild: bool = False,
+    pythonpath: str = "",
 ) -> bool:
     """Performs handbook indexing in a subprocess.
     Instantiates ``TextbookVectorDB`` within the subprocess.
@@ -46,6 +49,7 @@ def _perform_handbook_indexing_subprocess(
         handbook_content: The content of the handbook.
         textbook_id: The ID of the textbook.
         force_rebuild: If ``True``, rebuild the index even if cached data exists.
+        pythonpath: ``PYTHONPATH`` to apply inside the subprocess.
 
     Returns:
         ``True`` if indexing was successful, ``False`` otherwise.
@@ -53,6 +57,13 @@ def _perform_handbook_indexing_subprocess(
     Raises:
         Exception: If any error occurs during indexing.
     """
+    # Ensure the subprocess has the correct PYTHONPATH before importing
+    if pythonpath:
+        os.environ["PYTHONPATH"] = pythonpath
+        for path in pythonpath.split(os.pathsep):
+            if path and path not in sys.path:
+                sys.path.insert(0, path)
+
     # Ensure RAG components are available in the subprocess context
     # We need to re-import TextbookVectorDB here because the subprocess
     # doesn't inherit the global context in the same way a thread does.
@@ -216,7 +227,10 @@ class EnrichLessonPanel:
         self.parent_frame = enrich_tab_frame
         self.view = EnrichLessonView(self.parent_frame, self)
         
-        self.executor = concurrent.futures.ProcessPoolExecutor(max_workers=1)
+        self.executor = concurrent.futures.ProcessPoolExecutor(
+            max_workers=1,
+            mp_context=multiprocessing.get_context("spawn"),
+        )
 
         # State variables
         self.current_lesson_content: str = ""
@@ -381,7 +395,8 @@ class EnrichLessonPanel:
                     _perform_handbook_indexing_subprocess,
                     handbook_content,
                     self.textbook_id,
-                    self.view.force_rebuild_var.get()
+                    self.view.force_rebuild_var.get(),
+                    os.environ.get("PYTHONPATH", "")
                 )
                 indexing_success = future.result(timeout=600)  # 10-minute timeout
                 if not indexing_success:

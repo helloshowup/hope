@@ -33,7 +33,13 @@ class HandbookIndexer:
         # This method will manage the subprocess for indexing.
         # The progress_callback would be for the main process to update UI.
         logger.info(f"Submitting handbook indexing for '{textbook_id}' to subprocess.")
-        future = self.process_executor.submit(_perform_handbook_indexing_subprocess, handbook_content, textbook_id)
+        future = self.process_executor.submit(
+            _perform_handbook_indexing_subprocess,
+            handbook_content,
+            textbook_id,
+            False,
+            os.environ.get("PYTHONPATH", "")
+        )
         
         try:
             # Simplified: actual progress needs careful handling if passed from subprocess
