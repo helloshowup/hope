@@ -15,7 +15,12 @@ This repository contains the modular Claude Panel UI and supporting assets for S
    locally. When launching the UI your `PYTHONPATH` must include these
    directories in addition to the project root. The vector database powering
    RAG queries only functions on the local machine.
-3. Launch the UI:
+3. Build the handbook index:
+   ```sh
+   python ../scripts/index_handbook.py --file path/to/handbook.pdf
+   ```
+   Use `--force` to rebuild an existing index.
+4. Launch the UI:
    ```sh
    python -m claude_panel.main
    ```
