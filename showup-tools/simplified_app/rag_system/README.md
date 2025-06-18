@@ -117,3 +117,20 @@ python -m rag_system.rag_integration
 - If you see errors about missing dependencies, install the required packages
 - If vector search fails, the system will automatically fall back to keyword search
 - For accuracy issues, try adjusting `chunk_size` and `chunk_overlap` in the TextbookVectorDB initialization
+
+## Indexing a Handbook Locally
+
+After installing the tools package in editable mode, you can build a
+vector index for a PDF or Markdown handbook using the provided CLI:
+
+```bash
+pip install -e ./showup-tools  # if not already installed
+python -m showup_tools.simplified_app.rag_system.ingest_textbook \
+    --file path/to/handbook.pdf
+```
+
+Use `--force` to rebuild an existing index. The generated vectors and
+chunk data are stored under `vector_cache/` in your working directory.
+The database operates entirely on the local machine—there is no remote
+search capability. Indexing very large handbooks (200+ pages) may take
+several minutes to complete.
