@@ -13,7 +13,7 @@ def setup_paths():
     paths_to_add = [
         showup_v4_root,
         os.path.join(showup_v4_root, 'showup-core'),
-        os.path.join(showup_v4_root, 'showup-tools')
+        os.path.join(showup_v4_root, 'showup_tools')
     ]
     for path in paths_to_add:
         if path not in sys.path:
