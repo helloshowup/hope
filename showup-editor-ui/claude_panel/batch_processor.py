@@ -17,8 +17,8 @@ parent_dir = os.path.join(str(get_project_root()), "showup-editor-ui")
 if parent_dir not in sys.path:
     sys.path.append(parent_dir)
 
-# Import Claude API functions directly from the package
-from showup_core.claude_api import (
+# Import Claude API functions directly from the module
+from claude_api import (
     edit_markdown_with_claude,
     generate_with_claude_haiku,
     CONTEXT_SYSTEM_PROMPT,
