@@ -13,6 +13,7 @@ import logging
 import azure.cognitiveservices.speech as speechsdk
 from typing import Dict
 from datetime import datetime
+from showup_editor_ui.claude_panel.path_utils import get_project_root
 
 logger = logging.getLogger('podcast_generator')
 
@@ -197,8 +198,7 @@ def enhance_with_ssml(script: str, tts_config: Dict[str, Dict[str, str]] = None)
     ssml_output += '</speak>'
     
     # Save SSML to debug file
-    debug_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 
-                             "generated_podcasts")
+    debug_dir = os.path.join(str(get_project_root()), "showup-core", "generated_podcasts")
     os.makedirs(debug_dir, exist_ok=True)
     debug_file = os.path.join(debug_dir, f"ssml_debug_{datetime.now().strftime('%Y%m%d_%H%M%S')}.xml")
     with open(debug_file, 'w', encoding='utf-8') as f:
@@ -231,8 +231,7 @@ def convert_to_audio(script: str, tts_config: Dict[str, Dict[str, str]] = None, 
         # Determine output directory
         if not output_dir:
             # Use default location
-            output_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 
-                                 "generated_podcasts")
+            output_dir = os.path.join(str(get_project_root()), "showup-core", "generated_podcasts")
         
         # Make sure the output directory exists
         os.makedirs(output_dir, exist_ok=True)

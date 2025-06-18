@@ -16,6 +16,7 @@ import logging
 import azure.cognitiveservices.speech as speechsdk
 from typing import Dict, Optional
 from datetime import datetime
+from showup_editor_ui.claude_panel.path_utils import get_project_root
 
 # Import common audio processing utilities
 from .audio_processor import escape_xml
@@ -149,8 +150,7 @@ def convert_fitness_script_to_audio(script: str, tts_config: Optional[Dict[str, 
     
     # If no output directory is specified, use the default generated_fitness_audio directory
     if output_dir is None:
-        output_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 
-                               "generated_fitness_audio")
+        output_dir = os.path.join(str(get_project_root()), "showup-core", "generated_fitness_audio")
     
     # Ensure the output directory exists
     os.makedirs(output_dir, exist_ok=True)

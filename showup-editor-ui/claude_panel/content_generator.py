@@ -6,11 +6,12 @@ import tkinter as tk
 from tkinter import ttk, messagebox, scrolledtext, filedialog
 import logging
 import sys
+from .path_utils import get_project_root
 # Dynamic import of cache_utils.py from root directory
 from importlib.util import spec_from_file_location, module_from_spec
 
 # Path to cache_utils.py in the root directory
-cache_utils_path = os.path.abspath(os.path.join(os.path.dirname(__file__), '../..', 'cache_utils.py'))
+cache_utils_path = os.path.join(str(get_project_root()), 'cache_utils.py')
 
 # Import cache_utils.py dynamically
 spec = spec_from_file_location('cache_utils', cache_utils_path)
@@ -21,7 +22,7 @@ spec.loader.exec_module(cache_utils)
 get_cache_instance = cache_utils.get_cache_instance
 
 # Import Claude API functionality from the showup-core directory
-claude_api_path = os.path.abspath(os.path.join(os.path.dirname(__file__), '../..', 'showup-core', 'claude_api.py'))
+claude_api_path = os.path.join(str(get_project_root()), 'showup-core', 'claude_api.py')
 
 # Import claude_api.py dynamically
 spec = spec_from_file_location('claude_api', claude_api_path)
@@ -32,7 +33,7 @@ spec.loader.exec_module(claude_api)
 generate_content_with_claude = claude_api.generate_with_claude_sonnet
 
 # Import CLAUDE_MODELS configuration
-sys.path.insert(0, os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))), "showup-core"))
+sys.path.insert(0, os.path.join(str(get_project_root()), "showup-core"))
 from claude_api import CLAUDE_MODELS
 
 # Get logger
@@ -307,7 +308,7 @@ class ContentGenerator:
         if profile_combobox:
             profile_name = profile_combobox.get()
             if profile_name:
-                profiles_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "profiles")
+                profiles_dir = os.path.join(str(get_project_root()), "showup-editor-ui", "profiles")
                 profile_path = os.path.join(profiles_dir, profile_name)
                 if os.path.exists(profile_path):
                     try:
@@ -370,7 +371,7 @@ class ContentGenerator:
             
             # Look for system prompt and other configuration in prompt_config.json
             system_prompt = ""
-            config_path = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "data", "prompt_config.json")
+            config_path = os.path.join(str(get_project_root()), "showup-editor-ui", "data", "prompt_config.json")
             
             temperature = 0.2  # Default temperature
             max_tokens = 12000  # Minimum token limit to prevent content cutoff

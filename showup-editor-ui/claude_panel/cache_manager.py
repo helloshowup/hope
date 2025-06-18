@@ -5,9 +5,10 @@ import sys
 import tkinter as tk
 from tkinter import ttk, messagebox
 import logging
+from .path_utils import get_project_root
 
 # Import cache utilities
-sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+sys.path.append(os.path.join(str(get_project_root()), "showup-editor-ui"))
 from cache_utils import get_cache_instance
 
 # Get logger

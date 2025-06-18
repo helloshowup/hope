@@ -10,9 +10,10 @@ from tkinter import ttk, messagebox, filedialog
 from datetime import datetime
 import json
 import threading
+from .path_utils import get_project_root
 
 # Add the parent directory to the system path for absolute imports
-parent_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+parent_dir = os.path.join(str(get_project_root()), "showup-editor-ui")
 if parent_dir not in sys.path:
     sys.path.append(parent_dir)
 
@@ -463,7 +464,7 @@ class FullDocRegenerator:
         """
         try:
             # Create logs directory if it doesn't exist
-            logs_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "logs", "api_responses")
+            logs_dir = os.path.join(str(get_project_root()), "showup-editor-ui", "logs", "api_responses")
             os.makedirs(logs_dir, exist_ok=True)
             
             # Create a timestamped filename

@@ -6,6 +6,7 @@ that form the foundation of the ShowupSquared workflow system.
 """
 # Set up basic logging first - we'll configure it properly later
 import logging
+from showup_editor_ui.claude_panel.path_utils import get_project_root
 core_logger = logging.getLogger("core")
 core_logger.setLevel(logging.INFO)
 
@@ -246,8 +247,7 @@ except ImportError as e:
 if not core_logger.handlers:
     # Create file handler
     import os
-    logs_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))),
-                         'data/logs/workflow2')
+    logs_dir = os.path.join(str(get_project_root()), 'showup-core', 'data', 'logs', 'workflow2')
     os.makedirs(logs_dir, exist_ok=True)
     
     file_handler = logging.FileHandler(os.path.join(logs_dir, "core.log"))

@@ -13,6 +13,7 @@ import logging
 import hashlib
 import datetime
 from typing import Dict, Optional
+from showup_editor_ui.claude_panel.path_utils import get_project_root
 
 try:
     from .api_utils import (
@@ -147,7 +148,7 @@ class ApiClient:
                 from dotenv import load_dotenv
                 
                 # Try to load from the ShowupSquared directory .env file
-                dotenv_path = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), '.env')
+                dotenv_path = os.path.join(str(get_project_root()), '.env')
                 load_dotenv(dotenv_path)
                 
                 if self.preferred_provider == "claude":
@@ -317,7 +318,7 @@ async def generate_with_claude(prompt: str, max_tokens: int = 4000, temperature:
         from dotenv import load_dotenv
         
         # Try to load from the ShowupSquared directory .env file
-        dotenv_path = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), '.env')
+        dotenv_path = os.path.join(str(get_project_root()), '.env')
         load_dotenv(dotenv_path)
         
         api_key = os.getenv("ANTHROPIC_API_KEY")

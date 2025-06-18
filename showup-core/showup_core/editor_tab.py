@@ -13,9 +13,10 @@ from tkinter import ttk
 import logging
 import json
 from typing import List
+from showup_editor_ui.claude_panel.path_utils import get_project_root
 
 # Import for the modular editor panel
-sys_path_addition = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys_path_addition = os.path.join(str(get_project_root()), "showup-editor-ui")
 
 logger = logging.getLogger('podcast_generator')
 
@@ -91,9 +92,10 @@ class EditorTab:
 
         # Load the custom prompt configuration (if it exists)
         prompt_config_path = os.path.join(
-            os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
+            str(get_project_root()),
+            "showup-core",
             "data",
-            "content_generation_config.json"
+            "content_generation_config.json",
         )
         
         custom_prompt = ""

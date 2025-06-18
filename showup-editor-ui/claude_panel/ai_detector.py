@@ -7,11 +7,12 @@ from tkinter import ttk, messagebox, scrolledtext
 import logging
 import json
 import re
-# Dynamic import of cache_utils.py from root directory
 from importlib.util import spec_from_file_location, module_from_spec
+from .path_utils import get_project_root
 
 # Path to cache_utils.py in the root directory
-cache_utils_path = os.path.abspath(os.path.join(os.path.dirname(__file__), '../..', 'cache_utils.py'))
+project_root = get_project_root()
+cache_utils_path = os.path.join(str(project_root), 'cache_utils.py')
 
 # Import cache_utils.py dynamically
 spec = spec_from_file_location('cache_utils', cache_utils_path)
@@ -22,7 +23,7 @@ spec.loader.exec_module(cache_utils)
 get_cache_instance = cache_utils.get_cache_instance
 
 # Import Claude API functionality from the showup-core directory
-claude_api_path = os.path.abspath(os.path.join(os.path.dirname(__file__), '../..', 'showup-core', 'claude_api.py'))
+claude_api_path = os.path.join(str(project_root), 'showup-core', 'claude_api.py')
 
 # Import claude_api.py dynamically
 spec = spec_from_file_location('claude_api', claude_api_path)
@@ -62,8 +63,11 @@ class AIDetector:
         try:
             # Path to the patterns file
             patterns_file = os.path.join(
-                os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
-                "data", "input", "ai_patterns.json"
+                str(project_root),
+                "showup-editor-ui",
+                "data",
+                "input",
+                "ai_patterns.json",
             )
             
             # Create default patterns file if it doesn't exist

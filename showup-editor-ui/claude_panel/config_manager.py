@@ -9,6 +9,7 @@ Handles loading, saving, and accessing application settings
 import os
 import json
 import logging
+from .path_utils import get_project_root
 
 # Get logger
 logger = logging.getLogger("output_library_editor")
@@ -26,7 +27,7 @@ class ConfigManager:
     
     def __init__(self):
         # Path to the config file
-        self.base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+        self.base_dir = str(get_project_root())
         self.config_file = os.path.join(self.base_dir, "settings.json")
         
         # Current configuration (loaded from file or defaults)
