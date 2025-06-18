@@ -544,10 +544,9 @@ class ThemeManager:
             .navigation a {
                 margin: 0.3rem 0;
                 text-align: center;
-            }
         }
         """
-        
+
         # Default dark theme
         self.themes["dark"] = """
         :root {
@@ -729,3 +728,5 @@ class ThemeManager:
                 text-align: center;
             }
         }
+        """
+

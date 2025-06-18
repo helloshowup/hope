@@ -293,6 +293,7 @@ class EnhancedMarkdownToDocxConverter:
 
     def convert(self):
         # ... (rest of the class implementation)
+        pass
 
 class ImageMetadataExtractor:
     def __init__(self, image_file):
@@ -339,9 +340,11 @@ class ImageCaptionFormatter:
 
     def format_caption(self):
         # ... (rest of the class implementation)
+        pass
 
 def main():
     # ... (rest of the main function implementation)
+    pass
 
 if __name__ == "__main__":
     main()
