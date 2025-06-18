@@ -9,7 +9,6 @@ import logging
 import re
 import json
 import threading
-import importlib.util
 import tkinter as tk # Keep for type hints if necessary, but avoid direct use
 from tkinter import ttk, filedialog, messagebox, scrolledtext
 from .utils import calculate_cosine_similarity, extract_local_keywords, DEFAULT_STOP_WORDS
@@ -22,27 +21,11 @@ import multiprocessing # Added for ProcessPoolExecutor
 # Import logging
 logger = logging.getLogger(__name__)
 
-# Import vector search module
-# Add paths for our custom modules
-# Current file: showup-v4/showup-editor-ui/claude_panel/enrich_lesson.py
-# Target: showup-v4/showup-tools/simplified_app/rag_system/
-showup_v4_root = os.path.join(os.path.dirname(__file__), '..', '..')  # Go up 2 levels to reach showup-v4
-showup_core = os.path.join(showup_v4_root, 'showup-core')  # showup-core inside showup-v4
-showup_tools = os.path.join(showup_v4_root, 'showup-tools')  # showup-tools inside showup-v4
-
-logger.info(f"Adding paths to sys.path:")
-logger.info(f"  showup_v4_root: {os.path.abspath(showup_v4_root)}")
-logger.info(f"  showup_core: {os.path.abspath(showup_core)}")
-logger.info(f"  showup_tools: {os.path.abspath(showup_tools)}")
-
-sys.path.insert(0, showup_v4_root)
-sys.path.insert(0, showup_core)
-sys.path.insert(0, showup_tools)
-
+# Import vector search modules from showup_tools package
 try:
     logger.info("Attempting to import RAG system modules...")
-    from simplified_app.rag_system.textbook_vector_db import TextbookVectorDB
-    from simplified_app.rag_system.claude_api_client import ClaudeAPIClient
+    from showup_tools.simplified_app.rag_system.textbook_vector_db import TextbookVectorDB
+    from showup_tools.simplified_app.rag_system.claude_api_client import ClaudeAPIClient
     logger.info(" RAG system modules imported successfully")
     logger.info(f"TextbookVectorDB: {TextbookVectorDB}")
     logger.info(f"ClaudeAPIClient: {ClaudeAPIClient}")
@@ -72,9 +55,8 @@ def _perform_handbook_indexing_subprocess(handbook_content: str, textbook_id: st
     # doesn't inherit the global context in the same way a thread does.
     local_tvdb_module = None
     try:
-        # Attempt to import directly, assuming sys.path is correctly set up
-        # by the main process and inherited by the subprocess.
-        from simplified_app.rag_system.textbook_vector_db import TextbookVectorDB as TVDB_Subprocess
+        # Attempt to import directly from the installed package
+        from showup_tools.simplified_app.rag_system.textbook_vector_db import TextbookVectorDB as TVDB_Subprocess
         local_tvdb_module = TVDB_Subprocess
         if local_tvdb_module is None:
             raise ImportError("TextbookVectorDB imported as None in subprocess")

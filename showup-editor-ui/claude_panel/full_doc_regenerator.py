@@ -16,41 +16,17 @@ parent_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 if parent_dir not in sys.path:
     sys.path.append(parent_dir)
 
-# Import Claude API functions
-# After refactoring, claude_api was consolidated into a single file
-# The file is located directly in the showup-core directory
-# Import the module directly using the full path
-from importlib.util import spec_from_file_location, module_from_spec
-import os
-import sys
-
-# Path to claude_api.py (using current file's location to find relative path)
-module_path = os.path.abspath(os.path.join(os.path.dirname(__file__), '../..', 'showup-core', 'claude_api.py'))
-
-# Import claude_api.py dynamically
-spec = spec_from_file_location('claude_api', module_path)
-claude_api = module_from_spec(spec)
-spec.loader.exec_module(claude_api)
-
-# Get the required functions and constants
-regenerate_markdown_with_claude = claude_api.regenerate_markdown_with_claude
-generate_with_claude_haiku = claude_api.generate_with_claude_haiku
-CONTEXT_SYSTEM_PROMPT = claude_api.CONTEXT_SYSTEM_PROMPT
-CONTEXT_USER_PROMPT_TEMPLATE = claude_api.CONTEXT_USER_PROMPT_TEMPLATE
+# Import Claude API functions directly from the package
+from showup_core.claude_api import (
+    regenerate_markdown_with_claude,
+    generate_with_claude_haiku,
+    CONTEXT_SYSTEM_PROMPT,
+    CONTEXT_USER_PROMPT_TEMPLATE,
+)
 
 # Import cache utility from root directory
-# Using dynamic import to maintain Single Source Rule (one source of truth)
-
-# Path to cache_utils.py (in the root directory)
-cache_utils_path = os.path.abspath(os.path.join(os.path.dirname(__file__), '../..', 'cache_utils.py'))
-
-# Import cache_utils.py dynamically
-spec = spec_from_file_location('cache_utils', cache_utils_path)
-cache_utils = module_from_spec(spec)
-spec.loader.exec_module(cache_utils)
-
-# Get the required function
-get_cache_instance = cache_utils.get_cache_instance
+# Cache utilities
+from cache_utils import get_cache_instance
 
 # Get logger
 logger = logging.getLogger("output_library_editor")

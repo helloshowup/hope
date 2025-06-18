@@ -32,9 +32,8 @@ from .podcast_launcher import setup_podcast_tab  # Import the podcast launcher m
 from .lesson_preview_panel import LessonPreviewPanel  # Import the lesson preview panel
 from .enrich_lesson import EnrichLessonPanel  # Import the enrich lesson panel
 
-# Import CLAUDE_MODELS configuration
-sys.path.insert(0, os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))), "showup-core"))
-from claude_api import CLAUDE_MODELS
+# Import CLAUDE_MODELS configuration from installed package
+from showup_core.claude_api import CLAUDE_MODELS
 
 # Get logger
 logger = logging.getLogger("output_library_editor")
