@@ -1147,8 +1147,19 @@ def edit_markdown_with_claude(markdown_text, instructions, context="", model=Non
             for item in response_data["content"]:
                 if item.get("type") == "text":
                     api_response += item.get("text", "")
-        
+
         logger.info("Received response from Claude, processing edits")
+
+        # Save raw response for debugging before regex parsing
+        timestamp = time.strftime("%Y%m%d-%H%M%S")
+        raw_logs_dir = ensure_logs_directory("claude/raw")
+        raw_filename = os.path.join(raw_logs_dir, f"response_{timestamp}.txt")
+        try:
+            with open(raw_filename, "w", encoding="utf-8") as f:
+                f.write(api_response)
+            logger.info(f"Saved raw Claude response to {raw_filename}")
+        except Exception as e:
+            logger.error(f"Error saving raw Claude response: {str(e)}")
         
         # Process the response to extract edit instructions with new standardized format
         insert_pattern = r'\[EDIT\s*:\s*INSERT\s*:\s*(\d+)\s*\]([\s\S]*?)\[/\s*EDIT\s*\]'
