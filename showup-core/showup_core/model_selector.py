@@ -70,7 +70,7 @@ class SmartModelSelector:
         }
         
         # Default model for when complexity is unclear
-        self.default_model = "claude-3-5-sonnet-20240620"
+        self.default_model = "claude-3-haiku-20240307"
         
         # Token budget constraints
         self.token_budget = None  # No budget constraints by default
@@ -122,8 +122,10 @@ class SmartModelSelector:
         input_tokens = self._estimate_tokens(prompt)
         estimated_cost = self._estimate_cost(input_tokens, max_expected_tokens, "claude-3-5-sonnet-20240620")
         
-        # Select model based on complexity score
-        selected_model = self._select_by_complexity(complexity_score)
+        # Select model based on complexity score and hints
+        selected_model = self._select_by_complexity(
+            complexity_score, task_type, max_expected_tokens
+        )
         
         # Check if the selected model fits within budget constraints
         if self.token_budget is not None:
@@ -216,25 +218,27 @@ class SmartModelSelector:
         logger.info(f"Estimated task complexity: {complexity}/10")
         return complexity
     
-    def _select_by_complexity(self, complexity_score: int) -> str:
-        """
-        Select model based on complexity score.
-        
-        Args:
-            complexity_score: Complexity score from 1-10
-            
-        Returns:
-            Selected model name
-        """
+    def _select_by_complexity(
+        self,
+        complexity_score: int,
+        task_type: Optional[str] = None,
+        token_budget: Optional[int] = None,
+    ) -> str:
+        """Select model based on complexity score and additional hints."""
+        if task_type in {"context_generation", "summary"}:
+            return "claude-3-haiku-20240307"
+
+        if token_budget is not None and token_budget <= 4000:
+            return "claude-3-haiku-20240307"
+
         if complexity_score <= 3:
             # Simple tasks use the smallest model
             return "claude-3-haiku-20240307"
-        elif complexity_score >= 8:
+        if complexity_score >= 8:
             # Complex tasks use the largest model
             return "claude-3-7-sonnet-20250219"
-        else:
-            # Medium complexity tasks use the balanced model
-            return "claude-3-5-sonnet-20240620"
+        # Medium complexity tasks use the balanced model
+        return "claude-3-5-sonnet-20240620"
     
     def _estimate_tokens(self, text: str) -> int:
         """
