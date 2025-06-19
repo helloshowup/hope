@@ -70,9 +70,7 @@ if (left_light_sensor < dark_threshold && right_light_sensor > dark_threshold) {
 }
 ```
 
-This code shows how a robot makes decisions based on what its two light sensors detect. When the left sensor sees the dark line but the right sensor doesn't, the robot knows the line curves right, so it turns right. The opposite happens when only the right sensor sees the line. When both sensors detect the dark line, the robot is centered and moves straight ahead. If neither sensor sees the line, the robot has lost its path and needs to stop and look for it again.
-
-Understanding these decision-making patterns prepares you for the next important concept: how robots can respond to sensors in different ways. Some situations call for simple on-off responses, while others need smoother, more gradual reactions. Learning when to use each type will make your robot programs more effective and natural-looking.
+%%%CONTENT_REQUEST%%% [Write a short paragraph or two that naturally explains the above code from the previous section so that it links to the next H2 section. Emphasize hwhy the next topic will help the learner improve even more. Avoid AI-like phrasing or abstract generalizations.] %%%CONTENT_REQUEST_END%%%
 
 ---stopandreflect---
 **CHECKPOINT:** Think about the devices you use every day. Can you identify an example of a sensor-based system in your home, school, or a toy that uses the input-processing-output framework we just discussed? How does it detect information and respond to changes?
@@ -101,3 +99,4 @@ This gradual response makes the robot's movements appear more fluid and natural.
 - Robots follow an input-processing-output (IPO) pattern: they take in sensor data, think about what it means, and then respond with actions like moving or making sounds.
 - Robot programs can respond to sensors in different ways—either by making yes/no decisions at specific thresholds or by making smooth, gradual adjustments as sensor readings change.
 ---keytakeawaysEND---
+
