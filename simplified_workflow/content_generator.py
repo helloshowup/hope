@@ -49,7 +49,10 @@ async def generate_content(variables: Dict[str, str], template: str, settings: O
     word_count = gen_settings.get("character_limit", 500)   # Default to 500 words, using character_limit field for backward compatibility
     
     # Get model from settings - prioritize initial_generation_model if available
-    model = settings.get("initial_generation_model", settings.get("selected_model", "claude-3-5-sonnet-20240620"))   # Default to Claude 3.5 Sonnet
+    model = settings.get(
+        "initial_generation_model",
+        settings.get("selected_model", "claude-3-haiku-20240307"),
+    )
 
     # Get template-specific settings if available
     template_type = variables.get("template_type", "").lower()
@@ -201,7 +204,10 @@ async def generate_three_versions(variables: Dict[str, str], template: str) -> L
         return await generate_content(variables, template, settings_copy)
         
     # Get the initial generation model from UI settings
-    model = ui_settings.get("initial_generation_model", ui_settings.get("selected_model", "claude-3-5-sonnet-20240620"))
+    model = ui_settings.get(
+        "initial_generation_model",
+        ui_settings.get("selected_model", "claude-3-haiku-20240307"),
+    )
     logger.info(f"Using initial generation model: {model} for three versions generation")
     
     # Process sequentially to avoid parallel API calls
