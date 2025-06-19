@@ -62,10 +62,10 @@ logger = logging.getLogger("ai_api")
 # Centralized Claude model configuration
 CLAUDE_MODELS = {
     # Production-approved models only
-    "CONTEXT_GEN": "claude-3-5-haiku-20241022",  # Fast, efficient for context generation (Haiku 3.5)
+    "CONTEXT_GEN": "claude-3-haiku-20240307",  # Fast, efficient for context generation (Haiku 3.5)
     "CONTENT_EDIT": "claude-opus-4-20250514",  # Intelligent for nuanced editing (Claude 4 Opus)
     # Cache configuration
-    "CACHE_ENABLED": ["claude-3-5-haiku-20241022", "claude-opus-4-20250514"],
+    "CACHE_ENABLED": ["claude-3-haiku-20240307", "claude-opus-4-20250514"],
 }
 
 # Centralized system prompt templates
@@ -155,7 +155,7 @@ MODEL_TOKEN_LIMITS = {
     "claude-3-sonnet-20240229": 200000,
     "claude-3-opus-20240229": 200000,
     "claude-3-7-sonnet-20250219": 200000,  # Added Claude 3.7 Sonnet with higher limit
-    "claude-3-5-haiku-20241022": 200000,  # Added Claude 3.5 Haiku
+    "claude-3-haiku-20240307": 200000,  # Added Claude 3.5 Haiku
     "claude-opus-4-20250514": 200000,  # Added Claude 4 Opus
     "gpt-4": 8192,
     "gpt-4-turbo": 128000,
@@ -400,7 +400,7 @@ class ClaudeAPI(BaseAPI):
         cache_supported_models = [
             "claude-3-7-sonnet-20250219",
             "claude-3-5-sonnet-20241022",
-            "claude-3-5-haiku-20241022",
+            "claude-3-haiku-20240307",
             "claude-3-haiku-20240307",
             "claude-3-opus-20240229",
             "claude-opus-4-20250514",
