@@ -14,6 +14,7 @@ import hashlib
 import datetime
 from typing import Dict, Optional
 from showup_editor_ui.claude_panel.path_utils import get_project_root
+from .model_config import DEFAULT_MODEL, DEFAULT_CONTEXT_MODEL
 
 try:
     from .api_utils import (
@@ -204,7 +205,7 @@ class ApiClient:
         else:
             # Fallback to Claude if OpenAI integration not implemented yet
             self.logger.warning(f"Selected model {model} not fully supported, falling back to Claude")
-            return await generate_with_claude(prompt, max_tokens, temperature, "claude-3-7-sonnet-20250219", use_cache)
+            return await generate_with_claude(prompt, max_tokens, temperature, DEFAULT_MODEL, use_cache)
 
 
 def get_api_client(api_key: str = None, preferred_provider: str = "claude") -> ApiClient:
@@ -249,7 +250,7 @@ def get_model_max_tokens(model: str) -> int:
     return model_limits.get(model, model_limits["default"])
 
 async def generate_with_claude(prompt: str, max_tokens: int = 4000, temperature: float = 0.7,
-                           model: str = "claude-3-7-sonnet-20250219", use_cache: bool = True,
+                           model: Optional[str] = None, use_cache: bool = True,
                            task_type: str = "content_generation", system_prompt: str = "",
                            module_number: int = None, lesson_number: int = None,
                           step_number: int = None) -> str:
@@ -305,8 +306,15 @@ async def generate_with_claude(prompt: str, max_tokens: int = 4000, temperature:
     ai_logger = AILogEnhancer.get_ai_logger()
     start_time = time.time()
     from_cache = False
-    
+
     # Log the start of the AI request
+    # Determine default model if not provided
+    if not model:
+        if task_type and ("context" in task_type or "summary" in task_type):
+            model = DEFAULT_CONTEXT_MODEL
+        else:
+            model = DEFAULT_MODEL
+
     AILogEnhancer.log_ai_request(ai_logger, model, task_type, None, use_cache)
     
     # Get API key from environment or config

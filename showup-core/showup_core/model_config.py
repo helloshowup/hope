@@ -26,8 +26,11 @@ CLAUDE_MODELS = [
     }
 ]
 
-# Default model
+# Default model for general content generation
 DEFAULT_MODEL = "claude-3-7-sonnet-20250219"
+
+# Default model for building context or summaries
+DEFAULT_CONTEXT_MODEL = "claude-3-haiku-20240307"
 
 def get_model_display_name(model_id):
     """Get the display name for a model ID."""
