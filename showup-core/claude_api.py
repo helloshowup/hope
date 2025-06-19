@@ -1215,7 +1215,10 @@ def edit_markdown_with_claude(markdown_text, instructions, context="", model=Non
                 format_type = edit['format']
                 
                 logger.info(f"Inserting content after line {line_num} ({format_type} format)")
-                content_lines = content.split('\n')
+                content_lines = [
+                    re.sub(r'^\[\d+\]\s*', '', ln)
+                    for ln in content.split('\n')
+                ]
                 # Insert new content after the specified line
                 edited_lines[line_num:line_num] = content_lines
                 edits_made += 1
@@ -1231,7 +1234,10 @@ def edit_markdown_with_claude(markdown_text, instructions, context="", model=Non
                 start_idx = start_line - 1
                 end_idx = end_line - 1  # inclusive end
                 
-                content_lines = content.split('\n')
+                content_lines = [
+                    re.sub(r'^\[\d+\]\s*', '', ln)
+                    for ln in content.split('\n')
+                ]
                 # Replace the specified line range
                 edited_lines[start_idx:end_idx+1] = content_lines
                 edits_made += 1
