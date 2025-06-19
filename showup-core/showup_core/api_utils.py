@@ -12,10 +12,11 @@ import hashlib
 import logging
 import datetime
 from typing import Dict, Any, List, Optional, Tuple, Callable
+from .model_config import DEFAULT_CONTEXT_MODEL
 
 logger = logging.getLogger("api_utils")
 
-def prepare_api_params(model: str = "claude-3-7-sonnet-20250219", 
+def prepare_api_params(model: str = DEFAULT_CONTEXT_MODEL,
                      temperature: float = 0.7,
                      max_tokens: int = 4000,
                      system_prompt: Optional[str] = None,
