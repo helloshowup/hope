@@ -21,7 +21,7 @@ from .content_comparator import compare_and_combine
 from .content_reviewer import review_content
 from .ai_detector import detect_ai_patterns, edit_content
 # Import batch persistence functions
-from core.batch_processor import (
+from showup_core.batch_processor import (
     save_batch_state, process_existing_results,
     find_batch_for_modules_lessons, get_batch_processor
 )
