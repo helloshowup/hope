@@ -165,3 +165,4 @@ showup-core/logs/claude/
 # Ignore Claude logs
 showup-library/
 showup-editor-ui/logs/
+showup-library/library/
