@@ -86,5 +86,5 @@ Adherence to these standards is crucial for maintaining code quality, readabilit
 *   **Simplicity for Personal Use**: Prioritize straightforward solutions suitable for a personal project. For example, complex CI/CD pipelines or overly elaborate testing frameworks are likely unnecessary.
 
 ## 8. Launch & Import Notes
-*   `showup-editor-ui\launch_modular_editor.bat` is the **only** batch scripts used to start the application. Remove any other `.bat` files to avoid confusio expect for and showup-editor-ui\run_podcast_generator.bat
+*   `showup-editor-ui\launch_modular_editor.bat` is the **only** batch scripts used to start the application. Remove any other `.bat` files to avoid confusion expect for and showup-editor-ui\run_podcast_generator.bat and hope\showup_tools\simplified_app\simplified_app.py
 *   Import paths rely on underscores (e.g., `claude_panel`, `showup_tools`). Typos with hyphens like `claude-panel` or `showup-tools` will break imports.
