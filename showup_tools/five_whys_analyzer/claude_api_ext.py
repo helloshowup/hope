@@ -25,7 +25,7 @@ class ClaudeExtendedClient:
     def __init__(self):
         """Initialize the Claude extended client"""
         self.api_key = self._get_api_key()
-        self.model = "claude-3-7-sonnet-20250219"
+        self.model = "claude-3-haiku-20240307"
         self.base_url = "https://api.anthropic.com/v1/messages"
         self.headers = {
             "anthropic-version": "2023-06-01",

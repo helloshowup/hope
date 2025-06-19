@@ -191,7 +191,10 @@ async def extract_student_handbook_information(content_outline: str, handbook_pa
     
     try:
         # Get the model to use for extraction - use the initial generation model from UI settings
-        model = ui_settings.get("initial_generation_model", ui_settings.get("selected_model", "claude-3-5-sonnet-20240620"))
+        model = ui_settings.get(
+            "initial_generation_model",
+            ui_settings.get("selected_model", "claude-3-haiku-20240307"),
+        )
         
         # Get token limit from UI settings
         token_limit = int(ui_settings.get("token_limit", 4000))

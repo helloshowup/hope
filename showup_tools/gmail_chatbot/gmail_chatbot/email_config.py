@@ -50,7 +50,7 @@ def load_env() -> None:
         logging.warning(f"Environment file not found at {env_path}")
 
 # Claude API configuration
-CLAUDE_DEFAULT_MODEL = "claude-3-7-sonnet-20250219"
+CLAUDE_DEFAULT_MODEL = "claude-3-haiku-20240307"
 CLAUDE_PREP_MODEL_ENV = "CLAUDE_PREP_MODEL"
 CLAUDE_PREP_MODEL = os.getenv(
     CLAUDE_PREP_MODEL_ENV, "claude-3-haiku-20240307"
