@@ -307,11 +307,27 @@ class BatchProcessor:
                 logger.info(f"Enhancing content for {os.path.basename(file_path)}...")
                 
                 # Generate enhanced content using edit function
-                enhanced_content = edit_markdown_with_claude(
-                    markdown_text=file_content,
-                    instructions=prompt,
-                    context=context
-                )
+                try:
+                    enhanced_content = edit_markdown_with_claude(
+                        markdown_text=file_content,
+                        instructions=prompt,
+                        context=context,
+                    )
+                    if enhanced_content.strip() == file_content.strip():
+                        raise RuntimeError(
+                            "No edits applied \u2013 file left unchanged"
+                        )
+                except (ValueError, RuntimeError) as e:
+                    error_msg = f"Error processing {os.path.basename(file_path)}: {str(e)}"
+                    logger.error(error_msg)
+                    self.batch_results[file_path] = "failed"
+                    self.parent.after(
+                        0,
+                        lambda msg=error_msg: messagebox.showerror(
+                            "Batch Processing Error", msg
+                        ),
+                    )
+                    continue
                 
                 # Log edit response for debugging
                 edit_response_data = {
@@ -338,7 +354,15 @@ class BatchProcessor:
                     logger.info(f"Successfully processed {file_path}")
                 
             except Exception as e:
-                logger.error(f"Error processing {file_path}: {str(e)}")
+                error_msg = f"Error processing {os.path.basename(file_path)}: {str(e)}"
+                logger.error(error_msg)
+                self.batch_results[file_path] = "failed"
+                self.parent.after(
+                    0,
+                    lambda msg=error_msg: messagebox.showerror(
+                        "Batch Processing Error", msg
+                    ),
+                )
             
         # Update UI when done
         elapsed_time = time.time() - start_time
