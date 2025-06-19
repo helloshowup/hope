@@ -11,7 +11,7 @@ from datetime import datetime
 import json
 import threading
 from .path_utils import get_project_root
-from .constants import LINE_EDIT_PROMPT_HDR
+from showup_core.claude_api_consts import LINE_EDIT_HEADER
 
 # Add the parent directory to the system path for absolute imports
 parent_dir = os.path.join(str(get_project_root()), "showup-editor-ui")
@@ -221,7 +221,13 @@ class BatchProcessor:
             )
             return
 
-        prompt_text = f"{LINE_EDIT_PROMPT_HDR}\n\n{prompt_text.strip()}"
+        prompt_text = prompt_text.strip()
+        if (
+            "[EDIT:" not in prompt_text.upper()
+            and "INSERT" not in prompt_text.upper()
+            and "REPLACE" not in prompt_text.upper()
+        ):
+            prompt_text = f"{LINE_EDIT_HEADER}\n\n{prompt_text}"
 
         # Get learner profile from the prompt manager - profiles are stored in parent.profiles
         selected_profile = self.parent.prompt_manager.selected_profile
@@ -243,13 +249,6 @@ class BatchProcessor:
         self.status_var.set("Starting batch processing...")
         self.process_btn.config(state="disabled")
         self.cancel_btn.config(state="normal")
-
-        if "[EDIT:" not in prompt_text.upper():
-            logger.warning(
-                "Prompt missing line-edit tags — adding header automatically."
-            )
-            prompt_text = f"{LINE_EDIT_PROMPT_HDR}\n\n{prompt_text}"
-
         # Start processing in a thread
         self.batch_thread = threading.Thread(
             target=self._process_files, args=(batch_files, prompt_text, learner_profile)
@@ -279,6 +278,14 @@ class BatchProcessor:
             prompt (str): Enhancement prompt to use
             learner_profile (str): Target learner profile to use
         """
+        prompt = prompt.strip()
+        if (
+            "[EDIT:" not in prompt.upper()
+            and "INSERT" not in prompt.upper()
+            and "REPLACE" not in prompt.upper()
+        ):
+            prompt = f"{LINE_EDIT_HEADER}\n\n{prompt}"
+
         # Begin batch processing
         logger.info(
             f"Starting batch processing of {len(files)} files with prompt '{prompt[:50]}...'"
