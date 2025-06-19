@@ -63,9 +63,9 @@ logger = logging.getLogger("ai_api")
 CLAUDE_MODELS = {
     # Production-approved models only
     "CONTEXT_GEN": "claude-3-haiku-20240307",  # Fast, efficient for context generation (Haiku 3.5)
-    "CONTENT_EDIT": "claude-opus-4-20250514",  # Intelligent for nuanced editing (Claude 4 Opus)
+    "CONTENT_EDIT": "claude-3-7-sonnet-20250219",  # Intelligent for nuanced editing (Claude 4 Opus)
     # Cache configuration
-    "CACHE_ENABLED": ["claude-3-haiku-20240307", "claude-opus-4-20250514"],
+    "CACHE_ENABLED": ["claude-3-haiku-20240307", "claude-3-7-sonnet-20250219"],
 }
 
 # Centralized system prompt templates
