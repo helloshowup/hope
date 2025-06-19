@@ -1,49 +1,121 @@
-```
-# GRAPHIC DESIGN  
-## ANALYSE DESIGNS  
+# Multiple-Choice Test: Coffee Rebranding Case Study
 
-### BILLBOARD/TUBE ADVERTISEMENT  
-![Transport for London awareness billboard: an orange background fills the frame while two hands form a heart-shape. A blue rectangular banner inside the heart reads “BE CONSIDERATE TO OTHERS” in large white capitals, followed by the smaller line “Please remember, not all disability is visible.” The Transport for London roundel logo and the words “Mayor of London” sit in the lower-right corner.]()  
+## Question 1
+During the initial project briefing phase, which of the following is NOT explicitly mentioned as a key goal for the Cold Brew coffee brand project?
 
-Take some time (5 minutes) to observe this Transport for London awareness billboard. Look specifically at the use of space within the composition and the hierarchy therein. Assess the use of leading lines and colours before then analysing the effectiveness of application and overall design aesthetic.  
+A) Conveying premium quality
+B) Establishing competitive pricing strategies
+C) Communicating eco-friendly ethos
+D) Creating packaging for artisanal coffee beans
 
-*Photo by John Cameron, 2021 — unsplash.com/photos/xxxxxxxx*  
+**Correct Answer: B**
 
----  
+**Explanation:** The case study specifically mentions that key goals include "conveying the brand's premium quality and eco-friendly ethos." Pricing strategies are not discussed as part of the project objectives, which focus on brand identity and visual communication rather than business strategy.
 
-### RULE OF THIRDS  
-![Schematic of the billboard overlaid with a 3 × 3 rule-of-thirds grid. Four red grid intersections are numbered: ① top-left (headline), ② bottom-centre (sub-copy), ③ top-right (secondary copy), ④ bottom-right (logo). Grey blocks mark content areas; the logo and “Mayor of London” copy sit outside the primary focal intersections.]()  
+## Question 2
+What is the primary purpose of creating a mood board during the Research and Inspiration Gathering phase?
 
-The rule of thirds has been applied to the elements within the composition. Take note of the placement of the tertiary information (logo and “Mayor of London” copy) being outside of the main focal points within the rule.  
+A) To present final design concepts to the client
+B) To compile imagery, textures, and colour schemes that inform the design direction
+C) To document competitor pricing strategies
+D) To establish project timelines and budgets
 
----  
+**Correct Answer: B**
 
-### HIERARCHY  
-![Block diagram illustrating hierarchy: a large grey rectangle labelled 1 at upper left, a medium rectangle labelled 2 at mid-right, and two small rectangles labelled 3 and 4 along the bottom. The descending sizes show primary, secondary and tertiary emphasis.]()  
+**Explanation:** The case study states that during the research phase, designers "Create a mood board with imagery, textures, and colour schemes." This visual collection serves as inspiration and helps establish the aesthetic direction for the project.
 
-Hierarchy of information is portrayed with larger copy elements sitting at the first focal point (1); the secondary information (2) is smaller and sits at the fourth focal point; and the tertiary elements are smallest (3 and 4).  
+## Question 3
+In the context of this case study, why would a designer analyse competitors' designs during the research phase?
 
----  
+A) To copy successful design elements directly
+B) To understand market pricing for similar services
+C) To identify strengths and weaknesses in existing designs
+D) To determine production costs for packaging
 
-### LEADING LINES  
+**Correct Answer: C**
 
-![First leading-line diagram: a red arrow traces the curved gap between two illustrated fingers from the left edge toward a mid-right grey rectangle, guiding the viewer’s gaze to secondary information.]()  
+**Explanation:** The case study specifically mentions analysing "competitors' designs for strengths and weaknesses." This competitive analysis helps designers understand what works in the market and identify opportunities for differentiation.
 
-Leading lines can help direct a viewer’s gaze through the information in conjunction with the use of the rule of thirds and hierarchical techniques. The first leading line comes from the gap in the fingers, almost pointing to the secondary information.  
+## Question 4
+During the Concept Development and Sketching phase, the designer's approach is described as "exploratory." What does this suggest about the design process at this stage?
 
-![Second leading-line diagram: two red arrows follow an S-shaped gap between the fingers, both arrows converging toward the lower-right corner where a small grey rectangle (Transport for London logo) is placed.]()  
+A) Only one refined idea should be developed
+B) Multiple rough ideas should be generated for later refinement
+C) Final designs should be completed in this phase
+D) Client approval is required before proceeding
 
-The second leading line is also created by the gap in the fingers and is amplified by the thumbnail pointing towards the bottom-right corner and the Transport for London logo.  
+**Correct Answer: B**
 
----  
+**Explanation:** The case study explicitly states that this stage "focuses on generating multiple rough ideas to later refine." The exploratory nature emphasises breadth of ideas rather than depth of execution at this point.
 
-### COLOUR AND CONTRAST  
+## Question 5
+Which software tools are specifically mentioned for the Design Execution phase?
 
-![Colour-contrast swatch: a wide orange rectangle fills the frame except for a horizontal turquoise-blue band occupying the lower third, demonstrating complementary contrast of orange and blue.]()  
+A) Pinterest and Behance
+B) Microsoft Word and Excel
+C) Adobe Illustrator and Photoshop
+D) Sketch and Figma
 
-Contrast in the composition has been applied by utilising three simple colours. Blue and orange are complementary contrasting colours.  
+**Correct Answer: C**
 
-![Contrast-legibility diagram: solid orange rectangle with a central white text block and several smaller white bars lower right and lower left, highlighting legibility of white type on orange while secondary to the blue-orange contrast.]()  
+**Explanation:** The case study specifically names "Adobe Illustrator and Photoshop" as the industry-standard software used for digitising concepts and creating vector logos and packaging mockups.
 
-The contrast of white copy over a darker orange background could be improved but is high enough to be easily read whilst being secondary to the complementary contrast between the blue and orange.
+## Question 6
+What type of file format would most likely be included in the "AI" format mentioned in the final delivery?
 
+A) Artificial Intelligence data files
+B) Adobe Illustrator vector files
+C) Audio Interface files
+D) Animated Image files
+
+**Correct Answer: B**
+
+**Explanation:** In the context of graphic design deliverables, "AI" refers to Adobe Illustrator files, which are vector-based and allow for scalable logo and design elements. This aligns with the software mentioned earlier in the case study.
+
+## Question 7
+If a client requests "adjustments to the logo's typography" during the feedback phase, what aspect of the design are they asking to modify?
+
+A) The colour scheme of the logo
+B) The style and appearance of the text/lettering
+C) The symbolic imagery in the logo
+D) The size of the packaging
+
+**Correct Answer: B**
+
+**Explanation:** Typography refers to the style, arrangement, and appearance of text. When clients request typography adjustments, they're asking for changes to fonts, letter spacing, or text styling rather than other design elements.
+
+## Question 8
+Why is it important to show "how the branding works across different mediums" in the final presentation?
+
+A) To increase the project budget
+B) To demonstrate the versatility and consistency of the design system
+C) To extend project timelines
+D) To avoid client feedback
+
+**Correct Answer: B**
+
+**Explanation:** Showing designs across different mediums demonstrates that the branding is cohesive and functional whether applied to packaging, digital platforms, or other materials. This proves the design's versatility and professional application.
+
+## Question 9
+Based on the case study, which sequence best represents the correct order of the design process?
+
+A) Design Execution → Research → Client Feedback → Concept Development
+B) Research → Concept Development → Design Execution → Client Feedback
+C) Client Feedback → Research → Design Execution → Concept Development
+D) Concept Development → Client Feedback → Research → Design Execution
+
+**Correct Answer: B**
+
+**Explanation:** The case study presents the steps in order: Research and Inspiration Gathering (Step 2), Concept Development and Sketching (Step 3), Design Execution (Step 4), and Client Feedback and Revisions (Step 5). This follows the logical progression from exploration to refinement.
+
+## Question 10
+What distinguishes the "usage guidelines" mentioned in the final delivery from the design files themselves?
+
+A) Usage guidelines are less important than design files
+B) Usage guidelines explain how to properly implement and maintain brand consistency
+C) Usage guidelines are only needed for social media
+D) Usage guidelines replace the need for high-resolution files
+
+**Correct Answer: B**
+
+**Explanation:** Usage guidelines are documentation that explains how to correctly use the brand elements (logos, colours, typography) across different applications. They ensure brand consistency and proper implementation, complementing the actual design files rather than replacing them.
