@@ -237,6 +237,7 @@ class BatchProcessor:
         start_time = time.time()
         total_files = len(files)
         processed_files = 0
+        failed_files = 0
         
         # Process each file
         for i, file_path in enumerate(files):
@@ -321,6 +322,7 @@ class BatchProcessor:
                     error_msg = f"Error processing {os.path.basename(file_path)}: {str(e)}"
                     logger.error(error_msg)
                     self.batch_results[file_path] = "failed"
+                    failed_files += 1
                     self.parent.after(
                         0,
                         lambda msg=error_msg: messagebox.showerror(
@@ -357,6 +359,7 @@ class BatchProcessor:
                 error_msg = f"Error processing {os.path.basename(file_path)}: {str(e)}"
                 logger.error(error_msg)
                 self.batch_results[file_path] = "failed"
+                failed_files += 1
                 self.parent.after(
                     0,
                     lambda msg=error_msg: messagebox.showerror(
@@ -366,12 +369,28 @@ class BatchProcessor:
             
         # Update UI when done
         elapsed_time = time.time() - start_time
-        logger.info(f"Batch processing completed. Processed {processed_files} of {total_files} files in {elapsed_time:.2f}s. Failed: {total_files - processed_files}")
-        self.parent.after(0, lambda: self._update_batch_completed(processed_files, total_files))
-    
-    def _update_batch_completed(self, processed, total):
+        logger.info(
+            f"Batch processing completed. Processed {processed_files} of {total_files} files in {elapsed_time:.2f}s. Failed: {failed_files}"
+        )
+        self.parent.after(
+            0,
+            lambda: self._update_batch_completed(
+                processed_files,
+                total_files,
+                failed_files,
+            ),
+        )
+    def _update_batch_completed(self, processed, total, failed=0):
         """Update UI when batch processing is completed."""
-        self.status_var.set(f"Batch processing completed: {processed} of {total} files processed")
+        status_message = (
+            f"Batch processing completed: {processed} of {total} files processed"
+        )
+        if failed:
+            status_message += f" \u2013 {failed} failed"
+            self.status_label.config(foreground="red")
+        else:
+            self.status_label.config(foreground="black")
+        self.status_var.set(status_message)
         self.progress_var.set(100)  # Set to 100% even if some failed
         self.process_btn.config(state="normal")
         self.cancel_btn.config(state="disabled")
