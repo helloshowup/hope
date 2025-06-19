@@ -336,10 +336,17 @@ class SimplifiedContentGeneratorApp:
                 model in models}
             self.model_id_to_display = {model['id']: model['display_name'] for
                 model in models}
-            default_model = self.settings.get('selected_model', DEFAULT_MODEL)
-            default_display_name = self.model_id_to_display.get(default_model,
-                model_display_names[0])
+            forced_model_id = 'claude-3-7-sonnet-20250219'
+            default_display_name = self.model_id_to_display.get(
+                forced_model_id, 'Claude 3.7 Sonnet'
+            )
             self.model_var.set(default_display_name)
+            # ensure settings reflect the forced model
+            self.settings['selected_model'] = forced_model_id
+            self._log(
+                'Processing model forced to Claude 3.7 Sonnet during '
+                'initialization'
+            )
             default_initial_model = self.settings.get(
                 'initial_generation_model', 'claude-3-haiku-20240307')
             default_initial_display_name = self.model_id_to_display.get(
@@ -356,11 +363,16 @@ class SimplifiedContentGeneratorApp:
                 'claude-3-opus-20240229'}
             self.model_id_to_display = {v: k for k, v in self.
                 model_display_to_id.items()}
-            default_model = self.settings.get('selected_model',
-                'claude-3-7-sonnet-20250219')
-            default_display_name = self.model_id_to_display.get(default_model,
-                'Claude 3.7 Sonnet')
+            forced_model_id = 'claude-3-7-sonnet-20250219'
+            default_display_name = self.model_id_to_display.get(
+                forced_model_id, 'Claude 3.7 Sonnet'
+            )
             self.model_var.set(default_display_name)
+            self.settings['selected_model'] = forced_model_id
+            self._log(
+                'Processing model forced to Claude 3.7 Sonnet during '
+                'initialization (fallback)'
+            )
             default_initial_model = self.settings.get(
                 'initial_generation_model', 'claude-3-haiku-20240307')
             default_initial_display_name = self.model_id_to_display.get(
@@ -391,6 +403,10 @@ class SimplifiedContentGeneratorApp:
             )
         self.model_dropdown.bind('<<ComboboxSelected>>', self._on_model_changed
             )
+        self._log(
+            'Processing steps will always use Claude 3.7 Sonnet regardless of '
+            'UI selection'
+        )
         template_type_frame = ttk.Frame(template_settings_frame, style=
             'BG.TFrame')
         template_type_frame.pack(fill=tk.X, pady=5)
@@ -679,16 +695,21 @@ class SimplifiedContentGeneratorApp:
             if os.path.exists(self.settings_path):
                 with open(self.settings_path, 'r', encoding='utf-8') as f:
                     settings = json.load(f)
-                    return settings
             else:
-                default_settings = {'selected_model':
-                    'claude-3-7-sonnet-20250219',
+                settings = {
+                    'selected_model': 'claude-3-7-sonnet-20250219',
                     'initial_generation_model': 'claude-3-haiku-20240307',
-                    'generation_settings': {'max_tokens': 4000,
-                    'temperature': 0.5, 'word_count': 500}}
+                    'generation_settings': {
+                        'max_tokens': 4000,
+                        'temperature': 0.5,
+                        'word_count': 500,
+                    },
+                }
                 with open(self.settings_path, 'w', encoding='utf-8') as f:
-                    json.dump(default_settings, f, indent=2)
-                return default_settings
+                    json.dump(settings, f, indent=2)
+            # Force the processing model to Claude 3.7 Sonnet
+            settings['selected_model'] = 'claude-3-7-sonnet-20250219'
+            return settings
         except Exception as e:
             logger.error(f'Error loading settings: {str(e)}')
             return {}
@@ -696,6 +717,8 @@ class SimplifiedContentGeneratorApp:
     def _save_settings(self):
         """Save settings to settings file"""
         try:
+            # Always persist the processing model as Claude 3.7 Sonnet
+            self.settings['selected_model'] = 'claude-3-7-sonnet-20250219'
             with open(self.settings_path, 'w', encoding='utf-8') as f:
                 json.dump(self.settings, f, indent=2)
             logger.info(f'Settings saved successfully to {self.settings_path}')
@@ -704,17 +727,20 @@ class SimplifiedContentGeneratorApp:
 
     def _on_model_changed(self, event):
         """Handle model selection change."""
-        selected_display_name = self.model_var.get()
-        selected_model_id = self.model_display_to_id.get(selected_display_name)
-        if selected_model_id:
-            self.settings['selected_model'] = selected_model_id
-            self._save_settings()
-            self._log(
-                f'Changed API model to {selected_display_name} ({selected_model_id})'
-                )
-            logging.info(
-                f'User changed API model to {selected_display_name} ({selected_model_id})'
-                )
+        forced_display = self.model_id_to_display.get(
+            'claude-3-7-sonnet-20250219', 'Claude 3.7 Sonnet'
+        )
+        self.model_var.set(forced_display)
+        self.settings['selected_model'] = 'claude-3-7-sonnet-20250219'
+        self._save_settings()
+        self._log(
+            f'Model selection overridden to {forced_display} '
+            f'(claude-3-7-sonnet-20250219)'
+        )
+        logging.info(
+            f'Model override applied: {forced_display} '
+            f'(claude-3-7-sonnet-20250219)'
+        )
 
     def _on_initial_model_changed(self, event):
         """Handle initial generation model selection change."""
@@ -760,6 +786,11 @@ class SimplifiedContentGeneratorApp:
                     self._log(
                         f'Loaded template-specific settings for {len(self.template_settings)} templates'
                         )
+            # Ensure the processing model is always Claude 3.7 Sonnet
+            self.ui_settings['selected_model'] = 'claude-3-7-sonnet-20250219'
+            self._log(
+                'Selected model from settings overridden to Claude 3.7 Sonnet'
+            )
             self._log(
                 f'Loaded settings: {json.dumps(self.ui_settings, indent=2)}')
         except Exception as e:
@@ -788,6 +819,17 @@ class SimplifiedContentGeneratorApp:
         selected_model_display = self.model_var.get()
         selected_model = self.model_display_to_id.get(selected_model_display,
             '')
+        if selected_model != 'claude-3-7-sonnet-20250219':
+            forced_display = self.model_id_to_display.get(
+                'claude-3-7-sonnet-20250219', 'Claude 3.7 Sonnet'
+            )
+            self._log(
+                'Selected model overridden to Claude 3.7 Sonnet',
+                level='WARNING',
+            )
+            self.model_var.set(forced_display)
+            selected_model = 'claude-3-7-sonnet-20250219'
+        self.settings['selected_model'] = selected_model
         initial_model_display = self.initial_model_var.get()
         initial_model = self.model_display_to_id.get(initial_model_display, '')
         use_student_handbook = self.use_handbook_var.get()
@@ -818,6 +860,10 @@ class SimplifiedContentGeneratorApp:
             output_dir = 'output'
         self._ensure_output_dirs(output_dir)
         self._log(f'Using output directory: {output_dir}')
+        self._log(
+            'Processing steps will use Claude 3.7 Sonnet regardless of '
+            'saved settings'
+        )
         threading.Thread(target=self._run_generation, args=(
             selected_modules, None, use_student_handbook,
             student_handbook_path, output_dir), daemon=True).start()
@@ -849,10 +895,18 @@ class SimplifiedContentGeneratorApp:
                 self.word_count.get())
             updated_settings['generation_settings']['max_tokens'] = int(self
                 .token_limit.get())
-            selected_display_name = self.model_var.get()
-            selected_model_id = self.model_display_to_id.get(
-                selected_display_name, 'claude-3-7-sonnet-20250219')
-            updated_settings['selected_model'] = selected_model_id
+            forced_model_id = 'claude-3-7-sonnet-20250219'
+            forced_display = self.model_id_to_display.get(
+                forced_model_id, 'Claude 3.7 Sonnet'
+            )
+            if self.model_var.get() != forced_display:
+                self._log(
+                    'Processing model overridden to Claude 3.7 Sonnet',
+                    level='WARNING',
+                )
+                self.model_var.set(forced_display)
+            updated_settings['selected_model'] = forced_model_id
+            self.settings['selected_model'] = forced_model_id
             initial_model_display = self.initial_model_var.get()
             initial_model_id = self.model_display_to_id.get(
                 initial_model_display, 'claude-3-haiku-20240307')
