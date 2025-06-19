@@ -32,3 +32,5 @@ You can run the included unit tests locally with [pytest](https://docs.pytest.or
 ```bash
 pytest
 ```
+
+When Claude omits line-edit tags, the tool automatically falls back to diff-edit mode.

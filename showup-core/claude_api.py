@@ -1365,7 +1365,11 @@ def edit_markdown_with_claude(
                 )
 
         if not all_edits:
-            raise ValueError("Claude returned no edit tags or they did not parse")
+            logger.warning("No valid edit tags found - falling back to diff-edit mode")
+            diff_result = generate_with_claude_diff_edit(
+                prompt=instructions, original_content=markdown_text
+            )
+            return diff_result["edited_content"]
 
         # Sort edits in reverse order by line number to prevent line shifting issues
         # For insertions, sort by line_num; for replacements, sort by start_line

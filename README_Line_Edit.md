@@ -24,6 +24,6 @@ The returned content inside each tag should contain only the new markdown. Do no
 
 ## Failure Behaviour
 
-If no valid edit tags are found in the Claude reply, the API raises a `ValueError`. This prevents silent failures when the model produces unexpected output.
+If no valid edit tags are found in the Claude reply, the API falls back to diff-edit mode and logs a warning. This prevents silent failures when the model produces unexpected output.
 
 The raw reply is saved to `showup-core/logs/claude/raw/` before regex parsing to aid troubleshooting.
