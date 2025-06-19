@@ -1188,8 +1188,11 @@ def edit_markdown_with_claude(markdown_text, instructions, context="", model=Non
                 })
             else:
                 logger.warning(f"Invalid line range for replacement: {start_line}-{end_line}")
-        
-        
+
+
+        if not all_edits:
+            raise ValueError("Claude returned no edit tags or they did not parse")
+
         # Sort edits in reverse order by line number to prevent line shifting issues
         # For insertions, sort by line_num; for replacements, sort by start_line
         def get_sort_key(edit):
