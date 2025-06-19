@@ -1151,8 +1151,8 @@ def edit_markdown_with_claude(markdown_text, instructions, context="", model=Non
         logger.info("Received response from Claude, processing edits")
         
         # Process the response to extract edit instructions with new standardized format
-        insert_pattern = r'\[EDIT:INSERT:(\d+)\]([\s\S]*?)\[/EDIT\]'
-        replace_pattern = r'\[EDIT:REPLACE:(\d+)-(\d+)\]([\s\S]*?)\[/EDIT\]'
+        insert_pattern = r'\[EDIT\s*:\s*INSERT\s*:\s*(\d+)\s*\]([\s\S]*?)\[/\s*EDIT\s*\]'
+        replace_pattern = r'\[EDIT\s*:\s*REPLACE\s*:\s*(\d+)\s*-\s*(\d+)\s*\]([\s\S]*?)\[/\s*EDIT\s*\]'
         
         # For backwards compatibility, also support the old format
         old_insert_pattern = r'INSERT AFTER LINE (\d+):\s*```\s*([\s\S]*?)\s*```'
