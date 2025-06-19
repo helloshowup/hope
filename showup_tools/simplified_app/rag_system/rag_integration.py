@@ -18,7 +18,7 @@ from typing import Dict, Any, Optional
 # Import our RAG components
 from .token_counter import count_tokens
 from .cache_manager import cache
-from .textbook_vector_db import vector_db
+from .textbook_vector_db import get_vector_db
 
 # Configure logging
 logger = logging.getLogger(__name__)
@@ -105,12 +105,15 @@ async def generate_with_claude_rag(prompt: str,
                 # Read the handbook content
                 with open(handbook_path, 'r', encoding='utf-8') as f:
                     handbook_content = f.read()
-                
+
+                # Lazily obtain vector database instance
+                db = get_vector_db()
+
                 # Index the textbook if needed (will use cached index if unchanged)
-                await vector_db.index_textbook_async(handbook_content, textbook_id)
-                
+                await db.index_textbook_async(handbook_content, textbook_id)
+
                 # Query for relevant content
-                results = await vector_db.query_textbook_async(textbook_id, query, top_k=3)
+                results = await db.query_textbook_async(textbook_id, query, top_k=3)
                 
                 # Extract just the content from results
                 relevant_chunks = [r['content'] for r in results]

@@ -25,7 +25,7 @@ from showup_core.api_client import generate_with_claude
 # Import RAG system components
 from showup_tools.simplified_app.rag_system.token_counter import count_tokens
 from showup_tools.simplified_app.rag_system.cache_manager import cache
-from showup_tools.simplified_app.rag_system.textbook_vector_db import vector_db
+from showup_tools.simplified_app.rag_system.textbook_vector_db import get_vector_db
 import hashlib
 # Batch processing functionality removed as per requirement
 from .output_manager import save_as_markdown, create_output_directory, save_generation_summary, save_workflow_log
@@ -229,9 +229,12 @@ async def extract_student_handbook_information(content_outline: str, handbook_pa
             # Use the vector database to find relevant chunks
             # Create a textbook ID based on the path
             textbook_id = hashlib.md5(handbook_path.encode()).hexdigest()
-            
+
+            # Get vector DB instance lazily
+            db = get_vector_db()
+
             # Get relevant chunks from the vector database
-            relevant_chunks = vector_db.query_textbook(
+            relevant_chunks = db.query_textbook(
                 query=query_text,
                 textbook_id=textbook_id,
                 top_k=5  # Get top 5 most relevant chunks
