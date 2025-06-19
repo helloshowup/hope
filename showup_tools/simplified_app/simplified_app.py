@@ -709,6 +709,8 @@ class SimplifiedContentGeneratorApp:
                     json.dump(settings, f, indent=2)
             # Force the processing model to Claude 3.7 Sonnet
             settings['selected_model'] = 'claude-3-7-sonnet-20250219'
+            # Keep 'model' in sync for downstream modules
+            settings['model'] = settings['selected_model']
             return settings
         except Exception as e:
             logger.error(f'Error loading settings: {str(e)}')
@@ -719,6 +721,7 @@ class SimplifiedContentGeneratorApp:
         try:
             # Always persist the processing model as Claude 3.7 Sonnet
             self.settings['selected_model'] = 'claude-3-7-sonnet-20250219'
+            self.settings['model'] = self.settings['selected_model']
             with open(self.settings_path, 'w', encoding='utf-8') as f:
                 json.dump(self.settings, f, indent=2)
             logger.info(f'Settings saved successfully to {self.settings_path}')
@@ -732,6 +735,7 @@ class SimplifiedContentGeneratorApp:
         )
         self.model_var.set(forced_display)
         self.settings['selected_model'] = 'claude-3-7-sonnet-20250219'
+        self.settings['model'] = self.settings['selected_model']
         self._save_settings()
         self._log(
             f'Model selection overridden to {forced_display} '
@@ -788,6 +792,7 @@ class SimplifiedContentGeneratorApp:
                         )
             # Ensure the processing model is always Claude 3.7 Sonnet
             self.ui_settings['selected_model'] = 'claude-3-7-sonnet-20250219'
+            self.ui_settings['model'] = self.ui_settings['selected_model']
             self._log(
                 'Selected model from settings overridden to Claude 3.7 Sonnet'
             )
@@ -906,7 +911,9 @@ class SimplifiedContentGeneratorApp:
                 )
                 self.model_var.set(forced_display)
             updated_settings['selected_model'] = forced_model_id
+            updated_settings['model'] = forced_model_id
             self.settings['selected_model'] = forced_model_id
+            self.settings['model'] = forced_model_id
             initial_model_display = self.initial_model_var.get()
             initial_model_id = self.model_display_to_id.get(
                 initial_model_display, 'claude-3-haiku-20240307')
