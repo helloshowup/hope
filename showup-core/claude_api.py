@@ -1154,10 +1154,6 @@ def edit_markdown_with_claude(markdown_text, instructions, context="", model=Non
         insert_pattern = r'\[EDIT\s*:\s*INSERT\s*:\s*(\d+)\s*\]([\s\S]*?)\[/\s*EDIT\s*\]'
         replace_pattern = r'\[EDIT\s*:\s*REPLACE\s*:\s*(\d+)\s*-\s*(\d+)\s*\]([\s\S]*?)\[/\s*EDIT\s*\]'
         
-        # For backwards compatibility, also support the old format
-        old_insert_pattern = r'INSERT AFTER LINE (\d+):\s*```\s*([\s\S]*?)\s*```'
-        old_replace_pattern = r'REPLACE LINES (\d+)-(\d+) WITH:\s*```\s*([\s\S]*?)\s*```'
-        
         # Collect all edits first, then process them in reverse order to prevent line number shifts
         all_edits = []
         
@@ -1193,39 +1189,6 @@ def edit_markdown_with_claude(markdown_text, instructions, context="", model=Non
             else:
                 logger.warning(f"Invalid line range for replacement: {start_line}-{end_line}")
         
-        # Collect old format edits for backward compatibility (only if no new format edits found)
-        if not all_edits:
-            # Collect old format insertions
-            for match in re.finditer(old_insert_pattern, api_response, re.IGNORECASE):
-                line_num = int(match.group(1))
-                content = match.group(2).strip()
-                
-                if 1 <= line_num <= len(lines):
-                    all_edits.append({
-                        'type': 'insert',
-                        'line_num': line_num,
-                        'content': content,
-                        'format': 'old'
-                    })
-                else:
-                    logger.warning(f"Invalid line number for insertion: {line_num}")
-            
-            # Collect old format replacements
-            for match in re.finditer(old_replace_pattern, api_response, re.IGNORECASE):
-                start_line = int(match.group(1)) 
-                end_line = int(match.group(2))
-                content = match.group(3).strip()
-                
-                if 1 <= start_line <= len(lines) and 1 <= end_line <= len(lines):
-                    all_edits.append({
-                        'type': 'replace',
-                        'start_line': start_line,
-                        'end_line': end_line,
-                        'content': content,
-                        'format': 'old'
-                    })
-                else:
-                    logger.warning(f"Invalid line range for replacement: {start_line}-{end_line}")
         
         # Sort edits in reverse order by line number to prevent line shifting issues
         # For insertions, sort by line_num; for replacements, sort by start_line
