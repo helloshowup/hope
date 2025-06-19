@@ -1162,7 +1162,7 @@ def edit_markdown_with_claude(markdown_text, instructions, context="", model=Non
             logger.error(f"Error saving raw Claude response: {str(e)}")
         
         # Process the response to extract edit instructions with new standardized format
-        insert_pattern = r'\[EDIT\s*:\s*INSERT\s*:\s*(\d+)\s*\]([\s\S]*?)\[/\s*EDIT\s*\]'
+        insert_pattern  = r'\[EDIT\s*:\s*INSERT\s*:\s*(\d+)\s*\]([\s\S]*?)\[/\s*EDIT\s*\]'
         replace_pattern = r'\[EDIT\s*:\s*REPLACE\s*:\s*(\d+)\s*-\s*(\d+)\s*\]([\s\S]*?)\[/\s*EDIT\s*\]'
         
         # Collect all edits first, then process them in reverse order to prevent line number shifts
