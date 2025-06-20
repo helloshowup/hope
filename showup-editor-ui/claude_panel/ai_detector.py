@@ -7,6 +7,17 @@ from tkinter import ttk, messagebox, scrolledtext
 import logging
 import json
 import re
+
+try:
+    from nicegui import ui
+except Exception:  # pragma: no cover - optional dependency
+    class _DummyUI:
+        @staticmethod
+        def toast(*args, **kwargs):
+            pass
+
+    ui = _DummyUI()
+
 from .path_utils import get_project_root
 from showup_core.utils import cache_utils, claude_api
 from claude_api import CLAUDE_MODELS
@@ -20,7 +31,7 @@ detect_ai_content = claude_api.generate_with_claude_sonnet
 rewrite_ai_content = claude_api.generate_with_claude_diff_edit
 
 # Get logger
-logger = logging.getLogger("output_library_editor")
+logger = logging.getLogger("AIDetector")
 
 class AIDetector:
     """Handles AI detection functionality for the ClaudeAIPanel."""
@@ -563,13 +574,18 @@ class AIDetector:
             prompt = self._create_rewriting_prompt(detection_result)
             
             # Rewrite content using Claude's diff edit
-            rewritten_content = rewrite_ai_content(
-                prompt=prompt,
-                original_content=content,
-                system_prompt=self._get_system_prompt(),
-                model=CLAUDE_MODELS["CONTENT_EDIT"],
-                temperature=0.3
-            )["edited_content"]
+            try:
+                rewritten_content = rewrite_ai_content(
+                    prompt=prompt,
+                    original_content=content,
+                    system_prompt=self._get_system_prompt(),
+                    model=CLAUDE_MODELS["CONTENT_EDIT"],
+                    temperature=0.3,
+                )["edited_content"]
+            except Exception as e:
+                logger.error(f"Rewrite failed: {str(e)}")
+                ui.toast(f"Rewrite failed: {e}")
+                raise
             
             # Save original as backup
             from showup_core.file_utils import create_timestamped_backup
