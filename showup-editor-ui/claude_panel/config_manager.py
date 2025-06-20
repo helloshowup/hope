@@ -41,24 +41,37 @@ class ConfigManager:
         self.config = self._load_config()
     
     def _load_config(self):
-        """Load configuration from file or create with defaults if it doesn't exist"""
-        if os.path.exists(self.config_file):
-            try:
-                with open(self.config_file, 'r', encoding='utf-8') as f:
-                    config = json.load(f)
-                    # Ensure all required keys are present by updating with defaults
-                    for key, value in self.DEFAULT_CONFIG.items():
-                        if key not in config:
-                            config[key] = value
-                    return config
-            except Exception as e:
-                logger.error(f"Error loading config file: {str(e)}")
-                return self.DEFAULT_CONFIG.copy()
-        else:
-            # Create a new config file with defaults
+        """Load configuration from file or create with defaults if missing."""
+        try:
+            config = self.load_settings()
+        except FileNotFoundError:
             config = self.DEFAULT_CONFIG.copy()
             self._save_config(config)
-            return config
+        except Exception as e:  # noqa: BLE001 - log unexpected failures
+            logger.error(f"Error loading config file: {str(e)}")
+            config = self.DEFAULT_CONFIG.copy()
+
+        for key, value in self.DEFAULT_CONFIG.items():
+            if key not in config:
+                config[key] = value
+
+        return config
+
+    def load_settings(self) -> dict:
+        """Load settings while guarding against duplicate files."""
+        root_file = os.path.join(self.base_dir, "settings.json")
+        ui_file = os.path.join(self.base_dir, "showup-editor-ui", "settings.json")
+
+        existing = [p for p in (root_file, ui_file) if os.path.exists(p)]
+        if len(existing) > 1:
+            raise ValueError(
+                f"Duplicate settings.json files found: {existing[0]} and {existing[1]}"
+            )
+        if not existing:
+            raise FileNotFoundError("settings.json not found")
+
+        with open(existing[0], "r", encoding="utf-8") as f:
+            return json.load(f)
     
     def _save_config(self, config=None):
         """Save configuration to file"""
