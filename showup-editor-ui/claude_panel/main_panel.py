@@ -4,6 +4,7 @@ import os
 import sys
 import json
 import threading
+from pathlib import Path
 import tkinter as tk
 from tkinter import ttk, messagebox, filedialog, scrolledtext, simpledialog
 import logging
@@ -595,7 +596,12 @@ class ClaudeAIPanel(ttk.Frame):
         """Load system profiles from the learner_profile directory"""
         self.profiles = {}
         # Use the specified path for learner profiles
-        profile_dir = r"C:\Users\User\Documents\showup-v4\data\input\learner_profile"
+        showup_root = Path(
+            os.environ.get("SHOWUP_ROOT", Path.home() / ".showup")
+        )
+        profile_dir = str(
+            showup_root / "showup-library" / "Student personas"
+        )
         
         # Create profiles directory if it doesn't exist
         if not os.path.exists(profile_dir):
