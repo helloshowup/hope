@@ -9,6 +9,7 @@ import json
 import re
 from .path_utils import get_project_root
 from showup_core.utils import cache_utils, claude_api
+from claude_api import CLAUDE_MODELS
 
 # Get project root once for local file references
 project_root = get_project_root()
@@ -566,7 +567,7 @@ class AIDetector:
                 prompt=prompt,
                 original_content=content,
                 system_prompt=self._get_system_prompt(),
-                model="claude-opus-4-20250514",
+                model=CLAUDE_MODELS["CONTENT_EDIT"],
                 temperature=0.3
             )["edited_content"]
             
