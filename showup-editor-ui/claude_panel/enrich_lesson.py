@@ -326,6 +326,19 @@ class EnrichLessonPanel:
         except Exception as e:
             logging.error(f"Error loading settings: {e}")
 
+    def _ui_request_load_lesson(self):
+        """Load the currently selected lesson from the library tree."""
+        if not hasattr(self.parent_controller, "get_selected_files"):
+            messagebox.showerror("Error", "Library selection is unavailable.")
+            return
+
+        selected_files = self.parent_controller.get_selected_files()
+        if not selected_files:
+            messagebox.showinfo("No Selection", "Please select a lesson file first.")
+            return
+
+        self.load_current_lesson(selected_files[0])
+
     def select_handbook(self):
         """Opens a file dialog to select the handbook file."""
         path = filedialog.askopenfilename(
