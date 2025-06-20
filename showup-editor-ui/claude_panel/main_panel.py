@@ -847,11 +847,23 @@ class ClaudeAIPanel(ttk.Frame):
     
     def _on_file_select(self, event):
         """Handle selection of files in the tree."""
-        # This could update status bar or file details panel
         selected = self.file_tree.selection()
-        if selected:
-            # You can implement status updates here
-            pass
+        if not selected:
+            return
+
+        item_values = self.file_tree.item(selected[0], "values")
+        if not item_values or len(item_values) < 2:
+            return
+
+        file_path = item_values[0]
+        file_type = item_values[1]
+
+        if file_type != "directory" and os.path.isfile(file_path):
+            if file_path.endswith(".md") or file_path.endswith(".txt"):
+                try:
+                    self.enrich_lesson.load_current_lesson(file_path)
+                except Exception as exc:
+                    logger.error(f"Failed to load lesson for enrichment: {exc}")
     
     def _open_file(self, file_path):
         """Open a file in the appropriate panel."""
@@ -867,6 +879,10 @@ class ClaudeAIPanel(ttk.Frame):
                 # Open in the Markdown Editor tab by default
                 self.notebook.select(self.markdown_editor_tab)
                 self.markdown_editor.open_file(file_path)
+                try:
+                    self.enrich_lesson.load_current_lesson(file_path)
+                except Exception as exc:
+                    logger.error(f"Failed to load lesson for enrichment: {exc}")
                 logger.info(f"Opened file: {file_path}")
             else:
                 logger.warning(f"Unsupported file type: {ext}")
