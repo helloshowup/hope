@@ -597,7 +597,8 @@ class ClaudeAIPanel(ttk.Frame):
         self.profiles = {}
         # Use the specified path for learner profiles
         showup_root = Path(
-            os.environ.get("SHOWUP_ROOT", Path.home() / ".showup")
+            os.environ.get("SHOWUP_ROOT", get_project_root())
+
         )
         profile_dir = str(
             showup_root / "showup-library" / "Student personas"
