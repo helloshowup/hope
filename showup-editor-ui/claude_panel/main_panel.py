@@ -1815,6 +1815,15 @@ class ClaudeAIPanel(ttk.Frame):
                 # Open in the Markdown Editor tab by default
                 self.notebook.select(self.markdown_editor_tab)
                 self.markdown_editor.open_file(file_path)
+                try:
+                    # Also load the lesson into the Enrich panel so the
+                    # "Original Lesson Content" editor shows the file
+                    # contents immediately upon opening.
+                    self.enrich_lesson.load_current_lesson(file_path)
+                except Exception as exc:
+                    logger.error(
+                        f"Failed to load lesson for enrichment: {exc}",
+                    )
                 logger.info(f"Opened file: {file_path}")
             else:
                 logger.warning(f"Unsupported file type: {ext}")
@@ -1968,6 +1977,13 @@ class ClaudeAIPanel(ttk.Frame):
                 # Open in the Markdown Editor tab by default
                 self.notebook.select(self.markdown_editor_tab)
                 self.markdown_editor.open_file(file_path)
+                try:
+                    # Keep Enrich Lesson panel in sync when files are opened
+                    self.enrich_lesson.load_current_lesson(file_path)
+                except Exception as exc:
+                    logger.error(
+                        f"Failed to load lesson for enrichment: {exc}",
+                    )
                 logger.info(f"Opened file: {file_path}")
             else:
                 logger.warning(f"Unsupported file type: {ext}")
