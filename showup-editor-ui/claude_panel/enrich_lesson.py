@@ -21,7 +21,6 @@ from collections import Counter
 from typing import List, Optional
 import concurrent.futures
 import multiprocessing  # Added for ProcessPoolExecutor
-import queue
 
 # Import logging
 logger = logging.getLogger(__name__)
@@ -46,20 +45,21 @@ def _perform_handbook_indexing_subprocess(
     textbook_id: str,
     force_rebuild: bool = False,
     pythonpath: str = "",
-    progress_queue: Optional[multiprocessing.Queue] = None,
-) -> bool:
+) -> tuple[bool, list[tuple[str, int]]]:
     """Performs handbook indexing in a subprocess.
-    Instantiates ``TextbookVectorDB`` within the subprocess.
+    Instantiates ``TextbookVectorDB`` within the subprocess and returns
+    progress data.
 
     Args:
         handbook_content: The content of the handbook.
         textbook_id: The ID of the textbook.
         force_rebuild: If ``True``, rebuild the index even if cached data exists.
         pythonpath: ``PYTHONPATH`` to apply inside the subprocess.
-        progress_queue: Queue used to emit progress updates ``(stage, percent)``.
 
     Returns:
-        ``True`` if indexing was successful, ``False`` otherwise.
+        Tuple ``(success, progress_log)`` where ``success`` indicates whether
+        indexing completed and ``progress_log`` is a list of ``(stage, percent)``
+        tuples collected during execution.
 
     Raises:
         Exception: If any error occurs during indexing.
@@ -89,15 +89,13 @@ def _perform_handbook_indexing_subprocess(
         raise RuntimeError(f"Subprocess: TextbookVectorDB could not be imported or instantiated: {e_sub}") from e_sub
 
     print(f"[Subprocess] Starting index_textbook for {textbook_id}")
+    progress: list[tuple[str, int]] = []
+
     def subprocess_progress_callback(stage: str, percent: int) -> None:
         print(
             f"[Subprocess Indexing Progress] {textbook_id} - {stage}: {percent}%"
         )
-        if progress_queue is not None:
-            try:
-                progress_queue.put((stage, percent))
-            except Exception:
-                pass
+        progress.append((stage, percent))
 
     try:
         success = local_vector_db.index_textbook(
@@ -106,8 +104,10 @@ def _perform_handbook_indexing_subprocess(
             force_rebuild=force_rebuild,
             progress_callback=subprocess_progress_callback,
         )
-        logging.info(f"[Subprocess] index_textbook for {textbook_id} returned: {success}")
-        return success
+        logging.info(
+            f"[Subprocess] index_textbook for {textbook_id} returned: {success}"
+        )
+        return success, progress
     except Exception as e_idx:
         print(f"[Subprocess ERROR] Exception during textbook indexing for {textbook_id}: {e_idx}")
         raise
@@ -457,30 +457,23 @@ class EnrichLessonPanel:
                         "Indexing handbook (this may take a moment)...", busy=True
                     ),
                 )
-                progress_q: multiprocessing.Queue = multiprocessing.Queue()
                 future = self.executor.submit(
                     _perform_handbook_indexing_subprocess,
                     handbook_content,
                     self.textbook_id,
                     self.view.force_rebuild_var.get(),
                     os.environ.get("PYTHONPATH", ""),
-                    progress_q,
+                )
+                self.parent_controller.after(
+                    0,
+                    lambda: self.view.set_status(
+                        "Indexing handbook… (working)", busy=True
+                    ),
                 )
 
-                while True:
-                    try:
-                        stage, percent = progress_q.get(timeout=0.5)
-                        self.parent_controller.after(
-                            0,
-                            lambda s=stage, p=percent: self.view.set_status(
-                                f"{s} ({p}%)", busy=True
-                            ),
-                        )
-                    except queue.Empty:
-                        if future.done():
-                            break
-
-                indexing_success = future.result(timeout=600)
+                indexing_success, progress_log = future.result(timeout=600)
+                for stage, pct in progress_log:
+                    self.view.set_status(f"{stage} ({pct}%)", busy=True)
                 if not indexing_success:
                     raise RuntimeError(
                         "Handbook indexing process failed internally."
