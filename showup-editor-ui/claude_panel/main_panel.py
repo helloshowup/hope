@@ -846,6 +846,12 @@ class ClaudeAIPanel(ttk.Frame):
             self._open_file(file_path)
     
     def _on_file_select(self, event):
+        """Handle selection of files in the tree.
+
+        If a Markdown file is selected, load its contents into the
+        ``EnrichLessonPanel`` so the lesson appears in the "Original
+        Lesson Content" editor.
+        """
         """Handle selection of files in the tree."""
         selected = self.file_tree.selection()
         if not selected:
