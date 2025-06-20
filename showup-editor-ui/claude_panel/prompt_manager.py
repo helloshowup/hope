@@ -36,10 +36,10 @@ class PromptManager:
         # Use the prompt library path from config_manager
         self.prompts_dir = config_manager.get_setting("library_prompts_path")
         showup_root = Path(
-            os.environ.get("SHOWUP_ROOT", Path.home() / ".showup")
+            os.environ.get("SHOWUP_ROOT", get_project_root())
         )
         self.profiles_dir = str(
-            showup_root / "data" / "input" / "learner_profile"
+            showup_root / "showup-library" / "Student personas"
         )
         
         # Ensure prompt directory exists

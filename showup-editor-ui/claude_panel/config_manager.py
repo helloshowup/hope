@@ -20,7 +20,7 @@ class ConfigManager:
     
     # Default configuration values
     showup_root = Path(
-        os.environ.get("SHOWUP_ROOT", Path.home() / ".showup")
+        os.environ.get("SHOWUP_ROOT", get_project_root())
     )
 
     DEFAULT_CONFIG = {
