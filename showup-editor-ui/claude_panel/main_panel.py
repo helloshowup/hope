@@ -852,6 +852,7 @@ class ClaudeAIPanel(ttk.Frame):
         ``EnrichLessonPanel`` so the lesson appears in the "Original
         Lesson Content" editor.
         """
+        """Handle selection of files in the tree."""
         selected = self.file_tree.selection()
         if not selected:
             return
