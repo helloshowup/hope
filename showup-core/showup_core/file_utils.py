@@ -110,6 +110,47 @@ def safe_write_file(file_path: str, content: str, encoding: str = 'utf-8') -> Tu
         logger.error(f"Error writing to file {file_path}: {str(e)}")
         return False, f"Error writing to file: {str(e)}"
 
+
+def create_timestamped_backup(file_path: str, backup_dir: Optional[str] | None = None) -> Optional[str]:
+    """Create a timestamped backup of *file_path*.
+
+    The backup file name uses the pattern ``<file>.bak.<timestamp>``. If a file
+    with that name already exists, an incremental suffix (``_1``, ``_2`` ...) is
+    appended to ensure uniqueness.
+
+    Args:
+        file_path: Path to the file to back up.
+        backup_dir: Directory where the backup will be placed. Defaults to the
+            file's own directory.
+
+    Returns:
+        The full path to the created backup, or ``None`` if creation fails.
+    """
+
+    try:
+        if not os.path.exists(file_path):
+            return None
+
+        if backup_dir is None:
+            backup_dir = os.path.dirname(file_path)
+
+        ensure_directory_exists(backup_dir)
+
+        timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
+        base_name = f"{os.path.basename(file_path)}.bak.{timestamp}"
+        backup_path = os.path.join(backup_dir, base_name)
+        counter = 1
+        while os.path.exists(backup_path):
+            backup_path = os.path.join(backup_dir, f"{base_name}_{counter}")
+            counter += 1
+
+        shutil.copy2(file_path, backup_path)
+        logger.info(f"Created backup: {backup_path}")
+        return backup_path
+    except Exception as e:
+        logger.warning(f"Could not create backup: {str(e)}")
+        return None
+
 def fix_file_encoding(file_path: str, from_encodings: List[str] = None, to_encoding: str = 'utf-8') -> Tuple[bool, str]:
     """
     Fix encoding issues in an existing file by reading with one encoding and writing with another.
@@ -149,12 +190,7 @@ def fix_file_encoding(file_path: str, from_encodings: List[str] = None, to_encod
             return False, f"Unable to read file {file_path} with any of the specified encodings"
         
         # Create a backup before modifying
-        backup_path = f"{file_path}.bak"
-        try:
-            shutil.copy2(file_path, backup_path)
-            logger.info(f"Created backup of file at {backup_path}")
-        except Exception as e:
-            logger.warning(f"Could not create backup: {str(e)}")
+        create_timestamped_backup(file_path)
         
         # Write with the target encoding
         with open(file_path, 'w', encoding=to_encoding) as f:

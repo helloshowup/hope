@@ -413,8 +413,9 @@ class BatchProcessor:
                 # Save the enhanced content
                 if enhanced_content:
                     # Create backup file
-                    backup_path = file_path + ".bak"
-                    shutil.copy2(file_path, backup_path)
+                    from showup_core.file_utils import create_timestamped_backup
+
+                    create_timestamped_backup(file_path)
 
                     # Save the enhanced content over the original file
                     with open(file_path, "w", encoding="utf-8") as f:
