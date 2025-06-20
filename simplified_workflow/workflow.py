@@ -9,6 +9,7 @@ import os
 import datetime
 import asyncio
 from typing import Dict, List, Any, Optional
+import queue
 import uuid
 import json
 import concurrent.futures
@@ -283,8 +284,9 @@ async def extract_student_handbook_information(content_outline: str, handbook_pa
         logger.error(f"Error extracting handbook information: {str(e)}")
         return f"Error: {str(e)}"
 
-async def process_row_for_phase(row_data_item: Dict[str, Any], phase: str, csv_rows: List[Dict[str, str]], 
-                              output_dir: str, learner_profile: str, instance_id: str, ui_settings: Dict[str, Any]):
+async def process_row_for_phase(row_data_item: Dict[str, Any], phase: str, csv_rows: List[Dict[str, str]],
+                              output_dir: str, learner_profile: str, instance_id: str, ui_settings: Dict[str, Any],
+                              progress_queue: Optional[queue.Queue] = None):
     """
     Process a single row for a specific workflow phase.
     
@@ -296,6 +298,7 @@ async def process_row_for_phase(row_data_item: Dict[str, Any], phase: str, csv_r
         learner_profile: Description of the target learner
         instance_id: Instance identifier for managing event loops
         ui_settings: Dictionary with UI settings
+        progress_queue: Queue to send progress updates to the UI
         
     Returns:
         Updated row_data_item with phase-specific results
@@ -605,9 +608,13 @@ async def process_row_for_phase(row_data_item: Dict[str, Any], phase: str, csv_r
             try:
                 # Use threadpool for potentially CPU-intensive operations
                 with concurrent.futures.ThreadPoolExecutor() as pool:
+                    def _detect_wrapper(text: str) -> Dict[str, Any]:
+                        pass
+                        return detect_ai_patterns(text)
+
                     # Run AI detection in thread
                     detected_patterns_future = asyncio.get_event_loop().run_in_executor(
-                        pool, detect_ai_patterns, reviewed_content
+                        pool, _detect_wrapper, reviewed_content
                     )
                     
                     # Await the detection result
@@ -622,8 +629,12 @@ async def process_row_for_phase(row_data_item: Dict[str, Any], phase: str, csv_r
                     # Since edit_content is an async function, call it directly
                     # Pass UI settings to ensure token limit is respected
                     edit_result = await edit_content(
-                        reviewed_content, detected_patterns, learner_profile, ui_settings
+                        reviewed_content,
+                        detected_patterns,
+                        learner_profile,
+                        ui_settings,
                     )
+                    pass
                     
                     # Unpack the result tuple
                     final_content, editing_explanation = edit_result
@@ -711,7 +722,8 @@ async def main(csv_path: str,
               selected_modules: Optional[List[str]] = None,
               instance_id: str = "default",
               workflow_phase: Optional[str] = None,
-              output_dir: str = "output") -> Dict[str, Any]:
+              output_dir: str = "output",
+              progress_queue: Optional[queue.Queue] = None) -> Dict[str, Any]:
     """
     Main workflow function.
     
@@ -723,6 +735,7 @@ async def main(csv_path: str,
         selected_modules: Optional list of module names to process (if None, process all)
         instance_id: Instance identifier for managing event loops
         workflow_phase: Optional phase to execute (options: "generate", "compare", "review", "finalize", or None for all phases)
+        progress_queue: Queue to send progress updates to the UI
         
     Returns:
         Dictionary with summary of processed items
@@ -893,10 +906,15 @@ async def main(csv_path: str,
         logger.info(f"DIAGNOSTIC: Starting workflow with phases: {phases_to_run}")
         
         # Process each row through the required phases sequentially
-        logger.info(f"Processing {len(row_data)} rows through phases: {', '.join(phases_to_run)}")
-        
+        logger.info(
+            f"Processing {len(row_data)} rows through phases: {', '.join(phases_to_run)}"
+        )
+
         # Dictionary to track results by row
         results_by_row = {}
+
+        total_tasks = len(row_data) * len(phases_to_run)
+        completed_tasks = 0
         
         for i, row_data_item in enumerate(row_data):
             row_index = row_data_item["row_index"]
@@ -918,7 +936,8 @@ async def main(csv_path: str,
                         output_dir,
                         learner_profile,
                         instance_id,
-                        ui_settings
+                        ui_settings,
+                        progress_queue,
                     )
                     
                     # Track completed phases
@@ -945,8 +964,17 @@ async def main(csv_path: str,
                         break
                     
                     # Log phase completion for this row
-                    phase_duration = (datetime.datetime.now() - phase_start_time).total_seconds()
-                    logger.info(f"Completed phase {phase} for {step_info} in {phase_duration:.2f} seconds")
+                    phase_duration = (
+                        datetime.datetime.now() - phase_start_time
+                    ).total_seconds()
+                    logger.info(
+                        f"Completed phase {phase} for {step_info} in {phase_duration:.2f} seconds"
+                    )
+
+                    completed_tasks += 1
+                    if progress_queue is not None:
+                        progress = int(completed_tasks / total_tasks * 100)
+                        progress_queue.put(progress)
                     
                 except Exception as e:
                     logger.error(f"Error processing phase {phase} for {step_info}: {str(e)}")
@@ -964,6 +992,12 @@ async def main(csv_path: str,
                     
                     # Store the error in row_data_item for reference
                     row_data_item["error"] = str(e)
+
+                    completed_tasks += 1
+                    if progress_queue is not None:
+                        progress = int(completed_tasks / total_tasks * 100)
+                        progress_queue.put(progress)
+
                     break  # Don't proceed to next phase if there was an error
             
             # Update summary with results for this row
@@ -1101,13 +1135,26 @@ def run_workflow(csv_path: str, course_name: str, learner_profile: str,
                 selected_modules: Optional[List[str]] = None,
                 instance_id: str = "default",
                 workflow_phase: Optional[str] = None,
-                output_dir: str = "output") -> Dict[str, Any]:
+                output_dir: str = "output",
+                progress_queue: Optional[queue.Queue] = None) -> Dict[str, Any]:
     """
     Alias for main function with instance_id parameter.
     """
     try:
         # Use asyncio.run to properly await the result of the main coroutine
-        result = asyncio.run(main(csv_path, course_name, learner_profile, ui_settings, selected_modules, instance_id, workflow_phase, output_dir))
+        result = asyncio.run(
+            main(
+                csv_path,
+                course_name,
+                learner_profile,
+                ui_settings,
+                selected_modules,
+                instance_id,
+                workflow_phase,
+                output_dir,
+                progress_queue,
+            )
+        )
         
         # Ensure result is a dictionary to prevent 'coroutine' object has no attribute 'get' error
         if not isinstance(result, dict):
@@ -1167,9 +1214,10 @@ if __name__ == "__main__":
     
     # Run the workflow
     asyncio.run(main(
-        args.csv_path, 
-        args.course_name, 
+        args.csv_path,
+        args.course_name,
         args.learner_profile,
-        selected_modules=args.modules, 
-        workflow_phase=args.phase
+        selected_modules=args.modules,
+        workflow_phase=args.phase,
+        progress_queue=None,
     ))

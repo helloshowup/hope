@@ -149,6 +149,7 @@ class SimplifiedContentGeneratorApp:
         self.bg_color = '#fdf6d3'
         self.root.configure(bg=self.bg_color)
         self.log_queue = queue.Queue()
+        self.progress_queue = queue.Queue()
         self.log_update_interval = 100
         self.instance_id = instance_id
         self.csv_file_path = None
@@ -869,9 +870,12 @@ class SimplifiedContentGeneratorApp:
             'Processing steps will use Claude 3.7 Sonnet regardless of '
             'saved settings'
         )
-        threading.Thread(target=self._run_generation, args=(
-            selected_modules, None, use_student_handbook,
-            student_handbook_path, output_dir), daemon=True).start()
+        threading.Thread(
+            target=self._run_generation,
+            args=(selected_modules, None, use_student_handbook, student_handbook_path, output_dir),
+            daemon=True,
+        ).start()
+        self._monitor_progress()
 
     def _run_generation(self, selected_modules=None, workflow_phase=None,
         use_student_handbook=False, student_handbook_path='', output_dir=
@@ -940,12 +944,17 @@ class SimplifiedContentGeneratorApp:
             self._log(f"Using model: {updated_settings['selected_model']}")
             self._log('DEBUG: About to call run_workflow', level='DEBUG')
             try:
-                workflow_result = run_workflow(csv_path=csv_path_to_use,
-                    course_name=self.course_name.get(), learner_profile=
-                    self.learner_profile, ui_settings=updated_settings,
-                    selected_modules=selected_modules, instance_id=self.
-                    instance_id, workflow_phase=workflow_phase, output_dir=
-                    output_dir)
+                workflow_result = run_workflow(
+                    csv_path=csv_path_to_use,
+                    course_name=self.course_name.get(),
+                    learner_profile=self.learner_profile,
+                    ui_settings=updated_settings,
+                    selected_modules=selected_modules,
+                    instance_id=self.instance_id,
+                    workflow_phase=workflow_phase,
+                    output_dir=output_dir,
+                    progress_queue=self.progress_queue,
+                )
                 self._log(
                     f'DEBUG: workflow_result type: {type(workflow_result).__name__}'
                     , level='DEBUG')
@@ -1210,6 +1219,21 @@ class SimplifiedContentGeneratorApp:
             except queue.Empty:
                 break
         self.root.after(self.log_update_interval, self._update_log_display)
+
+    def _monitor_progress(self):
+        """Monitor progress updates from worker threads"""
+        def _loop():
+            import time
+            while self.generation_running or not self.progress_queue.empty():
+                try:
+                    value = self.progress_queue.get_nowait()
+                    self.root.after(0, lambda v=value: self._update_progress(v))
+                    self.progress_queue.task_done()
+                except queue.Empty:
+                    pass
+                time.sleep(0.1)
+
+        threading.Thread(target=_loop, daemon=True).start()
 
     def __del__(self):
         """Clean up resources when the application is closed"""
