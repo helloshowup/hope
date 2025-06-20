@@ -233,9 +233,9 @@ class MarkdownTools:
                         content = f.read()
                     
                     # Make a backup copy
-                    backup_path = file_path + ".bak"
-                    with open(backup_path, 'w', encoding='utf-8') as f:
-                        f.write(content)
+                    from showup_core.file_utils import create_timestamped_backup
+
+                    backup_path = create_timestamped_backup(file_path)
                     
                     # Apply each selected tool
                     modified = False

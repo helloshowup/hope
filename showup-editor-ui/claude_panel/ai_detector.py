@@ -7,30 +7,15 @@ from tkinter import ttk, messagebox, scrolledtext
 import logging
 import json
 import re
-from importlib.util import spec_from_file_location, module_from_spec
 from .path_utils import get_project_root
+from showup_core.utils import cache_utils, claude_api
+from claude_api import CLAUDE_MODELS
 
-# Path to cache_utils.py in the root directory
+# Get project root once for local file references
 project_root = get_project_root()
-cache_utils_path = os.path.join(str(project_root), 'cache_utils.py')
 
-# Import cache_utils.py dynamically
-spec = spec_from_file_location('cache_utils', cache_utils_path)
-cache_utils = module_from_spec(spec)
-spec.loader.exec_module(cache_utils)
-
-# Get the required function
+# Alias commonly used functions
 get_cache_instance = cache_utils.get_cache_instance
-
-# Import Claude API functionality from the showup-core directory
-claude_api_path = os.path.join(str(project_root), 'showup-core', 'claude_api.py')
-
-# Import claude_api.py dynamically
-spec = spec_from_file_location('claude_api', claude_api_path)
-claude_api = module_from_spec(spec)
-spec.loader.exec_module(claude_api)
-
-# Get the required functions
 detect_ai_content = claude_api.generate_with_claude_sonnet
 rewrite_ai_content = claude_api.generate_with_claude_diff_edit
 
@@ -582,14 +567,14 @@ class AIDetector:
                 prompt=prompt,
                 original_content=content,
                 system_prompt=self._get_system_prompt(),
-                model="claude-opus-4-20250514",
+                model=CLAUDE_MODELS["CONTENT_EDIT"],
                 temperature=0.3
             )["edited_content"]
             
             # Save original as backup
-            backup_path = file_path + ".bak"
-            with open(backup_path, 'w', encoding='utf-8') as f:
-                f.write(content)
+            from showup_core.file_utils import create_timestamped_backup
+
+            backup_path = create_timestamped_backup(file_path)
             
             # Save rewritten content
             with open(file_path, 'w', encoding='utf-8') as f:

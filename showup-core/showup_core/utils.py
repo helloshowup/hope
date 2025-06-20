@@ -9,6 +9,9 @@ import importlib
 import logging
 from typing import Any, List
 
+import claude_api
+import cache_utils
+
 logger = logging.getLogger("utils")
 
 def check_dependencies(required_modules: List[str] = None) -> List[str]:

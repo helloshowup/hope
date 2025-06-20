@@ -9,6 +9,7 @@ import logging
 import requests
 import time
 import datetime
+from pathlib import Path
 from dotenv import load_dotenv
 from .path_utils import get_project_root
 
@@ -34,7 +35,12 @@ class PromptManager:
         self.parent = parent
         # Use the prompt library path from config_manager
         self.prompts_dir = config_manager.get_setting("library_prompts_path")
-        self.profiles_dir = r"C:\Users\User\Documents\showup-v4\data\input\learner_profile"
+        showup_root = Path(
+            os.environ.get("SHOWUP_ROOT", Path.home() / ".showup")
+        )
+        self.profiles_dir = str(
+            showup_root / "data" / "input" / "learner_profile"
+        )
         
         # Ensure prompt directory exists
         if not os.path.exists(self.prompts_dir):

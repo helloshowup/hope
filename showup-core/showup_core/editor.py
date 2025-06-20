@@ -9,6 +9,7 @@ import os
 import logging
 import shutil
 from datetime import datetime
+from .file_utils import create_timestamped_backup
 
 # Set up logging
 logger = logging.getLogger('claude_editor')
@@ -180,26 +181,13 @@ class ClaudeEditor:
     def _create_backup(self, file_path):
         """Create a backup of a file before modifying it."""
         try:
-            # Get relative path
+            # Get relative path to maintain directory structure inside backup_dir
             rel_path = os.path.relpath(file_path, self.base_dir)
-            
-            # Create timestamp
-            timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-            
-            # Create backup filename
-            backup_filename = f"{os.path.basename(file_path)}.{timestamp}.bak"
-            
-            # Create backup directory structure
+
             backup_dir = os.path.join(self.backup_dir, os.path.dirname(rel_path))
             os.makedirs(backup_dir, exist_ok=True)
-            
-            # Create backup path
-            backup_path = os.path.join(backup_dir, backup_filename)
-            
-            # Copy file to backup
-            shutil.copy2(file_path, backup_path)
-            
-            logger.info(f"Created backup: {backup_path}")
+
+            backup_path = create_timestamped_backup(file_path, backup_dir)
             return backup_path
         except Exception as e:
             logger.error(f"Error creating backup: {str(e)}")
