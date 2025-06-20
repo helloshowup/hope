@@ -4,7 +4,6 @@ import logging
 import os
 import concurrent.futures
 import multiprocessing
-import queue
 # We will need to import TextbookVectorDB
 
 logger = logging.getLogger(__name__)
@@ -35,33 +34,27 @@ class HandbookIndexer:
         # This method will manage the subprocess for indexing.
         # The progress_callback would be for the main process to update UI.
         logger.info(f"Submitting handbook indexing for '{textbook_id}' to subprocess.")
-        progress_q: multiprocessing.Queue = multiprocessing.Queue()
         future = self.process_executor.submit(
             _perform_handbook_indexing_subprocess,
             handbook_content,
             textbook_id,
             False,
             os.environ.get("PYTHONPATH", ""),
-            progress_q,
         )
         
         try:
-            while True:
-                try:
-                    stage, percent = progress_q.get(timeout=0.5)
-                    if progress_callback:
-                        progress_callback(stage, percent)
-                except queue.Empty:
-                    if future.done():
-                        break
-
-            indexing_success = future.result(timeout=600)  # 10 min timeout
+            indexing_success, progress_log = future.result(timeout=600)  # 10 min timeout
+            for stage, pct in progress_log:
+                if progress_callback:
+                    progress_callback(stage, pct)
             if indexing_success:
                 logger.info(f"Handbook '{textbook_id}' indexed successfully via subprocess.")
-                if progress_callback: progress_callback(f"Handbook '{textbook_id}' indexed.", 70)
+                if progress_callback:
+                    progress_callback(f"Handbook '{textbook_id}' indexed.", 70)
             else:
                 logger.error(f"Handbook indexing for '{textbook_id}' failed in subprocess.")
-                if progress_callback: progress_callback(f"Failed to index '{textbook_id}'.", 0)
+                if progress_callback:
+                    progress_callback(f"Failed to index '{textbook_id}'.", 0)
             return indexing_success
         except concurrent.futures.TimeoutError:
             logger.error(f"Handbook indexing for '{textbook_id}' timed out.")

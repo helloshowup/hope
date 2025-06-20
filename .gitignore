@@ -166,4 +166,6 @@ showup-core/logs/claude/
 showup-library/
 showup-editor-ui/logs/
 showup-library/library/
-showup-library/library/EvalatED/
+showup-library/library/EvalatED/vector_cache/
+
+vector_cache/
