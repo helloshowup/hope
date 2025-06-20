@@ -365,8 +365,9 @@ class FullDocRegenerator:
                 # Save the regenerated content
                 if regenerated_content:
                     # Create backup file
-                    backup_path = file_path + ".bak"
-                    shutil.copy2(file_path, backup_path)
+                    from showup_core.file_utils import create_timestamped_backup
+
+                    create_timestamped_backup(file_path)
                     
                     # Save the regenerated content over the original file
                     with open(file_path, 'w', encoding='utf-8') as f:

@@ -378,16 +378,10 @@ class FileRenamerPanel:
                 try:
                     # Create backup if requested
                     if create_backup:
+                        from showup_core.file_utils import create_timestamped_backup
+
                         backup_dir = os.path.join(os.path.dirname(original_path), "_backups")
-                        if not os.path.exists(backup_dir):
-                            os.makedirs(backup_dir)
-                            
-                        timestamp = datetime.now().strftime("%Y%m%d%H%M%S")
-                        basename = os.path.basename(original_path)
-                        backup_path = os.path.join(backup_dir, f"{timestamp}_{basename}")
-                        
-                        shutil.copy2(original_path, backup_path)
-                        logger.info(f"Created backup: {backup_path}")
+                        create_timestamped_backup(original_path, backup_dir)
                     
                     # Rename the file
                     os.rename(original_path, new_path)

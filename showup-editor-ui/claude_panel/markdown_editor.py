@@ -189,10 +189,9 @@ class MarkdownEditor:
             
             # Create backup of original file
             if os.path.exists(self.current_file_path):
-                backup_path = self.current_file_path + ".bak"
-                import shutil
-                shutil.copy2(self.current_file_path, backup_path)
-                logger.info(f"Created backup: {backup_path}")
+                from showup_core.file_utils import create_timestamped_backup
+
+                create_timestamped_backup(self.current_file_path)
             
             # Save content to file
             with open(self.current_file_path, "w", encoding="utf-8") as f:
