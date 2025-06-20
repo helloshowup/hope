@@ -161,8 +161,16 @@ class EnrichLessonView(ttk.Frame):
         control_frame = ttk.Frame(main_frame)
         control_frame.pack(fill="x", pady=5)
 
-        self.enrich_button = ttk.Button(control_frame, text="Enrich Content", command=self.controller.enrich_content)
+        self.enrich_button = ttk.Button(
+            control_frame,
+            text="Enrich Content",
+            command=self.controller.enrich_content,
+            state="disabled",
+        )
         self.enrich_button.pack(side="left", padx=(0, 5))
+
+        # Enable/disable enrich button based on presence of original content
+        self.original_content_text.bind("<<Modified>>", self._on_original_text_modified)
 
         self.apply_button = ttk.Button(control_frame, text="Apply to Lesson", command=self.controller.apply_enrichment_to_lesson)
         self.apply_button.pack(side="left", padx=5)
@@ -194,6 +202,19 @@ class EnrichLessonView(ttk.Frame):
         self.progress_bar.stop()
         self.progress_bar.pack_forget()
 
+    def _update_enrich_button_state(self) -> None:
+        """Enable or disable enrich button based on original content."""
+        if self.get_original_content():
+            self.enrich_button.config(state="normal")
+        else:
+            self.enrich_button.config(state="disabled")
+
+    def _on_original_text_modified(self, event=None) -> None:
+        """Callback to update button state when original text changes."""
+        self._update_enrich_button_state()
+        if event:
+            self.original_content_text.edit_modified(False)
+
     def set_status(self, message, busy=False):
         """Updates the status label and progress bar."""
         self.status_label_var.set(f"Status: {message}")
@@ -202,7 +223,7 @@ class EnrichLessonView(ttk.Frame):
             self.enrich_button.config(state="disabled")
         else:
             self.hide_progress_bar()
-            self.enrich_button.config(state="normal")
+            self._update_enrich_button_state()
         self.parent_frame.update_idletasks()
 
     def get_original_content(self):
@@ -225,6 +246,7 @@ class EnrichLessonView(ttk.Frame):
         self.original_content_text.delete("1.0", tk.END)
         if content:
             self.original_content_text.insert("1.0", content)
+        self._update_enrich_button_state()
 
     def set_handbook_path(self, path):
         """Sets the handbook path in the entry field."""
