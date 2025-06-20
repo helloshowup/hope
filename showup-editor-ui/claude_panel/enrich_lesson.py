@@ -327,17 +327,23 @@ class EnrichLessonPanel:
             logging.error(f"Error loading settings: {e}")
 
     def _ui_request_load_lesson(self):
-        """Load the currently selected lesson from the library tree."""
-        if not hasattr(self.parent_controller, "get_selected_files"):
-            messagebox.showerror("Error", "Library selection is unavailable.")
-            return
+        """Load the lesson currently selected in the editor or library."""
+        path = self.current_file_path or self.markdown_editor.current_file_path
+        if path:
+            self.load_current_lesson(path)
+        else:
+            messagebox.showinfo(
+                "No file",
+                "Select a lesson in the Library pane first.",
+            )
 
-        selected_files = self.parent_controller.get_selected_files()
-        if not selected_files:
-            messagebox.showinfo("No Selection", "Please select a lesson file first.")
-            return
+    def _ui_request_enrich_content(self):
+        """Start the enrichment process from the UI."""
+        self.enrich_content()
 
-        self.load_current_lesson(selected_files[0])
+    def _ui_request_submit_to_api(self):
+        """Apply enriched content back to the main editor from the UI."""
+        self.apply_enrichment_to_lesson()
 
     def select_handbook(self):
         """Opens a file dialog to select the handbook file."""
