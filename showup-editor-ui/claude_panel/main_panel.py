@@ -1785,12 +1785,21 @@ class ClaudeAIPanel(ttk.Frame):
             self._open_file(file_path)
     
     def _on_file_select(self, event):
-        """Handle selection of files in the tree."""
-        # This could update status bar or file details panel
+        """Load the selected file into the Enrich Lesson panel."""
         selected = self.file_tree.selection()
-        if selected:
-            # You can implement status updates here
-            pass
+        if not selected:
+            return
+
+        item_id = selected[0]
+        item_values = self.file_tree.item(item_id, "values")
+        if not item_values:
+            return
+
+        path = item_values[0]
+        try:
+            self.enrich_lesson.load_current_lesson(path)
+        except Exception as exc:
+            logger.error(f"Failed to load lesson for enrichment: {exc}")
     
     def _open_file(self, file_path):
         """Open a file in the appropriate panel."""
@@ -1929,12 +1938,21 @@ class ClaudeAIPanel(ttk.Frame):
             self._open_file(file_path)
     
     def _on_file_select(self, event):
-        """Handle selection of files in the tree."""
-        # This could update status bar or file details panel
+        """Load the selected file into the Enrich Lesson panel."""
         selected = self.file_tree.selection()
-        if selected:
-            # You can implement status updates here
-            pass
+        if not selected:
+            return
+
+        item_id = selected[0]
+        item_values = self.file_tree.item(item_id, "values")
+        if not item_values:
+            return
+
+        path = item_values[0]
+        try:
+            self.enrich_lesson.load_current_lesson(path)
+        except Exception as exc:
+            logger.error(f"Failed to load lesson for enrichment: {exc}")
     
     def _open_file(self, file_path):
         """Open a file in the appropriate panel."""
