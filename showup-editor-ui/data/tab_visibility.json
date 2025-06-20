@@ -1,10 +1,13 @@
 {
   "hidden_tabs": [
+    4,
     6,
     8,
     10,
+    12,
     13,
-    14
+    14,
+    15
   ],
   "tab_names": {
     "0": "Prompt Config",
