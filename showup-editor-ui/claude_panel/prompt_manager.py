@@ -39,7 +39,7 @@ class PromptManager:
             os.environ.get("SHOWUP_ROOT", Path.home() / ".showup")
         )
         self.profiles_dir = str(
-            showup_root / "data" / "input" / "learner_profile"
+            showup_root / "showup-library" / "Student personas"
         )
         
         # Ensure prompt directory exists
