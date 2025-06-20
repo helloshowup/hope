@@ -9,6 +9,7 @@ Handles loading, saving, and accessing application settings
 import os
 import json
 import logging
+from pathlib import Path
 from .path_utils import get_project_root
 
 # Get logger
@@ -18,11 +19,17 @@ class ConfigManager:
     """Manages application configuration settings"""
     
     # Default configuration values
+    showup_root = Path(
+        os.environ.get("SHOWUP_ROOT", Path.home() / ".showup")
+    )
+
     DEFAULT_CONFIG = {
-        "library_path": os.path.join(os.path.expanduser("~"), "Documents", "showup-v4", "showup-library", "library"),
+        "library_path": str(showup_root / "showup-library" / "library"),
         "recent_files": [],
         "recent_projects": [],
-        "library_prompts_path": "C:\\Users\\User\\Documents\\showup-v4\\showup-library\\prompts",
+        "library_prompts_path": str(
+            showup_root / "showup-library" / "prompts"
+        ),
     }
     
     def __init__(self):
