@@ -368,8 +368,14 @@ class EnrichLessonPanel:
         try:
             with open(file_path, "r", encoding="utf-8", errors='ignore') as f:
                 self.current_lesson_content = f.read()
-            
-            self.current_file_path = file_path
+
+            normalized_path = os.path.normpath(file_path)
+            self.current_file_path = normalized_path
+            if hasattr(self.parent_controller, "set_path_field"):
+                try:
+                    self.parent_controller.set_path_field(normalized_path)
+                except Exception as e:
+                    logging.error(f"Error syncing path field: {e}")
             self.view.original_content_text.delete("1.0", tk.END)
             self.view.original_content_text.insert("1.0", self.current_lesson_content)
             self.view.set_status(f"Loaded: {os.path.basename(file_path)}")
