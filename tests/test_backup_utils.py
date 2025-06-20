@@ -46,3 +46,18 @@ def test_backup_increment(tmp_path, monkeypatch):
     assert second_path.name == "sample.txt.bak.20240101_000000_1"
     assert first_path.exists()
     assert second_path.exists()
+
+
+def test_backup_custom_dir(tmp_path, monkeypatch):
+    file = tmp_path / "file.txt"
+    file.write_text("x")
+    backup_dir = tmp_path / "b"
+
+    path_utils = importlib.import_module("claude_panel.path_utils")
+    monkeypatch.setattr(path_utils, "get_project_root", lambda: tmp_path)
+    monkeypatch.setattr(file_utils.datetime, "datetime", FrozenDatetime)
+
+    backup_path = file_utils.create_timestamped_backup(str(file), str(backup_dir))
+
+    assert Path(backup_path).parent == backup_dir
+    assert Path(backup_path).name == "file.txt.bak.20240101_000000"
