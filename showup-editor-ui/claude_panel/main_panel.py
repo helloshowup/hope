@@ -59,7 +59,7 @@ class ClaudeAIPanel(ttk.Frame):
         
         # Initialize profile variables
         self.profiles = {}
-        self.profiles_dropdown_var = tk.StringVar()
+        self.profiles_dropdown_var = tk.StringVar(master=self)
         
         # Initialize ttk style object
         self.style = ttk.Style()
@@ -220,13 +220,34 @@ class ClaudeAIPanel(ttk.Frame):
         
     def _setup_library_panel(self):
         """Set up the library panel on the left side with file browser."""
-        # Create a scrollable frame for the library panel
-        self._library_scroll_frame, self.library_label_frame = self._create_scrollable_frame(
-            self.library_frame, "Library Files"
-        )
+        try:
+            result = self._create_scrollable_frame(
+                self.library_frame, "Library Files"
+            )
+        except ValueError as exc:
+            logger.error("Failed to create library scroll frame: %s", exc)
+            result = None
+
+        if result:
+            self._library_scroll_frame, self.library_label_frame = result
+        else:
+            # Fallback: create a basic non-scrollable frame to avoid crashes
+            self._library_scroll_frame = ttk.Frame(self.library_frame)
+            self._library_scroll_frame.pack(fill="both", expand=True)
+            self.library_label_frame = ttk.LabelFrame(
+                self._library_scroll_frame, text="Library Files"
+            )
+            self.library_label_frame.pack(fill="both", expand=True, padx=5, pady=5)
 
     def _create_scrollable_frame(self, parent, label_text):
-        """Create a scrollable frame with a label frame inside."""
+        """Create a scrollable frame with a label frame inside.
+
+        Returns a tuple of ``(scroll_area, label_frame)`` or raises ``ValueError``
+        if ``parent`` is not provided.
+        """
+        if parent is None:
+            raise ValueError("parent frame must be provided")
+
         scroll_container = ttk.Frame(parent)
         scroll_container.pack(fill="both", expand=True)
 
@@ -265,7 +286,9 @@ class ClaudeAIPanel(ttk.Frame):
         ttk.Label(self.library_path_frame, text="Library Root:").pack(side="left", padx=2, pady=2)
         
         # Get the library path from config
-        self.library_path_var = tk.StringVar(value=config_manager.get_library_path())
+        self.library_path_var = tk.StringVar(
+            master=self, value=config_manager.get_library_path()
+        )
         self.library_path_entry = ttk.Entry(self.library_path_frame, textvariable=self.library_path_var)
         self.library_path_entry.pack(side="left", fill="x", expand=True, padx=2, pady=2)
         
@@ -286,7 +309,9 @@ class ClaudeAIPanel(ttk.Frame):
         ttk.Label(self.prompt_path_frame, text="Prompt Library Root:").pack(side="left", padx=2, pady=2)
         
         # Get the prompt library path from config
-        self.prompt_path_var = tk.StringVar(value=config_manager.get_setting("library_prompts_path"))
+        self.prompt_path_var = tk.StringVar(
+            master=self, value=config_manager.get_setting("library_prompts_path")
+        )
         self.prompt_path_entry = ttk.Entry(self.prompt_path_frame, textvariable=self.prompt_path_var)
         self.prompt_path_entry.pack(side="left", fill="x", expand=True, padx=2, pady=2)
         
@@ -307,7 +332,9 @@ class ClaudeAIPanel(ttk.Frame):
         ttk.Label(self.persona_path_frame, text="Persona Library Root:").pack(side="left", padx=2, pady=2)
 
         # Get persona library path from user config
-        self.persona_path_var = tk.StringVar(value=user_config.get_setting("persona_library_root", ""))
+        self.persona_path_var = tk.StringVar(
+            master=self, value=user_config.get_setting("persona_library_root", "")
+        )
         self.persona_path_entry = ttk.Entry(self.persona_path_frame, textvariable=self.persona_path_var)
         self.persona_path_entry.pack(side="left", fill="x", expand=True, padx=2, pady=2)
 
@@ -343,7 +370,7 @@ class ClaudeAIPanel(ttk.Frame):
         self.search_label = ttk.Label(self.search_frame, text="Search:")
         self.search_label.pack(side="left", padx=2)
         
-        self.search_var = tk.StringVar()
+        self.search_var = tk.StringVar(master=self)
         self.search_entry = ttk.Entry(self.search_frame, textvariable=self.search_var)
         self.search_entry.pack(side="left", fill="x", expand=True, padx=2)
         self.search_var.trace("w", self._filter_library)
@@ -426,6 +453,8 @@ class ClaudeAIPanel(ttk.Frame):
         
         # Initialize library
         self._populate_library()
+
+        return self._library_scroll_frame, self.library_label_frame
 
     def _populate_library(self, directory=None):
         """Populate the library tree with files and folders."""
