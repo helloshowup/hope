@@ -14,6 +14,7 @@ from .path_utils import get_project_root
 
 # Import config manager
 from .config_manager import config_manager
+from . import user_config
 
 # Internal modules
 from .prompt_manager import PromptManager
@@ -263,6 +264,34 @@ class ClaudeAIPanel(ttk.Frame):
         self.save_prompt_path_button = ttk.Button(self.prompt_path_frame, text="Save", width=8,
                                         command=self._save_prompt_path)
         self.save_prompt_path_button.pack(side="left", padx=2, pady=2)
+
+        # Add persona library path configuration frame
+        self.persona_path_frame = ttk.Frame(self.library_label_frame)
+        self.persona_path_frame.pack(fill="x", padx=5, pady=2)
+
+        ttk.Label(self.persona_path_frame, text="Persona Library Root:").pack(side="left", padx=2, pady=2)
+
+        # Get persona library path from user config
+        self.persona_path_var = tk.StringVar(value=user_config.get_setting("persona_library_root", ""))
+        self.persona_path_entry = ttk.Entry(self.persona_path_frame, textvariable=self.persona_path_var)
+        self.persona_path_entry.pack(side="left", fill="x", expand=True, padx=2, pady=2)
+
+        # Browse and save buttons for persona path
+        self.persona_browse_button = ttk.Button(
+            self.persona_path_frame,
+            text="Browse",
+            width=8,
+            command=self._browse_persona_path,
+        )
+        self.persona_browse_button.pack(side="left", padx=2, pady=2)
+
+        self.save_persona_path_button = ttk.Button(
+            self.persona_path_frame,
+            text="Save",
+            width=8,
+            command=self._save_persona_path,
+        )
+        self.save_persona_path_button.pack(side="left", padx=2, pady=2)
         
         # Add refresh button frame
         refresh_frame = ttk.Frame(self.library_label_frame)
@@ -591,6 +620,33 @@ class ClaudeAIPanel(ttk.Frame):
         else:
             messagebox.showerror("Configuration Error", "Failed to save library path configuration.")
             return False
+
+    def _browse_persona_path(self, show_dialog: bool = False):
+        """Browse for a persona library directory."""
+        current_path = self.persona_path_var.get()
+        start_dir = current_path if os.path.exists(current_path) else os.path.expanduser("~")
+        new_path = filedialog.askdirectory(initialdir=start_dir, title="Select Persona Library Directory")
+        if new_path:
+            self.persona_path_var.set(new_path)
+            if show_dialog:
+                return self._save_persona_path()
+            return True
+        return False
+
+    def _save_persona_path(self):
+        """Persist the persona library path to user config."""
+        new_path = self.persona_path_var.get()
+        if not os.path.exists(new_path):
+            try:
+                os.makedirs(new_path)
+                logger.info(f"Created persona library directory: {new_path}")
+            except Exception as e:  # noqa: BLE001 - show user error
+                logger.error(f"Cannot create persona library directory: {str(e)}")
+                messagebox.showerror("Invalid Path", f"The specified path does not exist and could not be created:\n{new_path}")
+                return False
+        user_config.set_setting("persona_library_root", new_path)
+        self.update_status(f"Persona library path updated to: {new_path}")
+        return True
         
     def _load_profiles(self):
         """Load system profiles from the learner_profile directory"""
