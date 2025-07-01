@@ -4,6 +4,14 @@ REM  Launch Modular Editor – self-healing environment
 REM ───────────────────────────────────────────────────────────────
 setlocal EnableDelayedExpansion
 
+REM ► Ensure SHOWUP_CONFIG_DIR is defined
+if not defined SHOWUP_CONFIG_DIR (
+    set "SHOWUP_CONFIG_DIR=%USERPROFILE%\.showup_editor"
+)
+if not exist "%SHOWUP_CONFIG_DIR%" (
+    mkdir "%SHOWUP_CONFIG_DIR%"
+)
+
 REM ► Project root (one dir up from this script)
 set "PROJECT_ROOT=%~dp0.."
 
