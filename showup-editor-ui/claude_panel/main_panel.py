@@ -220,8 +220,36 @@ class ClaudeAIPanel(ttk.Frame):
         
     def _setup_library_panel(self):
         """Set up the library panel on the left side with file browser."""
-        # Create label frame for library
-        self.library_label_frame = ttk.LabelFrame(self.library_frame, text="Library Files")
+        # Wrap library widgets in a scrollable canvas so buttons remain visible
+        scroll_container = ttk.Frame(self.library_frame)
+        scroll_container.pack(fill="both", expand=True)
+
+        canvas = tk.Canvas(scroll_container, highlightthickness=0)
+        y_scroll = ttk.Scrollbar(
+            scroll_container, orient="vertical", command=canvas.yview
+        )
+        canvas.configure(yscrollcommand=y_scroll.set)
+        y_scroll.pack(side="right", fill="y")
+        canvas.pack(side="left", fill="both", expand=True)
+
+        self._library_scroll_frame = ttk.Frame(canvas)
+        window_id = canvas.create_window(
+            (0, 0), window=self._library_scroll_frame, anchor="nw"
+        )
+
+        def _configure_scroll(event):
+            canvas.configure(scrollregion=canvas.bbox("all"))
+
+        def _resize_canvas(event):
+            canvas.itemconfigure(window_id, width=event.width)
+
+        self._library_scroll_frame.bind("<Configure>", _configure_scroll)
+        canvas.bind("<Configure>", _resize_canvas)
+
+        # Create label frame for library inside scroll frame
+        self.library_label_frame = ttk.LabelFrame(
+            self._library_scroll_frame, text="Library Files"
+        )
         self.library_label_frame.pack(fill="both", expand=True, padx=5, pady=5)
         
         # Add library path configuration frame
@@ -360,21 +388,31 @@ class ClaudeAIPanel(ttk.Frame):
         self.new_folder_btn.pack(side="left", padx=2, pady=2)
         self.delete_btn.pack(side="left", padx=2, pady=2)
         
-        # Batch operations frame
-        self.batch_ops_frame = ttk.LabelFrame(self.library_frame, text="Batch Operations")
+        # Batch operations frame inside scroll area
+        self.batch_ops_frame = ttk.LabelFrame(
+            self._library_scroll_frame, text="Batch Operations"
+        )
         self.batch_ops_frame.pack(fill="x", padx=5, pady=5)
         
         # Create a frame for batch buttons
         batch_buttons_frame = ttk.Frame(self.batch_ops_frame)
         batch_buttons_frame.pack(fill="x", padx=5, pady=5)
         
-        self.send_to_batch_btn = ttk.Button(batch_buttons_frame, text="Send to Line Edit", 
-                                          command=self._send_to_batch_edit)
+        self.send_to_batch_btn = ttk.Button(
+            batch_buttons_frame,
+            text="Send to Line Edit",
+            command=self._send_to_batch_edit,
+        )
         self.send_to_batch_btn.pack(side="left", padx=5, fill="x", expand=True)
-        
-        self.send_to_full_regen_btn = ttk.Button(batch_buttons_frame, text="Send to Full Regen", 
-                                          command=self._send_to_full_regen)
-        self.send_to_full_regen_btn.pack(side="left", padx=5, fill="x", expand=True)
+
+        self.send_to_full_regen_btn = ttk.Button(
+            batch_buttons_frame,
+            text="Send to Full Regen",
+            command=self._send_to_full_regen,
+        )
+        self.send_to_full_regen_btn.pack(
+            side="left", padx=5, fill="x", expand=True
+        )
         
         # Bind events
         self.file_tree.bind("<Double-1>", self._on_file_double_click)

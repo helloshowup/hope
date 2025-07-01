@@ -65,7 +65,14 @@ def test_prepopulate_from_config(monkeypatch, tmp_path):
             created["value"] = value
 
     monkeypatch.setattr(mp_module.tk, "StringVar", DummyStringVar)
-    monkeypatch.setattr(mp_module.ttk, "Frame", lambda *a, **k: types.SimpleNamespace(pack=lambda *a, **k: None))
+    monkeypatch.setattr(
+        mp_module.ttk,
+        "Frame",
+        lambda *a, **k: types.SimpleNamespace(
+            pack=lambda *a, **k: None,
+            bind=lambda *a, **k: None,
+        ),
+    )
     monkeypatch.setattr(mp_module.ttk, "LabelFrame", lambda *a, **k: types.SimpleNamespace(pack=lambda *a, **k: None))
     monkeypatch.setattr(mp_module.ttk, "Label", lambda *a, **k: types.SimpleNamespace(pack=lambda *a, **k: None))
     monkeypatch.setattr(mp_module.ttk, "Entry", lambda *a, **k: types.SimpleNamespace(pack=lambda *a, **k: None))
@@ -80,6 +87,19 @@ def test_prepopulate_from_config(monkeypatch, tmp_path):
         xview=lambda *a, **k: None,
     ))
     monkeypatch.setattr(mp_module.ttk, "Scrollbar", lambda *a, **k: types.SimpleNamespace(pack=lambda *a, **k: None, set=lambda *a, **k: None))
+    monkeypatch.setattr(
+        mp_module.tk,
+        "Canvas",
+        lambda *a, **k: types.SimpleNamespace(
+            bind=lambda *a, **k: None,
+            configure=lambda *a, **k: None,
+            pack=lambda *a, **k: None,
+            create_window=lambda *a, **k: 1,
+            itemconfigure=lambda *a, **k: None,
+            bbox=lambda *a, **k: (0, 0, 0, 0),
+            yview=lambda *a, **k: None,
+        ),
+    )
     monkeypatch.setattr(mp_module.ClaudeAIPanel, "_browse_library_path", lambda *a, **k: True)
     monkeypatch.setattr(mp_module.ClaudeAIPanel, "_save_library_path", lambda *a, **k: True)
     monkeypatch.setattr(mp_module.ClaudeAIPanel, "_browse_prompt_path", lambda *a, **k: True)
