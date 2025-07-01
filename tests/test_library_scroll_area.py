@@ -30,14 +30,13 @@ def panel(tmp_path, monkeypatch):
     )
 
     import tkinter as tk
+    from unittest.mock import MagicMock
 
-    try:
-        root = tk.Tk()
-    except tk.TclError:
-        pytest.skip("Tk display required")
-    root.geometry("800x800")
+    root = MagicMock()
+    root.geometry = MagicMock()
+    root.update_idletasks = MagicMock()
+    root.destroy = MagicMock()
     panel = mp_module.ClaudeAIPanel(root, root)
-    root.update_idletasks()
     yield panel
     root.destroy()
 
