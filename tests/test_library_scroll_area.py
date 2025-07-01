@@ -15,7 +15,7 @@ def panel(tmp_path, monkeypatch):
     )
     dummy = types.ModuleType("claude_panel")
     dummy.__path__ = [str(claude_dir)]
-    sys.modules.setdefault("claude_panel", dummy)
+    monkeypatch.setitem(sys.modules, "claude_panel", dummy)
 
     mp_module = importlib.import_module("claude_panel.main_panel")
     monkeypatch.setattr(
