@@ -225,7 +225,7 @@ class ClaudeAIPanel(ttk.Frame):
                 self.library_frame, "Library Files"
             )
         except ValueError as exc:
-            logger.error("Failed to create library scroll frame: %s", exc)
+            logger.error("Failed to create library scroll frame: %s", exc, exc_info=True)
             result = None
 
         if result:
