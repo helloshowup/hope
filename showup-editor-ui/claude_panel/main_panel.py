@@ -11,6 +11,7 @@ import logging
 import shutil
 import subprocess
 from .path_utils import get_project_root
+from showup_editor import get_persona_library_root
 
 # Import config manager
 from .config_manager import config_manager
@@ -651,14 +652,12 @@ class ClaudeAIPanel(ttk.Frame):
     def _load_profiles(self):
         """Load system profiles from the learner_profile directory"""
         self.profiles = {}
-        # Use the specified path for learner profiles
-        showup_root = Path(
-            os.environ.get("SHOWUP_ROOT", get_project_root())
-
-        )
-        profile_dir = str(
-            showup_root / "showup-library" / "Student personas"
-        )
+        # Use the configured persona library root
+        try:
+            profile_dir = str(get_persona_library_root())
+        except ValueError:
+            logger.error("Persona library path not configured")
+            return
         
         # Create profiles directory if it doesn't exist
         if not os.path.exists(profile_dir):

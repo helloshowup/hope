@@ -12,6 +12,7 @@ import datetime
 from pathlib import Path
 from dotenv import load_dotenv
 from .path_utils import get_project_root
+from showup_editor import get_persona_library_root
 
 # Import config manager
 from .config_manager import config_manager
@@ -35,18 +36,19 @@ class PromptManager:
         self.parent = parent
         # Use the prompt library path from config_manager
         self.prompts_dir = config_manager.get_setting("library_prompts_path")
-        showup_root = Path(
-            os.environ.get("SHOWUP_ROOT", get_project_root())
-        )
-        self.profiles_dir = str(
-            showup_root / "showup-library" / "Student personas"
-        )
+        try:
+            self.profiles_dir = str(get_persona_library_root())
+        except ValueError:
+            logger.error("Persona library path not configured")
+            self.profiles_dir = ""
         
         # Ensure prompt directory exists
         if not os.path.exists(self.prompts_dir):
             os.makedirs(self.prompts_dir, exist_ok=True)
             logger.info(f"Created prompts directory: {self.prompts_dir}")
-        os.makedirs(self.profiles_dir, exist_ok=True)
+
+        if self.profiles_dir:
+            os.makedirs(self.profiles_dir, exist_ok=True)
         
         # Initialize variables
         self.prompts = {}
