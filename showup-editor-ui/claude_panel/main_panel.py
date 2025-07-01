@@ -220,8 +220,14 @@ class ClaudeAIPanel(ttk.Frame):
         
     def _setup_library_panel(self):
         """Set up the library panel on the left side with file browser."""
-        # Wrap library widgets in a scrollable canvas so buttons remain visible
-        scroll_container = ttk.Frame(self.library_frame)
+        # Create a scrollable frame for the library panel
+        self._library_scroll_frame, self.library_label_frame = self._create_scrollable_frame(
+            self.library_frame, "Library Files"
+        )
+
+    def _create_scrollable_frame(self, parent, label_text):
+        """Create a scrollable frame with a label frame inside."""
+        scroll_container = ttk.Frame(parent)
         scroll_container.pack(fill="both", expand=True)
 
         canvas = tk.Canvas(scroll_container, highlightthickness=0)
