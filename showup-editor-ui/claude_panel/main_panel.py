@@ -1902,6 +1902,12 @@ class ClaudeAIPanel(ttk.Frame):
             return
 
         path = item_values[0]
+        item_type = item_values[1] if len(item_values) > 1 else ""
+
+        # Only attempt to load files
+        if item_type == "directory" or not os.path.isfile(path):
+            return
+
         try:
             self.enrich_lesson.load_current_lesson(path)
         except Exception as exc:
@@ -2064,6 +2070,12 @@ class ClaudeAIPanel(ttk.Frame):
             return
 
         path = item_values[0]
+        item_type = item_values[1] if len(item_values) > 1 else ""
+
+        # Only attempt to load files
+        if item_type == "directory" or not os.path.isfile(path):
+            return
+
         try:
             self.enrich_lesson.load_current_lesson(path)
         except Exception as exc:
