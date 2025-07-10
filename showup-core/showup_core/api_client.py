@@ -17,6 +17,14 @@ from showup_editor_ui.claude_panel.path_utils import get_project_root
 from .model_config import DEFAULT_MODEL, DEFAULT_CONTEXT_MODEL
 
 try:
+    import aiohttp
+except ImportError:
+    logging.getLogger("api_client").error(
+        "aiohttp is required but not installed. Install it via 'pip install aiohttp'."
+    )
+    raise
+
+try:
     from .api_utils import (
         prepare_api_params,
         extract_response_content,
@@ -434,7 +442,6 @@ async def generate_with_claude(prompt: str, max_tokens: int = 4000, temperature:
     api_start_time = time.time()
     try:
         # Use aiohttp for async HTTP requests
-        import aiohttp
         async with aiohttp.ClientSession() as session:
             async with session.post(
                 "https://api.anthropic.com/v1/messages",
