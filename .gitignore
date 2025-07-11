@@ -11,3 +11,13 @@
  
 /showup-core/logs
 .env
+/__pycache__
+/showup-core/__pycache__
+/showup-core/claude_api/__pycache__
+/showup-core/showup_core/__pycache__
+/showup-core/showup_core/core/__pycache__
+/showup-core/venv
+/showup-editor-ui/claude_cache
+/showup-editor-ui/claude_panel/__pycache__
+/showup-editor-ui/logs
+/showup-editor-ui/vector_cache
