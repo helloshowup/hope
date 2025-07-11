@@ -128,6 +128,11 @@ def extract_variables(row: Dict[str, str], course_name: str, learner_profile: st
         "step_title": row.get("Step title", ""),
         "template_type": row.get("Template Type", "")
     }
+
+    # Optional per-row word count override
+    target_word_count = row.get("Target_Word_Count", "").strip()
+    if target_word_count:
+        variables["target_word_count"] = target_word_count
     
     # Replace any non-breaking hyphens (‑) with regular hyphens to avoid encoding issues in console output
     safe_step_title = variables['step_title'].replace('‑', '-')

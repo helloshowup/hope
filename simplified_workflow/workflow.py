@@ -13,6 +13,7 @@ import queue
 import uuid
 import json
 import concurrent.futures
+import copy
 
 # Import from other modules
 from .csv_processor import read_csv, extract_variables, get_output_path
@@ -860,8 +861,24 @@ async def main(csv_path: str,
                 # 1. Extract variables
                 add_log_entry("Extract Variables", "started", f"Extracting variables for {step_info}")
                 variables = extract_variables(row, course_name, learner_profile)
-                # Add UI settings to variables
-                variables['ui_settings'] = ui_settings
+
+                # Prepare per-row UI settings (deep copy to avoid mutations)
+                row_settings = copy.deepcopy(ui_settings)
+                gen_settings = row_settings.setdefault("generation_settings", {})
+
+                # Override word count if Target_Word_Count is provided
+                target_wc = variables.get("target_word_count") or row.get("Target_Word_Count", "").strip()
+                if target_wc:
+                    try:
+                        word_count = int(target_wc)
+                        gen_settings["word_count"] = word_count
+                        gen_settings["character_limit"] = word_count
+                    except ValueError:
+                        logger.warning(
+                            f"Invalid Target_Word_Count '{target_wc}' for {step_info}. Using default."
+                        )
+
+                variables['ui_settings'] = row_settings
                 add_log_entry("Extract Variables", "completed", "Variables extracted successfully")
                 
                 # 2. Build context
