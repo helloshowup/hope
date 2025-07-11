@@ -24,3 +24,12 @@
 /showup-library
 /showup_tools/fb526d1c
 /showup_tools/simplified_app/__pycache__
+/showup_tools/simplified_app/logs
+/simplified_workflow/__pycache__
+/showup_tools/simplified_app/rag_system
+/showup_tools/simplified_app/temp
+/showup_tools/simplified_app/output
+/showup_tools/data/vector_cache
+/showup_tools/__pycache__
+/showup_editor_ui/__pycache__
+/showup_editor/__pycache__
